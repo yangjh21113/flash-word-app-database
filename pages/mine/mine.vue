@@ -39,7 +39,7 @@
 					:class="{ active: mode === 'fast' }"
 					@click="switchMode('fast')"
 				>
-					<view class="mode-icon"><i class="ri-flashlight-line"></i></view>
+					<view class="mode-icon"><i class="mode-ico ri-flashlight-line"></i></view>
 					<text class="mode-name">快速模式</text>
 					<text class="mode-desc">点卡翻页，无限循环</text>
 					<view class="mode-check" v-if="mode === 'fast'"></view>
@@ -49,7 +49,7 @@
 					:class="{ active: mode === 'deep' }"
 					@click="switchMode('deep')"
 				>
-					<view class="mode-icon"><i class="ri-book-open-line"></i></view>
+					<view class="mode-icon"><i class="mode-ico ri-book-open-line"></i></view>
 					<text class="mode-name">深度记忆</text>
 					<text class="mode-desc">标记认识/不认识</text>
 					<view class="mode-check" v-if="mode === 'deep'"></view>
@@ -90,9 +90,9 @@ const todayNotebook = ref(0)
 const mode = ref('deep')
 
 const menus = ref([
-	{ name: '生词本', action: 'notebook', icon: 'ri-edit-line', badge: '' },
-	{ name: '设置', action: 'settings', icon: 'ri-settings-3-line', badge: '' },
-	{ name: '关于', action: 'about', icon: 'ri-information-line', badge: '' },
+	{ name: '生词本', action: 'notebook', icon: 'ri-edit-line' },
+	{ name: '设置', action: 'settings', icon: 'ri-settings-3-line' },
+	{ name: '关于', action: 'about', icon: 'ri-information-line' },
 ])
 
 onMounted(() => {
@@ -104,19 +104,16 @@ onMounted(() => {
 })
 
 onShow(() => {
+	const saved = uni.getStorageSync('studyMode')
+	if (saved === 'fast' || saved === 'deep') {
+		mode.value = saved
+	}
 	loadStats()
 })
 
 const loadStats = () => {
 	studyDays.value = getStudyDays()
 	todayNotebook.value = getTodayNotebookCount()
-	menus.value = menus.value.map(item => {
-		if (item.action === 'notebook') {
-			const total = getNotebook().length
-			item.badge = total > 0 ? `${total}` : ''
-		}
-		return item
-	})
 }
 
 const switchMode = (m) => {
@@ -128,6 +125,8 @@ const switchMode = (m) => {
 const handleMenu = (item) => {
 	if (item.action === 'notebook') {
 		uni.navigateTo({ url: '/pages/notebook/notebook' })
+	} else if (item.action === 'about') {
+		uni.navigateTo({ url: '/pages/about/about' })
 	} else {
 		uni.showToast({ title: `${item.name}（开发中）`, icon: 'none' })
 	}
@@ -157,7 +156,7 @@ const handleProfile = () => {
 .avatar {
 	width: 82rpx;
 	height: 82rpx;
-	border-radius: 10px;
+	border-radius: 50%;
 }
 
 .profile-info {
@@ -268,7 +267,7 @@ const handleProfile = () => {
 	justify-content: center;
 }
 
-.mode-icon i {
+.mode-ico {
 	font-size: 48rpx;
 }
 
@@ -375,7 +374,7 @@ const handleProfile = () => {
 <style>
 /* 图标定义 — 非 scoped，确保 ::before 能匹配 */
 .section-icon,
-.mode-icon i,
+.mode-ico,
 .menu-icon,
 .menu-arrow {
 	font-family: "remixicon";

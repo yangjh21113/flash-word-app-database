@@ -29,13 +29,19 @@
 			"style": {
 				"navigationBarTitleText": "生词本"
 			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "关于"
+			}
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "white",
+		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "闪词卡",
-		"navigationBarBackgroundColor": "#6380e8",
-		"backgroundColor": "#F5F5F5"
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FAFAFA"
 	},
 	"tabBar": {
 		"color": "#999999",
