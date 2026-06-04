@@ -56,7 +56,7 @@ const markMaster = (item) => {
 
 <style scoped>
 .container {
-	background-color: #F5F5F5;
+	background-color: #fafafa;
 	min-height: 100vh;
 	padding: 32rpx;
 }

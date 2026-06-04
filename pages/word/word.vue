@@ -168,7 +168,7 @@ const markUnknown = () => {
 	height: 100vh;
 	padding: 32rpx;
 	box-sizing: border-box;
-	background-color: #F5F5F5;
+	background-color: #fafafa;
 }
 
 .header-row {
@@ -227,7 +227,7 @@ const markUnknown = () => {
 	align-items: center;
 	justify-content: center;
 	background-color: #FFFFFF;
-	border-radius: 4px;
+	border-radius: 10px;
 	box-shadow: 0 2px 8px rgba(99, 128, 232, 0.08);
 	padding: 48rpx;
 	box-sizing: border-box;
@@ -274,7 +274,7 @@ const markUnknown = () => {
 
 .example {
 	width: 100%;
-	background-color: #F5F5F5;
+	background-color: #fafafa;
 	padding: 24rpx;
 	border-radius: 4px;
 }

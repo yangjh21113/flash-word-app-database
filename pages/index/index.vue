@@ -106,7 +106,7 @@ const goDetail = (item) => {
 <style scoped>
 .container {
 	padding: 0 32rpx;
-	background-color: #F5F5F5;
+	background-color: #fafafa;
 	min-height: 100vh;
 }
 
