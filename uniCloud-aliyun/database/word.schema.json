@@ -1,0 +1,51 @@
+{
+	"required": ["library_id", "word", "meaning"],
+	"properties": {
+		"_id": {},
+		"library_id": {
+			"type": "string",
+			"description": "关联词库ID"
+		},
+		"word": {
+			"type": "string",
+			"description": "单词拼写"
+		},
+		"phonetic_us": {
+			"type": "string",
+			"description": "美式音标"
+		},
+		"phonetic_uk": {
+			"type": "string",
+			"description": "英式音标"
+		},
+		"pos": {
+			"type": "array",
+			"description": "词性列表"
+		},
+		"meaning": {
+			"type": "object",
+			"description": "中英文释义"
+		},
+		"roots": {
+			"type": "object",
+			"description": "词根词源"
+		},
+		"examples": {
+			"type": "array",
+			"description": "例句列表"
+		},
+		"tags": {
+			"type": "array",
+			"description": "标签"
+		},
+		"sort": {
+			"type": "number",
+			"description": "排序权重"
+		},
+		"created_at": {
+			"type": "string",
+			"description": "创建时间"
+		}
+	},
+	"version": "0.0.1"
+}

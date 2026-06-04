@@ -1,11 +1,15 @@
 <template>
 	<view class="container">
-		<view class="header">
+		<view class="header" v-if="!loading">
 			<text class="title">{{ libraryName }}</text>
-			<text class="subtitle">共 {{ wordList.length }} 个单词</text>
+			<text class="subtitle">共 {{ total }} 个单词</text>
 		</view>
 
-		<view class="word-list">
+		<view class="loading-wrap" v-if="loading">
+			<text class="loading-text">加载中...</text>
+		</view>
+
+		<view class="word-list" v-else>
 			<view
 				v-for="(w, idx) in wordList"
 				:key="idx"
@@ -13,9 +17,9 @@
 			>
 				<view class="word-left">
 					<text class="word-text">{{ w.word }}</text>
-					<text class="word-meaning">{{ w.meaning }}</text>
+					<text class="word-meaning">{{ formatMeaning(w) }}</text>
 				</view>
-				<text class="word-phonetic">{{ w.phonetic }}</text>
+				<text class="word-phonetic">{{ w.phonetic_us || w.phonetic_uk || '' }}</text>
 			</view>
 		</view>
 	</view>
@@ -23,29 +27,44 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
+import { getWordList } from '@/utils/cloud.js'
 
 const libraryName = ref('')
+const libraryId = ref('')
 const wordList = ref([])
+const total = ref(0)
+const loading = ref(true)
+
+const formatMeaning = (w) => {
+	if (!w.meaning) return ''
+	return w.meaning.zh || w.meaning.en || ''
+}
 
 onMounted(() => {
-	// 从路由参数获取词库信息（后续替换为接口请求）
 	const pages = getCurrentPages()
 	const currentPage = pages[pages.length - 1]
 	const options = currentPage.options || {}
+	libraryId.value = options.id || ''
 	libraryName.value = options.name || '词库'
-
-	// 示例数据
-	wordList.value = [
-		{ word: 'pivot', phonetic: '/ˈpɪvət/', meaning: 'n. 枢轴；中心点' },
-		{ word: 'sarcastic', phonetic: '/sɑːrˈkæstɪk/', meaning: 'adj. 讽刺的' },
-		{ word: 'obsessed', phonetic: '/əbˈsest/', meaning: 'adj. 着迷的' },
-		{ word: 'awkward', phonetic: '/ˈɔːkwərd/', meaning: 'adj. 尴尬的' },
-		{ word: 'deliberately', phonetic: '/dɪˈlɪbərətli/', meaning: 'adv. 故意地' },
-		{ word: 'reluctant', phonetic: '/rɪˈlʌktənt/', meaning: 'adj. 不情愿的' },
-		{ word: 'phenomenon', phonetic: '/fɪˈnɒmɪnən/', meaning: 'n. 现象' },
-		{ word: 'inevitable', phonetic: '/ɪnˈevɪtəbl/', meaning: 'adj. 不可避免的' },
-	]
+	fetchWords()
 })
+
+const fetchWords = async () => {
+	loading.value = true
+	if (!libraryId.value) {
+		loading.value = false
+		return
+	}
+	try {
+		const res = await getWordList(libraryId.value, 1, 200)
+		wordList.value = res.list || []
+		total.value = res.total || wordList.value.length
+	} catch (e) {
+		console.error('加载单词失败', e)
+	} finally {
+		loading.value = false
+	}
+}
 </script>
 
 <style scoped>
@@ -69,6 +88,17 @@ onMounted(() => {
 
 .subtitle {
 	font-size: 24rpx;
+	color: #999999;
+}
+
+.loading-wrap {
+	display: flex;
+	justify-content: center;
+	padding-top: 80rpx;
+}
+
+.loading-text {
+	font-size: 28rpx;
 	color: #999999;
 }
 

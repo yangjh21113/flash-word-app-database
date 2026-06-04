@@ -1,6 +1,6 @@
 <template>
 	<view class="container">
-		<view class="list">
+		<view class="list" v-if="!loading">
 			<view
 				v-for="(item, idx) in libraries"
 				:key="idx"
@@ -13,50 +13,64 @@
 				<view class="item-action" @click.stop="selectLibrary(item)">
 					<text
 						class="select-btn"
-						:class="{ selected: item.id === currentLibId }"
+						:class="{ selected: item._id === currentLibId }"
 					>
-						{{ item.id === currentLibId ? '当前' : '设为当前' }}
+						{{ item._id === currentLibId ? '当前' : '设为当前' }}
 					</text>
 				</view>
 			</view>
+		</view>
+		<view class="loading-wrap" v-else>
+			<text class="loading-text">加载中...</text>
 		</view>
 	</view>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
+import { getLibraryList } from '@/utils/cloud.js'
 
 const currentLibId = ref('')
-const libraries = ref([
-	{ id: 'friends', name: '老友记', total: 1200 },
-	{ id: 'bigbang', name: '生活大爆炸', total: 950 },
-	{ id: 'got', name: '权力的游戏', total: 1500 },
-	{ id: 'stranger', name: '怪奇物语', total: 800 },
-	{ id: 'work', name: '职场英语', total: 600 },
-	{ id: 'marvel', name: '漫威电影', total: 500 },
-])
+const libraries = ref([])
+const loading = ref(true)
 
 onMounted(() => {
 	const saved = uni.getStorageSync('currentLibraryId')
 	if (saved) {
 		currentLibId.value = saved
-	} else {
-		// default first
-		currentLibId.value = libraries.value[0].id
-		uni.setStorageSync('currentLibraryId', currentLibId.value)
 	}
+	fetchLibraries()
 })
 
+const fetchLibraries = async () => {
+	loading.value = true
+	try {
+		const res = await getLibraryList()
+		libraries.value = res.list || []
+		// default first if none selected
+		if (!currentLibId.value && libraries.value.length > 0) {
+			currentLibId.value = libraries.value[0]._id
+			uni.setStorageSync('currentLibraryId', currentLibId.value)
+		}
+	} catch (e) {
+		console.error('加载词库失败', e)
+	} finally {
+		loading.value = false
+	}
+}
+
 const selectLibrary = (item) => {
-	currentLibId.value = item.id
-	uni.setStorageSync('currentLibraryId', item.id)
+	currentLibId.value = item._id
+	uni.setStorageSync('currentLibraryId', item._id)
 	uni.setStorageSync('currentLibrary', item.name)
 	uni.showToast({ title: `已选择：${item.name}`, icon: 'none' })
+	// notify flash page
+	uni.$emit('libraryChanged')
 }
 
 const goDetail = (item) => {
 	uni.navigateTo({
-		url: `/pages/library-detail/library-detail?id=${item.id}&name=${item.name}`
+		url: `/pages/library-detail/library-detail?id=${item._id}&name=${item.name}`
 	})
 }
 </script>
@@ -114,5 +128,16 @@ const goDetail = (item) => {
 .select-btn.selected {
 	background-color: #6380e8;
 	color: #FFFFFF;
+}
+
+.loading-wrap {
+	display: flex;
+	justify-content: center;
+	padding-top: 80rpx;
+}
+
+.loading-text {
+	font-size: 28rpx;
+	color: #999999;
 }
 </style>

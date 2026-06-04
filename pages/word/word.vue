@@ -10,27 +10,37 @@
 			<text class="progress-text">{{ currentIndex + 1 }} / {{ wordList.length }}</text>
 		</view>
 
+		<!-- 加载中 -->
+		<view class="card-wrap" v-if="loading">
+			<text class="loading-text">加载中...</text>
+		</view>
+
 		<!-- 闪卡 -->
-		<view class="card-wrap" @click="flipCard">
+		<view class="card-wrap" @click="flipCard" v-else-if="wordList.length > 0">
 			<view class="card" :class="{ flipped: isFlipped }">
 				<!-- 正面 -->
 				<view class="card-face front">
 					<text class="word">{{ currentWord.word }}</text>
-					<text class="phonetic">{{ currentWord.phonetic }}</text>
+					<text class="phonetic">{{ currentWord.phonetic_us || currentWord.phonetic_uk || '' }}</text>
 				</view>
 				<!-- 背面 -->
 				<view class="card-face back">
-					<text class="meaning">{{ currentWord.meaning }}</text>
-					<view class="example" v-if="currentWord.example">
-						<text class="example-en">{{ currentWord.example.en }}</text>
-						<text class="example-zh">{{ currentWord.example.zh }}</text>
+					<text class="meaning">{{ formatMeaning }}</text>
+					<view class="example" v-if="currentWord.examples && currentWord.examples.length > 0">
+						<text class="example-en">{{ currentWord.examples[0].en }}</text>
+						<text class="example-zh">{{ currentWord.examples[0].zh }}</text>
 					</view>
 				</view>
 			</view>
 		</view>
 
+		<!-- 空状态 -->
+		<view class="card-wrap empty" v-else>
+			<text class="empty-text">该词库暂无单词</text>
+		</view>
+
 		<!-- 操作按钮 -->
-		<view class="actions">
+		<view class="actions" v-if="wordList.length > 0">
 			<button class="btn btn-unknown" @click.stop="markUnknown">不认识</button>
 			<button class="btn btn-known" @click.stop="markKnown">认识</button>
 		</view>
@@ -39,29 +49,56 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { getWordList } from '@/utils/cloud.js'
 
 const isFlipped = ref(false)
 const currentIndex = ref(0)
+const currentLibrary = ref('')
+const currentLibraryId = ref('')
+const wordList = ref([])
+const loading = ref(true)
 
-// 当前词库
-const currentLibrary = ref('老友记')
+const currentWord = computed(() => wordList.value[currentIndex.value] || {})
 
-const wordList = ref([
-	{ word: 'pivot', phonetic: '/ˈpɪvət/', meaning: 'n. 枢轴；中心点 v. 以...为中心', example: { en: 'Ross is the pivot of the group.', zh: 'Ross 是这群人的核心。' }},
-	{ word: 'sarcastic', phonetic: '/sɑːrˈkæstɪk/', meaning: 'adj. 讽刺的；嘲讽的', example: { en: "Chandler is always sarcastic.", zh: 'Chandler 总是很讽刺。' }},
-	{ word: 'obsessed', phonetic: '/əbˈsest/', meaning: 'adj. 着迷的；困扰的', example: { en: "Monica is obsessed with cleaning.", zh: 'Monica 对清洁很着迷。' }},
-	{ word: 'awkward', phonetic: '/ˈɔːkwərd/', meaning: 'adj. 尴尬的；笨拙的', example: { en: "That was an awkward silence.", zh: '那是一段尴尬的沉默。' }},
-	{ word: 'deliberately', phonetic: '/dɪˈlɪbərətli/', meaning: 'adv. 故意地；蓄意地', example: { en: "He deliberately ignored her.", zh: '他故意无视了她。' }},
-])
-
-const currentWord = computed(() => wordList.value[currentIndex.value] || wordList.value[0])
+const formatMeaning = computed(() => {
+	const w = currentWord.value
+	if (!w.meaning) return ''
+	const zh = w.meaning.zh || ''
+	const en = w.meaning.en || ''
+	return zh || en
+})
 
 onMounted(() => {
-	const lib = uni.getStorageSync('currentLibrary')
-	if (lib) {
-		currentLibrary.value = lib
-	}
+	loadWords()
+	uni.$on('libraryChanged', () => {
+		currentIndex.value = 0
+		isFlipped.value = false
+		loadWords()
+	})
 })
+
+const loadWords = async () => {
+	loading.value = true
+	const libId = uni.getStorageSync('currentLibraryId')
+	const libName = uni.getStorageSync('currentLibrary') || '未选择词库'
+	currentLibrary.value = libName
+	currentLibraryId.value = libId
+
+	if (!libId) {
+		wordList.value = []
+		loading.value = false
+		return
+	}
+
+	try {
+		const res = await getWordList(libId, 1, 100)
+		wordList.value = res.list || []
+	} catch (e) {
+		console.error('加载单词失败', e)
+	} finally {
+		loading.value = false
+	}
+}
 
 const flipCard = () => {
 	isFlipped.value = !isFlipped.value
@@ -121,6 +158,9 @@ const markUnknown = () => {
 	width: 100%;
 	height: 640rpx;
 	margin-bottom: 48rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .card {
@@ -202,6 +242,11 @@ const markUnknown = () => {
 .example-zh {
 	display: block;
 	font-size: 20rpx;
+	color: #999999;
+}
+
+.loading-text, .empty-text {
+	font-size: 28rpx;
 	color: #999999;
 }
 
