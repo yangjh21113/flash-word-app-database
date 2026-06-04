@@ -1,8 +1,9 @@
 <template>
 	<view class="container">
-		<!-- 当前词库名称 -->
-		<view class="library-name">
+		<!-- 当前词库名称 + 模式标签 -->
+		<view class="header-row">
 			<text class="library-tag">{{ currentLibrary }}</text>
+			<text class="mode-tag" v-if="mode === 'fast'">快速</text>
 		</view>
 
 		<!-- 进度 -->
@@ -15,18 +16,23 @@
 			<text class="loading-text">加载中...</text>
 		</view>
 
+		<!-- 空状态 -->
+		<view class="card-wrap empty" v-else-if="wordList.length === 0">
+			<text class="empty-text">该词库暂无单词</text>
+		</view>
+
 		<!-- 闪卡 -->
-		<view class="card-wrap" @click="flipCard" v-else-if="wordList.length > 0">
+		<view class="card-wrap" v-else @click="onCardTap">
 			<view class="card" :class="{ flipped: isFlipped }">
 				<!-- 正面 -->
 				<view class="card-face front">
 					<text class="word">{{ currentWord.word }}</text>
-					<text class="phonetic">{{ currentWord.phonetic_us || currentWord.phonetic_uk || '' }}</text>
+					<text class="phonetic">{{ phonetic }}</text>
 				</view>
 				<!-- 背面 -->
 				<view class="card-face back">
 					<text class="meaning">{{ formatMeaning }}</text>
-					<view class="example" v-if="currentWord.examples && currentWord.examples.length > 0">
+					<view class="example" v-if="hasExample">
 						<text class="example-en">{{ currentWord.examples[0].en }}</text>
 						<text class="example-zh">{{ currentWord.examples[0].zh }}</text>
 					</view>
@@ -34,15 +40,15 @@
 			</view>
 		</view>
 
-		<!-- 空状态 -->
-		<view class="card-wrap empty" v-else>
-			<text class="empty-text">该词库暂无单词</text>
-		</view>
-
-		<!-- 操作按钮 -->
-		<view class="actions" v-if="wordList.length > 0">
+		<!-- 深度模式：操作按钮 -->
+		<view class="actions" v-if="mode === 'deep' && wordList.length > 0">
 			<button class="btn btn-unknown" @click.stop="markUnknown">不认识</button>
 			<button class="btn btn-known" @click.stop="markKnown">认识</button>
+		</view>
+
+		<!-- 快速模式：提示 -->
+		<view class="quick-hint" v-if="mode === 'fast' && wordList.length > 0">
+			<text class="hint-text">{{ isFlipped ? '点击切换下一个' : '点击查看释义' }}</text>
 		</view>
 	</view>
 </template>
@@ -54,11 +60,16 @@ import { getWordList } from '@/utils/cloud.js'
 const isFlipped = ref(false)
 const currentIndex = ref(0)
 const currentLibrary = ref('')
-const currentLibraryId = ref('')
 const wordList = ref([])
 const loading = ref(true)
+const mode = ref('deep')
 
 const currentWord = computed(() => wordList.value[currentIndex.value] || {})
+
+const phonetic = computed(() => {
+	const w = currentWord.value
+	return w.phonetic_us || w.phonetic_uk || ''
+})
 
 const formatMeaning = computed(() => {
 	const w = currentWord.value
@@ -68,7 +79,16 @@ const formatMeaning = computed(() => {
 	return zh || en
 })
 
+const hasExample = computed(() => {
+	const w = currentWord.value
+	return w.examples && w.examples.length > 0
+})
+
 onMounted(() => {
+	const saved = uni.getStorageSync('studyMode')
+	if (saved === 'fast' || saved === 'deep') {
+		mode.value = saved
+	}
 	loadWords()
 	uni.$on('libraryChanged', () => {
 		currentIndex.value = 0
@@ -82,7 +102,6 @@ const loadWords = async () => {
 	const libId = uni.getStorageSync('currentLibraryId')
 	const libName = uni.getStorageSync('currentLibrary') || '未选择词库'
 	currentLibrary.value = libName
-	currentLibraryId.value = libId
 
 	if (!libId) {
 		wordList.value = []
@@ -100,17 +119,26 @@ const loadWords = async () => {
 	}
 }
 
-const flipCard = () => {
-	isFlipped.value = !isFlipped.value
+const onCardTap = () => {
+	if (loading.value || wordList.value.length === 0) return
+
+	if (!isFlipped.value) {
+		// 第一次点击：翻转到背面
+		isFlipped.value = true
+	} else {
+		// 已经翻开状态：快速模式下是下一个，深度模式下也当快速用
+		nextWord()
+	}
 }
 
 const nextWord = () => {
 	if (currentIndex.value < wordList.value.length - 1) {
 		currentIndex.value++
-		isFlipped.value = false
 	} else {
-		uni.showToast({ title: '本轮学习完成', icon: 'success' })
+		// 无限循环：回到第一个
+		currentIndex.value = 0
 	}
+	isFlipped.value = false
 }
 
 const markKnown = () => {
@@ -133,7 +161,9 @@ const markUnknown = () => {
 	background-color: #F5F5F5;
 }
 
-.library-name {
+.header-row {
+	display: flex;
+	gap: 12rpx;
 	margin-bottom: 16rpx;
 }
 
@@ -141,6 +171,14 @@ const markUnknown = () => {
 	font-size: 24rpx;
 	color: #6380e8;
 	background-color: #f0f3fc;
+	padding: 8rpx 16rpx;
+	border-radius: 4px;
+}
+
+.mode-tag {
+	font-size: 24rpx;
+	color: #FFFFFF;
+	background-color: #6380e8;
 	padding: 8rpx 16rpx;
 	border-radius: 4px;
 }
@@ -157,10 +195,13 @@ const markUnknown = () => {
 .card-wrap {
 	width: 100%;
 	height: 640rpx;
-	margin-bottom: 48rpx;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+.card-wrap:not(.empty) {
+	margin-bottom: 48rpx;
 }
 
 .card {
@@ -274,5 +315,14 @@ const markUnknown = () => {
 .btn-known {
 	background-color: #6380e8;
 	color: #FFFFFF;
+}
+
+.quick-hint {
+	margin-top: 16rpx;
+}
+
+.hint-text {
+	font-size: 24rpx;
+	color: #CCCCCC;
 }
 </style>
