@@ -23,6 +23,12 @@
 			"style": {
 				"navigationBarTitleText": "单词列表"
 			}
+		},
+		{
+			"path": "pages/notebook/notebook",
+			"style": {
+				"navigationBarTitleText": "生词本"
+			}
 		}
 	],
 	"globalStyle": {

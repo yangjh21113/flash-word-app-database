@@ -1,46 +1,40 @@
 /**
  * 云端请求工具
+ * 当前额度已用完，临时走 mock 数据
+ * 要切回云端：把 USE_MOCK 改为 false
  */
 
-/**
- * 调用云函数（带 loading 和错误处理）
- * @param {string} name 云函数名
- * @param {object} data 请求参数
- * @returns {object} 云函数返回的 data 字段
- */
-export function callCloud(name, data = {}) {
+const USE_MOCK = true
+
+import { getMockLibraryList, getMockWordList } from './mock.js'
+
+export function getLibraryList() {
+	if (USE_MOCK) {
+		return getMockLibraryList()
+	}
+	// 以下保留云端调用
 	return new Promise((resolve, reject) => {
-		uniCloud.callFunction({
-			name,
-			data
-		}).then(res => {
-			const { result } = res
-			if (result && result.code === 0) {
-				resolve(result.data)
+		uniCloud.callFunction({ name: 'get-library-list', data: {} }).then(res => {
+			if (res.result && res.result.code === 0) {
+				resolve(res.result.data)
 			} else {
-				uni.showToast({
-					title: result?.msg || '请求失败',
-					icon: 'none'
-				})
-				reject(result)
+				reject(res.result)
 			}
-		}).catch(err => {
-			uni.showToast({ title: '网络异常', icon: 'none' })
-			reject(err)
-		})
+		}).catch(reject)
 	})
 }
 
-/**
- * 获取词库列表
- */
-export function getLibraryList(page = 1, pageSize = 20) {
-	return callCloud('get-library-list', { page, pageSize })
-}
-
-/**
- * 获取指定词库的单词列表
- */
-export function getWordList(libraryId, page = 1, pageSize = 50) {
-	return callCloud('get-word-list', { library_id: libraryId, page, pageSize })
+export function getWordList(libraryId) {
+	if (USE_MOCK) {
+		return getMockWordList(libraryId)
+	}
+	return new Promise((resolve, reject) => {
+		uniCloud.callFunction({ name: 'get-word-list', data: { library_id: libraryId } }).then(res => {
+			if (res.result && res.result.code === 0) {
+				resolve(res.result.data)
+			} else {
+				reject(res.result)
+			}
+		}).catch(reject)
+	})
 }

@@ -55,7 +55,10 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { onShow } from '@dcloudio/uni-app'
 import { getWordList } from '@/utils/cloud.js'
+import { addWordToNotebook } from '@/utils/notebook.js'
+import { markStudyToday } from '@/utils/study.js'
 
 const isFlipped = ref(false)
 const currentIndex = ref(0)
@@ -85,17 +88,27 @@ const hasExample = computed(() => {
 })
 
 onMounted(() => {
-	const saved = uni.getStorageSync('studyMode')
-	if (saved === 'fast' || saved === 'deep') {
-		mode.value = saved
-	}
+	loadMode()
 	loadWords()
+	markStudyToday()
 	uni.$on('libraryChanged', () => {
 		currentIndex.value = 0
 		isFlipped.value = false
 		loadWords()
 	})
 })
+
+onShow(() => {
+	loadMode()
+	markStudyToday()
+})
+
+const loadMode = () => {
+	const saved = uni.getStorageSync('studyMode')
+	if (saved === 'fast' || saved === 'deep') {
+		mode.value = saved
+	}
+}
 
 const loadWords = async () => {
 	loading.value = true
@@ -123,10 +136,8 @@ const onCardTap = () => {
 	if (loading.value || wordList.value.length === 0) return
 
 	if (!isFlipped.value) {
-		// 第一次点击：翻转到背面
 		isFlipped.value = true
 	} else {
-		// 已经翻开状态：快速模式下是下一个，深度模式下也当快速用
 		nextWord()
 	}
 }
@@ -135,7 +146,6 @@ const nextWord = () => {
 	if (currentIndex.value < wordList.value.length - 1) {
 		currentIndex.value++
 	} else {
-		// 无限循环：回到第一个
 		currentIndex.value = 0
 	}
 	isFlipped.value = false
@@ -146,7 +156,7 @@ const markKnown = () => {
 }
 
 const markUnknown = () => {
-	uni.showToast({ title: '已加入生词本', icon: 'none' })
+	addWordToNotebook(currentWord.value)
 	nextWord()
 }
 </script>
@@ -155,9 +165,9 @@ const markUnknown = () => {
 .container {
 	display: flex;
 	flex-direction: column;
-	align-items: center;
-	padding: 48rpx 32rpx 32rpx;
-	min-height: 100vh;
+	height: 100vh;
+	padding: 32rpx;
+	box-sizing: border-box;
 	background-color: #F5F5F5;
 }
 
@@ -193,15 +203,11 @@ const markUnknown = () => {
 }
 
 .card-wrap {
+	flex: 1;
 	width: 100%;
-	height: 640rpx;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-}
-
-.card-wrap:not(.empty) {
-	margin-bottom: 48rpx;
 }
 
 .card {
@@ -295,6 +301,7 @@ const markUnknown = () => {
 	display: flex;
 	gap: 24rpx;
 	width: 100%;
+	margin-top: 32rpx;
 }
 
 .btn {

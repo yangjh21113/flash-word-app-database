@@ -30,6 +30,9 @@
 import { ref, onMounted } from 'vue'
 import { getLibraryList } from '@/utils/cloud.js'
 
+const CACHE_KEY = 'libraryCache'
+const CACHE_EXPIRE = 60 * 60 * 1000 // 1 hour
+
 const currentLibId = ref('')
 const libraries = ref([])
 const loading = ref(true)
@@ -43,17 +46,42 @@ onMounted(() => {
 })
 
 const fetchLibraries = async () => {
+	// 先读缓存
+	const cached = uni.getStorageSync(CACHE_KEY)
+	if (cached) {
+		const data = JSON.parse(cached)
+		if (Date.now() - data.time < CACHE_EXPIRE) {
+			libraries.value = data.list
+			loading.value = false
+			// default first if none selected
+			if (!currentLibId.value && libraries.value.length > 0) {
+				currentLibId.value = libraries.value[0]._id
+				uni.setStorageSync('currentLibraryId', currentLibId.value)
+			}
+			return
+		}
+	}
+
 	loading.value = true
 	try {
 		const res = await getLibraryList()
 		libraries.value = res.list || []
-		// default first if none selected
+		// 更新缓存
+		uni.setStorageSync(CACHE_KEY, JSON.stringify({
+			list: libraries.value,
+			time: Date.now()
+		}))
 		if (!currentLibId.value && libraries.value.length > 0) {
 			currentLibId.value = libraries.value[0]._id
 			uni.setStorageSync('currentLibraryId', currentLibId.value)
 		}
 	} catch (e) {
 		console.error('加载词库失败', e)
+		// 请求失败时用缓存兜底
+		const fallback = uni.getStorageSync(CACHE_KEY)
+		if (fallback) {
+			libraries.value = JSON.parse(fallback).list
+		}
 	} finally {
 		loading.value = false
 	}

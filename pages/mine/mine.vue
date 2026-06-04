@@ -14,8 +14,8 @@
 			</view>
 			<view class="stat-divider"></view>
 			<view class="stat-item">
-				<text class="stat-num">{{ totalWords }}</text>
-				<text class="stat-label">累计单词</text>
+				<text class="stat-num">{{ todayNotebook }}</text>
+				<text class="stat-label">今日生词</text>
 			</view>
 			<view class="stat-divider"></view>
 			<view class="stat-item">
@@ -60,7 +60,10 @@
 				@click="handleMenu(item)"
 			>
 				<text class="menu-name">{{ item.name }}</text>
-				<text class="menu-arrow">></text>
+				<view class="menu-right">
+					<text class="menu-badge" v-if="item.badge">{{ item.badge }}</text>
+					<text class="menu-arrow">></text>
+				</view>
 			</view>
 		</view>
 	</view>
@@ -68,15 +71,17 @@
 
 <script setup>
 import { ref, onMounted } from 'vue'
+import { onShow } from '@dcloudio/uni-app'
+import { getNotebook, getTodayNotebookCount } from '@/utils/notebook.js'
+import { getStudyDays } from '@/utils/study.js'
 
-const studyDays = ref(12)
-const totalWords = ref(450)
+const studyDays = ref(0)
 const masteredWords = ref(120)
+const todayNotebook = ref(0)
 const mode = ref('deep')
 
 const menus = ref([
-	{ name: '学习报告', action: 'report' },
-	{ name: '生词本', action: 'notebook' },
+	{ name: '生词本', action: 'notebook', badge: '' },
 	{ name: '设置', action: 'settings' },
 	{ name: '关于', action: 'about' },
 ])
@@ -86,7 +91,25 @@ onMounted(() => {
 	if (saved === 'fast' || saved === 'deep') {
 		mode.value = saved
 	}
+	loadStats()
 })
+
+onShow(() => {
+	loadStats()
+})
+
+const loadStats = () => {
+	studyDays.value = getStudyDays()
+	todayNotebook.value = getTodayNotebookCount()
+	// update badge for notebook menu
+	menus.value = menus.value.map(item => {
+		if (item.action === 'notebook') {
+			const total = getNotebook().length
+			item.badge = total > 0 ? `${total}` : ''
+		}
+		return item
+	})
+}
 
 const switchMode = (m) => {
 	mode.value = m
@@ -95,7 +118,11 @@ const switchMode = (m) => {
 }
 
 const handleMenu = (item) => {
-	uni.showToast({ title: `${item.name}（开发中）`, icon: 'none' })
+	if (item.action === 'notebook') {
+		uni.navigateTo({ url: '/pages/notebook/notebook' })
+	} else {
+		uni.showToast({ title: `${item.name}（开发中）`, icon: 'none' })
+	}
 }
 </script>
 
@@ -258,6 +285,22 @@ const handleMenu = (item) => {
 .menu-name {
 	font-size: 28rpx;
 	color: #333333;
+}
+
+.menu-right {
+	display: flex;
+	align-items: center;
+	gap: 12rpx;
+}
+
+.menu-badge {
+	font-size: 20rpx;
+	color: #FFFFFF;
+	background-color: #6380e8;
+	padding: 2rpx 12rpx;
+	border-radius: 4px;
+	min-width: 32rpx;
+	text-align: center;
 }
 
 .menu-arrow {

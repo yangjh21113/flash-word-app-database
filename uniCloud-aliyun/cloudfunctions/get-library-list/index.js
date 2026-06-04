@@ -7,8 +7,8 @@ exports.main = async (event, context) => {
 
 	const collection = db.collection('library');
 
-	const countRes = await collection.count();
-	const total = countRes.total || 0;
+	const totalRes = await collection.count();
+	const total = totalRes.total || 0;
 
 	const res = await collection
 		.orderBy('sort', 'asc')
