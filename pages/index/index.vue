@@ -1,21 +1,22 @@
 <template>
 	<view class="container">
-		<text class="page-title">词库</text>
-		<view class="library-grid">
+		<view class="list">
 			<view
-				v-for="(cat, idx) in categories"
+				v-for="(item, idx) in libraries"
 				:key="idx"
-				class="library-card"
-				@click="enterLibrary(cat)"
+				class="list-item"
 			>
-				<view class="card-icon">{{ cat.icon }}</view>
-				<text class="card-name">{{ cat.name }}</text>
-				<text class="card-desc">{{ cat.desc }}</text>
-				<view class="card-progress">
-					<text class="progress-text">已学 {{ cat.learned }}/{{ cat.total }}</text>
-					<view class="progress-bar">
-						<view class="progress-fill" :style="{ width: cat.percent + '%' }"></view>
-					</view>
+				<view class="item-main" @click="goDetail(item)">
+					<text class="item-name">{{ item.name }}</text>
+					<text class="item-count">{{ item.total }} 词</text>
+				</view>
+				<view class="item-action" @click.stop="selectLibrary(item)">
+					<text
+						class="select-btn"
+						:class="{ selected: item.id === currentLibId }"
+					>
+						{{ item.id === currentLibId ? '当前' : '设为当前' }}
+					</text>
 				</view>
 			</view>
 		</view>
@@ -23,93 +24,95 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 
-const categories = ref([
-	{ icon: '📺', name: '老友记', desc: 'Friends 全十季高频词', total: 1200, learned: 320, percent: 27 },
-	{ icon: '🧪', name: '生活大爆炸', desc: 'The Big Bang Theory', total: 950, learned: 180, percent: 19 },
-	{ icon: '🐉', name: '权力的游戏', desc: 'Game of Thrones', total: 1500, learned: 50, percent: 3 },
-	{ icon: '🔦', name: '怪奇物语', desc: 'Stranger Things', total: 800, learned: 0, percent: 0 },
-	{ icon: '👔', name: '职场英语', desc: '商务场景常用词', total: 600, learned: 200, percent: 33 },
-	{ icon: '🎬', name: '漫威电影', desc: 'Marvel 系列高频词', total: 500, learned: 100, percent: 20 },
+const currentLibId = ref('')
+const libraries = ref([
+	{ id: 'friends', name: '老友记', total: 1200 },
+	{ id: 'bigbang', name: '生活大爆炸', total: 950 },
+	{ id: 'got', name: '权力的游戏', total: 1500 },
+	{ id: 'stranger', name: '怪奇物语', total: 800 },
+	{ id: 'work', name: '职场英语', total: 600 },
+	{ id: 'marvel', name: '漫威电影', total: 500 },
 ])
 
-const enterLibrary = (cat) => {
-	uni.showToast({ title: `进入 ${cat.name}`, icon: 'none' })
+onMounted(() => {
+	const saved = uni.getStorageSync('currentLibraryId')
+	if (saved) {
+		currentLibId.value = saved
+	} else {
+		// default first
+		currentLibId.value = libraries.value[0].id
+		uni.setStorageSync('currentLibraryId', currentLibId.value)
+	}
+})
+
+const selectLibrary = (item) => {
+	currentLibId.value = item.id
+	uni.setStorageSync('currentLibraryId', item.id)
+	uni.setStorageSync('currentLibrary', item.name)
+	uni.showToast({ title: `已选择：${item.name}`, icon: 'none' })
+}
+
+const goDetail = (item) => {
+	uni.navigateTo({
+		url: `/pages/library-detail/library-detail?id=${item.id}&name=${item.name}`
+	})
 }
 </script>
 
 <style scoped>
 .container {
-	padding: 24rpx;
+	padding: 0 32rpx;
 	background-color: #F5F5F5;
 	min-height: 100vh;
 }
 
-.page-title {
-	font-size: 40rpx;
-	font-weight: bold;
-	color: #333333;
-	margin-bottom: 24rpx;
-	display: block;
+.list {
+	padding-top: 16rpx;
 }
 
-.library-grid {
+.list-item {
 	display: flex;
-	flex-wrap: wrap;
-	gap: 20rpx;
+	align-items: center;
+	background-color: #FFFFFF;
+	border-radius: 4px;
+	margin-bottom: 16rpx;
+	padding: 32rpx;
 }
 
-.library-card {
-	width: calc(50% - 10rpx);
-	background: #FFFFFF;
-	border-radius: 20rpx;
-	padding: 28rpx;
-	box-sizing: border-box;
+.item-main {
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 
-.card-icon {
-	font-size: 56rpx;
-	margin-bottom: 12rpx;
-}
-
-.card-name {
-	font-size: 30rpx;
-	font-weight: bold;
+.item-name {
+	font-size: 32rpx;
 	color: #333333;
-	display: block;
-	margin-bottom: 4rpx;
+	font-weight: 500;
 }
 
-.card-desc {
-	font-size: 22rpx;
+.item-count {
+	font-size: 24rpx;
 	color: #999999;
-	display: block;
-	margin-bottom: 20rpx;
 }
 
-.card-progress {
-	display: flex;
-	flex-direction: column;
-	gap: 8rpx;
+.item-action {
+	margin-left: 24rpx;
 }
 
-.progress-text {
-	font-size: 20rpx;
-	color: #6366F1;
+.select-btn {
+	font-size: 24rpx;
+	color: #6380e8;
+	padding: 8rpx 16rpx;
+	border-radius: 4px;
+	border: 1px solid #6380e8;
 }
 
-.progress-bar {
-	width: 100%;
-	height: 8rpx;
-	background: #F0F0F0;
-	border-radius: 4rpx;
-	overflow: hidden;
-}
-
-.progress-fill {
-	height: 100%;
-	background: #6366F1;
-	border-radius: 4rpx;
+.select-btn.selected {
+	background-color: #6380e8;
+	color: #FFFFFF;
 }
 </style>

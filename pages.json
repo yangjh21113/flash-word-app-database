@@ -3,7 +3,7 @@
 		{
 			"path": "pages/word/word",
 			"style": {
-				"navigationBarTitleText": "闪词卡"
+				"navigationBarTitleText": "闪记"
 			}
 		},
 		{
@@ -19,22 +19,22 @@
 			}
 		},
 		{
-			"path": "pages/library/library",
+			"path": "pages/library-detail/library-detail",
 			"style": {
-				"navigationBarTitleText": "单词详情"
+				"navigationBarTitleText": "单词列表"
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "闪词卡",
-		"navigationBarBackgroundColor": "#6366F1",
+		"navigationBarBackgroundColor": "#6380e8",
 		"backgroundColor": "#F5F5F5"
 	},
 	"tabBar": {
 		"color": "#999999",
-		"selectedColor": "#6366F1",
-		"borderStyle": "black",
+		"selectedColor": "#6380e8",
+		"borderStyle": "white",
 		"backgroundColor": "#FFFFFF",
 		"list": [
 			{

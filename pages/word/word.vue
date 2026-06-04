@@ -1,176 +1,233 @@
 <template>
 	<view class="container">
-		<!-- 今日学习卡片 -->
-		<view class="today-card" @click="startFlash">
-			<view class="today-header">
-				<text class="today-title">今日闪记</text>
-				<text class="today-count">{{ todayCount }}/20</text>
-			</view>
-			<view class="progress-bar">
-				<view class="progress-fill" :style="{ width: progressPercent + '%' }"></view>
-			</view>
-			<text class="today-hint">点击开始闪记</text>
+		<!-- 当前词库名称 -->
+		<view class="library-name">
+			<text class="library-tag">{{ currentLibrary }}</text>
 		</view>
 
-		<!-- 词库选择 -->
-		<view class="section">
-			<text class="section-title">选择词库</text>
-			<view class="library-list">
-				<view
-					v-for="(lib, idx) in libraries"
-					:key="idx"
-					class="library-item"
-					:class="{ active: lib.id === currentLibId }"
-					@click="selectLibrary(lib)"
-				>
-					<text class="library-icon">{{ lib.icon }}</text>
-					<view class="library-info">
-						<text class="library-name">{{ lib.name }}</text>
-						<text class="library-desc">{{ lib.desc }}</text>
+		<!-- 进度 -->
+		<view class="progress-row">
+			<text class="progress-text">{{ currentIndex + 1 }} / {{ wordList.length }}</text>
+		</view>
+
+		<!-- 闪卡 -->
+		<view class="card-wrap" @click="flipCard">
+			<view class="card" :class="{ flipped: isFlipped }">
+				<!-- 正面 -->
+				<view class="card-face front">
+					<text class="word">{{ currentWord.word }}</text>
+					<text class="phonetic">{{ currentWord.phonetic }}</text>
+				</view>
+				<!-- 背面 -->
+				<view class="card-face back">
+					<text class="meaning">{{ currentWord.meaning }}</text>
+					<view class="example" v-if="currentWord.example">
+						<text class="example-en">{{ currentWord.example.en }}</text>
+						<text class="example-zh">{{ currentWord.example.zh }}</text>
 					</view>
-					<text class="library-count">{{ lib.total }}词</text>
 				</view>
 			</view>
+		</view>
+
+		<!-- 操作按钮 -->
+		<view class="actions">
+			<button class="btn btn-unknown" @click.stop="markUnknown">不认识</button>
+			<button class="btn btn-known" @click.stop="markKnown">认识</button>
 		</view>
 	</view>
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 
-const todayCount = ref(5)
-const currentLibId = ref('friends')
-const libraries = ref([
-	{ id: 'friends', icon: '📺', name: '老友记', desc: '经典美剧高频词汇', total: 120 },
-	{ id: 'bigbang', icon: '🧪', name: '生活大爆炸', desc: '科学与日常结合', total: 95 },
-	{ id: 'got', icon: '🐉', name: '权力的游戏', desc: '奇幻史诗词汇', total: 150 },
-	{ id: 'stranger', icon: '🔦', name: '怪奇物语', desc: '80年代复古词汇', total: 80 },
+const isFlipped = ref(false)
+const currentIndex = ref(0)
+
+// 当前词库
+const currentLibrary = ref('老友记')
+
+const wordList = ref([
+	{ word: 'pivot', phonetic: '/ˈpɪvət/', meaning: 'n. 枢轴；中心点 v. 以...为中心', example: { en: 'Ross is the pivot of the group.', zh: 'Ross 是这群人的核心。' }},
+	{ word: 'sarcastic', phonetic: '/sɑːrˈkæstɪk/', meaning: 'adj. 讽刺的；嘲讽的', example: { en: "Chandler is always sarcastic.", zh: 'Chandler 总是很讽刺。' }},
+	{ word: 'obsessed', phonetic: '/əbˈsest/', meaning: 'adj. 着迷的；困扰的', example: { en: "Monica is obsessed with cleaning.", zh: 'Monica 对清洁很着迷。' }},
+	{ word: 'awkward', phonetic: '/ˈɔːkwərd/', meaning: 'adj. 尴尬的；笨拙的', example: { en: "That was an awkward silence.", zh: '那是一段尴尬的沉默。' }},
+	{ word: 'deliberately', phonetic: '/dɪˈlɪbərətli/', meaning: 'adv. 故意地；蓄意地', example: { en: "He deliberately ignored her.", zh: '他故意无视了她。' }},
 ])
 
-const progressPercent = computed(() => Math.round((todayCount.value / 20) * 100))
+const currentWord = computed(() => wordList.value[currentIndex.value] || wordList.value[0])
 
-const selectLibrary = (lib) => {
-	currentLibId.value = lib.id
-	uni.showToast({ title: `已选择：${lib.name}`, icon: 'none' })
+onMounted(() => {
+	const lib = uni.getStorageSync('currentLibrary')
+	if (lib) {
+		currentLibrary.value = lib
+	}
+})
+
+const flipCard = () => {
+	isFlipped.value = !isFlipped.value
 }
 
-const startFlash = () => {
-	uni.navigateTo({ url: '/pages/library/library' })
+const nextWord = () => {
+	if (currentIndex.value < wordList.value.length - 1) {
+		currentIndex.value++
+		isFlipped.value = false
+	} else {
+		uni.showToast({ title: '本轮学习完成', icon: 'success' })
+	}
+}
+
+const markKnown = () => {
+	nextWord()
+}
+
+const markUnknown = () => {
+	uni.showToast({ title: '已加入生词本', icon: 'none' })
+	nextWord()
 }
 </script>
 
 <style scoped>
 .container {
-	padding: 24rpx;
-	background-color: #F5F5F5;
-	min-height: 100vh;
-}
-
-.today-card {
-	background: linear-gradient(135deg, #6366F1, #8B5CF6);
-	border-radius: 24rpx;
-	padding: 40rpx;
-	margin-bottom: 32rpx;
-}
-
-.today-header {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	margin-bottom: 20rpx;
-}
-
-.today-title {
-	font-size: 36rpx;
-	font-weight: bold;
-	color: #FFFFFF;
-}
-
-.today-count {
-	font-size: 28rpx;
-	color: rgba(255,255,255,0.8);
-}
-
-.progress-bar {
-	width: 100%;
-	height: 12rpx;
-	background: rgba(255,255,255,0.3);
-	border-radius: 6rpx;
-	overflow: hidden;
-	margin-bottom: 16rpx;
-}
-
-.progress-fill {
-	height: 100%;
-	background: #FFFFFF;
-	border-radius: 6rpx;
-	transition: width 0.3s;
-}
-
-.today-hint {
-	font-size: 24rpx;
-	color: rgba(255,255,255,0.7);
-}
-
-.section {
-	background: #FFFFFF;
-	border-radius: 24rpx;
-	padding: 24rpx;
-}
-
-.section-title {
-	font-size: 32rpx;
-	font-weight: bold;
-	color: #333333;
-	margin-bottom: 20rpx;
-	display: block;
-}
-
-.library-item {
-	display: flex;
-	align-items: center;
-	padding: 24rpx 0;
-	border-bottom: 1rpx solid #F0F0F0;
-}
-
-.library-item:last-child {
-	border-bottom: none;
-}
-
-.library-item.active {
-	background: #F5F3FF;
-	margin: 0 -24rpx;
-	padding-left: 24rpx;
-	padding-right: 24rpx;
-	border-radius: 12rpx;
-}
-
-.library-icon {
-	font-size: 48rpx;
-	margin-right: 20rpx;
-}
-
-.library-info {
-	flex: 1;
 	display: flex;
 	flex-direction: column;
+	align-items: center;
+	padding: 48rpx 32rpx 32rpx;
+	min-height: 100vh;
+	background-color: #F5F5F5;
 }
 
 .library-name {
-	font-size: 30rpx;
-	color: #333333;
-	font-weight: 500;
+	margin-bottom: 16rpx;
 }
 
-.library-desc {
-	font-size: 22rpx;
-	color: #999999;
-	margin-top: 4rpx;
-}
-
-.library-count {
+.library-tag {
 	font-size: 24rpx;
-	color: #6366F1;
-	font-weight: bold;
+	color: #6380e8;
+	background-color: #f0f3fc;
+	padding: 8rpx 16rpx;
+	border-radius: 4px;
+}
+
+.progress-row {
+	margin-bottom: 32rpx;
+}
+
+.progress-text {
+	font-size: 24rpx;
+	color: #999999;
+}
+
+.card-wrap {
+	width: 100%;
+	height: 640rpx;
+	margin-bottom: 48rpx;
+}
+
+.card {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.card-face {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: #FFFFFF;
+	border-radius: 4px;
+	box-shadow: 0 2px 8px rgba(99, 128, 232, 0.08);
+	padding: 48rpx;
+	box-sizing: border-box;
+	transition: opacity 0.2s;
+}
+
+.card.flipped .front {
+	opacity: 0;
+	pointer-events: none;
+}
+
+.card.flipped .back {
+	opacity: 1;
+}
+
+.card:not(.flipped) .front {
+	opacity: 1;
+}
+
+.card:not(.flipped) .back {
+	opacity: 0;
+	pointer-events: none;
+}
+
+.word {
+	font-size: 60rpx;
+	font-weight: 600;
+	color: #333333;
+	margin-bottom: 16rpx;
+}
+
+.phonetic {
+	font-size: 28rpx;
+	color: #999999;
+}
+
+.meaning {
+	font-size: 32rpx;
+	color: #6380e8;
+	font-weight: 500;
+	margin-bottom: 32rpx;
+	text-align: center;
+}
+
+.example {
+	width: 100%;
+	background-color: #F5F5F5;
+	padding: 24rpx;
+	border-radius: 4px;
+}
+
+.example-en {
+	display: block;
+	font-size: 24rpx;
+	color: #333333;
+	margin-bottom: 8rpx;
+}
+
+.example-zh {
+	display: block;
+	font-size: 20rpx;
+	color: #999999;
+}
+
+.actions {
+	display: flex;
+	gap: 24rpx;
+	width: 100%;
+}
+
+.btn {
+	flex: 1;
+	height: 88rpx;
+	border-radius: 4px;
+	font-size: 32rpx;
+	border: none;
+	line-height: 88rpx;
+}
+
+.btn-unknown {
+	background-color: #FFFFFF;
+	color: #333333;
+	border: 1px solid #EEEEEE;
+}
+
+.btn-known {
+	background-color: #6380e8;
+	color: #FFFFFF;
 }
 </style>

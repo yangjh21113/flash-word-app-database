@@ -1,32 +1,37 @@
 <template>
 	<view class="container">
 		<!-- 用户信息 -->
-		<view class="profile-card">
-			<view class="avatar">⚡</view>
+		<view class="profile">
+			<view class="avatar"></view>
 			<text class="username">闪词卡用户</text>
-			<text class="signup-days">已坚持 {{ studyDays }} 天</text>
 		</view>
 
 		<!-- 学习统计 -->
-		<view class="stats-row">
+		<view class="stats">
+			<view class="stat-item">
+				<text class="stat-num">{{ studyDays }}</text>
+				<text class="stat-label">已坚持（天）</text>
+			</view>
+			<view class="stat-divider"></view>
 			<view class="stat-item">
 				<text class="stat-num">{{ totalWords }}</text>
 				<text class="stat-label">累计单词</text>
 			</view>
+			<view class="stat-divider"></view>
 			<view class="stat-item">
 				<text class="stat-num">{{ masteredWords }}</text>
 				<text class="stat-label">已掌握</text>
 			</view>
-			<view class="stat-item">
-				<text class="stat-num">{{ todayWords }}</text>
-				<text class="stat-label">今日学习</text>
-			</view>
 		</view>
 
-		<!-- 菜单列表 -->
+		<!-- 菜单 -->
 		<view class="menu-list">
-			<view class="menu-item" v-for="(item, idx) in menus" :key="idx" @click="handleMenu(item)">
-				<text class="menu-icon">{{ item.icon }}</text>
+			<view
+				v-for="(item, idx) in menus"
+				:key="idx"
+				class="menu-item"
+				@click="handleMenu(item)"
+			>
 				<text class="menu-name">{{ item.name }}</text>
 				<text class="menu-arrow">></text>
 			</view>
@@ -40,13 +45,12 @@ import { ref } from 'vue'
 const studyDays = ref(12)
 const totalWords = ref(450)
 const masteredWords = ref(120)
-const todayWords = ref(15)
 
 const menus = ref([
-	{ icon: '📊', name: '学习报告', action: 'report' },
-	{ icon: '🔖', name: '我的收藏', action: 'favorites' },
-	{ icon: '📝', name: '生词本', action: 'notebook' },
-	{ icon: '⚙️', name: '设置', action: 'settings' },
+	{ name: '学习报告', action: 'report' },
+	{ name: '生词本', action: 'notebook' },
+	{ name: '设置', action: 'settings' },
+	{ name: '关于', action: 'about' },
 ])
 
 const handleMenu = (item) => {
@@ -58,49 +62,37 @@ const handleMenu = (item) => {
 .container {
 	background-color: #F5F5F5;
 	min-height: 100vh;
-	padding: 24rpx;
+	padding: 48rpx 32rpx;
 }
 
-.profile-card {
-	background: linear-gradient(135deg, #6366F1, #8B5CF6);
-	border-radius: 24rpx;
-	padding: 48rpx 40rpx;
+.profile {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	margin-bottom: 24rpx;
+	margin-bottom: 32rpx;
 }
 
 .avatar {
 	width: 120rpx;
 	height: 120rpx;
-	background: rgba(255,255,255,0.3);
-	border-radius: 50%;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	font-size: 56rpx;
+	border-radius: 4px;
+	background-color: #6380e8;
 	margin-bottom: 16rpx;
 }
 
 .username {
-	font-size: 34rpx;
-	font-weight: bold;
-	color: #FFFFFF;
-	margin-bottom: 8rpx;
+	font-size: 32rpx;
+	color: #333333;
+	font-weight: 500;
 }
 
-.signup-days {
-	font-size: 24rpx;
-	color: rgba(255,255,255,0.7);
-}
-
-.stats-row {
+.stats {
 	display: flex;
-	background: #FFFFFF;
-	border-radius: 24rpx;
+	align-items: center;
+	background-color: #FFFFFF;
+	border-radius: 4px;
 	padding: 32rpx 0;
-	margin-bottom: 24rpx;
+	margin-bottom: 32rpx;
 }
 
 .stat-item {
@@ -111,42 +103,42 @@ const handleMenu = (item) => {
 }
 
 .stat-num {
-	font-size: 40rpx;
-	font-weight: bold;
-	color: #6366F1;
-	margin-bottom: 8rpx;
+	font-size: 44rpx;
+	font-weight: 600;
+	color: #6380e8;
+	margin-bottom: 4rpx;
 }
 
 .stat-label {
-	font-size: 22rpx;
+	font-size: 20rpx;
 	color: #999999;
 }
 
+.stat-divider {
+	width: 1px;
+	height: 48rpx;
+	background-color: #EEEEEE;
+}
+
 .menu-list {
-	background: #FFFFFF;
-	border-radius: 24rpx;
-	padding: 0 32rpx;
+	background-color: #FFFFFF;
+	border-radius: 4px;
 }
 
 .menu-item {
 	display: flex;
 	align-items: center;
-	padding: 32rpx 0;
-	border-bottom: 1rpx solid #F0F0F0;
+	justify-content: space-between;
+	padding: 32rpx;
+	border-bottom: 1px solid #F5F5F5;
 }
 
 .menu-item:last-child {
 	border-bottom: none;
 }
 
-.menu-icon {
-	font-size: 36rpx;
-	margin-right: 20rpx;
-}
-
 .menu-name {
-	flex: 1;
-	font-size: 30rpx;
+	font-size: 28rpx;
 	color: #333333;
 }
 
