@@ -1,0 +1,60 @@
+{
+	"pages": [
+		{
+			"path": "pages/word/word",
+			"style": {
+				"navigationBarTitleText": "闪词卡"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "词库"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/library/library",
+			"style": {
+				"navigationBarTitleText": "单词详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "闪词卡",
+		"navigationBarBackgroundColor": "#6366F1",
+		"backgroundColor": "#F5F5F5"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#6366F1",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [
+			{
+				"pagePath": "pages/word/word",
+				"text": "闪记",
+				"iconPath": "static/tabbar/flash.png",
+				"selectedIconPath": "static/tabbar/flash-active.png"
+			},
+			{
+				"pagePath": "pages/index/index",
+				"text": "词库",
+				"iconPath": "static/tabbar/library.png",
+				"selectedIconPath": "static/tabbar/library-active.png"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/tabbar/mine.png",
+				"selectedIconPath": "static/tabbar/mine-active.png"
+			}
+		]
+	}
+}
