@@ -1,0 +1,1921 @@
+[
+  {
+    "word": "tapioca",
+    "phonetic": "/ˌtæpiˈoʊkə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a starch extracted from cassava root, used as a thickening agent or in desserts"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（源自图皮语）"
+      }
+    ],
+    "translations": [
+      "木薯淀粉",
+      "西米"
+    ],
+    "examples": [
+      {
+        "en": "Tapioca pudding is a popular dessert.",
+        "cn": "木薯布丁是一种受欢迎的甜点。"
+      },
+      {
+        "en": "Tapioca pearls are used in bubble tea.",
+        "cn": "木薯珍珠用于制作珍珠奶茶。"
+      }
+    ]
+  },
+  {
+    "word": "pudding",
+    "phonetic": "/ˈpʊdɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft, sweet dessert; a savory dish (e.g., Yorkshire pudding)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "布丁",
+      "甜点"
+    ],
+    "examples": [
+      {
+        "en": "Chocolate pudding is my favorite dessert.",
+        "cn": "巧克力布丁是我最喜欢的甜点。"
+      },
+      {
+        "en": "The proof of the pudding is in the eating.",
+        "cn": "布丁好不好，吃了才知道（实践出真知）。"
+      }
+    ]
+  },
+  {
+    "word": "jiggle",
+    "phonetic": "/ˈdʒɪɡl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to move quickly up and down or side to side with small movements"
+      },
+      {
+        "pos": "n.",
+        "translation": "a small, quick jerky movement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "jig",
+        "meaning": "to move quickly"
+      },
+      {
+        "part": "-le",
+        "meaning": "frequentative suffix"
+      }
+    ],
+    "translations": [
+      "轻摇",
+      "抖动"
+    ],
+    "examples": [
+      {
+        "en": "She jiggled the key to open the lock.",
+        "cn": "她轻轻晃动钥匙打开锁。"
+      },
+      {
+        "en": "The gelatin dessert jiggled on the plate.",
+        "cn": "果冻甜点在盘子上颤动。"
+      }
+    ]
+  },
+  {
+    "word": "tequila",
+    "phonetic": "/təˈkiːlə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a Mexican distilled spirit made from the blue agave plant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（西班牙语借词）"
+      }
+    ],
+    "translations": [
+      "龙舌兰酒"
+    ],
+    "examples": [
+      {
+        "en": "Tequila is often served with salt and lime.",
+        "cn": "龙舌兰酒常与盐和酸橙一起饮用。"
+      },
+      {
+        "en": "Margaritas are made with tequila.",
+        "cn": "玛格丽特鸡尾酒由龙舌兰酒制成。"
+      }
+    ]
+  },
+  {
+    "word": "booze",
+    "phonetic": "/buːz/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "alcoholic drink (informal)"
+      },
+      {
+        "pos": "v.",
+        "translation": "to drink alcohol excessively"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "酒",
+      "豪饮"
+    ],
+    "examples": [
+      {
+        "en": "There's free booze at the party.",
+        "cn": "派对上有免费酒水。"
+      },
+      {
+        "en": "He boozed all night.",
+        "cn": "他整晚都在狂饮。"
+      }
+    ]
+  },
+  {
+    "word": "lackey",
+    "phonetic": "/ˈlæki/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a servile follower; a footman or servant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "走狗",
+      "跟班",
+      "仆从"
+    ],
+    "examples": [
+      {
+        "en": "He was nothing but a lackey to the CEO.",
+        "cn": "他不过是CEO的走狗。"
+      },
+      {
+        "en": "The prince arrived with his lackeys.",
+        "cn": "王子带着他的仆从到达了。"
+      }
+    ]
+  },
+  {
+    "word": "manihot",
+    "phonetic": "/ˈmænɪhɒt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the genus of plants that includes cassava (Manihot esculenta)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（植物学名）"
+      }
+    ],
+    "translations": [
+      "木薯属"
+    ],
+    "examples": [
+      {
+        "en": "Manihot esculenta is the species cultivated for cassava.",
+        "cn": "Manihot esculenta 是用于种植木薯的物种。"
+      }
+    ]
+  },
+  {
+    "word": "cyanide",
+    "phonetic": "/ˈsaɪənaɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a highly poisonous chemical compound containing carbon and nitrogen (CN)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cyan-",
+        "meaning": "blue"
+      },
+      {
+        "part": "-ide",
+        "meaning": "chemical suffix"
+      }
+    ],
+    "translations": [
+      "氰化物"
+    ],
+    "examples": [
+      {
+        "en": "Cyanide is a fast-acting poison.",
+        "cn": "氰化物是一种速效毒药。"
+      },
+      {
+        "en": "The fruit pits contain trace amounts of cyanide.",
+        "cn": "果核中含有微量的氰化物。"
+      }
+    ]
+  },
+  {
+    "word": "lethal",
+    "phonetic": "/ˈliːθl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "sufficient to cause death; deadly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "leth-",
+        "meaning": "death, forgetfulness"
+      },
+      {
+        "part": "-al",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "致命的",
+      "致死的"
+    ],
+    "examples": [
+      {
+        "en": "The venom of this snake is lethal.",
+        "cn": "这种蛇的毒液是致命的。"
+      },
+      {
+        "en": "A lethal dose of the drug is very small.",
+        "cn": "这种药物的致死剂量非常小。"
+      }
+    ]
+  },
+  {
+    "word": "ginormous",
+    "phonetic": "/dʒaɪˈnɔːrməs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "extremely large; gigantic (informal blend of 'gigantic' and 'enormous')"
+      }
+    ],
+    "roots": [
+      {
+        "part": "gigantic",
+        "meaning": "huge"
+      },
+      {
+        "part": "enormous",
+        "meaning": "very large"
+      }
+    ],
+    "translations": [
+      "巨大的",
+      "庞大的"
+    ],
+    "examples": [
+      {
+        "en": "They served a ginormous portion of pasta.",
+        "cn": "他们端上来巨大一份意大利面。"
+      },
+      {
+        "en": "The new stadium is ginormous.",
+        "cn": "新体育场非常巨大。"
+      }
+    ]
+  },
+  {
+    "word": "sighted",
+    "phonetic": "/ˈsaɪtɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having the ability to see; not blind"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sight",
+        "meaning": "vision"
+      },
+      {
+        "part": "-ed",
+        "meaning": "having"
+      }
+    ],
+    "translations": [
+      "有视力的",
+      "不盲的"
+    ],
+    "examples": [
+      {
+        "en": "The guide dog assists both blind and sighted people.",
+        "cn": "导盲犬既帮助盲人也帮助视力正常的人。"
+      },
+      {
+        "en": "Partially sighted individuals may use large-print books.",
+        "cn": "视力部分受损的人可能会使用大字本书籍。"
+      }
+    ]
+  },
+  {
+    "word": "spam",
+    "phonetic": "/spæm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "irrelevant or unsolicited messages sent over the internet; canned cooked pork made by Hormel Foods Corporation"
+      },
+      {
+        "pos": "v.",
+        "translation": "to send the same message indiscriminately to many recipients"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（品牌名）"
+      }
+    ],
+    "translations": [
+      "垃圾邮件",
+      "斯帕姆午餐肉",
+      "滥发信息"
+    ],
+    "examples": [
+      {
+        "en": "My email filter catches most spam.",
+        "cn": "我的邮件过滤器拦截了大部分垃圾邮件。"
+      },
+      {
+        "en": "Don't spam the chat with repeated messages.",
+        "cn": "不要用重复信息刷屏聊天。"
+      }
+    ]
+  },
+  {
+    "word": "utilize",
+    "phonetic": "/ˈjuːtəlaɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to make practical and effective use of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "util-",
+        "meaning": "useful"
+      },
+      {
+        "part": "-ize",
+        "meaning": "to make"
+      }
+    ],
+    "translations": [
+      "利用",
+      "使用"
+    ],
+    "examples": [
+      {
+        "en": "We can utilize solar energy to power the house.",
+        "cn": "我们可以利用太阳能为房子供电。"
+      },
+      {
+        "en": "The software utilizes machine learning algorithms.",
+        "cn": "该软件利用机器学习算法。"
+      }
+    ]
+  },
+  {
+    "word": "scrap",
+    "phonetic": "/skræp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small piece of something; waste material that can be recycled"
+      },
+      {
+        "pos": "v.",
+        "translation": "to discard or abandon; to fight"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "碎片",
+      "废料",
+      "废弃",
+      "打架"
+    ],
+    "examples": [
+      {
+        "en": "He wrote his phone number on a scrap of paper.",
+        "cn": "他把电话号码写在一张纸片上。"
+      },
+      {
+        "en": "The project was scrapped due to budget cuts.",
+        "cn": "该项目因预算削减而被取消。"
+      }
+    ]
+  },
+  {
+    "word": "whistler",
+    "phonetic": "/ˈwɪslər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who whistles; a type of bird or marmot that whistles"
+      }
+    ],
+    "roots": [
+      {
+        "part": "whistle",
+        "meaning": "to make a high-pitched sound"
+      },
+      {
+        "part": "-er",
+        "meaning": "one who does"
+      }
+    ],
+    "translations": [
+      "吹口哨的人",
+      " whistling 的鸟或旱獭"
+    ],
+    "examples": [
+      {
+        "en": "The whistler entertained the crowd with popular tunes.",
+        "cn": "吹口哨的人用流行曲调娱乐了人群。"
+      },
+      {
+        "en": "We heard a whistler in the woods, probably a marmot.",
+        "cn": "我们听到林中有哨音，可能是一只旱獭。"
+      }
+    ]
+  },
+  {
+    "word": "whimsical",
+    "phonetic": "/ˈwɪmzɪkl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "playfully quaint or fanciful; subject to sudden changes of mind"
+      }
+    ],
+    "roots": [
+      {
+        "part": "whim",
+        "meaning": "fancy, impulse"
+      },
+      {
+        "part": "-ical",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "异想天开的",
+      "古怪的",
+      "反复无常的"
+    ],
+    "examples": [
+      {
+        "en": "The artist's whimsical sculptures are made from recycled materials.",
+        "cn": "这位艺术家异想天开的雕塑是用回收材料制成的。"
+      },
+      {
+        "en": "Her whimsical sense of humor keeps everyone laughing.",
+        "cn": "她古怪的幽默感让每个人都在笑。"
+      }
+    ]
+  },
+  {
+    "word": "benzene",
+    "phonetic": "/ˈbenziːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a colorless, flammable liquid hydrocarbon (C6H6), used as a solvent and in chemical synthesis"
+      }
+    ],
+    "roots": [
+      {
+        "part": "benz-",
+        "meaning": "from benzoin resin"
+      },
+      {
+        "part": "-ene",
+        "meaning": "hydrocarbon suffix"
+      }
+    ],
+    "translations": [
+      "苯"
+    ],
+    "examples": [
+      {
+        "en": "Benzene is a known carcinogen found in gasoline.",
+        "cn": "苯是汽油中发现的一种已知致癌物。"
+      },
+      {
+        "en": "The benzene molecule has a ring structure.",
+        "cn": "苯分子具有环状结构。"
+      }
+    ]
+  },
+  {
+    "word": "valence",
+    "phonetic": "/ˈveɪləns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the combining power of an element, measured by the number of hydrogen atoms it can attach to"
+      }
+    ],
+    "roots": [
+      {
+        "part": "val-",
+        "meaning": "strength, worth"
+      },
+      {
+        "part": "-ence",
+        "meaning": "state or quality"
+      }
+    ],
+    "translations": [
+      "化合价",
+      "原子价"
+    ],
+    "examples": [
+      {
+        "en": "Carbon has a valence of four.",
+        "cn": "碳的化合价是四。"
+      },
+      {
+        "en": "Valence electrons are involved in chemical bonding.",
+        "cn": "价电子参与化学键合。"
+      }
+    ]
+  },
+  {
+    "word": "devise",
+    "phonetic": "/dɪˈvaɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to plan or invent a complex procedure or system"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "from"
+      },
+      {
+        "part": "vis",
+        "meaning": "to see"
+      }
+    ],
+    "translations": [
+      "设计",
+      "发明",
+      "策划"
+    ],
+    "examples": [
+      {
+        "en": "They devised a plan to escape.",
+        "cn": "他们策划了一个逃跑计划。"
+      },
+      {
+        "en": "The engineer devised a new type of engine.",
+        "cn": "工程师设计了一种新型发动机。"
+      }
+    ]
+  },
+  {
+    "word": "ruthless",
+    "phonetic": "/ˈruːθləs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having no pity or compassion; merciless"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ruth",
+        "meaning": "pity, compassion"
+      },
+      {
+        "part": "-less",
+        "meaning": "without"
+      }
+    ],
+    "translations": [
+      "无情的",
+      "残忍的"
+    ],
+    "examples": [
+      {
+        "en": "The dictator was ruthless in suppressing opposition.",
+        "cn": "独裁者无情地镇压反对派。"
+      },
+      {
+        "en": "A ruthless competitor will do anything to win.",
+        "cn": "一个无情的竞争对手会不惜一切代价取胜。"
+      }
+    ]
+  },
+  {
+    "word": "hygiene",
+    "phonetic": "/ˈhaɪdʒiːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "conditions or practices conducive to maintaining health and preventing disease"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hygie-",
+        "meaning": "health (from Hygieia, goddess of health)"
+      },
+      {
+        "part": "-ene",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "卫生",
+      "保健"
+    ],
+    "examples": [
+      {
+        "en": "Good personal hygiene includes regular handwashing.",
+        "cn": "良好的个人卫生包括经常洗手。"
+      },
+      {
+        "en": "Dental hygiene is important for preventing cavities.",
+        "cn": "口腔卫生对预防蛀牙很重要。"
+      }
+    ]
+  },
+  {
+    "word": "deference",
+    "phonetic": "/ˈdefərəns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "humble respect and submission; courteous regard for another's opinion"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "down"
+      },
+      {
+        "part": "fer",
+        "meaning": "to carry"
+      },
+      {
+        "part": "-ence",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "尊重",
+      "顺从",
+      "敬意"
+    ],
+    "examples": [
+      {
+        "en": "In deference to his age, we let him go first.",
+        "cn": "出于对他年长的尊重，我们让他先走。"
+      },
+      {
+        "en": "She treated her teacher with deference.",
+        "cn": "她对老师毕恭毕敬。"
+      }
+    ]
+  },
+  {
+    "word": "thoughtprovoking",
+    "phonetic": "/ˈθɔːt prəˌvoʊkɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "stimulating careful consideration or reflection"
+      }
+    ],
+    "roots": [
+      {
+        "part": "thought",
+        "meaning": "idea"
+      },
+      {
+        "part": "provoke",
+        "meaning": "to stir up"
+      }
+    ],
+    "translations": [
+      "发人深省的"
+    ],
+    "examples": [
+      {
+        "en": "The documentary was thought-provoking and challenging.",
+        "cn": "这部纪录片发人深省且具有挑战性。"
+      },
+      {
+        "en": "She asked a thought-provoking question about the future.",
+        "cn": "她问了一个关于未来的发人深省的问题。"
+      }
+    ]
+  },
+  {
+    "word": "camaraderie",
+    "phonetic": "/ˌkɑːməˈrɑːdəri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "mutual trust and friendship among people who spend time together"
+      }
+    ],
+    "roots": [
+      {
+        "part": "camarade",
+        "meaning": "comrade (French)"
+      },
+      {
+        "part": "-erie",
+        "meaning": "collective noun suffix"
+      }
+    ],
+    "translations": [
+      "同志情谊",
+      "友情"
+    ],
+    "examples": [
+      {
+        "en": "The team's camaraderie helped them win the championship.",
+        "cn": "团队的同志情谊帮助他们赢得了冠军。"
+      },
+      {
+        "en": "There is a strong sense of camaraderie among the firefighters.",
+        "cn": "消防员之间有强烈的同袍情谊。"
+      }
+    ]
+  },
+  {
+    "word": "avocado",
+    "phonetic": "/ˌævəˈkɑːdoʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a pear-shaped fruit with green flesh and a large seed, rich in oil"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（源自纳瓦特尔语）"
+      }
+    ],
+    "translations": [
+      "牛油果",
+      "鳄梨"
+    ],
+    "examples": [
+      {
+        "en": "Avocado toast is a popular breakfast item.",
+        "cn": "牛油果吐司是受欢迎的早餐食品。"
+      },
+      {
+        "en": "Guacamole is made from mashed avocado.",
+        "cn": "鳄梨酱由捣碎的牛油果制成。"
+      }
+    ]
+  },
+  {
+    "word": "rancher",
+    "phonetic": "/ˈræntʃər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who owns or operates a ranch, raising livestock or crops"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ranch",
+        "meaning": "large farm"
+      },
+      {
+        "part": "-er",
+        "meaning": "person who does"
+      }
+    ],
+    "translations": [
+      "牧场主",
+      "农场主"
+    ],
+    "examples": [
+      {
+        "en": "The rancher rounded up the cattle.",
+        "cn": "牧场主把牛赶拢在一起。"
+      },
+      {
+        "en": "Many ranchers in Texas raise beef cattle.",
+        "cn": "德克萨斯州的许多牧场主饲养肉牛。"
+      }
+    ]
+  },
+  {
+    "word": "distend",
+    "phonetic": "/dɪˈstend/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to swell or stretch from internal pressure"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dis-",
+        "meaning": "apart"
+      },
+      {
+        "part": "tend",
+        "meaning": "to stretch"
+      }
+    ],
+    "translations": [
+      "膨胀",
+      "肿胀"
+    ],
+    "examples": [
+      {
+        "en": "His stomach distended after the huge meal.",
+        "cn": "大餐之后他的胃鼓了起来。"
+      },
+      {
+        "en": "The balloon distended as it was filled with air.",
+        "cn": "气球充气后膨胀起来。"
+      }
+    ]
+  },
+  {
+    "word": "condolence",
+    "phonetic": "/kənˈdoʊləns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an expression of sympathy, especially on the occasion of a death"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "with"
+      },
+      {
+        "part": "dol",
+        "meaning": "grieve"
+      },
+      {
+        "part": "-ence",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "哀悼",
+      "吊唁"
+    ],
+    "examples": [
+      {
+        "en": "We sent our condolences to the bereaved family.",
+        "cn": "我们向死者家属致以哀悼。"
+      },
+      {
+        "en": "Please accept my sincere condolences.",
+        "cn": "请接受我诚挚的吊唁。"
+      }
+    ]
+  },
+  {
+    "word": "mothball",
+    "phonetic": "/ˈmɔːθbɔːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a ball of chemical (e.g., naphthalene) used to repel moths from stored clothing"
+      },
+      {
+        "pos": "v.",
+        "translation": "to put into storage or disuse; to postpone or deactivate"
+      }
+    ],
+    "roots": [
+      {
+        "part": "moth",
+        "meaning": "insect"
+      },
+      {
+        "part": "ball",
+        "meaning": "spherical shape"
+      }
+    ],
+    "translations": [
+      "樟脑丸",
+      "封存"
+    ],
+    "examples": [
+      {
+        "en": "They placed mothballs in the closet to protect wool sweaters.",
+        "cn": "他们在壁橱里放了樟脑丸来保护羊毛衫。"
+      },
+      {
+        "en": "The project was mothballed due to lack of funding.",
+        "cn": "该项目因缺乏资金而被搁置。"
+      }
+    ]
+  },
+  {
+    "word": "extrapolate",
+    "phonetic": "/ɪkˈstræpəleɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to estimate or conclude unknown information by extending from known data"
+      }
+    ],
+    "roots": [
+      {
+        "part": "extra-",
+        "meaning": "outside"
+      },
+      {
+        "part": "polate",
+        "meaning": "to polish, smooth"
+      }
+    ],
+    "translations": [
+      "外推",
+      "推断"
+    ],
+    "examples": [
+      {
+        "en": "Based on the first quarter results, we can extrapolate annual earnings.",
+        "cn": "根据第一季度结果，我们可以推断全年收益。"
+      },
+      {
+        "en": "Scientists extrapolate climate trends from historical data.",
+        "cn": "科学家从历史数据外推气候趋势。"
+      }
+    ]
+  },
+  {
+    "word": "cockatoo",
+    "phonetic": "/ˈkɑːkətuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a crested parrot from Australia, known for its loud call and ability to mimic speech"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（源自马来语）"
+      }
+    ],
+    "translations": [
+      "凤头鹦鹉"
+    ],
+    "examples": [
+      {
+        "en": "The cockatoo raised its crest and screeched.",
+        "cn": "凤头鹦鹉竖起羽冠尖叫起来。"
+      },
+      {
+        "en": "A white cockatoo can live for many decades in captivity.",
+        "cn": "一只白凤头鹦鹉被圈养可以活数十年。"
+      }
+    ]
+  },
+  {
+    "word": "anthropomorphize",
+    "phonetic": "/ˌænθrəpəˈmɔːrfaɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to attribute human characteristics or behavior to non-human entities (animals, objects, or gods)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "anthropo-",
+        "meaning": "human"
+      },
+      {
+        "part": "morph",
+        "meaning": "shape, form"
+      },
+      {
+        "part": "-ize",
+        "meaning": "to make"
+      }
+    ],
+    "translations": [
+      "拟人化"
+    ],
+    "examples": [
+      {
+        "en": "Children often anthropomorphize their stuffed animals, giving them names and feelings.",
+        "cn": "孩子们常常将他们的毛绒玩具拟人化，给它们起名字并赋予情感。"
+      },
+      {
+        "en": "In cartoons, animals are frequently anthropomorphized.",
+        "cn": "在卡通片中，动物经常被拟人化。"
+      }
+    ]
+  },
+  {
+    "word": "anthropology",
+    "phonetic": "/ˌænθrəˈpɑːlədʒi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the study of human societies, cultures, and their development"
+      }
+    ],
+    "roots": [
+      {
+        "part": "anthropo-",
+        "meaning": "human"
+      },
+      {
+        "part": "-logy",
+        "meaning": "study of"
+      }
+    ],
+    "translations": [
+      "人类学"
+    ],
+    "examples": [
+      {
+        "en": "She majored in anthropology and studied ancient civilizations.",
+        "cn": "她主修人类学，研究古代文明。"
+      },
+      {
+        "en": "Cultural anthropology explores the diversity of human behavior.",
+        "cn": "文化人类学探索人类行为的多样性。"
+      }
+    ]
+  },
+  {
+    "word": "deficiency",
+    "phonetic": "/dɪˈfɪʃənsi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a lack or shortage of something necessary; a flaw or shortcoming"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "away from"
+      },
+      {
+        "part": "fic",
+        "meaning": "to do, make"
+      },
+      {
+        "part": "-ency",
+        "meaning": "state or quality"
+      }
+    ],
+    "translations": [
+      "缺乏",
+      "不足",
+      "缺陷"
+    ],
+    "examples": [
+      {
+        "en": "Iron deficiency can cause anemia.",
+        "cn": "缺铁会导致贫血。"
+      },
+      {
+        "en": "The project failed due to a deficiency in planning.",
+        "cn": "该项目因规划上的缺陷而失败。"
+      }
+    ]
+  },
+  {
+    "word": "crate",
+    "phonetic": "/kreɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a slatted wooden or plastic container for transporting goods"
+      },
+      {
+        "pos": "v.",
+        "translation": "to pack into a crate"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "板条箱",
+      "箱子",
+      "装入箱中"
+    ],
+    "examples": [
+      {
+        "en": "The oranges were shipped in wooden crates.",
+        "cn": "橙子用木条箱运输。"
+      },
+      {
+        "en": "They crated the artwork for the move.",
+        "cn": "他们把艺术品装箱准备搬迁。"
+      }
+    ]
+  },
+  {
+    "word": "beverage",
+    "phonetic": "/ˈbevərɪdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a drinkable liquid, other than water; a drink"
+      }
+    ],
+    "roots": [
+      {
+        "part": "bever",
+        "meaning": "to drink (from Old French boivre)"
+      },
+      {
+        "part": "-age",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "饮料"
+    ],
+    "examples": [
+      {
+        "en": "Soft beverages are high in sugar.",
+        "cn": "软饮料含糖量高。"
+      },
+      {
+        "en": "The event will include a selection of hot and cold beverages.",
+        "cn": "活动将包含一系列冷热饮料。"
+      }
+    ]
+  },
+  {
+    "word": "recreational",
+    "phonetic": "/ˌrekriˈeɪʃənl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to activities done for enjoyment or relaxation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "recreat-",
+        "meaning": "to refresh"
+      },
+      {
+        "part": "-ional",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "娱乐的",
+      "消遣的"
+    ],
+    "examples": [
+      {
+        "en": "The city has many recreational facilities like parks and swimming pools.",
+        "cn": "该市有许多娱乐设施，如公园和游泳池。"
+      },
+      {
+        "en": "Recreational drug use is illegal in many countries.",
+        "cn": "在许多国家，吸食娱乐性毒品是非法的。"
+      }
+    ]
+  },
+  {
+    "word": "recreation",
+    "phonetic": "/ˌrekriˈeɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "activity done for enjoyment when one is not working; the act of creating something again"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "again"
+      },
+      {
+        "part": "creation",
+        "meaning": "creating"
+      }
+    ],
+    "translations": [
+      "娱乐",
+      "消遣",
+      "再造"
+    ],
+    "examples": [
+      {
+        "en": "His favorite recreation is hiking in the mountains.",
+        "cn": "他最喜欢的消遣是去山里徒步。"
+      },
+      {
+        "en": "The museum includes a historically accurate recreation of a colonial kitchen.",
+        "cn": "博物馆包含对殖民时期厨房的历史精确再现。"
+      }
+    ]
+  },
+  {
+    "word": "ventriloquism",
+    "phonetic": "/venˈtrɪləkwɪzəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the art of speaking in a way that makes the voice seem to come from elsewhere, usually a puppet"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ventri-",
+        "meaning": "belly"
+      },
+      {
+        "part": "loqu",
+        "meaning": "speak"
+      },
+      {
+        "part": "-ism",
+        "meaning": "practice"
+      }
+    ],
+    "translations": [
+      "腹语术"
+    ],
+    "examples": [
+      {
+        "en": "The ventriloquism show amazed the children with the talking dummy.",
+        "cn": "腹语表演中会说话的假人让孩子们惊叹不已。"
+      },
+      {
+        "en": "He practiced ventriloquism for years to perfect his act.",
+        "cn": "他练习腹语多年以完善他的表演。"
+      }
+    ]
+  },
+  {
+    "word": "objectionable",
+    "phonetic": "/əbˈdʒekʃənəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "arousing disapproval or opposition; unpleasant or offensive"
+      }
+    ],
+    "roots": [
+      {
+        "part": "object",
+        "meaning": "to oppose"
+      },
+      {
+        "part": "-ion",
+        "meaning": "noun suffix"
+      },
+      {
+        "part": "-able",
+        "meaning": "worthy of"
+      }
+    ],
+    "translations": [
+      "令人反感的",
+      "讨厌的"
+    ],
+    "examples": [
+      {
+        "en": "The movie was full of objectionable language.",
+        "cn": "那部电影充满了令人反感的语言。"
+      },
+      {
+        "en": "His behavior is highly objectionable to most people.",
+        "cn": "他的行为对大多数人来说非常讨厌。"
+      }
+    ]
+  },
+  {
+    "word": "monolithic",
+    "phonetic": "/ˌmɑːnəˈlɪθɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "large, solid, and uniform; consisting of a single massive block; characterized by rigidity and lack of diversity"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mono-",
+        "meaning": "one, single"
+      },
+      {
+        "part": "lith",
+        "meaning": "stone"
+      },
+      {
+        "part": "-ic",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "巨大的",
+      "整体的",
+      "铁板一块的"
+    ],
+    "examples": [
+      {
+        "en": "The government is not a monolithic entity; it has many different factions.",
+        "cn": "政府不是一个铁板一块的实体；它有许多不同的派系。"
+      },
+      {
+        "en": "The monolithic rock stood in the center of the plain.",
+        "cn": "巨石矗立在平原中央。"
+      }
+    ]
+  },
+  {
+    "word": "hominid",
+    "phonetic": "/ˈhɑːmɪnɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a family of primates that includes humans and their fossil ancestors (e.g., Australopithecus, Homo)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "homin-",
+        "meaning": "human"
+      },
+      {
+        "part": "-id",
+        "meaning": "member of a family"
+      }
+    ],
+    "translations": [
+      "人科动物"
+    ],
+    "examples": [
+      {
+        "en": "Hominids began using stone tools millions of years ago.",
+        "cn": "人科动物在数百万年前开始使用石器。"
+      },
+      {
+        "en": "Modern humans are the only surviving hominids.",
+        "cn": "现代人是唯一幸存的人科动物。"
+      }
+    ]
+  },
+  {
+    "word": "prudent",
+    "phonetic": "/ˈpruːdnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "acting with or showing care and thought for the future; wise and cautious"
+      }
+    ],
+    "roots": [
+      {
+        "part": "prud-",
+        "meaning": "to see, know"
+      },
+      {
+        "part": "-ent",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "谨慎的",
+      "明智的"
+    ],
+    "examples": [
+      {
+        "en": "It is prudent to save money for emergencies.",
+        "cn": "存钱以备不时之需是明智的。"
+      },
+      {
+        "en": "A prudent investor diversifies their portfolio.",
+        "cn": "谨慎的投资者会分散投资组合。"
+      }
+    ]
+  },
+  {
+    "word": "cautious",
+    "phonetic": "/ˈkɔːʃəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "careful to avoid potential problems or dangers"
+      }
+    ],
+    "roots": [
+      {
+        "part": "caut-",
+        "meaning": "care"
+      },
+      {
+        "part": "-ious",
+        "meaning": "full of"
+      }
+    ],
+    "translations": [
+      "小心的",
+      "谨慎的"
+    ],
+    "examples": [
+      {
+        "en": "The cautious driver slowed down in the rain.",
+        "cn": "谨慎的司机在雨中减速。"
+      },
+      {
+        "en": "After being burned, she is cautious about touching hot surfaces.",
+        "cn": "被烫伤后，她接触热的表面变得很小心。"
+      }
+    ]
+  },
+  {
+    "word": "harnes",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n./v.",
+        "translation": "likely a misspelling of 'harness'; equipment for a horse or to control and use a resource"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "疑似拼写错误，正确形式为 harness"
+      }
+    ],
+    "translations": [
+      "（应为 harness）马具",
+      "利用"
+    ],
+    "examples": [
+      {
+        "en": "The correct spelling is 'harness', meaning to control and use a resource or equipment for an animal.",
+        "cn": "正确拼写是 'harness'，意为控制利用资源或牲畜装备。"
+      }
+    ]
+  },
+  {
+    "word": "incontinence",
+    "phonetic": "/ɪnˈkɑːntɪnəns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "lack of voluntary control over urination or defecation; lack of self-restraint"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "not"
+      },
+      {
+        "part": "continent",
+        "meaning": "restraining"
+      },
+      {
+        "part": "-ence",
+        "meaning": "state"
+      }
+    ],
+    "translations": [
+      "失禁",
+      "无节制"
+    ],
+    "examples": [
+      {
+        "en": "Incontinence is a common problem in elderly people.",
+        "cn": "失禁是老年人常见的问题。"
+      },
+      {
+        "en": "The patient was treated for urinary incontinence.",
+        "cn": "该患者因尿失禁接受治疗。"
+      }
+    ]
+  },
+  {
+    "word": "tangent",
+    "phonetic": "/ˈtændʒənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a straight line that touches a curve at a single point; a sudden change of topic in speaking"
+      },
+      {
+        "pos": "adj.",
+        "translation": "touching at a single point"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tang-",
+        "meaning": "to touch"
+      },
+      {
+        "part": "-ent",
+        "meaning": "noun/adj suffix"
+      }
+    ],
+    "translations": [
+      "切线",
+      "离题"
+    ],
+    "examples": [
+      {
+        "en": "He went off on a tangent about his fishing trip.",
+        "cn": "他突然岔开话题去讲他的钓鱼之旅。"
+      },
+      {
+        "en": "The tangent line touches the circle at exactly one point.",
+        "cn": "切线正好在一点上接触圆。"
+      }
+    ]
+  },
+  {
+    "word": "asymptote",
+    "phonetic": "/ˈæsɪmptoʊt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a line that a curve approaches but never reaches"
+      }
+    ],
+    "roots": [
+      {
+        "part": "a-",
+        "meaning": "not"
+      },
+      {
+        "part": "symp-",
+        "meaning": "together"
+      },
+      {
+        "part": "tote",
+        "meaning": "to fall"
+      }
+    ],
+    "translations": [
+      "渐近线"
+    ],
+    "examples": [
+      {
+        "en": "In mathematics, the x-axis is an asymptote of the function y = 1/x.",
+        "cn": "在数学中，x轴是函数 y = 1/x 的一条渐近线。"
+      },
+      {
+        "en": "The curve approaches the asymptote but never touches it.",
+        "cn": "曲线趋近于渐近线但永远不与之接触。"
+      }
+    ]
+  },
+  {
+    "word": "salami",
+    "phonetic": "/səˈlɑːmi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a type of cured sausage, typically made from fermented and air-dried meat"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（意大利语借词）"
+      }
+    ],
+    "translations": [
+      "萨拉米香肠"
+    ],
+    "examples": [
+      {
+        "en": "The pizza was topped with pepperoni and salami.",
+        "cn": "披萨上加了意大利辣香肠和萨拉米香肠。"
+      },
+      {
+        "en": "Salami sandwiches are a popular lunch item.",
+        "cn": "萨拉米香肠三明治是受欢迎的午餐食品。"
+      }
+    ]
+  },
+  {
+    "word": "dental floss",
+    "phonetic": "/ˈdentl flɔːs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a thin thread used to clean between the teeth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dental",
+        "meaning": "relating to teeth"
+      },
+      {
+        "part": "floss",
+        "meaning": "fine thread"
+      }
+    ],
+    "translations": [
+      "牙线"
+    ],
+    "examples": [
+      {
+        "en": "Dentists recommend using dental floss daily to prevent gum disease.",
+        "cn": "牙医建议每天使用牙线以预防牙龈疾病。"
+      },
+      {
+        "en": "She picks up dental floss at the grocery store.",
+        "cn": "她在杂货店买牙线。"
+      }
+    ]
+  },
+  {
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "of considerable importance, size, or worth; solid and strong"
+      }
+    ],
+    "roots": [
+      {
+        "part": "substant-",
+        "meaning": "substance, essence"
+      },
+      {
+        "part": "-ial",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "大量的",
+      "坚固的",
+      "实质性的"
+    ],
+    "examples": [
+      {
+        "en": "A substantial amount of money was donated.",
+        "cn": "捐赠了一大笔钱。"
+      },
+      {
+        "en": "The house is built on a substantial foundation.",
+        "cn": "房子的地基很坚固。"
+      }
+    ]
+  },
+  {
+    "word": "herculean",
+    "phonetic": "/ˌhɜːrkjəˈliːən/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "requiring great strength or effort; impossibly difficult (from Hercules, the mythical hero)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "Hercule-",
+        "meaning": "Hercules (mythological hero)"
+      },
+      {
+        "part": "-an",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "艰巨的",
+      "大力神的"
+    ],
+    "examples": [
+      {
+        "en": "Cleaning up the oil spill was a herculean task.",
+        "cn": "清理泄漏的石油是一项艰巨的任务。"
+      },
+      {
+        "en": "He made a herculean effort to finish the marathon.",
+        "cn": "他付出巨大努力完成了马拉松。"
+      }
+    ]
+  },
+  {
+    "word": "assault",
+    "phonetic": "/əˈsɔːlt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a physical attack; a military attack"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make a physical attack on; to attack verbally"
+      }
+    ],
+    "roots": [
+      {
+        "part": "as-",
+        "meaning": "toward"
+      },
+      {
+        "part": "sault",
+        "meaning": "to leap"
+      }
+    ],
+    "translations": [
+      "攻击",
+      "袭击",
+      "侵犯"
+    ],
+    "examples": [
+      {
+        "en": "He was charged with assault and battery.",
+        "cn": "他被指控人身攻击和殴打。"
+      },
+      {
+        "en": "The army launched an assault on the enemy position.",
+        "cn": "军队向敌人阵地发起了攻击。"
+      }
+    ]
+  },
+  {
+    "word": "insult",
+    "phonetic": "/ɪnˈsʌlt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to speak to or treat with disrespect or scorn"
+      },
+      {
+        "pos": "n.",
+        "translation": "an offensive remark or action"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "on"
+      },
+      {
+        "part": "sult",
+        "meaning": "to leap"
+      }
+    ],
+    "translations": [
+      "侮辱",
+      "冒犯"
+    ],
+    "examples": [
+      {
+        "en": "She felt insulted by his rude comments.",
+        "cn": "她被他粗鲁的评论冒犯了。"
+      },
+      {
+        "en": "The remark was an insult to her intelligence.",
+        "cn": "那话是对她智力的侮辱。"
+      }
+    ]
+  },
+  {
+    "word": "homogenous",
+    "phonetic": "/həˈmɑːdʒənəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "of the same kind; uniform in composition or character"
+      }
+    ],
+    "roots": [
+      {
+        "part": "homo-",
+        "meaning": "same"
+      },
+      {
+        "part": "gen",
+        "meaning": "kind, race"
+      },
+      {
+        "part": "-ous",
+        "meaning": "full of"
+      }
+    ],
+    "translations": [
+      "同质的",
+      "均匀的"
+    ],
+    "examples": [
+      {
+        "en": "The population of the small town was surprisingly homogenous.",
+        "cn": "小镇的人口惊人地同质化。"
+      },
+      {
+        "en": "A homogenous mixture has the same composition throughout.",
+        "cn": "均匀混合物各处的成分相同。"
+      }
+    ]
+  },
+  {
+    "word": "futility",
+    "phonetic": "/fjuːˈtɪləti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "pointlessness; the quality of having no useful result"
+      }
+    ],
+    "roots": [
+      {
+        "part": "futil-",
+        "meaning": "leaky, useless"
+      },
+      {
+        "part": "-ity",
+        "meaning": "state or quality"
+      }
+    ],
+    "translations": [
+      "徒劳",
+      "无用"
+    ],
+    "examples": [
+      {
+        "en": "He realized the futility of trying to argue with them.",
+        "cn": "他意识到试图与他们争论是徒劳的。"
+      },
+      {
+        "en": "The poem expresses the futility of war.",
+        "cn": "这首诗表达了战争的徒劳。"
+      }
+    ]
+  }
+]

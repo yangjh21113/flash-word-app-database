@@ -1,0 +1,1426 @@
+[
+  {
+    "word": "anecdotal",
+    "phonetic": "/ˌænɪkˈdoʊtl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "based on casual observations or indications rather than rigorous proof; consisting of or relating to anecdotes"
+      }
+    ],
+    "roots": [
+      {
+        "part": "anecdote",
+        "meaning": "逸事，趣闻"
+      },
+      {
+        "part": "-al",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "轶事的",
+      "趣闻的",
+      "传闻的",
+      "缺乏事实依据的"
+    ],
+    "examples": [
+      {
+        "en": "The evidence is purely anecdotal.",
+        "cn": "这证据纯粹是传闻。"
+      },
+      {
+        "en": "His report is filled with anecdotal details.",
+        "cn": "他的报告充满了轶事细节。"
+      }
+    ]
+  },
+  {
+    "word": "decapitate",
+    "phonetic": "/dɪˈkæpɪteɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to cut off the head of; to execute by beheading"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "除去，离开"
+      },
+      {
+        "part": "capit",
+        "meaning": "头"
+      },
+      {
+        "part": "-ate",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "斩首",
+      "杀头"
+    ],
+    "examples": [
+      {
+        "en": "The king was decapitated during the revolution.",
+        "cn": "国王在革命中被斩首。"
+      },
+      {
+        "en": "The statue's head had been decapitated.",
+        "cn": "雕像的头被砍掉了。"
+      }
+    ]
+  },
+  {
+    "word": "plumage",
+    "phonetic": "/ˈpluːmɪdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the feathers covering a bird's body"
+      }
+    ],
+    "roots": [
+      {
+        "part": "plume",
+        "meaning": "羽毛"
+      },
+      {
+        "part": "-age",
+        "meaning": "集合名词后缀"
+      }
+    ],
+    "translations": [
+      "（鸟类的）羽毛",
+      "羽衣"
+    ],
+    "examples": [
+      {
+        "en": "The peacock's plumage is very colorful.",
+        "cn": "孔雀的羽毛色彩斑斓。"
+      },
+      {
+        "en": "Birds molt their plumage annually.",
+        "cn": "鸟类每年换羽。"
+      }
+    ]
+  },
+  {
+    "word": "baboon",
+    "phonetic": "/bəˈbuːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large monkey of the genus Papio, found in Africa and Arabia, with a long doglike snout and large teeth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "狒狒"
+    ],
+    "examples": [
+      {
+        "en": "Baboons live in large social groups.",
+        "cn": "狒狒生活在大型社会群体中。"
+      }
+    ]
+  },
+  {
+    "word": "engroged",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to engross; to absorb all the attention or interest of (archaic or obsolete form)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "使全神贯注（古体）"
+    ],
+    "examples": []
+  },
+  {
+    "word": "hindquarter",
+    "phonetic": "/ˈhaɪndˌkwɔːrtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the back part of a four-legged animal, including the hind leg and rump; the rear part of anything"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hind",
+        "meaning": "后面的"
+      },
+      {
+        "part": "quarter",
+        "meaning": "四分之一，部位"
+      }
+    ],
+    "translations": [
+      "（动物的）后腿及臀部",
+      "后部"
+    ],
+    "examples": [
+      {
+        "en": "The hunter aimed at the deer's hindquarter.",
+        "cn": "猎人瞄准了鹿的后腿部位。"
+      }
+    ]
+  },
+  {
+    "word": "mitzvah",
+    "phonetic": "/ˈmɪtsvə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a commandment or good deed performed as a religious duty in Judaism; an act of human kindness"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "希伯来语借词"
+      }
+    ],
+    "translations": [
+      "（犹太教中的）戒律",
+      "善行",
+      "功德"
+    ],
+    "examples": [
+      {
+        "en": "He performed a mitzvah by helping the elderly woman.",
+        "cn": "他帮助了那位老妇人，做了一件善事。"
+      }
+    ]
+  },
+  {
+    "word": "pinkeye",
+    "phonetic": "/ˈpɪŋkˌaɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an inflammation of the conjunctiva of the eye, causing redness and discharge; conjunctivitis"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pink",
+        "meaning": "粉红色"
+      },
+      {
+        "part": "eye",
+        "meaning": "眼睛"
+      }
+    ],
+    "translations": [
+      "红眼病",
+      "急性结膜炎"
+    ],
+    "examples": [
+      {
+        "en": "Pinkeye is highly contagious among children.",
+        "cn": "红眼病在儿童中极易传染。"
+      }
+    ]
+  },
+  {
+    "word": "wingman",
+    "phonetic": "/ˈwɪŋmən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a pilot who flies in a position behind and to the side of a leader in an aircraft formation; a friend who accompanies a person to social events to assist them in romantic pursuits (slang)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "wing",
+        "meaning": "机翼；侧翼"
+      },
+      {
+        "part": "man",
+        "meaning": "人"
+      }
+    ],
+    "translations": [
+      "僚机飞行员",
+      "（社交中）帮人把妹/牵线的朋友"
+    ],
+    "examples": [
+      {
+        "en": "He acted as my wingman at the bar.",
+        "cn": "他在酒吧里当我的僚机（帮忙搭讪的朋友）。"
+      }
+    ]
+  },
+  {
+    "word": "paramedic",
+    "phonetic": "/ˌpærəˈmedɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person trained to provide emergency medical care, typically in an ambulance or as part of a rescue team"
+      }
+    ],
+    "roots": [
+      {
+        "part": "para-",
+        "meaning": "辅助，旁"
+      },
+      {
+        "part": "medic",
+        "meaning": "医生"
+      }
+    ],
+    "translations": [
+      "护理人员",
+      "急救员",
+      "医务辅助人员"
+    ],
+    "examples": [
+      {
+        "en": "The paramedic rushed to the accident scene.",
+        "cn": "急救员赶到了事故现场。"
+      }
+    ]
+  },
+  {
+    "word": "scooter",
+    "phonetic": "/ˈskuːtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a light two-wheeled vehicle propelled by a motor or by pushing off the ground with one foot; a child's vehicle with two wheels and a steering column"
+      }
+    ],
+    "roots": [
+      {
+        "part": "scoot",
+        "meaning": "疾走"
+      },
+      {
+        "part": "-er",
+        "meaning": "物品后缀"
+      }
+    ],
+    "translations": [
+      "小型摩托车",
+      "滑板车"
+    ],
+    "examples": [
+      {
+        "en": "Kids love riding scooters in the park.",
+        "cn": "孩子们喜欢在公园里骑滑板车。"
+      }
+    ]
+  },
+  {
+    "word": "greasy",
+    "phonetic": "/ˈɡriːzi/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "covered with or resembling grease; oily; slippery; (of a person) unctuous or ingratiating"
+      }
+    ],
+    "roots": [
+      {
+        "part": "grease",
+        "meaning": "油脂"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "油腻的",
+      "沾有油脂的",
+      "滑溜的",
+      "谄媚的"
+    ],
+    "examples": [
+      {
+        "en": "This fried chicken is too greasy.",
+        "cn": "这炸鸡太油腻了。"
+      },
+      {
+        "en": "His greasy smile made me uncomfortable.",
+        "cn": "他谄媚的笑容让我不舒服。"
+      }
+    ]
+  },
+  {
+    "word": "dumpster",
+    "phonetic": "/ˈdʌmpstər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large metal container for trash, typically used at construction sites or commercial establishments (trademark)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dump",
+        "meaning": "倾倒垃圾"
+      },
+      {
+        "part": "-ster",
+        "meaning": "工具或物后缀"
+      }
+    ],
+    "translations": [
+      "大型垃圾箱",
+      "垃圾斗"
+    ],
+    "examples": [
+      {
+        "en": "They threw the old furniture into the dumpster.",
+        "cn": "他们把旧家具扔进了大垃圾箱。"
+      }
+    ]
+  },
+  {
+    "word": "quint",
+    "phonetic": "/kwɪnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sequence of five cards of the same suit in card games; one of five children born at the same birth (short for quintuplet); a fifth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "quint-",
+        "meaning": "五"
+      }
+    ],
+    "translations": [
+      "（纸牌）同花顺五张",
+      "五胞胎之一",
+      "五分之一"
+    ],
+    "examples": [
+      {
+        "en": "He was one of identical quints.",
+        "cn": "他是同卵五胞胎之一。"
+      }
+    ]
+  },
+  {
+    "word": "defcon",
+    "phonetic": "/ˈdɛfkɒn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "Defense Readiness Condition; a scale of alert levels used by the U.S. military"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "缩写词"
+      }
+    ],
+    "translations": [
+      "战备等级",
+      "防御就绪状态"
+    ],
+    "examples": [
+      {
+        "en": "The military raised the DEFCON level to 2.",
+        "cn": "军方将战备等级提升至二级。"
+      }
+    ]
+  },
+  {
+    "word": "stipulate",
+    "phonetic": "/ˈstɪpjuleɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to specify a condition or requirement as part of an agreement; to demand expressly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "stipul",
+        "meaning": "要求，约定"
+      },
+      {
+        "part": "-ate",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "规定",
+      "明确要求",
+      "约定"
+    ],
+    "examples": [
+      {
+        "en": "The contract stipulates that payment must be made in 30 days.",
+        "cn": "合同规定必须在30天内付款。"
+      },
+      {
+        "en": "She stipulated that her name not be used.",
+        "cn": "她要求不要使用她的名字。"
+      }
+    ]
+  },
+  {
+    "word": "voyage",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a long journey by sea, space, or other means"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make a long journey, especially by sea"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "航行",
+      "旅行",
+      "航程"
+    ],
+    "examples": [
+      {
+        "en": "The voyage across the Atlantic took three weeks.",
+        "cn": "横渡大西洋的航行花了三周。"
+      },
+      {
+        "en": "They voyaged to distant lands.",
+        "cn": "他们航行至遥远的土地。"
+      }
+    ]
+  },
+  {
+    "word": "ditch",
+    "phonetic": "/dɪtʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a narrow trench dug in the ground for drainage or irrigation"
+      },
+      {
+        "pos": "v.",
+        "translation": "to dig a ditch; to abandon or get rid of someone or something; to make an emergency landing on water (of aircraft)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "沟渠",
+      "抛弃",
+      "摆脱",
+      "（飞机）水上迫降"
+    ],
+    "examples": [
+      {
+        "en": "The car skidded into the ditch.",
+        "cn": "汽车滑进了沟里。"
+      },
+      {
+        "en": "He ditched his old friends after getting rich.",
+        "cn": "他发财后抛弃了老朋友。"
+      }
+    ]
+  },
+  {
+    "word": "barium",
+    "phonetic": "/ˈbɛriəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft, silvery-white metallic chemical element (Ba); used in contrast agents for X-ray imaging"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "化学元素名"
+      }
+    ],
+    "translations": [
+      "钡"
+    ],
+    "examples": [
+      {
+        "en": "Patients drink a barium solution before a stomach X-ray.",
+        "cn": "患者在胃部X光前喝下钡溶液。"
+      }
+    ]
+  },
+  {
+    "word": "enema",
+    "phonetic": "/ˈɛnəmə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a procedure in which fluid is injected into the rectum to stimulate bowel movement or administer medication"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "灌肠",
+      "灌肠剂"
+    ],
+    "examples": [
+      {
+        "en": "The nurse administered an enema to the constipated patient.",
+        "cn": "护士给便秘的病人进行了灌肠。"
+      }
+    ]
+  },
+  {
+    "word": "fiasco",
+    "phonetic": "/fiˈæskoʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a complete and ridiculous failure, especially of a planned event or performance"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "意大利语借词"
+      }
+    ],
+    "translations": [
+      "惨败",
+      "彻底失败",
+      "闹剧"
+    ],
+    "examples": [
+      {
+        "en": "The party was a complete fiasco.",
+        "cn": "聚会彻底搞砸了。"
+      }
+    ]
+  },
+  {
+    "word": "clearance",
+    "phonetic": "/ˈklɪrəns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the action of removing obstacles or unwanted items; official permission, especially to access classified information; the distance between two objects"
+      }
+    ],
+    "roots": [
+      {
+        "part": "clear",
+        "meaning": "清除"
+      },
+      {
+        "part": "-ance",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "清除",
+      "清理",
+      "许可",
+      "间隙",
+      "净空"
+    ],
+    "examples": [
+      {
+        "en": "He has security clearance for top-secret files.",
+        "cn": "他有查阅绝密文件的安保许可。"
+      },
+      {
+        "en": "The bridge has a clearance of 4 meters.",
+        "cn": "桥的净空高度为4米。"
+      }
+    ]
+  },
+  {
+    "word": "rover",
+    "phonetic": "/ˈroʊvər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who roams or wanders; a vehicle for exploring the surface of a celestial body; a cricket position"
+      }
+    ],
+    "roots": [
+      {
+        "part": "rove",
+        "meaning": "漫游"
+      },
+      {
+        "part": "-er",
+        "meaning": "人或物后缀"
+      }
+    ],
+    "translations": [
+      "漫游者",
+      "流浪者",
+      "（天体）巡视器",
+      "探测器"
+    ],
+    "examples": [
+      {
+        "en": "The Mars rover sent back new images.",
+        "cn": "火星车传回了新图像。"
+      }
+    ]
+  },
+  {
+    "word": "tonk",
+    "phonetic": "/tɒŋk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sharp blow or punch; a type of music or a bar (slang, regional)"
+      },
+      {
+        "pos": "v.",
+        "translation": "to strike sharply"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "拟声词或俚语"
+      }
+    ],
+    "translations": [
+      "重击",
+      "敲击",
+      "（俚语）酒吧"
+    ],
+    "examples": []
+  },
+  {
+    "word": "spank",
+    "phonetic": "/spæŋk/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to slap on the buttocks as punishment or for sexual gratification"
+      },
+      {
+        "pos": "n.",
+        "translation": "a slap on the buttocks"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "打屁股",
+      "掴"
+    ],
+    "examples": [
+      {
+        "en": "The mother spanked her child for misbehaving.",
+        "cn": "母亲因为孩子不乖而打他屁股。"
+      }
+    ]
+  },
+  {
+    "word": "carpool",
+    "phonetic": "/ˈkɑːrpuːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an arrangement in which a group of people travel together in one car to share costs and reduce traffic"
+      },
+      {
+        "pos": "v.",
+        "translation": "to travel together in a carpool"
+      }
+    ],
+    "roots": [
+      {
+        "part": "car",
+        "meaning": "汽车"
+      },
+      {
+        "part": "pool",
+        "meaning": "共享"
+      }
+    ],
+    "translations": [
+      "拼车",
+      "合用车",
+      "拼车安排"
+    ],
+    "examples": [
+      {
+        "en": "We carpool to work every day.",
+        "cn": "我们每天拼车上班。"
+      }
+    ]
+  },
+  {
+    "word": "metaphor",
+    "phonetic": "/ˈmɛtəfɔːr/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a figure of speech in which a word or phrase is applied to something not literally applicable, implying similarity"
+      }
+    ],
+    "roots": [
+      {
+        "part": "meta-",
+        "meaning": "变化，超越"
+      },
+      {
+        "part": "-phor",
+        "meaning": "带来，承载"
+      }
+    ],
+    "translations": [
+      "隐喻",
+      "暗喻"
+    ],
+    "examples": [
+      {
+        "en": "\"Time is a thief\" is a metaphor.",
+        "cn": "“时间是小偷”是一个隐喻。"
+      }
+    ]
+  },
+  {
+    "word": "excrement",
+    "phonetic": "/ˈɛkskrɪmənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "waste matter discharged from the bowels; feces"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ex-",
+        "meaning": "出"
+      },
+      {
+        "part": "crem",
+        "meaning": "筛，分离"
+      },
+      {
+        "part": "-ment",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "粪便",
+      "排泄物"
+    ],
+    "examples": [
+      {
+        "en": "The sidewalk was covered in dog excrement.",
+        "cn": "人行道上满是狗粪。"
+      }
+    ]
+  },
+  {
+    "word": "vessel",
+    "phonetic": "/ˈvɛsəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a ship or large boat; a hollow container, especially for liquids; a tube or duct in the body (e.g., blood vessel)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "船只",
+      "容器",
+      "血管",
+      "导管"
+    ],
+    "examples": [
+      {
+        "en": "A cargo vessel arrived at the port.",
+        "cn": "一艘货船抵达港口。"
+      },
+      {
+        "en": "He drank water from a clay vessel.",
+        "cn": "他用陶器容器喝水。"
+      }
+    ]
+  },
+  {
+    "word": "surveillance",
+    "phonetic": "/sɜːrˈveɪləns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "close observation of a person or place, especially for monitoring criminal activity or gathering intelligence"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sur-",
+        "meaning": "在上，超"
+      },
+      {
+        "part": "veill",
+        "meaning": "看"
+      },
+      {
+        "part": "-ance",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "监视",
+      "监控"
+    ],
+    "examples": [
+      {
+        "en": "The bank is under police surveillance.",
+        "cn": "该银行处于警方监视之下。"
+      }
+    ]
+  },
+  {
+    "word": "subtly",
+    "phonetic": "/ˈsʌtli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "in a manner that is so delicate or precise as to be difficult to analyze or describe; not obviously or overtly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "subtle",
+        "meaning": "微妙的"
+      },
+      {
+        "part": "-ly",
+        "meaning": "副词后缀"
+      }
+    ],
+    "translations": [
+      "微妙地",
+      "细致地",
+      "不明显地"
+    ],
+    "examples": [
+      {
+        "en": "She subtly hinted that she wanted to leave.",
+        "cn": "她微妙地暗示想离开。"
+      }
+    ]
+  },
+  {
+    "word": "sneak",
+    "phonetic": "/sniːk/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to move or go in a furtive or stealthy manner; to take something secretly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a sneaky person; a furtive act"
+      },
+      {
+        "pos": "adj.",
+        "translation": "acting in a furtive or stealthy way"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "偷偷地走",
+      "偷窃",
+      "告密者",
+      "鬼鬼祟祟的"
+    ],
+    "examples": [
+      {
+        "en": "He tried to sneak out of the room.",
+        "cn": "他试图偷偷溜出房间。"
+      }
+    ]
+  },
+  {
+    "word": "convincingly",
+    "phonetic": "/kənˈvɪnsɪŋli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "in a way that causes someone to believe something; persuasively"
+      }
+    ],
+    "roots": [
+      {
+        "part": "convince",
+        "meaning": "说服"
+      },
+      {
+        "part": "-ing",
+        "meaning": "形容词后缀"
+      },
+      {
+        "part": "-ly",
+        "meaning": "副词后缀"
+      }
+    ],
+    "translations": [
+      "有说服力地",
+      "令人信服地"
+    ],
+    "examples": [
+      {
+        "en": "She argued convincingly for the proposal.",
+        "cn": "她有说服力地为该提议辩护。"
+      }
+    ]
+  },
+  {
+    "word": "gall",
+    "phonetic": "/ɡɔːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "impudence; bold and disrespectful behavior; bitterness or resentment; a bile secretion; a skin sore"
+      },
+      {
+        "pos": "v.",
+        "translation": "to irritate or annoy someone greatly; to make sore by rubbing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "厚颜无耻",
+      "怨恨",
+      "胆汁",
+      "擦伤",
+      "使恼怒"
+    ],
+    "examples": [
+      {
+        "en": "He had the gall to blame me for his mistake.",
+        "cn": "他竟有脸把他的错误归咎于我。"
+      }
+    ]
+  },
+  {
+    "word": "brisket",
+    "phonetic": "/ˈbrɪskɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "meat cut from the breast or lower chest of a cow or other animal"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "牛胸肉"
+    ],
+    "examples": [
+      {
+        "en": "Smoked brisket is a Texas specialty.",
+        "cn": "熏牛胸肉是德克萨斯州的特产。"
+      }
+    ]
+  },
+  {
+    "word": "nosy",
+    "phonetic": "/ˈnoʊzi/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "showing too much curiosity about other people's affairs; prying"
+      }
+    ],
+    "roots": [
+      {
+        "part": "nose",
+        "meaning": "鼻子"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "好管闲事的",
+      "爱窥探的"
+    ],
+    "examples": [
+      {
+        "en": "Our neighbor is very nosy.",
+        "cn": "我们的邻居很好管闲事。"
+      }
+    ]
+  },
+  {
+    "word": "schoolyard",
+    "phonetic": "/ˈskuːljɑːrd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the grounds or playground of a school"
+      }
+    ],
+    "roots": [
+      {
+        "part": "school",
+        "meaning": "学校"
+      },
+      {
+        "part": "yard",
+        "meaning": "院子"
+      }
+    ],
+    "translations": [
+      "校园",
+      "学校操场"
+    ],
+    "examples": [
+      {
+        "en": "Children were playing in the schoolyard.",
+        "cn": "孩子们在学校操场上玩耍。"
+      }
+    ]
+  },
+  {
+    "word": "deceased",
+    "phonetic": "/dɪˈsiːst/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "dead; no longer living"
+      },
+      {
+        "pos": "n.",
+        "translation": "a dead person, especially one who has died recently"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "离去"
+      },
+      {
+        "part": "cess",
+        "meaning": "走"
+      },
+      {
+        "part": "-ed",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "已故的",
+      "死者"
+    ],
+    "examples": [
+      {
+        "en": "The deceased left no will.",
+        "cn": "死者没有留下遗嘱。"
+      }
+    ]
+  },
+  {
+    "word": "feign",
+    "phonetic": "/feɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to pretend to be affected by a feeling, state, or injury; to simulate"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "假装",
+      "伪装"
+    ],
+    "examples": [
+      {
+        "en": "She feigned illness to avoid the exam.",
+        "cn": "她装病逃避考试。"
+      }
+    ]
+  },
+  {
+    "word": "breeze",
+    "phonetic": "/briːz/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a gentle wind; something that is easy to do"
+      },
+      {
+        "pos": "v.",
+        "translation": "to move quickly and lightly; to progress effortlessly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "微风",
+      "容易的事",
+      "轻盈地走"
+    ],
+    "examples": [
+      {
+        "en": "A cool breeze blew through the window.",
+        "cn": "一阵凉风吹进窗户。"
+      },
+      {
+        "en": "He breezed through the test.",
+        "cn": "他轻松通过了考试。"
+      }
+    ]
+  },
+  {
+    "word": "ectoplasm",
+    "phonetic": "/ˈɛktəˌplæzəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a viscous substance alleged to emanate from the body of a spiritualist medium; the outer layer of the cytoplasm of a cell"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ecto-",
+        "meaning": "外"
+      },
+      {
+        "part": "-plasm",
+        "meaning": "原生质，浆"
+      }
+    ],
+    "translations": [
+      "（超自然）外质",
+      "（细胞）外浆"
+    ],
+    "examples": []
+  },
+  {
+    "word": "disembody",
+    "phonetic": "/ˌdɪsɪmˈbɑːdi/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to separate or free from a physical body or concrete form"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dis-",
+        "meaning": "除去"
+      },
+      {
+        "part": "em-",
+        "meaning": "进入"
+      },
+      {
+        "part": "body",
+        "meaning": "身体"
+      }
+    ],
+    "translations": [
+      "使脱离形体",
+      "使离开实体"
+    ],
+    "examples": [
+      {
+        "en": "The voice seemed disembodied, coming from nowhere.",
+        "cn": "那声音似乎无形无体，不知从何而来。"
+      }
+    ]
+  },
+  {
+    "word": "miracle",
+    "phonetic": "/ˈmɪrəkəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an extraordinary and welcome event that is not explicable by natural or scientific laws; a remarkable achievement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "奇迹",
+      "非凡的事"
+    ],
+    "examples": [
+      {
+        "en": "It was a miracle that no one died in the crash.",
+        "cn": "车祸中无人死亡真是个奇迹。"
+      }
+    ]
+  },
+  {
+    "word": "crevice",
+    "phonetic": "/ˈkrɛvɪs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a narrow crack or fissure in rock or a wall"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "裂缝",
+      "裂隙"
+    ],
+    "examples": [
+      {
+        "en": "Plants grew from every crevice in the cliff.",
+        "cn": "植物的从悬崖的每个裂缝中长出。"
+      }
+    ]
+  },
+  {
+    "word": "staggering",
+    "phonetic": "/ˈstæɡərɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "astonishing or overwhelming; so great as to cause one to stagger"
+      },
+      {
+        "pos": "v.",
+        "translation": "present participle of stagger: to walk unsteadily"
+      }
+    ],
+    "roots": [
+      {
+        "part": "stagger",
+        "meaning": "蹒跚"
+      },
+      {
+        "part": "-ing",
+        "meaning": "形容词/现在分词后缀"
+      }
+    ],
+    "translations": [
+      "惊人的",
+      "令人难以置信的",
+      "蹒跚的"
+    ],
+    "examples": [
+      {
+        "en": "The cost of the project was staggering.",
+        "cn": "项目的成本高得惊人。"
+      }
+    ]
+  },
+  {
+    "word": "stagger",
+    "phonetic": "/ˈstæɡər/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to walk unsteadily as if about to fall; to cause to doubt or hesitate; to arrange in overlapping or alternating positions"
+      },
+      {
+        "pos": "n.",
+        "translation": "an unsteady walk or movement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "蹒跚",
+      "犹豫",
+      "使错开",
+      "踉跄"
+    ],
+    "examples": [
+      {
+        "en": "He staggered to his feet after the blow.",
+        "cn": "挨了一击后，他踉跄着站起来。"
+      },
+      {
+        "en": "We staggered the work shifts to avoid crowding.",
+        "cn": "我们错开工作班次以避免拥挤。"
+      }
+    ]
+  }
+]

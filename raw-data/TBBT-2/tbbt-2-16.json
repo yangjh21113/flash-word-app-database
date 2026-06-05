@@ -1,0 +1,1593 @@
+[
+  {
+    "word": "paintball",
+    "phonetic": "/ˈpeɪntbɔːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a game in which players shoot capsules of paint at each other using compressed air guns; the capsule of paint used in this game"
+      }
+    ],
+    "roots": [
+      {
+        "part": "paint",
+        "meaning": "涂料、绘画"
+      },
+      {
+        "part": "ball",
+        "meaning": "球、弹丸"
+      }
+    ],
+    "translations": [
+      "彩弹球游戏",
+      "彩弹"
+    ],
+    "examples": [
+      {
+        "en": "They play paintball every weekend in the woods.",
+        "cn": "他们每周末都在树林里玩彩弹球。"
+      },
+      {
+        "en": "He got hit by a paintball and had a bright red mark on his shirt.",
+        "cn": "他被彩弹击中，衬衫上留下了一个鲜红的印记。"
+      }
+    ]
+  },
+  {
+    "word": "ridge",
+    "phonetic": "/rɪdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a long narrow elevated landform; the crest of a mountain range; any long raised strip or edge"
+      },
+      {
+        "pos": "v.",
+        "translation": "to form into a ridge; to mark with ridges"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "山脊",
+      "屋脊",
+      "隆起物"
+    ],
+    "examples": [
+      {
+        "en": "We hiked along the mountain ridge to enjoy the view.",
+        "cn": "我们沿着山脊徒步欣赏风景。"
+      },
+      {
+        "en": "The ridges on the potato chips make them crunchy.",
+        "cn": "薯片上的棱纹让它们口感酥脆。"
+      }
+    ]
+  },
+  {
+    "word": "edge",
+    "phonetic": "/edʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the outside limit of an object, area, or surface; the sharpened side of a blade; a quality of sharpness or intensity"
+      },
+      {
+        "pos": "v.",
+        "translation": "to move gradually or cautiously; to give an edge to (a blade)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "边缘",
+      "刀刃",
+      "优势"
+    ],
+    "examples": [
+      {
+        "en": "Be careful, the edge of that table is sharp.",
+        "cn": "小心，那张桌子的边缘很锋利。"
+      },
+      {
+        "en": "The company gained a competitive edge through innovation.",
+        "cn": "这家公司通过创新获得了竞争优势。"
+      }
+    ]
+  },
+  {
+    "word": "creek",
+    "phonetic": "/kriːk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small stream or river; a narrow inlet or bay"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "小溪",
+      "小湾"
+    ],
+    "examples": [
+      {
+        "en": "The children love to catch frogs in the creek.",
+        "cn": "孩子们喜欢在小溪里抓青蛙。"
+      },
+      {
+        "en": "We followed the creek through the meadow.",
+        "cn": "我们沿着小溪穿过草地。"
+      }
+    ]
+  },
+  {
+    "word": "hop",
+    "phonetic": "/hɒp/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to move by jumping on one foot; to jump a short distance; to make a quick trip"
+      },
+      {
+        "pos": "n.",
+        "translation": "a short leap; a dance or informal social gathering; a type of climbing plant used in brewing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "单脚跳",
+      "短程跳跃",
+      "啤酒花"
+    ],
+    "examples": [
+      {
+        "en": "The rabbit hopped across the garden.",
+        "cn": "兔子跳过花园。"
+      },
+      {
+        "en": "We decided to hop over to Paris for the weekend.",
+        "cn": "我们决定周末去巴黎玩一趟。"
+      }
+    ]
+  },
+  {
+    "word": "steroid",
+    "phonetic": "/ˈsterɔɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "any of a large class of organic compounds with a characteristic molecular structure, including many hormones and drugs; often used illegally to enhance athletic performance"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ster",
+        "meaning": "固体、固醇"
+      },
+      {
+        "part": "-oid",
+        "meaning": "像…的"
+      }
+    ],
+    "translations": [
+      "类固醇"
+    ],
+    "examples": [
+      {
+        "en": "The athlete was banned for using steroids.",
+        "cn": "这名运动员因使用类固醇而被禁赛。"
+      },
+      {
+        "en": "Steroids can reduce inflammation in diseases like asthma.",
+        "cn": "类固醇可以减轻哮喘等疾病中的炎症。"
+      }
+    ]
+  },
+  {
+    "word": "vein",
+    "phonetic": "/veɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "any of the tubes that carry blood from the body back to the heart; a fracture in rock containing a deposit of minerals; a particular style or manner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "静脉",
+      "矿脉",
+      "风格",
+      "气质"
+    ],
+    "examples": [
+      {
+        "en": "The nurse found a vein in his arm to draw blood.",
+        "cn": "护士在他手臂上找到一根静脉抽血。"
+      },
+      {
+        "en": "They discovered a gold vein deep in the mountain.",
+        "cn": "他们在山体深处发现了一条金矿脉。"
+      }
+    ]
+  },
+  {
+    "word": "dumpster",
+    "phonetic": "/ˈdʌmpstər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large movable garbage bin designed to be hoisted and emptied into a truck"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dump",
+        "meaning": "倾倒、垃圾场"
+      },
+      {
+        "part": "-ster",
+        "meaning": "表示物（原为商标）"
+      }
+    ],
+    "translations": [
+      "大型垃圾箱",
+      "垃圾桶"
+    ],
+    "examples": [
+      {
+        "en": "They threw the old mattress into the dumpster behind the store.",
+        "cn": "他们把旧床垫扔进了商店后面的大垃圾箱。"
+      },
+      {
+        "en": "Someone was searching through the dumpster for recyclables.",
+        "cn": "有人在大垃圾箱里翻找可回收物。"
+      }
+    ]
+  },
+  {
+    "word": "ambush",
+    "phonetic": "/ˈæmbʊʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a surprise attack from a hidden position"
+      },
+      {
+        "pos": "v.",
+        "translation": "to attack unexpectedly from a concealed place"
+      }
+    ],
+    "roots": [
+      {
+        "part": "am(b)-",
+        "meaning": "周围、两边"
+      },
+      {
+        "part": "bush",
+        "meaning": "灌木丛"
+      }
+    ],
+    "translations": [
+      "伏击",
+      "埋伏"
+    ],
+    "examples": [
+      {
+        "en": "The soldiers were caught in an ambush.",
+        "cn": "士兵们遭到了伏击。"
+      },
+      {
+        "en": "The cat ambushed the mouse as it came out of its hole.",
+        "cn": "老鼠一出洞就被猫伏击了。"
+      }
+    ]
+  },
+  {
+    "word": "retreat",
+    "phonetic": "/rɪˈtriːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to move back or withdraw from a dangerous situation; to move to a place of safety or seclusion"
+      },
+      {
+        "pos": "n.",
+        "translation": "an act of moving back; a quiet or secluded place; a period of group withdrawal for prayer or study"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "向后"
+      },
+      {
+        "part": "treat",
+        "meaning": "拉、牵引（拉丁语trahere）"
+      }
+    ],
+    "translations": [
+      "撤退",
+      "后退",
+      "隐居处",
+      "静修"
+    ],
+    "examples": [
+      {
+        "en": "The army retreated after losing the battle.",
+        "cn": "军队战败后撤退了。"
+      },
+      {
+        "en": "They have a lovely retreat in the mountains.",
+        "cn": "他们在山里有一个可爱的隐居处。"
+      }
+    ]
+  },
+  {
+    "word": "bathing suit",
+    "phonetic": "/ˈbeɪðɪŋ suːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a garment worn for swimming"
+      }
+    ],
+    "roots": [
+      {
+        "part": "bath",
+        "meaning": "洗澡"
+      },
+      {
+        "part": "suit",
+        "meaning": "套装"
+      }
+    ],
+    "translations": [
+      "泳衣"
+    ],
+    "examples": [
+      {
+        "en": "Don't forget your bathing suit when we go to the beach.",
+        "cn": "我们去海滩时别忘了带泳衣。"
+      },
+      {
+        "en": "She bought a new bathing suit for the pool.",
+        "cn": "她为游泳池买了一件新泳衣。"
+      }
+    ]
+  },
+  {
+    "word": "surrender",
+    "phonetic": "/səˈrendər/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to give up control or give in to an authority; to yield to a force or emotion"
+      },
+      {
+        "pos": "n.",
+        "translation": "the act of surrendering"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sur-",
+        "meaning": "在上、超过"
+      },
+      {
+        "part": "render",
+        "meaning": "给予、交出"
+      }
+    ],
+    "translations": [
+      "投降",
+      "放弃",
+      "屈服"
+    ],
+    "examples": [
+      {
+        "en": "The enemy general refused to surrender.",
+        "cn": "敌军将军拒绝投降。"
+      },
+      {
+        "en": "He finally surrendered to his desire for chocolate.",
+        "cn": "他最终屈服于对巧克力的渴望。"
+      }
+    ]
+  },
+  {
+    "word": "squad",
+    "phonetic": "/skwɒd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small military unit; a group of people organized for a common purpose (e.g., police squad, sports squad)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "小队",
+      "小组"
+    ],
+    "examples": [
+      {
+        "en": "The bomb squad was called to disarm the device.",
+        "cn": "拆弹小组被叫来拆除装置。"
+      },
+      {
+        "en": "He's on the football squad this year.",
+        "cn": "他今年入选了足球队。"
+      }
+    ]
+  },
+  {
+    "word": "pellet",
+    "phonetic": "/ˈpelɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small compressed mass of a substance; a small ball of lead or other material for shooting"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "小球",
+      "小丸",
+      "颗粒",
+      "子弹丸"
+    ],
+    "examples": [
+      {
+        "en": "The gun fired plastic pellets instead of bullets.",
+        "cn": "这把枪发射的是塑料弹丸而不是子弹。"
+      },
+      {
+        "en": "Rabbits leave small droppings that look like brown pellets.",
+        "cn": "兔子留下像褐色小颗粒一样的粪便。"
+      }
+    ]
+  },
+  {
+    "word": "slaughter",
+    "phonetic": "/ˈslɔːtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the killing of animals for food; the violent killing of a large number of people"
+      },
+      {
+        "pos": "v.",
+        "translation": "to kill animals for food; to kill people in a violent manner; to defeat decisively"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "屠杀",
+      "屠宰",
+      "残杀"
+    ],
+    "examples": [
+      {
+        "en": "The cattle are taken to the slaughterhouse.",
+        "cn": "牛被送往屠宰场。"
+      },
+      {
+        "en": "Our team slaughtered the opponents 10-0.",
+        "cn": "我们队以10-0屠杀对手。"
+      }
+    ]
+  },
+  {
+    "word": "cutback",
+    "phonetic": "/ˈkʌtbæk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a reduction in the amount or rate of something, especially spending or production"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cut",
+        "meaning": "削减"
+      },
+      {
+        "part": "back",
+        "meaning": "向后、减少"
+      }
+    ],
+    "translations": [
+      "削减",
+      "缩减"
+    ],
+    "examples": [
+      {
+        "en": "The company announced cutbacks due to falling profits.",
+        "cn": "由于利润下降，公司宣布削减开支。"
+      },
+      {
+        "en": "There have been severe cutbacks in public services.",
+        "cn": "公共服务遭到严重削减。"
+      }
+    ]
+  },
+  {
+    "word": "baffle",
+    "phonetic": "/ˈbæfəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to confuse or bewilder someone; to resist or frustrate a plan"
+      },
+      {
+        "pos": "n.",
+        "translation": "a device used to regulate or restrict the flow of fluid, sound, or light"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "使困惑",
+      "难住",
+      "挡板",
+      "隔板"
+    ],
+    "examples": [
+      {
+        "en": "The puzzle completely baffled me.",
+        "cn": "这个谜题完全把我难住了。"
+      },
+      {
+        "en": "Scientists are baffled by the strange results.",
+        "cn": "科学家们被奇怪的结果搞糊涂了。"
+      }
+    ]
+  },
+  {
+    "word": "civet",
+    "phonetic": "/ˈsɪvɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a catlike nocturnal mammal of Africa and Asia; the strong musky secretion from its perineal glands, used in perfumery"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "灵猫",
+      "灵猫香"
+    ],
+    "examples": [
+      {
+        "en": "Civet has been used in traditional perfumery for centuries.",
+        "cn": "灵猫香在传统香水业中使用了几个世纪。"
+      },
+      {
+        "en": "The civet is a shy, nocturnal animal.",
+        "cn": "灵猫是一种羞怯的夜行动物。"
+      }
+    ]
+  },
+  {
+    "word": "shed",
+    "phonetic": "/ʃed/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to let something fall or come off; to get rid of something; to give off light"
+      },
+      {
+        "pos": "n.",
+        "translation": "a small building for storage (e.g., garden shed, tool shed)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "脱落",
+      "摆脱",
+      "散发出",
+      "棚屋"
+    ],
+    "examples": [
+      {
+        "en": "The snake sheds its skin once a year.",
+        "cn": "蛇每年蜕皮一次。"
+      },
+      {
+        "en": "He keeps his bicycle in the garden shed.",
+        "cn": "他把自行车放在花园棚屋里。"
+      }
+    ]
+  },
+  {
+    "word": "derelication",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "abandonment; neglect; the state of being derelict" 
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "完全、离开"
+      },
+      {
+        "part": "relic",
+        "meaning": "留下、遗弃"
+      }
+    ],
+    "translations": [
+      "遗弃",
+      "玩忽职守",
+      "废弃"
+    ],
+    "examples": []
+  },
+  {
+    "word": "court-martial",
+    "phonetic": "/ˌkɔːrt ˈmɑːrʃəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a military court for trying members of the armed forces accused of breaking military law"
+      },
+      {
+        "pos": "v.",
+        "translation": "to try someone by a court-martial"
+      }
+    ],
+    "roots": [
+      {
+        "part": "court",
+        "meaning": "法庭"
+      },
+      {
+        "part": "martial",
+        "meaning": "军事的"
+      }
+    ],
+    "translations": [
+      "军事法庭",
+      "军法审判"
+    ],
+    "examples": [
+      {
+        "en": "The soldier was court-martialed for desertion.",
+        "cn": "那名士兵因擅离职守受军法审判。"
+      },
+      {
+        "en": "The court-martial found him guilty of insubordination.",
+        "cn": "军事法庭判定他不服从命令有罪。"
+      }
+    ]
+  },
+  {
+    "word": "freeze",
+    "phonetic": "/friːz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to turn into ice due to cold; to become hard or solid due to cold; to stop moving suddenly; to fix something in place"
+      },
+      {
+        "pos": "n.",
+        "translation": "a period of freezing weather; the act of freezing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "冻结",
+      "结冰",
+      "凝固",
+      "定格"
+    ],
+    "examples": [
+      {
+        "en": "Water freezes at 0 degrees Celsius.",
+        "cn": "水在摄氏零度结冰。"
+      },
+      {
+        "en": "The company froze all hiring due to the recession.",
+        "cn": "由于经济衰退，公司冻结了所有招聘。"
+      }
+    ]
+  },
+  {
+    "word": "frost",
+    "phonetic": "/frɒst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a thin layer of ice formed on surfaces when water vapor freezes; a period of cold weather with freezing temperatures"
+      },
+      {
+        "pos": "v.",
+        "translation": "to cover with frost; to become covered with frost"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "霜",
+      "霜冻"
+    ],
+    "examples": [
+      {
+        "en": "The car windows were covered with frost this morning.",
+        "cn": "今天早上车窗上覆盖着霜。"
+      },
+      {
+        "en": "A late frost killed the apple blossoms.",
+        "cn": "晚霜冻死了苹果花。"
+      }
+    ]
+  },
+  {
+    "word": "forest",
+    "phonetic": "/ˈfɒrɪst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large area covered chiefly with trees and undergrowth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "森林"
+    ],
+    "examples": [
+      {
+        "en": "We went for a walk in the forest.",
+        "cn": "我们去森林里散步。"
+      },
+      {
+        "en": "The forest is home to many species of animals.",
+        "cn": "森林是许多动物的家园。"
+      }
+    ]
+  },
+  {
+    "word": "four-dimensional",
+    "phonetic": "/ˌfɔːr daɪˈmenʃənəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the four dimensions of space-time (three spatial dimensions plus time); having four coordinates"
+      }
+    ],
+    "roots": [
+      {
+        "part": "four",
+        "meaning": "四"
+      },
+      {
+        "part": "dimension",
+        "meaning": "维度"
+      },
+      {
+        "part": "-al",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "四维的"
+    ],
+    "examples": [
+      {
+        "en": "Four-dimensional geometry is a complex mathematical concept.",
+        "cn": "四维几何是一个复杂的数学概念。"
+      },
+      {
+        "en": "Physicists study four-dimensional space-time.",
+        "cn": "物理学家研究四维时空。"
+      }
+    ]
+  },
+  {
+    "word": "transient",
+    "phonetic": "/ˈtrænziənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lasting only for a short time; temporary; passing through a place briefly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a person who stays or works in a place for only a short time"
+      }
+    ],
+    "roots": [
+      {
+        "part": "trans-",
+        "meaning": "穿过"
+      },
+      {
+        "part": "-ient",
+        "meaning": "正在进行（拉丁语ire: 去）"
+      }
+    ],
+    "translations": [
+      "短暂的",
+      "临时的",
+      "暂住者"
+    ],
+    "examples": [
+      {
+        "en": "Her feeling of sadness was transient.",
+        "cn": "她的悲伤是短暂的。"
+      },
+      {
+        "en": "The city has many transient workers.",
+        "cn": "这座城市有很多临时工。"
+      }
+    ]
+  },
+  {
+    "word": "idiopathic",
+    "phonetic": "/ˌɪdiəˈpæθɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to a disease or condition that arises spontaneously or for which the cause is unknown"
+      }
+    ],
+    "roots": [
+      {
+        "part": "idio-",
+        "meaning": "自身的、独特的"
+      },
+      {
+        "part": "-pathic",
+        "meaning": "疾病的"
+      }
+    ],
+    "translations": [
+      "特发性的",
+      "自发的",
+      "原因不明的"
+    ],
+    "examples": [
+      {
+        "en": "The patient was diagnosed with idiopathic pulmonary fibrosis.",
+        "cn": "该患者被诊断为特发性肺纤维化。"
+      },
+      {
+        "en": "Idiopathic diseases are often difficult to treat.",
+        "cn": "特发性疾病通常难以治疗。"
+      }
+    ]
+  },
+  {
+    "word": "arrhythmia",
+    "phonetic": "/əˈrɪðmiə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a condition in which the heart beats irregularly or with abnormal rhythm"
+      }
+    ],
+    "roots": [
+      {
+        "part": "a-",
+        "meaning": "无、没有"
+      },
+      {
+        "part": "rhythm",
+        "meaning": "节奏"
+      },
+      {
+        "part": "-ia",
+        "meaning": "病症"
+      }
+    ],
+    "translations": [
+      "心律失常",
+      "心律不齐"
+    ],
+    "examples": [
+      {
+        "en": "Stress and caffeine can trigger arrhythmia in some people.",
+        "cn": "压力和咖啡因可能会引发某些人的心律失常。"
+      },
+      {
+        "en": "The doctor detected an arrhythmia during the checkup.",
+        "cn": "医生在检查中发现了心律不齐。"
+      }
+    ]
+  },
+  {
+    "word": "zipper",
+    "phonetic": "/ˈzɪpər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a device consisting of two rows of metal or plastic teeth that interlock when pulled closed, used for fastening clothing or bags"
+      }
+    ],
+    "roots": [
+      {
+        "part": "zip",
+        "meaning": "拉上拉链的声音"
+      },
+      {
+        "part": "-er",
+        "meaning": "物品"
+      }
+    ],
+    "translations": [
+      "拉链"
+    ],
+    "examples": [
+      {
+        "en": "The zipper on my jacket is stuck.",
+        "cn": "我夹克上的拉链卡住了。"
+      },
+      {
+        "en": "She zipped up her suitcase.",
+        "cn": "她拉上了手提箱的拉链。"
+      }
+    ]
+  },
+  {
+    "word": "flip",
+    "phonetic": "/flɪp/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to turn over quickly; to toss with a quick motion; to become very angry or excited (informal)"
+      },
+      {
+        "pos": "n.",
+        "translation": "a quick turn or toss; a somersault"
+      },
+      {
+        "pos": "adj.",
+        "translation": "glib or flippant (in speech)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "轻弹",
+      "翻转",
+      "快速翻动",
+      "油炸玉米饼"
+    ],
+    "examples": [
+      {
+        "en": "She flipped the pancake with a spatula.",
+        "cn": "她用铲子把煎饼翻了个面。"
+      },
+      {
+        "en": "He flipped through the magazine quickly.",
+        "cn": "他快速翻阅杂志。"
+      }
+    ]
+  },
+  {
+    "word": "discernible",
+    "phonetic": "/dɪˈsɜːrnəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "able to be seen, recognized, or understood; perceptible"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dis-",
+        "meaning": "分开、去除"
+      },
+      {
+        "part": "cern",
+        "meaning": "区分、筛选"
+      },
+      {
+        "part": "-ible",
+        "meaning": "能够…的"
+      }
+    ],
+    "translations": [
+      "可辨别的",
+      "可识别的",
+      "依稀可辨的"
+    ],
+    "examples": [
+      {
+        "en": "There was no discernible difference between the two products.",
+        "cn": "两种产品之间没有可辨别的差异。"
+      },
+      {
+        "en": "The ship was barely discernible through the fog.",
+        "cn": "透过雾几乎看不清那艘船。"
+      }
+    ]
+  },
+  {
+    "word": "incessantly",
+    "phonetic": "/ɪnˈsesntli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "without interruption; constantly; ceaselessly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "不"
+      },
+      {
+        "part": "cess",
+        "meaning": "停止"
+      },
+      {
+        "part": "-ant",
+        "meaning": "形容词后缀"
+      },
+      {
+        "part": "-ly",
+        "meaning": "副词后缀"
+      }
+    ],
+    "translations": [
+      "不停地",
+      "连续不断地"
+    ],
+    "examples": [
+      {
+        "en": "The phone rang incessantly all morning.",
+        "cn": "整个上午电话响个不停。"
+      },
+      {
+        "en": "She complained incessantly about the noise.",
+        "cn": "她不停地抱怨噪音。"
+      }
+    ]
+  },
+  {
+    "word": "amputate",
+    "phonetic": "/ˈæmpjuteɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to cut off a limb or part of the body by surgical operation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "am-",
+        "meaning": "周围"
+      },
+      {
+        "part": "put",
+        "meaning": "修剪、砍掉"
+      }
+    ],
+    "translations": [
+      "截肢",
+      "切断"
+    ],
+    "examples": [
+      {
+        "en": "The doctor had to amputate his leg below the knee.",
+        "cn": "医生不得不截去他的小腿。"
+      },
+      {
+        "en": "After the accident, two of his fingers were amputated.",
+        "cn": "事故后，他的两根手指被截掉了。"
+      }
+    ]
+  },
+  {
+    "word": "hairdresser",
+    "phonetic": "/ˈheədresər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person whose occupation is cutting and styling hair"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hair",
+        "meaning": "头发"
+      },
+      {
+        "part": "dress",
+        "meaning": "打理、装扮"
+      },
+      {
+        "part": "-er",
+        "meaning": "人"
+      }
+    ],
+    "translations": [
+      "理发师",
+      "发型师"
+    ],
+    "examples": [
+      {
+        "en": "I have an appointment with my hairdresser at 3 pm.",
+        "cn": "我下午3点和我的理发师有约。"
+      },
+      {
+        "en": "She trained as a hairdresser after leaving school.",
+        "cn": "她离开学校后接受培训成为理发师。"
+      }
+    ]
+  },
+  {
+    "word": "penicillin",
+    "phonetic": "/ˌpenɪˈsɪlɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an antibiotic derived from Penicillium molds, used to treat bacterial infections"
+      }
+    ],
+    "roots": [
+      {
+        "part": "penicill-",
+        "meaning": "毛刷（指霉菌形态）"
+      },
+      {
+        "part": "-in",
+        "meaning": "素、物质"
+      }
+    ],
+    "translations": [
+      "青霉素",
+      "盘尼西林"
+    ],
+    "examples": [
+      {
+        "en": "Penicillin is used to treat various bacterial infections.",
+        "cn": "青霉素用于治疗多种细菌感染。"
+      },
+      {
+        "en": "Some people are allergic to penicillin.",
+        "cn": "有些人对青霉素过敏。"
+      }
+    ]
+  },
+  {
+    "word": "bouffant",
+    "phonetic": "/buːˈfɑːnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "styled to stand out from the scalp in a rounded shape (of hair)"
+      },
+      {
+        "pos": "n.",
+        "translation": "a bouffant hairstyle"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（源自法语）"
+      }
+    ],
+    "translations": [
+      "蓬松的（发型）",
+      "蓬松发型"
+    ],
+    "examples": [
+      {
+        "en": "She wore her hair in a bouffant style popular in the 1960s.",
+        "cn": "她把头发做成20世纪60年代流行的蓬松发型。"
+      },
+      {
+        "en": "The bride had a bouffant veil attached to her high hair.",
+        "cn": "新娘的高发髻上戴着蓬松的头纱。"
+      }
+    ]
+  },
+  {
+    "word": "depart",
+    "phonetic": "/dɪˈpɑːrt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to leave, especially to start a journey; to deviate from a previous course"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "离开"
+      },
+      {
+        "part": "part",
+        "meaning": "分开、部分"
+      }
+    ],
+    "translations": [
+      "离开",
+      "出发",
+      "背离"
+    ],
+    "examples": [
+      {
+        "en": "The train departs at 7:00 from platform 3.",
+        "cn": "火车7点从3号站台出发。"
+      },
+      {
+        "en": "Don't depart from the rules.",
+        "cn": "不要违反规则。"
+      }
+    ]
+  },
+  {
+    "word": "deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to stray from a standard, norm, or expected path; to differ"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "离开"
+      },
+      {
+        "part": "via",
+        "meaning": "道路"
+      },
+      {
+        "part": "-ate",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "偏离",
+      "背离",
+      "越轨"
+    ],
+    "examples": [
+      {
+        "en": "The plane deviated from its flight path due to bad weather.",
+        "cn": "由于恶劣天气，飞机偏离了航线。"
+      },
+      {
+        "en": "He never deviates from his principles.",
+        "cn": "他从不背离自己的原则。"
+      }
+    ]
+  },
+  {
+    "word": "collider",
+    "phonetic": "/kəˈlaɪdər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a device that accelerates particles to high speeds and causes them to collide"
+      }
+    ],
+    "roots": [
+      {
+        "part": "collide",
+        "meaning": "碰撞"
+      },
+      {
+        "part": "-er",
+        "meaning": "物"
+      }
+    ],
+    "translations": [
+      "对撞机"
+    ],
+    "examples": [
+      {
+        "en": "The Large Hadron Collider is the world's largest particle collider.",
+        "cn": "大型强子对撞机是世界上最大的粒子对撞机。"
+      },
+      {
+        "en": "Scientists use colliders to study fundamental physics.",
+        "cn": "科学家使用对撞机研究基础物理学。"
+      }
+    ]
+  },
+  {
+    "word": "scam",
+    "phonetic": "/skæm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a dishonest scheme or fraud"
+      },
+      {
+        "pos": "v.",
+        "translation": "to swindle or cheat someone"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "骗局",
+      "欺诈",
+      "诈骗"
+    ],
+    "examples": [
+      {
+        "en": "He lost his life savings in an online scam.",
+        "cn": "他在一场网络骗局中失去了毕生积蓄。"
+      },
+      {
+        "en": "They scammed the elderly woman out of her money.",
+        "cn": "他们骗走了老妇人的钱。"
+      }
+    ]
+  },
+  {
+    "word": "chunky",
+    "phonetic": "/ˈtʃʌŋki/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "thick and solid; containing chunks; stocky or stout in build"
+      }
+    ],
+    "roots": [
+      {
+        "part": "chunk",
+        "meaning": "大块"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "厚实的",
+      "粗壮的",
+      "块状的"
+    ],
+    "examples": [
+      {
+        "en": "She wore a chunky necklace.",
+        "cn": "她戴着一条粗项链。"
+      },
+      {
+        "en": "I like chunky peanut butter with bits of nuts.",
+        "cn": "我喜欢带有坚果碎粒的粗粒花生酱。"
+      }
+    ]
+  },
+  {
+    "word": "tux",
+    "phonetic": "/tʌks/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a tuxedo; a formal suit for men"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "tuxedo的缩写"
+      }
+    ],
+    "translations": [
+      "晚礼服",
+      "无尾礼服"
+    ],
+    "examples": [
+      {
+        "en": "He rented a tux for the wedding.",
+        "cn": "他为婚礼租了一套晚礼服。"
+      },
+      {
+        "en": "The dress code requires a tux and bow tie.",
+        "cn": "着装要求规定必须穿晚礼服和打领结。"
+      }
+    ]
+  },
+  {
+    "word": "crouch",
+    "phonetic": "/kraʊtʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to bend knees and lower body close to the ground; to adopt a position of readiness or fear"
+      },
+      {
+        "pos": "n.",
+        "translation": "the act of crouching"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "蹲伏",
+      "蜷缩"
+    ],
+    "examples": [
+      {
+        "en": "The cat crouched, ready to pounce on the mouse.",
+        "cn": "猫蹲伏着，准备扑向老鼠。"
+      },
+      {
+        "en": "He had to crouch to get through the low doorway.",
+        "cn": "他不得不蹲下来才能通过低矮的门道。"
+      }
+    ]
+  },
+  {
+    "word": "comfy",
+    "phonetic": "/ˈkʌmfi/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "comfortable; providing ease and relaxation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "comfortable的缩略形式"
+      }
+    ],
+    "translations": [
+      "舒适的"
+    ],
+    "examples": [
+      {
+        "en": "These old slippers are so comfy.",
+        "cn": "这双旧拖鞋真舒服。"
+      },
+      {
+        "en": "I like wearing comfy clothes on weekends.",
+        "cn": "周末我喜欢穿舒适的衣服。"
+      }
+    ]
+  },
+  {
+    "word": "cashew",
+    "phonetic": "/ˈkæʃuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a tropical tree that produces a kidney-shaped nut; the nut itself"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（源自葡萄牙语caju）"
+      }
+    ],
+    "translations": [
+      "腰果"
+    ],
+    "examples": [
+      {
+        "en": "Cashews are often roasted and salted.",
+        "cn": "腰果常被烤制和加盐。"
+      },
+      {
+        "en": "She is allergic to cashews.",
+        "cn": "她对腰果过敏。"
+      }
+    ]
+  },
+  {
+    "word": "flank",
+    "phonetic": "/flæŋk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the side of the body between the ribs and hip; the side of a military formation"
+      },
+      {
+        "pos": "v.",
+        "translation": "to be situated at the side of; to guard or attack the side of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "侧腹",
+      "侧面",
+      "翼侧"
+    ],
+    "examples": [
+      {
+        "en": "The horse's flank was sweating after the race.",
+        "cn": "赛马比赛后侧腹出汗。"
+      },
+      {
+        "en": "The general ordered the troops to flank the enemy.",
+        "cn": "将军命令部队从侧翼包抄敌人。"
+      }
+    ]
+  }
+]

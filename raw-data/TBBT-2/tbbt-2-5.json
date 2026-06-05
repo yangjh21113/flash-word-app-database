@@ -1,0 +1,1232 @@
+[
+  {
+    "word": "pottery",
+    "phonetic": "/ˈpɑːtəri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "objects made of clay and hardened by heat; the craft or workshop of making such objects"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pot",
+        "meaning": "container"
+      },
+      {
+        "part": "-ery",
+        "meaning": "place or art of"
+      }
+    ],
+    "translations": [
+      "陶器",
+      "陶艺",
+      "陶器厂"
+    ],
+    "examples": [
+      {
+        "en": "She took a pottery class to make vases.",
+        "cn": "她上了陶艺课制作花瓶。"
+      },
+      {
+        "en": "Ancient pottery was found at the archaeological site.",
+        "cn": "考古遗址中发现了古代陶器。"
+      }
+    ]
+  },
+  {
+    "word": "barn",
+    "phonetic": "/bɑːrn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large farm building for storing grain or housing livestock"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "谷仓",
+      "牲口棚"
+    ],
+    "examples": [
+      {
+        "en": "The cows were in the barn.",
+        "cn": "奶牛在牲口棚里。"
+      },
+      {
+        "en": "They stored the hay in the barn.",
+        "cn": "他们把干草储存在谷仓里。"
+      }
+    ]
+  },
+  {
+    "word": "compatible",
+    "phonetic": "/kəmˈpætəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "able to exist or work together without conflict; consistent"
+      }
+    ],
+    "roots": [
+      {
+        "part": "com-",
+        "meaning": "together"
+      },
+      {
+        "part": "pati",
+        "meaning": "to suffer, endure"
+      },
+      {
+        "part": "-ible",
+        "meaning": "able to be"
+      }
+    ],
+    "translations": [
+      "兼容的",
+      "能共存的",
+      "合得来的"
+    ],
+    "examples": [
+      {
+        "en": "This software is compatible with Windows 11.",
+        "cn": "这款软件与Windows 11兼容。"
+      },
+      {
+        "en": "They discovered they were very compatible as roommates.",
+        "cn": "他们发现作为室友非常合得来。"
+      }
+    ]
+  },
+  {
+    "word": "diffraction",
+    "phonetic": "/dɪˈfrækʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the bending or spreading of waves around obstacles"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dif-",
+        "meaning": "apart"
+      },
+      {
+        "part": "fract",
+        "meaning": "to break"
+      },
+      {
+        "part": "-ion",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "衍射",
+      "绕射"
+    ],
+    "examples": [
+      {
+        "en": "Diffraction causes light to spread after passing through a narrow slit.",
+        "cn": "衍射使光通过窄缝后扩散。"
+      },
+      {
+        "en": "X-ray diffraction is used to study crystal structures.",
+        "cn": "X射线衍射用于研究晶体结构。"
+      }
+    ]
+  },
+  {
+    "word": "retinas",
+    "phonetic": "/ˈretɪnəz/",
+    "partsOfSpeech": [
+      {
+        "pos": "n. (plural)",
+        "translation": "the light-sensitive layers at the back of the eyeballs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "retin-",
+        "meaning": "net (from Latin rete)"
+      },
+      {
+        "part": "-a",
+        "meaning": "singular noun suffix"
+      }
+    ],
+    "translations": [
+      "视网膜（复数）"
+    ],
+    "examples": [
+      {
+        "en": "The retinas convert light into electrical signals for the brain.",
+        "cn": "视网膜将光转换为电信号传送到大脑。"
+      },
+      {
+        "en": "Doctors examined his retinas for damage.",
+        "cn": "医生检查了他的视网膜是否有损伤。"
+      }
+    ]
+  },
+  {
+    "word": "latch",
+    "phonetic": "/lætʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a simple fastening for a door or gate"
+      },
+      {
+        "pos": "v.",
+        "translation": "to fasten with a latch; to seize or attach"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "门闩",
+      "插销",
+      "锁上",
+      "抓住"
+    ],
+    "examples": [
+      {
+        "en": "Make sure the latch is closed before you leave.",
+        "cn": "离开前确保门闩插好。"
+      },
+      {
+        "en": "The idea latched onto his brain.",
+        "cn": "这个想法在他脑海里挥之不去。"
+      }
+    ]
+  },
+  {
+    "word": "bungee",
+    "phonetic": "/ˈbʌndʒi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a long elastic cord used for jumping or securing items"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "蹦极绳",
+      "松紧绳"
+    ],
+    "examples": [
+      {
+        "en": "They went bungee jumping off a bridge.",
+        "cn": "他们从桥上蹦极。"
+      },
+      {
+        "en": "The bungee cord stretched but did not break.",
+        "cn": "蹦极绳被拉长但没有断裂。"
+      }
+    ]
+  },
+  {
+    "word": "cord",
+    "phonetic": "/kɔːrd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "thin string or rope; a structure resembling a rope (e.g., spinal cord)"
+      },
+      {
+        "pos": "v.",
+        "translation": "to tie with cord"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "细绳",
+      "线",
+      "索",
+      "脊髓"
+    ],
+    "examples": [
+      {
+        "en": "He tied the package with a cord.",
+        "cn": "他用细绳捆扎包裹。"
+      },
+      {
+        "en": "An injury to the spinal cord can cause paralysis.",
+        "cn": "脊髓损伤可导致瘫痪。"
+      }
+    ]
+  },
+  {
+    "word": "debus",
+    "phonetic": "/diːˈbʌs/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to get off a bus; to unload from a bus"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "off, away"
+      },
+      {
+        "part": "bus",
+        "meaning": "vehicle"
+      }
+    ],
+    "translations": [
+      "下公交车",
+      "从公共汽车上卸下"
+    ],
+    "examples": [
+      {
+        "en": "The soldiers debused and formed ranks.",
+        "cn": "士兵们下了公交车并整队。"
+      },
+      {
+        "en": "Passengers debused at the terminal.",
+        "cn": "乘客们在终点站下车。"
+      }
+    ]
+  },
+  {
+    "word": "hereby",
+    "phonetic": "/ˌhɪrˈbaɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "as a result of this document or statement; by means of this"
+      }
+    ],
+    "roots": [
+      {
+        "part": "here",
+        "meaning": "this place"
+      },
+      {
+        "part": "by",
+        "meaning": "through"
+      }
+    ],
+    "translations": [
+      "特此",
+      "兹"
+    ],
+    "examples": [
+      {
+        "en": "I hereby declare the meeting open.",
+        "cn": "我特此宣布会议开始。"
+      },
+      {
+        "en": "The contract is hereby terminated.",
+        "cn": "合同特此终止。"
+      }
+    ]
+  },
+  {
+    "word": "covenant",
+    "phonetic": "/ˈkʌvənənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a formal agreement or promise, often of a religious or legal nature"
+      },
+      {
+        "pos": "v.",
+        "translation": "to agree or promise by covenant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "co-",
+        "meaning": "together"
+      },
+      {
+        "part": "ven",
+        "meaning": "to come"
+      },
+      {
+        "part": "-ant",
+        "meaning": "thing that"
+      }
+    ],
+    "translations": [
+      "盟约",
+      "契约",
+      "圣约"
+    ],
+    "examples": [
+      {
+        "en": "The Bible describes God's covenant with Abraham.",
+        "cn": "《圣经》描述了上帝与亚伯拉罕的盟约。"
+      },
+      {
+        "en": "The tenant covenanted to maintain the property.",
+        "cn": "承租人立约维护房产。"
+      }
+    ]
+  },
+  {
+    "word": "ounce",
+    "phonetic": "/aʊns/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a unit of weight equal to 1/16 of a pound; a small amount"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "盎司",
+      "少量"
+    ],
+    "examples": [
+      {
+        "en": "The recipe calls for six ounces of flour.",
+        "cn": "食谱需要六盎司面粉。"
+      },
+      {
+        "en": "He hasn't an ounce of common sense.",
+        "cn": "他一点常识都没有。"
+      }
+    ]
+  },
+  {
+    "word": "conn",
+    "phonetic": "/kɑːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to direct the steering of a ship; to control"
+      },
+      {
+        "pos": "n.",
+        "translation": "the position or act of conning a ship"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（航海术语）"
+      }
+    ],
+    "translations": [
+      "指挥（船的方向）",
+      "操舵"
+    ],
+    "examples": [
+      {
+        "en": "The captain conned the ship into the harbor.",
+        "cn": "船长指挥船只驶入港口。"
+      },
+      {
+        "en": "He has the conn.",
+        "cn": "他负责操舵。"
+      }
+    ]
+  },
+  {
+    "word": "brainteaser",
+    "phonetic": "/ˈbreɪnˌtiːzər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a puzzle or problem that requires thought to solve"
+      }
+    ],
+    "roots": [
+      {
+        "part": "brain",
+        "meaning": "mind"
+      },
+      {
+        "part": "tease",
+        "meaning": "to annoy, challenge"
+      },
+      {
+        "part": "-er",
+        "meaning": "thing that"
+      }
+    ],
+    "translations": [
+      "脑筋急转弯",
+      "智力题"
+    ],
+    "examples": [
+      {
+        "en": "He enjoys solving brainteasers in his free time.",
+        "cn": "他喜欢在空闲时间解智力题。"
+      },
+      {
+        "en": "The brainteaser stumped the whole class.",
+        "cn": "这道脑筋急转弯难住了全班。"
+      }
+    ]
+  },
+  {
+    "word": "mercury",
+    "phonetic": "/ˈmɜːrkjəri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a heavy silvery liquid metal (Hg); the planet nearest the sun; the Roman messenger god"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "水银",
+      "汞",
+      "水星"
+    ],
+    "examples": [
+      {
+        "en": "Mercury is used in thermometers.",
+        "cn": "水银用于温度计中。"
+      },
+      {
+        "en": "Mercury is the smallest planet in our solar system.",
+        "cn": "水星是我们太阳系中最小的行星。"
+      }
+    ]
+  },
+  {
+    "word": "reckless",
+    "phonetic": "/ˈrekləs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "without thought of consequences; careless and risky"
+      }
+    ],
+    "roots": [
+      {
+        "part": "reck",
+        "meaning": "to care, heed"
+      },
+      {
+        "part": "-less",
+        "meaning": "without"
+      }
+    ],
+    "translations": [
+      "鲁莽的",
+      "不计后果的"
+    ],
+    "examples": [
+      {
+        "en": "His reckless driving caused an accident.",
+        "cn": "他鲁莽的驾驶导致了事故。"
+      },
+      {
+        "en": "She was reckless with her money.",
+        "cn": "她花钱大手大脚。"
+      }
+    ]
+  },
+  {
+    "word": "relentless",
+    "phonetic": "/rɪˈlentləs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "never stopping or weakening; harsh or inflexible"
+      }
+    ],
+    "roots": [
+      {
+        "part": "relent",
+        "meaning": "to soften, yield"
+      },
+      {
+        "part": "-less",
+        "meaning": "without"
+      }
+    ],
+    "translations": [
+      "不懈的",
+      "无情的",
+      "持续的"
+    ],
+    "examples": [
+      {
+        "en": "The relentless rain caused flooding.",
+        "cn": "持续不断的雨引发了洪水。"
+      },
+      {
+        "en": "He was a relentless enemy.",
+        "cn": "他是个无情的敌人。"
+      }
+    ]
+  },
+  {
+    "word": "combustion",
+    "phonetic": "/kəmˈbʌstʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the process of burning; chemical reaction producing heat and light"
+      }
+    ],
+    "roots": [
+      {
+        "part": "com-",
+        "meaning": "intensive"
+      },
+      {
+        "part": "bust",
+        "meaning": "to burn"
+      },
+      {
+        "part": "-ion",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "燃烧",
+      "氧化"
+    ],
+    "examples": [
+      {
+        "en": "Internal combustion engines power most cars.",
+        "cn": "内燃机为大多数汽车提供动力。"
+      },
+      {
+        "en": "Spontaneous combustion can occur in oily rags.",
+        "cn": "油布发生自然燃烧。"
+      }
+    ]
+  },
+  {
+    "word": "shack",
+    "phonetic": "/ʃæk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small, roughly built hut or cabin"
+      },
+      {
+        "pos": "v.",
+        "translation": "to live or stay in a shack"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "棚屋",
+      "简陋小屋"
+    ],
+    "examples": [
+      {
+        "en": "The fisherman lived in a shack by the beach.",
+        "cn": "渔夫住在海滩边的一个棚屋里。"
+      },
+      {
+        "en": "They shacked up together in a small apartment.",
+        "cn": "他们住在一间小公寓里。"
+      }
+    ]
+  },
+  {
+    "word": "perturb",
+    "phonetic": "/pərˈtɜːrb/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to disturb or agitate; to cause anxiety"
+      }
+    ],
+    "roots": [
+      {
+        "part": "per-",
+        "meaning": "through"
+      },
+      {
+        "part": "turb",
+        "meaning": "to disturb"
+      }
+    ],
+    "translations": [
+      "使不安",
+      "扰乱"
+    ],
+    "examples": [
+      {
+        "en": "The strange noise perturbed the animals.",
+        "cn": "奇怪的噪音扰乱了动物们。"
+      },
+      {
+        "en": "His calm manner was not perturbed by the crisis.",
+        "cn": "他的冷静态度没有被危机扰乱。"
+      }
+    ]
+  },
+  {
+    "word": "amplitude",
+    "phonetic": "/ˈæmplɪtuːd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the maximum extent of a vibration or oscillation; breadth or scope"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ampl-",
+        "meaning": "large, wide"
+      },
+      {
+        "part": "-itude",
+        "meaning": "state of"
+      }
+    ],
+    "translations": [
+      "振幅",
+      "幅度",
+      "广大"
+    ],
+    "examples": [
+      {
+        "en": "The amplitude of the sound wave determines its volume.",
+        "cn": "声波的振幅决定其音量。"
+      },
+      {
+        "en": "The amplitude of her knowledge surprised everyone.",
+        "cn": "她知识的广度让所有人惊讶。"
+      }
+    ]
+  },
+  {
+    "word": "symmetric",
+    "phonetic": "/sɪˈmetrɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "made up of exactly similar parts facing each other; balanced"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sym-",
+        "meaning": "together"
+      },
+      {
+        "part": "metr",
+        "meaning": "measure"
+      },
+      {
+        "part": "-ic",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "对称的",
+      "匀称的"
+    ],
+    "examples": [
+      {
+        "en": "A circle is perfectly symmetric.",
+        "cn": "圆形是完全对称的。"
+      },
+      {
+        "en": "The pattern is symmetric about the vertical axis.",
+        "cn": "图案关于垂直轴对称。"
+      }
+    ]
+  },
+  {
+    "word": "ultraviolet",
+    "phonetic": "/ˌʌltrəˈvaɪələt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "of electromagnetic radiation with wavelengths shorter than visible light but longer than X-rays"
+      },
+      {
+        "pos": "n.",
+        "translation": "ultraviolet radiation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ultra-",
+        "meaning": "beyond"
+      },
+      {
+        "part": "violet",
+        "meaning": "purple color"
+      }
+    ],
+    "translations": [
+      "紫外线的",
+      "紫外线"
+    ],
+    "examples": [
+      {
+        "en": "Sunscreen protects against ultraviolet rays.",
+        "cn": "防晒霜可抵御紫外线。"
+      },
+      {
+        "en": "Ultraviolet light is invisible to humans.",
+        "cn": "紫外线对人眼是不可见的。"
+      }
+    ]
+  },
+  {
+    "word": "coefficient",
+    "phonetic": "/ˌkoʊɪˈfɪʃənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a number multiplying a variable in algebra; a measure of a property"
+      }
+    ],
+    "roots": [
+      {
+        "part": "co-",
+        "meaning": "together"
+      },
+      {
+        "part": "efficient",
+        "meaning": "working"
+      }
+    ],
+    "translations": [
+      "系数",
+      "率"
+    ],
+    "examples": [
+      {
+        "en": "In the expression 3x, 3 is the coefficient.",
+        "cn": "在表达式 3x 中，3 是系数。"
+      },
+      {
+        "en": "The correlation coefficient measures the strength of association.",
+        "cn": "相关系数衡量关联强度。"
+      }
+    ]
+  },
+  {
+    "word": "armor",
+    "phonetic": "/ˈɑːrmər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "protective covering, especially for military use; a vehicle's metal plating"
+      },
+      {
+        "pos": "v.",
+        "translation": "to cover with armor"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "盔甲",
+      "装甲",
+      "防护"
+    ],
+    "examples": [
+      {
+        "en": "The knight wore shining armor.",
+        "cn": "骑士穿着闪亮的盔甲。"
+      },
+      {
+        "en": "The tank is heavily armored.",
+        "cn": "这辆坦克装甲很厚。"
+      }
+    ]
+  },
+  {
+    "word": "hassle",
+    "phonetic": "/ˈhæsəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an irritating inconvenience; a argument or fight"
+      },
+      {
+        "pos": "v.",
+        "translation": "to annoy or bother"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "麻烦",
+      "争执",
+      "烦扰"
+    ],
+    "examples": [
+      {
+        "en": "It's a hassle to get a visa.",
+        "cn": "办签证很麻烦。"
+      },
+      {
+        "en": "Stop hassling me!",
+        "cn": "别烦我！"
+      }
+    ]
+  },
+  {
+    "word": "fuzz",
+    "phonetic": "/fʌz/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a frizzy mass of hair or fiber; the police (slang)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "绒毛",
+      "模糊",
+      "警察（俚语）"
+    ],
+    "examples": [
+      {
+        "en": "The peach has a soft fuzz on its skin.",
+        "cn": "桃子皮上有软绒毛。"
+      },
+      {
+        "en": "The fuzz showed up at the scene.",
+        "cn": "警察出现在现场。"
+      }
+    ]
+  },
+  {
+    "word": "harass",
+    "phonetic": "/həˈræs/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to subject to aggressive pressure or intimidation; to bother repeatedly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "骚扰",
+      "烦扰"
+    ],
+    "examples": [
+      {
+        "en": "It is illegal to harass someone based on their race.",
+        "cn": "基于种族骚扰他人是非法的。"
+      },
+      {
+        "en": "The kids harassed the poor dog.",
+        "cn": "孩子们不断逗弄那条可怜的狗。"
+      }
+    ]
+  },
+  {
+    "word": "ignition",
+    "phonetic": "/ɪɡˈnɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the act of setting something on fire; the system that starts an engine"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ign-",
+        "meaning": "fire"
+      },
+      {
+        "part": "-ition",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "点火",
+      "点燃",
+      "点火装置"
+    ],
+    "examples": [
+      {
+        "en": "Turn the key in the ignition to start the car.",
+        "cn": "转动点火钥匙发动汽车。"
+      },
+      {
+        "en": "The ignition of the fuel was instantaneous.",
+        "cn": "燃料瞬间点燃。"
+      }
+    ]
+  },
+  {
+    "word": "pedestrian",
+    "phonetic": "/pəˈdestriən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person walking, especially in an area where vehicles go"
+      },
+      {
+        "pos": "adj.",
+        "translation": "lacking imagination; dull"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ped-",
+        "meaning": "foot"
+      },
+      {
+        "part": "-estrian",
+        "meaning": "person"
+      }
+    ],
+    "translations": [
+      "行人",
+      "乏味的",
+      "平淡的"
+    ],
+    "examples": [
+      {
+        "en": "A pedestrian was hit by a bicycle.",
+        "cn": "一名行人被自行车撞了。"
+      },
+      {
+        "en": "The speech was pedestrian and uninspiring.",
+        "cn": "那场演讲平淡无奇，缺乏启发性。"
+      }
+    ]
+  },
+  {
+    "word": "brake",
+    "phonetic": "/breɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a device for slowing or stopping a vehicle"
+      },
+      {
+        "pos": "v.",
+        "translation": "to slow or stop using a brake"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "刹车",
+      "制动器",
+      "刹车"
+    ],
+    "examples": [
+      {
+        "en": "The driver slammed on the brakes.",
+        "cn": "司机猛踩刹车。"
+      },
+      {
+        "en": "Remember to brake gently on wet roads.",
+        "cn": "记住在湿滑路面上轻踩刹车。"
+      }
+    ]
+  },
+  {
+    "word": "transcend",
+    "phonetic": "/trænˈsend/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to go beyond the limits of; to surpass"
+      }
+    ],
+    "roots": [
+      {
+        "part": "trans-",
+        "meaning": "across"
+      },
+      {
+        "part": "scend",
+        "meaning": "to climb"
+      }
+    ],
+    "translations": [
+      "超越",
+      "超出"
+    ],
+    "examples": [
+      {
+        "en": "Great music transcends cultural boundaries.",
+        "cn": "伟大的音乐超越文化界限。"
+      },
+      {
+        "en": "Her kindness transcends mere politeness.",
+        "cn": "她的善良超越了单纯的礼貌。"
+      }
+    ]
+  },
+  {
+    "word": "incisor",
+    "phonetic": "/ɪnˈsaɪzər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sharp-edged tooth at the front of the mouth, used for cutting"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "into"
+      },
+      {
+        "part": "cis",
+        "meaning": "cut"
+      },
+      {
+        "part": "-or",
+        "meaning": "thing that"
+      }
+    ],
+    "translations": [
+      "门牙"
+    ],
+    "examples": [
+      {
+        "en": "Humans have eight incisors in total.",
+        "cn": "人类总共有八颗门牙。"
+      },
+      {
+        "en": "The incisors are used for biting into food.",
+        "cn": "门牙用于咬食物。"
+      }
+    ]
+  },
+  {
+    "word": "plebeian",
+    "phonetic": "/pləˈbiːən/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the common people; lacking refinement"
+      },
+      {
+        "pos": "n.",
+        "translation": "a commoner in ancient Rome; an ordinary person"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pleb-",
+        "meaning": "common people"
+      },
+      {
+        "part": "-ian",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "平民的",
+      "粗俗的",
+      "平民"
+    ],
+    "examples": [
+      {
+        "en": "In ancient Rome, plebeians had fewer rights than patricians.",
+        "cn": "在古罗马，平民的权利比贵族少。"
+      },
+      {
+        "en": "His plebeian manners offended the aristocrats.",
+        "cn": "他粗俗的举止冒犯了贵族。"
+      }
+    ]
+  },
+  {
+    "word": "unravel",
+    "phonetic": "/ʌnˈrævl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to undo twisted threads; to solve or explain; to fall apart"
+      }
+    ],
+    "roots": [
+      {
+        "part": "un-",
+        "meaning": "reverse"
+      },
+      {
+        "part": "ravel",
+        "meaning": "to tangle"
+      }
+    ],
+    "translations": [
+      "解开",
+      "阐明",
+      "崩溃"
+    ],
+    "examples": [
+      {
+        "en": "The detective unraveled the mystery.",
+        "cn": "侦探解开了谜团。"
+      },
+      {
+        "en": "The sweater began to unravel at the sleeve.",
+        "cn": "毛衣袖子处开始脱线。"
+      },
+      {
+        "en": "His plan unraveled under pressure.",
+        "cn": "他的计划在压力下崩溃了。"
+      }
+    ]
+  }
+]

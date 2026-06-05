@@ -1,0 +1,2754 @@
+[
+  {
+    "word": "startle",
+    "phonetic": "/ˈstɑːrtl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to cause someone to feel sudden surprise or alarm; to surprise or frighten suddenly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a sudden shock or surprise"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "使惊吓",
+      "使吃惊",
+      "惊吓"
+    ],
+    "examples": [
+      {
+        "en": "The loud noise startled the children.",
+        "cn": "巨大的噪音吓了孩子们一跳。"
+      },
+      {
+        "en": "You startled me! I didn't see you there.",
+        "cn": "你吓了我一跳！我刚才没看到你在那里。"
+      }
+    ]
+  },
+  {
+    "word": "rut",
+    "phonetic": "/rʌt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a deep wheel mark or groove in a road or path; a fixed, monotonous routine from which one finds it hard to escape; the annual period of sexual activity in deer and some other mammals"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "车辙",
+      "刻板乏味的生活",
+      "发情期"
+    ],
+    "examples": [
+      {
+        "en": "After ten years at the same job, he felt stuck in a rut.",
+        "cn": "在同一份工作上干了十年后，他感觉陷入了单调乏味的困境。"
+      },
+      {
+        "en": "The road was full of ruts from heavy trucks.",
+        "cn": "路上满是重型卡车压出的车辙。"
+      }
+    ]
+  },
+  {
+    "word": "rust",
+    "phonetic": "/rʌst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a reddish-brown flaky coating on iron or steel caused by oxidation; a plant disease causing reddish-brown spots"
+      },
+      {
+        "pos": "v.",
+        "translation": "to become coated with rust; to deteriorate through disuse or neglect"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "铁锈",
+      "生锈",
+      "锈病"
+    ],
+    "examples": [
+      {
+        "en": "The old bike was covered in rust.",
+        "cn": "那辆旧自行车上满是铁锈。"
+      },
+      {
+        "en": "If you leave metal outside, it will rust.",
+        "cn": "如果把金属放在外面，它会生锈。"
+      }
+    ]
+  },
+  {
+    "word": "apiece",
+    "phonetic": "/əˈpiːs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "to or for each one; each"
+      }
+    ],
+    "roots": [
+      {
+        "part": "a-",
+        "meaning": "每个"
+      },
+      {
+        "part": "piece",
+        "meaning": "部分"
+      }
+    ],
+    "translations": [
+      "每个",
+      "每人"
+    ],
+    "examples": [
+      {
+        "en": "They gave the children $10 apiece.",
+        "cn": "他们给了每个孩子10美元。"
+      },
+      {
+        "en": "The tickets cost $50 apiece.",
+        "cn": "门票每张50美元。"
+      }
+    ]
+  },
+  {
+    "word": "piece",
+    "phonetic": "/piːs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a portion or part of something; a separate article or item; a musical or written composition"
+      },
+      {
+        "pos": "v.",
+        "translation": "to assemble or repair something from separate parts"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "块",
+      "片",
+      "部分",
+      "作品"
+    ],
+    "examples": [
+      {
+        "en": "She cut the cake into six pieces.",
+        "cn": "她把蛋糕切成了六块。"
+      },
+      {
+        "en": "This is a beautiful piece of music.",
+        "cn": "这是一首优美的音乐作品。"
+      }
+    ]
+  },
+  {
+    "word": "sacrifice",
+    "phonetic": "/ˈsækrɪfaɪs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an act of giving up something valued for the sake of something else more important; an animal or person killed as an offering to a deity"
+      },
+      {
+        "pos": "v.",
+        "translation": "to give up something important for a greater purpose; to kill an animal or person as an offering to a god"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sacr-",
+        "meaning": "神圣的"
+      },
+      {
+        "part": "-fice",
+        "meaning": "做"
+      }
+    ],
+    "translations": [
+      "牺牲",
+      "献祭",
+      "舍弃"
+    ],
+    "examples": [
+      {
+        "en": "Parents often sacrifice their own needs for their children.",
+        "cn": "父母常常为了孩子牺牲自己的需求。"
+      },
+      {
+        "en": "The ancient ritual involved a sacrifice to the gods.",
+        "cn": "古老的仪式包括向众神献祭。"
+      }
+    ]
+  },
+  {
+    "word": "mighty",
+    "phonetic": "/ˈmaɪti/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "possessing great power, strength, or force; large or impressive in size"
+      },
+      {
+        "pos": "adv.",
+        "translation": "very; extremely"
+      }
+    ],
+    "roots": [
+      {
+        "part": "might",
+        "meaning": "力量"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "强大的",
+      "巨大的",
+      "非常"
+    ],
+    "examples": [
+      {
+        "en": "The mighty warrior defeated all his enemies.",
+        "cn": "强大的武士击败了所有敌人。"
+      },
+      {
+        "en": "That's a mighty fine idea.",
+        "cn": "那是个非常好的主意。"
+      }
+    ]
+  },
+  {
+    "word": "greed",
+    "phonetic": "/ɡriːd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "intense and selfish desire for wealth, power, or food"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "贪婪",
+      "贪心"
+    ],
+    "examples": [
+      {
+        "en": "His greed for money ruined his relationships.",
+        "cn": "他对金钱的贪婪毁了他的人际关系。"
+      },
+      {
+        "en": "Greed is often the root of corruption.",
+        "cn": "贪婪往往是腐败的根源。"
+      }
+    ]
+  },
+  {
+    "word": "proffer",
+    "phonetic": "/ˈprɒfər/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to offer or present something for acceptance"
+      },
+      {
+        "pos": "n.",
+        "translation": "an offer or proposal"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pro-",
+        "meaning": "向前"
+      },
+      {
+        "part": "-fer",
+        "meaning": "带来"
+      }
+    ],
+    "translations": [
+      "提出",
+      "提供"
+    ],
+    "examples": [
+      {
+        "en": "He proffered his hand in friendship.",
+        "cn": "他友好地伸出了手。"
+      },
+      {
+        "en": "She proffered a suggestion during the meeting.",
+        "cn": "她在会议期间提出了一个建议。"
+      }
+    ]
+  },
+  {
+    "word": "courtesy",
+    "phonetic": "/ˈkɜːrtəsi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "polite behavior and respect for others; a polite gesture or remark"
+      }
+    ],
+    "roots": [
+      {
+        "part": "court",
+        "meaning": "宫廷"
+      },
+      {
+        "part": "-esy",
+        "meaning": "性质"
+      }
+    ],
+    "translations": [
+      "礼貌",
+      "谦恭",
+      "好意"
+    ],
+    "examples": [
+      {
+        "en": "He treated everyone with courtesy and respect.",
+        "cn": "他以礼貌和尊重的态度对待每个人。"
+      },
+      {
+        "en": "The hotel provides a courtesy shuttle to the airport.",
+        "cn": "酒店提供免费的机场班车服务。"
+      }
+    ]
+  },
+  {
+    "word": "margarita",
+    "phonetic": "/ˌmɑːrɡəˈriːtə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a cocktail made with tequila, lime or lemon juice, and orange liqueur"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "玛格丽特鸡尾酒"
+    ],
+    "examples": [
+      {
+        "en": "She ordered a margarita with salt on the rim.",
+        "cn": "她点了一杯杯口带盐的玛格丽特。"
+      },
+      {
+        "en": "This bar is famous for its frozen margaritas.",
+        "cn": "这家酒吧以冰冻玛格丽特闻名。"
+      }
+    ]
+  },
+  {
+    "word": "equation",
+    "phonetic": "/ɪˈkweɪʒn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a mathematical statement that two expressions are equal; the act of regarding something as equal or equivalent"
+      }
+    ],
+    "roots": [
+      {
+        "part": "equ-",
+        "meaning": "相等"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "方程",
+      "等式",
+      "平衡"
+    ],
+    "examples": [
+      {
+        "en": "Solve the quadratic equation for x.",
+        "cn": "解这个二次方程，求出x的值。"
+      },
+      {
+        "en": "Money is not part of the happiness equation for everyone.",
+        "cn": "对每个人来说，金钱都不是幸福等式的一部分。"
+      }
+    ]
+  },
+  {
+    "word": "extraterrestrial",
+    "phonetic": "/ˌekstrətəˈrestriəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "originating, existing, or occurring outside the Earth or its atmosphere"
+      },
+      {
+        "pos": "n.",
+        "translation": "a being from outer space"
+      }
+    ],
+    "roots": [
+      {
+        "part": "extra-",
+        "meaning": "在...之外"
+      },
+      {
+        "part": "terrestrial",
+        "meaning": "地球的"
+      }
+    ],
+    "translations": [
+      "地球外的",
+      "外星人"
+    ],
+    "examples": [
+      {
+        "en": "Scientists search for signs of extraterrestrial life.",
+        "cn": "科学家们寻找外星生命的迹象。"
+      },
+      {
+        "en": "The movie is about an extraterrestrial who visits Earth.",
+        "cn": "这部电影讲述了一个访问地球的外星人的故事。"
+      }
+    ]
+  },
+  {
+    "word": "restrictive",
+    "phonetic": "/rɪˈstrɪktɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "imposing restrictions or limitations"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "向后"
+      },
+      {
+        "part": "strict",
+        "meaning": "拉紧"
+      },
+      {
+        "part": "-ive",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "限制的",
+      "约束的"
+    ],
+    "examples": [
+      {
+        "en": "The school has restrictive rules about dress code.",
+        "cn": "学校对着装要求有严格的限制。"
+      },
+      {
+        "en": "Restrictive policies can stifle creativity.",
+        "cn": "限制性的政策会扼杀创造力。"
+      }
+    ]
+  },
+  {
+    "word": "fractional",
+    "phonetic": "/ˈfrækʃənl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to a fraction; very small in amount or degree"
+      }
+    ],
+    "roots": [
+      {
+        "part": "fract-",
+        "meaning": "打破"
+      },
+      {
+        "part": "-ional",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "分数的",
+      "微小的"
+    ],
+    "examples": [
+      {
+        "en": "There is a fractional difference between the two measurements.",
+        "cn": "两次测量之间只有微小的差异。"
+      },
+      {
+        "en": "Fractional ownership allows people to buy shares of expensive assets.",
+        "cn": "分时所有权允许人们购买昂贵资产的部分份额。"
+      }
+    ]
+  },
+  {
+    "word": "formula",
+    "phonetic": "/ˈfɔːrmjələ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a mathematical relationship or rule expressed in symbols; a method or procedure for achieving something; a baby's liquid food"
+      }
+    ],
+    "roots": [
+      {
+        "part": "form",
+        "meaning": "形式"
+      },
+      {
+        "part": "-ula",
+        "meaning": "小"
+      }
+    ],
+    "translations": [
+      "公式",
+      "配方",
+      "方案",
+      "婴儿配方奶"
+    ],
+    "examples": [
+      {
+        "en": "The formula for water is H2O.",
+        "cn": "水的化学式是 H2O。"
+      },
+      {
+        "en": "They have a secret formula for success.",
+        "cn": "他们有一个成功的秘诀。"
+      }
+    ]
+  },
+  {
+    "word": "coefficient",
+    "phonetic": "/ˌkoʊɪˈfɪʃnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a numerical or constant multiplier in an algebraic term; a measure of a property or characteristic"
+      }
+    ],
+    "roots": [
+      {
+        "part": "co-",
+        "meaning": "共同"
+      },
+      {
+        "part": "efficient",
+        "meaning": "效率"
+      }
+    ],
+    "translations": [
+      "系数"
+    ],
+    "examples": [
+      {
+        "en": "In the term 5x, 5 is the coefficient.",
+        "cn": "在项 5x 中，5 是系数。"
+      },
+      {
+        "en": "The correlation coefficient measures the strength of relationship.",
+        "cn": "相关系数衡量关系的强度。"
+      }
+    ]
+  },
+  {
+    "word": "squared",
+    "phonetic": "/skweərd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "raised to the second power; marked with or shaped like a square"
+      },
+      {
+        "pos": "v.",
+        "translation": "past tense of square: to multiply by itself; to make straight or level"
+      }
+    ],
+    "roots": [
+      {
+        "part": "square",
+        "meaning": "正方形"
+      },
+      {
+        "part": "-ed",
+        "meaning": "形容词或动词过去式"
+      }
+    ],
+    "translations": [
+      "平方的",
+      "方形的"
+    ],
+    "examples": [
+      {
+        "en": "Three squared equals nine.",
+        "cn": "三的平方等于九。"
+      },
+      {
+        "en": "The room is 10 feet squared.",
+        "cn": "这个房间是10平方英尺。"
+      }
+    ]
+  },
+  {
+    "word": "crunch",
+    "phonetic": "/krʌntʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to crush or grind noisily; to process large amounts of data"
+      },
+      {
+        "pos": "n.",
+        "translation": "a loud grinding sound; a critical moment or situation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "拟声词"
+      }
+    ],
+    "translations": [
+      "嘎吱作响地咬碎",
+      "数据处理",
+      "关键时刻"
+    ],
+    "examples": [
+      {
+        "en": "The leaves crunched under my feet.",
+        "cn": "叶子在我脚下嘎吱作响。"
+      },
+      {
+        "en": "We need to crunch the numbers before the meeting.",
+        "cn": "我们得在开会前分析一下这些数据。"
+      }
+    ]
+  },
+  {
+    "word": "conservative",
+    "phonetic": "/kənˈsɜːrvətɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "averse to change or innovation; holding traditional values; moderate or cautious in estimate"
+      },
+      {
+        "pos": "n.",
+        "translation": "a person who favors traditional views and values"
+      }
+    ],
+    "roots": [
+      {
+        "part": "conserv-",
+        "meaning": "保存"
+      },
+      {
+        "part": "-ative",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "保守的",
+      "守旧的",
+      "保守主义者"
+    ],
+    "examples": [
+      {
+        "en": "He has very conservative political views.",
+        "cn": "他的政治观点非常保守。"
+      },
+      {
+        "en": "That's a conservative estimate of the cost.",
+        "cn": "那是对成本的保守估计。"
+      }
+    ]
+  },
+  {
+    "word": "nephew",
+    "phonetic": "/ˈnefjuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a son of one's brother or sister, or of one's spouse's brother or sister"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "侄子",
+      "外甥"
+    ],
+    "examples": [
+      {
+        "en": "My nephew is coming to visit for the weekend.",
+        "cn": "我侄子周末要来看我。"
+      },
+      {
+        "en": "She bought a gift for her nephew's birthday.",
+        "cn": "她为侄子的生日买了一份礼物。"
+      }
+    ]
+  },
+  {
+    "word": "feeble",
+    "phonetic": "/ˈfiːbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lacking physical strength or vigor; weak and ineffective"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "虚弱的",
+      "无力的",
+      "微弱的"
+    ],
+    "examples": [
+      {
+        "en": "The old man spoke in a feeble voice.",
+        "cn": "老人用微弱的声音说话。"
+      },
+      {
+        "en": "Their argument was feeble and unconvincing.",
+        "cn": "他们的论据软弱无力，缺乏说服力。"
+      }
+    ]
+  },
+  {
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "possible and practical to do easily or conveniently"
+      }
+    ],
+    "roots": [
+      {
+        "part": "feas-",
+        "meaning": "做"
+      },
+      {
+        "part": "-ible",
+        "meaning": "可...的"
+      }
+    ],
+    "translations": [
+      "可行的",
+      "可能的"
+    ],
+    "examples": [
+      {
+        "en": "It's not feasible to finish the project in one day.",
+        "cn": "一天内完成这个项目是不可行的。"
+      },
+      {
+        "en": "Is it feasible to get there by train?",
+        "cn": "坐火车去那里可行吗？"
+      }
+    ]
+  },
+  {
+    "word": "anthropomorphize",
+    "phonetic": "/ˌænθrəpəˈmɔːrfaɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to attribute human characteristics or behavior to non-human entities such as animals, objects, or gods"
+      }
+    ],
+    "roots": [
+      {
+        "part": "anthrop-",
+        "meaning": "人"
+      },
+      {
+        "part": "-morph-",
+        "meaning": "形状"
+      },
+      {
+        "part": "-ize",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "拟人化",
+      "赋予人性"
+    ],
+    "examples": [
+      {
+        "en": "Children often anthropomorphize their stuffed animals.",
+        "cn": "孩子们常常把他们的毛绒动物玩具拟人化。"
+      },
+      {
+        "en": "In cartoons, animals are frequently anthropomorphized.",
+        "cn": "在卡通片中，动物常常被拟人化。"
+      }
+    ]
+  },
+  {
+    "word": "aptitude",
+    "phonetic": "/ˈæptɪtuːd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a natural ability or talent for learning or doing something; suitability or fitness"
+      }
+    ],
+    "roots": [
+      {
+        "part": "apt",
+        "meaning": "适合"
+      },
+      {
+        "part": "-itude",
+        "meaning": "状态"
+      }
+    ],
+    "translations": [
+      "天资",
+      "才能",
+      "倾向"
+    ],
+    "examples": [
+      {
+        "en": "She has a natural aptitude for mathematics.",
+        "cn": "她天生就有数学才能。"
+      },
+      {
+        "en": "The test measures verbal aptitude.",
+        "cn": "这个测试衡量语言能力。"
+      }
+    ]
+  },
+  {
+    "word": "appetite",
+    "phonetic": "/ˈæpɪtaɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a natural desire for food; a strong desire or liking for something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ap-",
+        "meaning": "向"
+      },
+      {
+        "part": "pet",
+        "meaning": "寻求"
+      },
+      {
+        "part": "-ite",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "食欲",
+      "胃口",
+      "欲望"
+    ],
+    "examples": [
+      {
+        "en": "Regular exercise helps to increase your appetite.",
+        "cn": "规律的运动有助于增加食欲。"
+      },
+      {
+        "en": "He has an insatiable appetite for knowledge.",
+        "cn": "他对知识有着永不满足的渴望。"
+      }
+    ]
+  },
+  {
+    "word": "altitude",
+    "phonetic": "/ˈæltɪtuːd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the height of an object or point above sea level or ground level"
+      }
+    ],
+    "roots": [
+      {
+        "part": "alt",
+        "meaning": "高"
+      },
+      {
+        "part": "-itude",
+        "meaning": "状态"
+      }
+    ],
+    "translations": [
+      "海拔",
+      "高度"
+    ],
+    "examples": [
+      {
+        "en": "The plane is cruising at an altitude of 30,000 feet.",
+        "cn": "飞机正在三万英尺的高度巡航。"
+      },
+      {
+        "en": "At high altitudes, the air is thinner.",
+        "cn": "在高海拔地区，空气更稀薄。"
+      }
+    ]
+  },
+  {
+    "word": "attitude",
+    "phonetic": "/ˈætɪtuːd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a settled way of thinking or feeling about something; a position of the body"
+      }
+    ],
+    "roots": [
+      {
+        "part": "apt-",
+        "meaning": "适合"
+      },
+      {
+        "part": "-itude",
+        "meaning": "状态"
+      }
+    ],
+    "translations": [
+      "态度",
+      "看法",
+      "姿势"
+    ],
+    "examples": [
+      {
+        "en": "A positive attitude can help you overcome challenges.",
+        "cn": "积极的态度可以帮助你克服挑战。"
+      },
+      {
+        "en": "She has a bad attitude toward work.",
+        "cn": "她对工作态度不好。"
+      }
+    ]
+  },
+  {
+    "word": "marvelous",
+    "phonetic": "/ˈmɑːrvələs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "causing great wonder or amazement; extremely good or pleasing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "marvel",
+        "meaning": "奇迹"
+      },
+      {
+        "part": "-ous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "了不起的",
+      "极好的",
+      "惊人的"
+    ],
+    "examples": [
+      {
+        "en": "We had a marvelous time at the party.",
+        "cn": "我们在派对上玩得很开心。"
+      },
+      {
+        "en": "The weather was marvelous for the whole trip.",
+        "cn": "整个旅行期间天气都好极了。"
+      }
+    ]
+  },
+  {
+    "word": "sensational",
+    "phonetic": "/senˈseɪʃənl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "causing great public interest and excitement; very impressive or excellent; relating to sensation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sens-",
+        "meaning": "感觉"
+      },
+      {
+        "part": "-ational",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "轰动的",
+      "耸人听闻的",
+      "极好的"
+    ],
+    "examples": [
+      {
+        "en": "The sensational news story spread quickly.",
+        "cn": "这条耸人听闻的新闻迅速传播开来。"
+      },
+      {
+        "en": "You look sensational in that dress!",
+        "cn": "你穿那条裙子美极了！"
+      }
+    ]
+  },
+  {
+    "word": "multiverse",
+    "phonetic": "/ˈmʌltivɜːrs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a hypothetical collection of multiple possible universes, including our own, that together comprise all of reality"
+      }
+    ],
+    "roots": [
+      {
+        "part": "multi-",
+        "meaning": "多个"
+      },
+      {
+        "part": "verse",
+        "meaning": "宇宙"
+      }
+    ],
+    "translations": [
+      "多重宇宙",
+      "平行宇宙"
+    ],
+    "examples": [
+      {
+        "en": "The theory of the multiverse is popular in science fiction.",
+        "cn": "多重宇宙理论在科幻作品中很受欢迎。"
+      },
+      {
+        "en": "Some physicists believe our universe is just one in a vast multiverse.",
+        "cn": "一些物理学家认为我们的宇宙只是广阔多重宇宙中的一个。"
+      }
+    ]
+  },
+  {
+    "word": "buckle",
+    "phonetic": "/ˈbʌkl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a flat metal or plastic fastener used to secure a belt, strap, or shoe"
+      },
+      {
+        "pos": "v.",
+        "translation": "to fasten with a buckle; to bend or warp under pressure; to give way or yield"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "搭扣",
+      "扣环",
+      "扣紧",
+      "弯曲变形"
+    ],
+    "examples": [
+      {
+        "en": "Please buckle your seatbelt before takeoff.",
+        "cn": "起飞前请系好安全带。"
+      },
+      {
+        "en": "The bridge's steel beams began to buckle under the weight.",
+        "cn": "桥的钢梁在重压下开始弯曲变形。"
+      }
+    ]
+  },
+  {
+    "word": "weirdo",
+    "phonetic": "/ˈwɪrdoʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who looks or behaves in a strange or eccentric way"
+      }
+    ],
+    "roots": [
+      {
+        "part": "weird",
+        "meaning": "奇怪的"
+      },
+      {
+        "part": "-o",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "古怪的人",
+      "怪人"
+    ],
+    "examples": [
+      {
+        "en": "He's a bit of a weirdo, but I like him.",
+        "cn": "他有点古怪，但我喜欢他。"
+      },
+      {
+        "en": "Ignore him; he's just a weirdo.",
+        "cn": "别理他，他就是个怪人。"
+      }
+    ]
+  },
+  {
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "open to more than one interpretation; unclear or inexact"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ambi-",
+        "meaning": "两边"
+      },
+      {
+        "part": "ag-",
+        "meaning": "驱动"
+      },
+      {
+        "part": "-ous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "模棱两可的",
+      "含糊的"
+    ],
+    "examples": [
+      {
+        "en": "The wording of the contract is ambiguous.",
+        "cn": "合同的措辞模棱两可。"
+      },
+      {
+        "en": "His response was deliberately ambiguous.",
+        "cn": "他的回答故意含糊其辞。"
+      }
+    ]
+  },
+  {
+    "word": "torment",
+    "phonetic": "/ˈtɔːrment/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "severe physical or mental suffering; a cause of such suffering"
+      },
+      {
+        "pos": "v.",
+        "translation": "to cause severe suffering to; to annoy or tease persistently"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tor-",
+        "meaning": "扭曲"
+      },
+      {
+        "part": "-ment",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "折磨",
+      "痛苦",
+      "使痛苦"
+    ],
+    "examples": [
+      {
+        "en": "He was in torment from his back injury.",
+        "cn": "背伤的痛苦折磨着他。"
+      },
+      {
+        "en": "The children tormented the cat.",
+        "cn": "孩子们折磨那只猫。"
+      }
+    ]
+  },
+  {
+    "word": "defeat",
+    "phonetic": "/dɪˈfiːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to win a victory over; to cause to fail"
+      },
+      {
+        "pos": "n.",
+        "translation": "the act of losing or being beaten"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "向下"
+      },
+      {
+        "part": "feat",
+        "meaning": "做"
+      }
+    ],
+    "translations": [
+      "击败",
+      "失败",
+      "战胜"
+    ],
+    "examples": [
+      {
+        "en": "The army defeated the enemy.",
+        "cn": "军队击败了敌人。"
+      },
+      {
+        "en": "He refuses to accept defeat.",
+        "cn": "他拒绝接受失败。"
+      }
+    ]
+  },
+  {
+    "word": "prurient",
+    "phonetic": "/ˈprʊriənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having or encouraging an excessive interest in sexual matters"
+      }
+    ],
+    "roots": [
+      {
+        "part": "prur-",
+        "meaning": "发痒"
+      },
+      {
+        "part": "-ient",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "好色的",
+      "淫欲的"
+    ],
+    "examples": [
+      {
+        "en": "The journalist was accused of prurient reporting.",
+        "cn": "那位记者被指责报道内容下流。"
+      },
+      {
+        "en": "His prurient interests made others uncomfortable.",
+        "cn": "他好色的兴趣让其他人感到不舒服。"
+      }
+    ]
+  },
+  {
+    "word": "dent",
+    "phonetic": "/dent/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a slight hollow or depression in a hard surface"
+      },
+      {
+        "pos": "v.",
+        "translation": "to mark with a dent; to have a negative effect on something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "凹痕",
+      "使凹陷",
+      "削减"
+    ],
+    "examples": [
+      {
+        "en": "There's a dent in the car door.",
+        "cn": "车门上有个凹痕。"
+      },
+      {
+        "en": "The expensive repair put a dent in his savings.",
+        "cn": "昂贵的维修费使他的积蓄减少了不少。"
+      }
+    ]
+  },
+  {
+    "word": "turmoil",
+    "phonetic": "/ˈtɜːrmɔɪl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a state of great disturbance, confusion, or uncertainty"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "骚动",
+      "混乱",
+      "动荡"
+    ],
+    "examples": [
+      {
+        "en": "The country has been in political turmoil for months.",
+        "cn": "这个国家已经处于政治动荡中好几个月了。"
+      },
+      {
+        "en": "Her mind was in a state of turmoil.",
+        "cn": "她的内心一片混乱。"
+      }
+    ]
+  },
+  {
+    "word": "artistic",
+    "phonetic": "/ɑːrˈtɪstɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having or revealing natural creative skill; relating to art or artists"
+      }
+    ],
+    "roots": [
+      {
+        "part": "art",
+        "meaning": "艺术"
+      },
+      {
+        "part": "-istic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "艺术的",
+      "有艺术天赋的"
+    ],
+    "examples": [
+      {
+        "en": "She comes from a very artistic family.",
+        "cn": "她来自一个非常有艺术天赋的家庭。"
+      },
+      {
+        "en": "The artistic community supported the new museum.",
+        "cn": "艺术界支持这座新博物馆。"
+      }
+    ]
+  },
+  {
+    "word": "slip",
+    "phonetic": "/slɪp/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to lose balance and slide accidentally; to move smoothly or quietly; to decline or worsen"
+      },
+      {
+        "pos": "n.",
+        "translation": "a minor mistake; a small piece of paper; a woman's undergarment"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "滑倒",
+      "溜走",
+      "失误",
+      "纸条",
+      "下滑"
+    ],
+    "examples": [
+      {
+        "en": "Be careful not to slip on the wet floor.",
+        "cn": "小心别在湿滑的地板上滑倒。"
+      },
+      {
+        "en": "He made a slip in his calculations.",
+        "cn": "他在计算中犯了一个小错误。"
+      }
+    ]
+  },
+  {
+    "word": "briefs",
+    "phonetic": "/briːfs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "short, tight underpants; legal documents summarizing a case"
+      }
+    ],
+    "roots": [
+      {
+        "part": "brief",
+        "meaning": "短的"
+      },
+      {
+        "part": "-s",
+        "meaning": "复数"
+      }
+    ],
+    "translations": [
+      "三角内裤",
+      "诉讼案情摘要"
+    ],
+    "examples": [
+      {
+        "en": "He prefers wearing briefs to boxers.",
+        "cn": "比起平角裤，他更喜欢穿三角内裤。"
+      },
+      {
+        "en": "The lawyer prepared the court briefs.",
+        "cn": "律师准备了法庭案情摘要。"
+      }
+    ]
+  },
+  {
+    "word": "grasshopper",
+    "phonetic": "/ˈɡræshɒpər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a plant-eating insect with long legs that can jump high, which makes a chirping sound"
+      }
+    ],
+    "roots": [
+      {
+        "part": "grass",
+        "meaning": "草"
+      },
+      {
+        "part": "hopper",
+        "meaning": "跳跃者"
+      }
+    ],
+    "translations": [
+      "蚱蜢"
+    ],
+    "examples": [
+      {
+        "en": "A grasshopper landed on the leaf.",
+        "cn": "一只蚱蜢落在叶子上。"
+      },
+      {
+        "en": "Grasshoppers are common in summer fields.",
+        "cn": "蚱蜢在夏天的田野里很常见。"
+      }
+    ]
+  },
+  {
+    "word": "lit",
+    "phonetic": "/lɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "provided with light; very exciting or excellent"
+      },
+      {
+        "pos": "v.",
+        "translation": "past tense of light: to ignite or illuminate"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "照亮",
+      "点燃",
+      "棒极了"
+    ],
+    "examples": [
+      {
+        "en": "He lit a candle.",
+        "cn": "他点燃了一支蜡烛。"
+      },
+      {
+        "en": "The party was so lit!",
+        "cn": "派对太嗨了！"
+      }
+    ]
+  },
+  {
+    "word": "jock",
+    "phonetic": "/dʒɒk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who is enthusiastic about or excels at sports, especially in school; short for jockstrap"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "运动员",
+      "运动迷"
+    ],
+    "examples": [
+      {
+        "en": "In high school, he was a typical jock.",
+        "cn": "高中时，他是个典型的运动员型学生。"
+      },
+      {
+        "en": "The jocks and the nerds didn't usually hang out together.",
+        "cn": "运动员和书呆子通常不一起玩。"
+      }
+    ]
+  },
+  {
+    "word": "stubborn",
+    "phonetic": "/ˈstʌbərn/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having or showing dogged determination not to change one's attitude or position; difficult to remove or deal with"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "固执的",
+      "顽固的",
+      "难处理的"
+    ],
+    "examples": [
+      {
+        "en": "He's too stubborn to admit he was wrong.",
+        "cn": "他太固执了，不肯承认自己错了。"
+      },
+      {
+        "en": "This stain is really stubborn.",
+        "cn": "这个污渍真的很顽固。"
+      }
+    ]
+  },
+  {
+    "word": "assert",
+    "phonetic": "/əˈsɜːrt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to state a fact or belief confidently and forcefully; to behave in a way that shows power or authority"
+      }
+    ],
+    "roots": [
+      {
+        "part": "as-",
+        "meaning": "向"
+      },
+      {
+        "part": "sert",
+        "meaning": "加入"
+      }
+    ],
+    "translations": [
+      "断言",
+      "主张",
+      "维护（权利）"
+    ],
+    "examples": [
+      {
+        "en": "She asserted that she had never seen the man before.",
+        "cn": "她坚称自己从未见过那个男人。"
+      },
+      {
+        "en": "You need to assert yourself more in meetings.",
+        "cn": "你在会议上需要更自信地表达自己的观点。"
+      }
+    ]
+  },
+  {
+    "word": "permanent",
+    "phonetic": "/ˈpɜːrmənənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lasting or intended to last indefinitely without change"
+      },
+      {
+        "pos": "n.",
+        "translation": "a chemical hair treatment that makes hair curly for months"
+      }
+    ],
+    "roots": [
+      {
+        "part": "per-",
+        "meaning": "贯穿"
+      },
+      {
+        "part": "man",
+        "meaning": "停留"
+      },
+      {
+        "part": "-ent",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "永久的",
+      "持久的",
+      "烫发"
+    ],
+    "examples": [
+      {
+        "en": "The accident caused permanent damage to his eyesight.",
+        "cn": "那次事故对他的视力造成了永久性损伤。"
+      },
+      {
+        "en": "She got a permanent at the salon.",
+        "cn": "她在美发店烫了卷发。"
+      }
+    ]
+  },
+  {
+    "word": "successor",
+    "phonetic": "/səkˈsesər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person or thing that follows another in a job, position, or role"
+      }
+    ],
+    "roots": [
+      {
+        "part": "suc-",
+        "meaning": "在下"
+      },
+      {
+        "part": "cess",
+        "meaning": "走"
+      },
+      {
+        "part": "-or",
+        "meaning": "人或物"
+      }
+    ],
+    "translations": [
+      "继任者",
+      "继承人"
+    ],
+    "examples": [
+      {
+        "en": "The CEO named his successor before retiring.",
+        "cn": "CEO在退休前指定了继任者。"
+      },
+      {
+        "en": "This new model is the successor to the popular smartphone.",
+        "cn": "这款新机型是那款受欢迎智能手机的换代产品。"
+      }
+    ]
+  },
+  {
+    "word": "gradation",
+    "phonetic": "/ɡrəˈdeɪʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a scale or series of successive changes, stages, or degrees; a gradual transition"
+      }
+    ],
+    "roots": [
+      {
+        "part": "grad-",
+        "meaning": "步"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "渐变",
+      "等级",
+      "层次"
+    ],
+    "examples": [
+      {
+        "en": "The painting shows a gradation of color from light to dark.",
+        "cn": "这幅画展现了从浅到深的颜色渐变。"
+      },
+      {
+        "en": "There are subtle gradations in meaning between the two words.",
+        "cn": "这两个词在意义上有着细微的差别。"
+      }
+    ]
+  },
+  {
+    "word": "suspension",
+    "phonetic": "/səˈspenʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the act of temporarily stopping or hanging something; the system of springs and shock absorbers in a vehicle"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sus-",
+        "meaning": "向下"
+      },
+      {
+        "part": "pens",
+        "meaning": "悬挂"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "暂停",
+      "停职",
+      "悬挂",
+      "悬架"
+    ],
+    "examples": [
+      {
+        "en": "The player faced a two-game suspension.",
+        "cn": "这名球员面临两场禁赛。"
+      },
+      {
+        "en": "The bridge's suspension cables are very strong.",
+        "cn": "桥的悬索非常坚固。"
+      }
+    ]
+  },
+  {
+    "word": "provocative",
+    "phonetic": "/prəˈvɑːkətɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "causing annoyance, anger, or strong reaction; intending to arouse sexual desire"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pro-",
+        "meaning": "向前"
+      },
+      {
+        "part": "voc",
+        "meaning": "呼唤"
+      },
+      {
+        "part": "-ative",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "挑衅的",
+      "刺激的",
+      "撩人的"
+    ],
+    "examples": [
+      {
+        "en": "He made some provocative remarks about immigration.",
+        "cn": "他发表了一些关于移民的挑衅性言论。"
+      },
+      {
+        "en": "She wore a provocative dress to the party.",
+        "cn": "她穿了一件撩人的裙子去参加派对。"
+      }
+    ]
+  },
+  {
+    "word": "herbal",
+    "phonetic": "/ˈɜːrbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or made from herbs, especially for medicinal or culinary purposes"
+      }
+    ],
+    "roots": [
+      {
+        "part": "herb",
+        "meaning": "草"
+      },
+      {
+        "part": "-al",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "药草的",
+      "草本植物的"
+    ],
+    "examples": [
+      {
+        "en": "She drinks herbal tea every night.",
+        "cn": "她每晚都喝花草茶。"
+      },
+      {
+        "en": "Herbal remedies have been used for centuries.",
+        "cn": "草药疗法已被使用了几个世纪。"
+      }
+    ]
+  },
+  {
+    "word": "herb",
+    "phonetic": "/ɜːrb/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a plant used for flavoring food, medicine, or perfume"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "草药",
+      "香草"
+    ],
+    "examples": [
+      {
+        "en": "Add some fresh herbs to the sauce.",
+        "cn": "在酱汁里加一些新鲜香草。"
+      },
+      {
+        "en": "Basil and mint are common herbs.",
+        "cn": "罗勒和薄荷是常见的香草。"
+      }
+    ]
+  },
+  {
+    "word": "allergy",
+    "phonetic": "/ˈælərdʒi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a harmful immune reaction to a substance that does not affect most people; strong dislike or aversion"
+      }
+    ],
+    "roots": [
+      {
+        "part": "all-",
+        "meaning": "其他"
+      },
+      {
+        "part": "-ergy",
+        "meaning": "反应"
+      }
+    ],
+    "translations": [
+      "过敏"
+    ],
+    "examples": [
+      {
+        "en": "She has a severe allergy to peanuts.",
+        "cn": "她对花生严重过敏。"
+      },
+      {
+        "en": "I have an allergy to hard work.",
+        "cn": "我厌恶艰苦的工作。"
+      }
+    ]
+  },
+  {
+    "word": "whiplash",
+    "phonetic": "/ˈwɪplæʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a neck injury caused by sudden jerking of the head; the lash of a whip"
+      }
+    ],
+    "roots": [
+      {
+        "part": "whip",
+        "meaning": "鞭子"
+      },
+      {
+        "part": "lash",
+        "meaning": "抽打"
+      }
+    ],
+    "translations": [
+      "颈部扭伤",
+      "鞭绳"
+    ],
+    "examples": [
+      {
+        "en": "He suffered whiplash in the car accident.",
+        "cn": "他在车祸中颈部受了扭伤。"
+      },
+      {
+        "en": "The whiplash left a mark on his back.",
+        "cn": "鞭子在他的背上留下了一道痕迹。"
+      }
+    ]
+  },
+  {
+    "word": "collar",
+    "phonetic": "/ˈkɑːlər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the part of a shirt or jacket that goes around the neck; a band put around an animal's neck"
+      },
+      {
+        "pos": "v.",
+        "translation": "to seize or capture someone; to put a collar on"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "衣领",
+      "项圈",
+      "抓住"
+    ],
+    "examples": [
+      {
+        "en": "He grabbed me by the collar.",
+        "cn": "他抓住了我的衣领。"
+      },
+      {
+        "en": "The police collared the thief.",
+        "cn": "警察抓住了小偷。"
+      }
+    ]
+  },
+  {
+    "word": "blink",
+    "phonetic": "/blɪŋk/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to close and open both eyes quickly; to shine intermittently"
+      },
+      {
+        "pos": "n.",
+        "translation": "an act of closing and opening eyes quickly; a brief moment"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "眨眼",
+      "闪烁",
+      "一瞬间"
+    ],
+    "examples": [
+      {
+        "en": "She blinked in the bright sunlight.",
+        "cn": "她在明亮的阳光下眨了眨眼。"
+      },
+      {
+        "en": "The light on the device is blinking.",
+        "cn": "设备上的灯在闪烁。"
+      }
+    ]
+  },
+  {
+    "word": "stumble",
+    "phonetic": "/ˈstʌmbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to trip or lose balance while walking; to make a mistake or speak falteringly; to find or encounter by chance"
+      },
+      {
+        "pos": "n.",
+        "translation": "an act of stumbling"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "绊倒",
+      "结巴地说",
+      "偶然发现"
+    ],
+    "examples": [
+      {
+        "en": "He stumbled over the root of a tree.",
+        "cn": "他被树根绊倒了。"
+      },
+      {
+        "en": "I stumbled across an old photo album.",
+        "cn": "我偶然发现了一本旧相册。"
+      }
+    ]
+  },
+  {
+    "word": "tremble",
+    "phonetic": "/ˈtrembl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to shake involuntarily from fear, cold, or weakness; to be very worried or frightened"
+      },
+      {
+        "pos": "n.",
+        "translation": "an involuntary shaking movement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "颤抖",
+      "发抖",
+      "担心"
+    ],
+    "examples": [
+      {
+        "en": "Her hands trembled as she held the microphone.",
+        "cn": "她拿着麦克风时手在颤抖。"
+      },
+      {
+        "en": "I tremble to think what might happen.",
+        "cn": "我一想到可能发生的事就不寒而栗。"
+      }
+    ]
+  },
+  {
+    "word": "trample",
+    "phonetic": "/ˈtræmpl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to step heavily on something, causing damage or injury; to treat disrespectfully or violate"
+      },
+      {
+        "pos": "n.",
+        "translation": "the act of trampling"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tramp",
+        "meaning": "踩"
+      },
+      {
+        "part": "-le",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "践踏",
+      "踩坏",
+      "侵犯"
+    ],
+    "examples": [
+      {
+        "en": "Don't trample the flowers!",
+        "cn": "不要践踏花朵！"
+      },
+      {
+        "en": "Their rights were trampled by the new law.",
+        "cn": "他们的权利被新法律践踏了。"
+      }
+    ]
+  },
+  {
+    "word": "ventriloquist",
+    "phonetic": "/venˈtrɪləkwɪst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a performer who can speak without moving their lips, making it seem the voice is coming from a puppet"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ventr-",
+        "meaning": "腹部"
+      },
+      {
+        "part": "loqu",
+        "meaning": "说话"
+      },
+      {
+        "part": "-ist",
+        "meaning": "人"
+      }
+    ],
+    "translations": [
+      "腹语师",
+      "腹语表演者"
+    ],
+    "examples": [
+      {
+        "en": "The ventriloquist made the dummy seem alive.",
+        "cn": "腹语师让木偶看起来像活的一样。"
+      },
+      {
+        "en": "She is a famous ventriloquist on television.",
+        "cn": "她是电视上著名的腹语师。"
+      }
+    ]
+  },
+  {
+    "word": "dummy",
+    "phonetic": "/ˈdʌmi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a model or replica of a person; a stupid person; a rubber nipple for babies"
+      },
+      {
+        "pos": "adj.",
+        "translation": "fake or counterfeit, intended to simulate a real object"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dumb",
+        "meaning": "哑的"
+      },
+      {
+        "part": "-y",
+        "meaning": "后缀"
+      }
+    ],
+    "translations": [
+      "假人",
+      "笨蛋",
+      "安抚奶嘴",
+      "假的"
+    ],
+    "examples": [
+      {
+        "en": "Crash test dummies are used in car safety tests.",
+        "cn": "碰撞测试假人用于汽车安全测试。"
+      },
+      {
+        "en": "Don't be such a dummy!",
+        "cn": "别这么傻了！"
+      }
+    ]
+  },
+  {
+    "word": "stuck",
+    "phonetic": "/stʌk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "unable to move or be moved; unable to progress or escape"
+      },
+      {
+        "pos": "v.",
+        "translation": "past tense of stick: to become fixed or trapped"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "卡住的",
+      "被困住的",
+      "难住的"
+    ],
+    "examples": [
+      {
+        "en": "The key is stuck in the lock.",
+        "cn": "钥匙卡在锁里了。"
+      },
+      {
+        "en": "I'm stuck on this math problem.",
+        "cn": "我被这道数学题难住了。"
+      }
+    ]
+  },
+  {
+    "word": "stunk",
+    "phonetic": "/stʌŋk/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "past participle of stink: to have a strong, unpleasant smell; to be very bad or of poor quality"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "发臭"
+    ],
+    "examples": [
+      {
+        "en": "The garbage had stunk up the whole kitchen.",
+        "cn": "垃圾弄臭了整个厨房。"
+      },
+      {
+        "en": "His performance really stunk.",
+        "cn": "他的表现糟透了。"
+      }
+    ]
+  },
+  {
+    "word": "raisin",
+    "phonetic": "/ˈreɪzn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a dried grape, used in cooking and baking"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "葡萄干"
+    ],
+    "examples": [
+      {
+        "en": "She put raisins in the oatmeal cookies.",
+        "cn": "她在燕麦饼干里放了葡萄干。"
+      },
+      {
+        "en": "Raisins are a healthy snack.",
+        "cn": "葡萄干是一种健康的零食。"
+      }
+    ]
+  },
+  {
+    "word": "contraire",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "opposite; contrary (used primarily in the phrase 'au contraire')"
+      }
+    ],
+    "roots": [
+      {
+        "part": "contra-",
+        "meaning": "相反"
+      }
+    ],
+    "translations": [
+      "相反的"
+    ],
+    "examples": [
+      {
+        "en": "Au contraire, I think he's very talented.",
+        "cn": "恰恰相反，我认为他很有才华。"
+      }
+    ]
+  },
+  {
+    "word": "mythology",
+    "phonetic": "/mɪˈθɑːlədʒi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a collection of myths, especially one belonging to a particular religious or cultural tradition; the study of myths"
+      }
+    ],
+    "roots": [
+      {
+        "part": "myth",
+        "meaning": "神话"
+      },
+      {
+        "part": "-ology",
+        "meaning": "学科"
+      }
+    ],
+    "translations": [
+      "神话",
+      "神话学"
+    ],
+    "examples": [
+      {
+        "en": "Greek mythology is full of fascinating stories.",
+        "cn": "希腊神话充满了引人入胜的故事。"
+      },
+      {
+        "en": "She's studying Norse mythology at university.",
+        "cn": "她在大学学习北欧神话学。"
+      }
+    ]
+  },
+  {
+    "word": "tone",
+    "phonetic": "/toʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the quality of a sound or voice; the general character or attitude of something; a shade of color"
+      },
+      {
+        "pos": "v.",
+        "translation": "to give a particular tone to; to strengthen muscles"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "语气",
+      "音调",
+      "色调",
+      "使强健"
+    ],
+    "examples": [
+      {
+        "en": "His tone suggested he was angry.",
+        "cn": "他的语气暗示他很生气。"
+      },
+      {
+        "en": "Regular exercise will tone your muscles.",
+        "cn": "规律运动会强健你的肌肉。"
+      }
+    ]
+  },
+  {
+    "word": "tune",
+    "phonetic": "/tuːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a melody or song; the correct pitch"
+      },
+      {
+        "pos": "v.",
+        "translation": "to adjust an instrument to the correct pitch; to adjust an engine or radio to optimal performance"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "曲调",
+      "调音",
+      "调整"
+    ],
+    "examples": [
+      {
+        "en": "That's a catchy tune.",
+        "cn": "那是一段容易上口的曲子。"
+      },
+      {
+        "en": "He tuned his guitar before the show.",
+        "cn": "他在演出前给吉他调了音。"
+      }
+    ]
+  },
+  {
+    "word": "tongue",
+    "phonetic": "/tʌŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the muscular organ in the mouth used for tasting, swallowing, and speaking; a language"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "舌头",
+      "语言"
+    ],
+    "examples": [
+      {
+        "en": "He bit his tongue to keep from laughing.",
+        "cn": "他咬住舌头忍住不笑出来。"
+      },
+      {
+        "en": "English is her mother tongue.",
+        "cn": "英语是她的母语。"
+      }
+    ]
+  },
+  {
+    "word": "maul",
+    "phonetic": "/mɔːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to injure by scratching, tearing, or beating; to handle roughly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a heavy hammer, used for driving stakes or wedges"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "撕咬伤害",
+      "粗暴对待",
+      "大槌"
+    ],
+    "examples": [
+      {
+        "en": "The lion mauled its prey.",
+        "cn": "狮子撕咬它的猎物。"
+      },
+      {
+        "en": "The critics mauled his latest film.",
+        "cn": "评论家们猛烈抨击了他的最新电影。"
+      }
+    ]
+  },
+  {
+    "word": "rabid",
+    "phonetic": "/ˈræbɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having or affected by rabies; extreme or fanatical in opinion"
+      }
+    ],
+    "roots": [
+      {
+        "part": "rab-",
+        "meaning": "狂暴"
+      },
+      {
+        "part": "-id",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "患狂犬病的",
+      "狂热的",
+      "极端的"
+    ],
+    "examples": [
+      {
+        "en": "A rabid dog was spotted in the neighborhood.",
+        "cn": "社区里发现了一只患狂犬病的狗。"
+      },
+      {
+        "en": "He is a rabid fan of the team.",
+        "cn": "他是这支球队的狂热粉丝。"
+      }
+    ]
+  },
+  {
+    "word": "wolverine",
+    "phonetic": "/ˌwʊlvəˈriːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a stocky, powerful mammal with strong claws, native to northern regions"
+      }
+    ],
+    "roots": [
+      {
+        "part": "wolver",
+        "meaning": "狼"
+      },
+      {
+        "part": "-ine",
+        "meaning": "像...的"
+      }
+    ],
+    "translations": [
+      "狼獾"
+    ],
+    "examples": [
+      {
+        "en": "Wolverines are known for their ferocity.",
+        "cn": "狼獾以凶猛著称。"
+      },
+      {
+        "en": "The wolverine is a solitary animal.",
+        "cn": "狼獾是一种独居动物。"
+      }
+    ]
+  },
+  {
+    "word": "falcon",
+    "phonetic": "/ˈfælkən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a bird of prey with long pointed wings, often trained for hunting"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "猎鹰"
+    ],
+    "examples": [
+      {
+        "en": "The falcon circled high above the field.",
+        "cn": "猎鹰在田野上空高高盘旋。"
+      },
+      {
+        "en": "Falconry is the ancient art of hunting with falcons.",
+        "cn": "猎鹰术是用猎鹰狩猎的古老技艺。"
+      }
+    ]
+  },
+  {
+    "word": "falconry",
+    "phonetic": "/ˈfælkənri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the sport or activity of hunting with falcons or other birds of prey; the art of training falcons"
+      }
+    ],
+    "roots": [
+      {
+        "part": "falcon",
+        "meaning": "猎鹰"
+      },
+      {
+        "part": "-ry",
+        "meaning": "技艺"
+      }
+    ],
+    "translations": [
+      "猎鹰术"
+    ],
+    "examples": [
+      {
+        "en": "Falconry was a popular sport among medieval nobles.",
+        "cn": "猎鹰术在中世纪贵族中是一项流行的运动。"
+      },
+      {
+        "en": "He has practiced falconry for over twenty years.",
+        "cn": "他练习猎鹰术已经二十多年了。"
+      }
+    ]
+  },
+  {
+    "word": "stump",
+    "phonetic": "/stʌmp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the bottom part of a tree left after the trunk is cut down; a remaining part"
+      },
+      {
+        "pos": "v.",
+        "translation": "to baffle or puzzle completely; to walk stiffly or heavily"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "树桩",
+      "难倒",
+      "笨重地行走"
+    ],
+    "examples": [
+      {
+        "en": "He sat on an old tree stump.",
+        "cn": "他坐在一个老树桩上。"
+      },
+      {
+        "en": "That question stumped me.",
+        "cn": "那个问题把我难倒了。"
+      }
+    ]
+  },
+  {
+    "word": "ascent",
+    "phonetic": "/əˈsent/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the act of climbing or moving upward; an upward slope or path; a rise in status or rank"
+      }
+    ],
+    "roots": [
+      {
+        "part": "a-",
+        "meaning": "向"
+      },
+      {
+        "part": "scend",
+        "meaning": "爬"
+      }
+    ],
+    "translations": [
+      "上升",
+      "攀登",
+      "上坡"
+    ],
+    "examples": [
+      {
+        "en": "The ascent of the mountain took six hours.",
+        "cn": "攀登这座山花了六个小时。"
+      },
+      {
+        "en": "His rapid ascent in the company surprised everyone.",
+        "cn": "他在公司的迅速升迁让所有人感到惊讶。"
+      }
+    ]
+  },
+  {
+    "word": "accent",
+    "phonetic": "/ˈæksent/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a distinctive way of pronouncing a language, associated with a particular country or area; emphasis on a syllable or word"
+      },
+      {
+        "pos": "v.",
+        "translation": "to emphasize or stress"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ac-",
+        "meaning": "向"
+      },
+      {
+        "part": "cent",
+        "meaning": "唱"
+      }
+    ],
+    "translations": [
+      "口音",
+      "重音",
+      "强调"
+    ],
+    "examples": [
+      {
+        "en": "He speaks English with a French accent.",
+        "cn": "他说英语带有法国口音。"
+      },
+      {
+        "en": "The accent is on the first syllable.",
+        "cn": "重音在第一个音节上。"
+      }
+    ]
+  }
+]

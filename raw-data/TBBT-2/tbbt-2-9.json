@@ -1,0 +1,2388 @@
+[
+  {
+    "word": "colloquial",
+    "phonetic": "/kəˈləʊkwiəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "used in ordinary or familiar conversation; not formal or literary"
+      }
+    ],
+    "roots": [
+      {
+        "part": "loqu",
+        "meaning": "speak"
+      },
+      {
+        "part": "-ial",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "口语的",
+      "会话的",
+      "非正式的"
+    ],
+    "examples": [
+      {
+        "en": "His colloquial style makes his books easy to read.",
+        "cn": "他口语化的风格使他的书易于阅读。"
+      },
+      {
+        "en": "The word is colloquial and not used in formal writing.",
+        "cn": "这个词是口语化的，不用于正式写作。"
+      }
+    ]
+  },
+  {
+    "word": "colonial",
+    "phonetic": "/kəˈləʊniəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to a colony or colonies"
+      },
+      {
+        "pos": "n.",
+        "translation": "a native or inhabitant of a colony"
+      }
+    ],
+    "roots": [
+      {
+        "part": "colony",
+        "meaning": "settlement, group of people"
+      },
+      {
+        "part": "-ial",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "殖民的",
+      "殖民地的",
+      "殖民地居民"
+    ],
+    "examples": [
+      {
+        "en": "The country suffered under colonial rule for centuries.",
+        "cn": "该国在殖民统治下遭受了数个世纪的苦难。"
+      },
+      {
+        "en": "Colonial architecture can be seen throughout the city.",
+        "cn": "全城都能看到殖民时期的建筑。"
+      }
+    ]
+  },
+  {
+    "word": "triumph",
+    "phonetic": "/ˈtraɪʌmf/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a great victory or achievement"
+      },
+      {
+        "pos": "v.",
+        "translation": "to achieve a victory; to be successful"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "胜利",
+      "凯旋",
+      "巨大成功",
+      "战胜"
+    ],
+    "examples": [
+      {
+        "en": "The team returned home in triumph after winning the championship.",
+        "cn": "球队赢得冠军后凯旋而归。"
+      },
+      {
+        "en": "Good will triumph over evil in the end.",
+        "cn": "善良终将战胜邪恶。"
+      }
+    ]
+  },
+  {
+    "word": "palatable",
+    "phonetic": "/ˈpælətəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "pleasant to taste; acceptable or satisfactory"
+      }
+    ],
+    "roots": [
+      {
+        "part": "palat",
+        "meaning": "palate, taste"
+      },
+      {
+        "part": "-able",
+        "meaning": "capable of, worthy of"
+      }
+    ],
+    "translations": [
+      "美味的",
+      "可口的",
+      "可接受的",
+      "宜人的"
+    ],
+    "examples": [
+      {
+        "en": "The restaurant serves very palatable food at reasonable prices.",
+        "cn": "这家餐厅以合理的价格提供非常可口的食物。"
+      },
+      {
+        "en": "The proposal was made more palatable by the promise of funding.",
+        "cn": "提供资金的承诺使该提议更容易被接受。"
+      }
+    ]
+  },
+  {
+    "word": "preface",
+    "phonetic": "/ˈprefəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an introduction to a book, typically stating its subject, scope, or aims"
+      },
+      {
+        "pos": "v.",
+        "translation": "to introduce or begin with something before the main part"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pre-",
+        "meaning": "before"
+      },
+      {
+        "part": "fari",
+        "meaning": "to speak"
+      }
+    ],
+    "translations": [
+      "前言",
+      "序言",
+      "开场白",
+      "为...作序"
+    ],
+    "examples": [
+      {
+        "en": "In the preface, the author thanks his family for their support.",
+        "cn": "在前言中，作者感谢家人的支持。"
+      },
+      {
+        "en": "She prefaced her remarks with a brief apology.",
+        "cn": "她以简短的道歉作为讲话的开场白。"
+      }
+    ]
+  },
+  {
+    "word": "banal",
+    "phonetic": "/bəˈnɑːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "so lacking in originality as to be obvious and boring; trite"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "平庸的",
+      "陈腐的",
+      "乏味的",
+      "老生常谈的"
+    ],
+    "examples": [
+      {
+        "en": "The dialogue in the movie was banal and predictable.",
+        "cn": "电影中的对白平庸且老套。"
+      },
+      {
+        "en": "He kept making banal remarks about the weather.",
+        "cn": "他不停地说关于天气的陈词滥调。"
+      }
+    ]
+  },
+  {
+    "word": "surgical",
+    "phonetic": "/ˈsɜːdʒɪkl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or used in surgery; very precise and controlled"
+      }
+    ],
+    "roots": [
+      {
+        "part": "surg",
+        "meaning": "hand work, operation"
+      },
+      {
+        "part": "-ical",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "外科的",
+      "手术的",
+      "外科手术用的",
+      "精确的"
+    ],
+    "examples": [
+      {
+        "en": "The patient underwent a surgical procedure to remove the tumor.",
+        "cn": "病人接受了外科手术切除肿瘤。"
+      },
+      {
+        "en": "The airstrike was carried out with surgical precision.",
+        "cn": "空袭以手术般的精确度进行。"
+      }
+    ]
+  },
+  {
+    "word": "tolerable",
+    "phonetic": "/ˈtɒlərəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "able to be endured; fairly good, mediocre"
+      }
+    ],
+    "roots": [
+      {
+        "part": "toler",
+        "meaning": "bear, endure"
+      },
+      {
+        "part": "-able",
+        "meaning": "capable of"
+      }
+    ],
+    "translations": [
+      "可忍受的",
+      "可容忍的",
+      "尚可的",
+      "过得去的"
+    ],
+    "examples": [
+      {
+        "en": "The pain was severe but tolerable.",
+        "cn": "疼痛剧烈但尚可忍受。"
+      },
+      {
+        "en": "The food at the cafeteria is tolerable, nothing special.",
+        "cn": "食堂的饭菜还过得去，没什么特别的。"
+      }
+    ]
+  },
+  {
+    "word": "senario",
+    "phonetic": "/səˈnɑːriəʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a written outline of a film, novel, or stage work; a postulated sequence or development of events"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "剧本",
+      "编剧",
+      "场景",
+      "事态"
+    ],
+    "examples": [
+      {
+        "en": "The movie's senario was written by a famous screenwriter.",
+        "cn": "这部电影的剧本由一位著名编剧撰写。"
+      },
+      {
+        "en": "Let's consider a different senario for the project.",
+        "cn": "让我们考虑项目的另一种事态发展。"
+      }
+    ]
+  },
+  {
+    "word": "hypothalamus",
+    "phonetic": "/ˌhaɪpəˈθæləməs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a region of the brain that controls body temperature, hunger, and many other autonomic functions"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hypo-",
+        "meaning": "under, below"
+      },
+      {
+        "part": "thalamus",
+        "meaning": "inner chamber of the brain"
+      }
+    ],
+    "translations": [
+      "下丘脑"
+    ],
+    "examples": [
+      {
+        "en": "The hypothalamus plays a key role in regulating metabolism.",
+        "cn": "下丘脑在调节新陈代谢中起关键作用。"
+      },
+      {
+        "en": "Damage to the hypothalamus can cause sleep disorders.",
+        "cn": "下丘脑损伤可导致睡眠障碍。"
+      }
+    ]
+  },
+  {
+    "word": "estrogen",
+    "phonetic": "/ˈiːstrədʒən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "any of a group of steroid hormones that promote the development of female secondary sex characteristics"
+      }
+    ],
+    "roots": [
+      {
+        "part": "estrus",
+        "meaning": "period of fertility"
+      },
+      {
+        "part": "-gen",
+        "meaning": "producing"
+      }
+    ],
+    "translations": [
+      "雌激素"
+    ],
+    "examples": [
+      {
+        "en": "Estrogen levels fluctuate during the menstrual cycle.",
+        "cn": "雌激素水平在月经周期中波动。"
+      },
+      {
+        "en": "Some cancers are sensitive to estrogen.",
+        "cn": "某些癌症对雌激素敏感。"
+      }
+    ]
+  },
+  {
+    "word": "progesterone",
+    "phonetic": "/prəˈdʒestərəʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a steroid hormone that prepares the uterus for pregnancy and maintains it"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pro-",
+        "meaning": "for, before"
+      },
+      {
+        "part": "gest",
+        "meaning": "carry, bear"
+      },
+      {
+        "part": "-erone",
+        "meaning": "steroid hormone suffix"
+      }
+    ],
+    "translations": [
+      "孕酮",
+      "黄体酮"
+    ],
+    "examples": [
+      {
+        "en": "Progesterone is often used in birth control pills.",
+        "cn": "孕酮常用于避孕药中。"
+      },
+      {
+        "en": "Low progesterone levels can cause fertility problems.",
+        "cn": "低孕酮水平可能导致生育问题。"
+      }
+    ]
+  },
+  {
+    "word": "libido",
+    "phonetic": "/lɪˈbiːdəʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "sexual desire; psychic energy from the id"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "性欲",
+      "性冲动",
+      "原欲"
+    ],
+    "examples": [
+      {
+        "en": "Stress and fatigue can lower a person's libido.",
+        "cn": "压力和疲劳会降低一个人的性欲。"
+      },
+      {
+        "en": "The medication may affect libido as a side effect.",
+        "cn": "这种药物可能作为副作用影响性欲。"
+      }
+    ]
+  },
+  {
+    "word": "internship",
+    "phonetic": "/ˈɪntɜːnʃɪp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the position of a student or trainee who works in an organization to gain work experience"
+      }
+    ],
+    "roots": [
+      {
+        "part": "intern",
+        "meaning": "internal, inside"
+      },
+      {
+        "part": "-ship",
+        "meaning": "state, condition, position"
+      }
+    ],
+    "translations": [
+      "实习期",
+      "实习岗位",
+      "实习生身份"
+    ],
+    "examples": [
+      {
+        "en": "She landed an internship at a prestigious law firm.",
+        "cn": "她在一家著名律师事务所获得了一份实习机会。"
+      },
+      {
+        "en": "The internship lasts for six months.",
+        "cn": "实习期为六个月。"
+      }
+    ]
+  },
+  {
+    "word": "memorial",
+    "phonetic": "/məˈmɔːriəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a structure or event established to remind people of a person or event"
+      },
+      {
+        "pos": "adj.",
+        "translation": "done or made to remember a person who has died"
+      }
+    ],
+    "roots": [
+      {
+        "part": "memor",
+        "meaning": "remember"
+      },
+      {
+        "part": "-ial",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "纪念碑",
+      "纪念物",
+      "纪念仪式",
+      "纪念的"
+    ],
+    "examples": [
+      {
+        "en": "Many people visited the war memorial on Remembrance Day.",
+        "cn": "国殇纪念日许多人参观了战争纪念碑。"
+      },
+      {
+        "en": "A memorial service was held for the victims.",
+        "cn": "为遇难者举行了追悼仪式。"
+      }
+    ]
+  },
+  {
+    "word": "mishap",
+    "phonetic": "/ˈmɪshæp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an unlucky accident; a minor mistake or misfortune"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mis-",
+        "meaning": "bad, wrong"
+      },
+      {
+        "part": "hap",
+        "meaning": "luck, chance"
+      }
+    ],
+    "translations": [
+      "不幸事故",
+      "小事故",
+      "灾祸",
+      "倒霉事"
+    ],
+    "examples": [
+      {
+        "en": "The parade went ahead without mishap.",
+        "cn": "游行顺利进行，没有发生意外。"
+      },
+      {
+        "en": "He had a slight mishap while fixing the sink.",
+        "cn": "他修水槽时出了点小事故。"
+      }
+    ]
+  },
+  {
+    "word": "cat scanner",
+    "phonetic": "/kæt ˈskænə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a medical imaging device that uses X-rays to create cross-sectional images of the body; CT scanner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "计算机断层扫描仪",
+      "CT扫描仪"
+    ],
+    "examples": [
+      {
+        "en": "The doctor ordered a cat scanner to diagnose the internal injury.",
+        "cn": "医生要求用CT扫描仪诊断内伤。"
+      },
+      {
+        "en": "Cat scanners have revolutionized medical diagnosis.",
+        "cn": "CT扫描仪革新了医学诊断。"
+      }
+    ]
+  },
+  {
+    "word": "foul",
+    "phonetic": "/faʊl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "offensive to the senses, especially smell; very bad or unpleasant"
+      },
+      {
+        "pos": "n.",
+        "translation": "an unfair or invalid stroke or piece of play in sports"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make dirty or impure; to commit a foul in sports"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "难闻的",
+      "恶臭的",
+      "犯规",
+      "弄脏",
+      "邪恶的"
+    ],
+    "examples": [
+      {
+        "en": "The trash can gave off a foul odor.",
+        "cn": "垃圾桶散发出恶臭。"
+      },
+      {
+        "en": "The basketball player was benched after his fifth foul.",
+        "cn": "篮球运动员在第五次犯规后被罚下场。"
+      }
+    ]
+  },
+  {
+    "word": "cavity",
+    "phonetic": "/ˈkævəti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a hollow space within a solid object or body; a decayed part of a tooth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cav",
+        "meaning": "hollow"
+      },
+      {
+        "part": "-ity",
+        "meaning": "state or condition"
+      }
+    ],
+    "translations": [
+      "洞",
+      "空腔",
+      "蛀牙洞",
+      "腔体"
+    ],
+    "examples": [
+      {
+        "en": "The dentist filled two cavities in my teeth.",
+        "cn": "牙医补了我两颗蛀牙。"
+      },
+      {
+        "en": "The chest cavity contains the heart and lungs.",
+        "cn": "胸腔包含心脏和肺。"
+      }
+    ]
+  },
+  {
+    "word": "discreetly",
+    "phonetic": "/dɪˈskriːtli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "in a careful and prudent manner, especially to keep something confidential"
+      }
+    ],
+    "roots": [
+      {
+        "part": "discrete",
+        "meaning": "separate, careful"
+      },
+      {
+        "part": "-ly",
+        "meaning": "adverb suffix"
+      }
+    ],
+    "translations": [
+      "谨慎地",
+      "小心地",
+      "不显眼地"
+    ],
+    "examples": [
+      {
+        "en": "He discreetly slipped the note into her pocket.",
+        "cn": "他小心翼翼地把纸条塞进她的口袋。"
+      },
+      {
+        "en": "The staff discreetly cleaned up the spill without disturbing the guests.",
+        "cn": "工作人员不引人注目地清理了酒水洒出的地方，没有打扰客人。"
+      }
+    ]
+  },
+  {
+    "word": "indecipherable",
+    "phonetic": "/ˌɪndɪˈsaɪfərəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "impossible to read or interpret"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "not"
+      },
+      {
+        "part": "de-",
+        "meaning": "down, off"
+      },
+      {
+        "part": "cipher",
+        "meaning": "code, zero"
+      },
+      {
+        "part": "-able",
+        "meaning": "capable of"
+      }
+    ],
+    "translations": [
+      "无法辨认的",
+      "难以理解的",
+      "破译不了的"
+    ],
+    "examples": [
+      {
+        "en": "The ancient manuscript was indecipherable due to water damage.",
+        "cn": "由于水损，这份古代手稿无法辨认。"
+      },
+      {
+        "en": "His handwriting is completely indecipherable.",
+        "cn": "他的笔迹完全难以辨认。"
+      }
+    ]
+  },
+  {
+    "word": "acoustic",
+    "phonetic": "/əˈkuːstɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to sound or the sense of hearing; not electrically amplified"
+      },
+      {
+        "pos": "n.",
+        "translation": "the properties or qualities of a room or building that determine how sound is transmitted"
+      }
+    ],
+    "roots": [
+      {
+        "part": "acoust",
+        "meaning": "hearing"
+      },
+      {
+        "part": "-ic",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "声音的",
+      "听觉的",
+      "声学的",
+      "原声的"
+    ],
+    "examples": [
+      {
+        "en": "The concert hall has excellent acoustics.",
+        "cn": "音乐厅的音响效果极佳。"
+      },
+      {
+        "en": "He prefers playing acoustic guitar to electric.",
+        "cn": "比起电吉他，他更喜欢弹原声吉他。"
+      }
+    ]
+  },
+  {
+    "word": "xylophone",
+    "phonetic": "/ˈzaɪləfəʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a musical instrument consisting of a series of wooden bars struck with mallets"
+      }
+    ],
+    "roots": [
+      {
+        "part": "xylo-",
+        "meaning": "wood"
+      },
+      {
+        "part": "-phone",
+        "meaning": "sound, voice"
+      }
+    ],
+    "translations": [
+      "木琴"
+    ],
+    "examples": [
+      {
+        "en": "The child played a simple tune on the xylophone.",
+        "cn": "孩子在木琴上敲出了一首简单的曲子。"
+      },
+      {
+        "en": "Xylophone is often used in elementary music education.",
+        "cn": "木琴常用于基础音乐教育。"
+      }
+    ]
+  },
+  {
+    "word": "blunt",
+    "phonetic": "/blʌnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having a thick or dull edge; very direct and outspoken"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make less sharp; to weaken the effect of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "钝的",
+      "不锋利的",
+      "直率的",
+      "生硬的",
+      "使变钝"
+    ],
+    "examples": [
+      {
+        "en": "The knife is too blunt to cut the meat.",
+        "cn": "这把刀太钝了，切不动肉。"
+      },
+      {
+        "en": "She was blunt about her dissatisfaction with the plan.",
+        "cn": "她直率地表达了对计划的不满。"
+      }
+    ]
+  },
+  {
+    "word": "ergo",
+    "phonetic": "/ˈɜːɡəʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "therefore; consequently (used in formal or philosophical writing)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "因此",
+      "所以",
+      "故"
+    ],
+    "examples": [
+      {
+        "en": "All humans are mortal, ergo I am mortal.",
+        "cn": "所有人都会死，因此我会死。"
+      },
+      {
+        "en": "Cogito ergo sum (I think, therefore I am).",
+        "cn": "我思故我在。"
+      }
+    ]
+  },
+  {
+    "word": "pursuant",
+    "phonetic": "/pəˈsjuːənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "following or carrying out something; in accordance with"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pursu",
+        "meaning": "follow"
+      },
+      {
+        "part": "-ant",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "依照的",
+      "根据的",
+      "遵循的"
+    ],
+    "examples": [
+      {
+        "en": "Pursuant to the contract, payment is due within 30 days.",
+        "cn": "根据合同，应在30天内付款。"
+      },
+      {
+        "en": "The investigation was conducted pursuant to the new regulations.",
+        "cn": "调查是根据新规定进行的。"
+      }
+    ]
+  },
+  {
+    "word": "unsolicited",
+    "phonetic": "/ˌʌnsəˈlɪsɪtɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "not asked for; given or done voluntarily"
+      }
+    ],
+    "roots": [
+      {
+        "part": "un-",
+        "meaning": "not"
+      },
+      {
+        "part": "solicit",
+        "meaning": "ask for, seek"
+      },
+      {
+        "part": "-ed",
+        "meaning": "past participle suffix"
+      }
+    ],
+    "translations": [
+      "未经请求的",
+      "主动提供的",
+      "不请自来的"
+    ],
+    "examples": [
+      {
+        "en": "I often receive unsolicited emails from unknown senders.",
+        "cn": "我经常收到陌生发件人发送的垃圾邮件。"
+      },
+      {
+        "en": "He gave me some unsolicited advice on my love life.",
+        "cn": "他主动给我的感情生活提了一些建议。"
+      }
+    ]
+  },
+  {
+    "word": "precursor",
+    "phonetic": "/priːˈkɜːsə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person or thing that comes before another of the same kind; a forerunner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pre-",
+        "meaning": "before"
+      },
+      {
+        "part": "curs",
+        "meaning": "run"
+      },
+      {
+        "part": "-or",
+        "meaning": "one who does"
+      }
+    ],
+    "translations": [
+      "先驱",
+      "前体",
+      "前兆",
+      "预兆"
+    ],
+    "examples": [
+      {
+        "en": "The first smartphone was a precursor to today's sophisticated devices.",
+        "cn": "第一部智能手机是当今复杂设备的前身。"
+      },
+      {
+        "en": "A dry cough can be a precursor of a more serious illness.",
+        "cn": "干咳可能是更严重疾病的先兆。"
+      }
+    ]
+  },
+  {
+    "word": "impromptu",
+    "phonetic": "/ɪmˈprɒmptjuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "done without preparation; improvised"
+      },
+      {
+        "pos": "adv.",
+        "translation": "in an impromptu manner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "not"
+      },
+      {
+        "part": "promptu",
+        "meaning": "ready, prepared (Latin)"
+      }
+    ],
+    "translations": [
+      "即兴的",
+      "临时的",
+      "无准备的"
+    ],
+    "examples": [
+      {
+        "en": "He gave an impromptu speech at the wedding.",
+        "cn": "他在婚礼上即兴发表了讲话。"
+      },
+      {
+        "en": "The children put on an impromptu concert for their parents.",
+        "cn": "孩子们为父母举办了一场即兴音乐会。"
+      }
+    ]
+  },
+  {
+    "word": "buttock",
+    "phonetic": "/ˈbʌtək/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "either of the two rounded fleshy parts of the human body at the rear"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "臀部",
+      "屁股"
+    ],
+    "examples": [
+      {
+        "en": "He fell and landed on his buttocks.",
+        "cn": "他摔倒了，屁股着地。"
+      },
+      {
+        "en": "The injection should be given in the upper outer quadrant of the buttock.",
+        "cn": "注射应在臀部的上外象限进行。"
+      }
+    ]
+  },
+  {
+    "word": "confidential",
+    "phonetic": "/ˌkɒnfɪˈdenʃl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "intended to be kept secret; entrusted with private information"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "with, together"
+      },
+      {
+        "part": "fid",
+        "meaning": "trust, faith"
+      },
+      {
+        "part": "-ial",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "机密的",
+      "保密的",
+      "秘密的",
+      "信任的"
+    ],
+    "examples": [
+      {
+        "en": "The documents are confidential and must not be shared.",
+        "cn": "这些文件是机密的，不得分享。"
+      },
+      {
+        "en": "She spoke to me in a confidential tone.",
+        "cn": "她用信任的语气对我说话。"
+      }
+    ]
+  },
+  {
+    "word": "defect",
+    "phonetic": "/ˈdiːfekt/ (n.), /dɪˈfekt/ (v.)",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a shortcoming, imperfection, or lack"
+      },
+      {
+        "pos": "v.",
+        "translation": "to abandon one's country or cause for another"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "away, down"
+      },
+      {
+        "part": "fact",
+        "meaning": "make, do"
+      }
+    ],
+    "translations": [
+      "缺陷",
+      "缺点",
+      "故障",
+      "叛逃",
+      "变节"
+    ],
+    "examples": [
+      {
+        "en": "The car was recalled due to a manufacturing defect.",
+        "cn": "由于制造缺陷，该车被召回。"
+      },
+      {
+        "en": "The spy defected to the enemy side.",
+        "cn": "间谍叛逃到敌方。"
+      }
+    ]
+  },
+  {
+    "word": "souffle",
+    "phonetic": "/ˈsuːfleɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a light, fluffy baked dish made with egg yolks and beaten egg whites"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "舒芙蕾",
+      "蛋奶酥"
+    ],
+    "examples": [
+      {
+        "en": "The chocolate souffle was perfectly risen and fluffy.",
+        "cn": "巧克力舒芙蕾完美地膨胀起来，松软可口。"
+      },
+      {
+        "en": "Making a souffle requires careful timing.",
+        "cn": "制作舒芙蕾需要精准的时间控制。"
+      }
+    ]
+  },
+  {
+    "word": "geometric",
+    "phonetic": "/ˌdʒiːəˈmetrɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to geometry; characterized by simple shapes like lines, circles, and squares"
+      }
+    ],
+    "roots": [
+      {
+        "part": "geo-",
+        "meaning": "earth"
+      },
+      {
+        "part": "metr",
+        "meaning": "measure"
+      },
+      {
+        "part": "-ic",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "几何的",
+      "几何学的",
+      "几何图形的"
+    ],
+    "examples": [
+      {
+        "en": "The floor featured a geometric pattern of black and white tiles.",
+        "cn": "地板上有黑白瓷砖组成的几何图案。"
+      },
+      {
+        "en": "Geometric proofs can be challenging for some students.",
+        "cn": "几何证明对有些学生来说很有挑战性。"
+      }
+    ]
+  },
+  {
+    "word": "circumvent",
+    "phonetic": "/ˌsɜːkəmˈvent/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to find a way around an obstacle; to avoid or bypass"
+      }
+    ],
+    "roots": [
+      {
+        "part": "circum-",
+        "meaning": "around"
+      },
+      {
+        "part": "vent",
+        "meaning": "come"
+      }
+    ],
+    "translations": [
+      "规避",
+      "绕过",
+      "回避",
+      "智取"
+    ],
+    "examples": [
+      {
+        "en": "They tried to circumvent the security system.",
+        "cn": "他们试图绕过安全系统。"
+      },
+      {
+        "en": "The company found a way to circumvent the regulations.",
+        "cn": "公司找到了规避法规的方法。"
+      }
+    ]
+  },
+  {
+    "word": "genocide",
+    "phonetic": "/ˈdʒenəsaɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the deliberate killing of a large group of people, especially those of a particular ethnic group or nation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "geno-",
+        "meaning": "race, kind"
+      },
+      {
+        "part": "-cide",
+        "meaning": "killing"
+      }
+    ],
+    "translations": [
+      "种族灭绝",
+      "大屠杀"
+    ],
+    "examples": [
+      {
+        "en": "The international court prosecutes individuals for genocide.",
+        "cn": "国际法庭起诉犯有种族灭绝罪的个人。"
+      },
+      {
+        "en": "The 20th century witnessed several horrific genocides.",
+        "cn": "20世纪发生了几次可怕的种族灭绝。"
+      }
+    ]
+  },
+  {
+    "word": "apocalyptic",
+    "phonetic": "/əˌpɒkəˈlɪptɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "predicting or relating to the complete destruction of the world; momentous or catastrophic"
+      }
+    ],
+    "roots": [
+      {
+        "part": "apo-",
+        "meaning": "away, off"
+      },
+      {
+        "part": "calyp",
+        "meaning": "cover, hide"
+      },
+      {
+        "part": "-tic",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "天启的",
+      "末世的",
+      "预示大灾难的",
+      "世界末日的"
+    ],
+    "examples": [
+      {
+        "en": "The movie depicts an apocalyptic future where civilization has collapsed.",
+        "cn": "电影描绘了文明崩塌的末日未来。"
+      },
+      {
+        "en": "Climate change could lead to apocalyptic consequences.",
+        "cn": "气候变化可能导致灾难性后果。"
+      }
+    ]
+  },
+  {
+    "word": "zucchini",
+    "phonetic": "/zuːˈkiːni/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a type of summer squash, typically green, that is eaten as a vegetable"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "西葫芦"
+    ],
+    "examples": [
+      {
+        "en": "I added sliced zucchini to the stir-fry.",
+        "cn": "我在炒菜里加了切好的西葫芦。"
+      },
+      {
+        "en": "Zucchini bread is a popular way to use excess squash.",
+        "cn": "西葫芦面包是利用多余西葫芦的一种流行方式。"
+      }
+    ]
+  },
+  {
+    "word": "equilibrium",
+    "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a state of balance between opposing forces or influences"
+      }
+    ],
+    "roots": [
+      {
+        "part": "equi-",
+        "meaning": "equal"
+      },
+      {
+        "part": "libr",
+        "meaning": "balance"
+      },
+      {
+        "part": "-ium",
+        "meaning": "singular noun suffix"
+      }
+    ],
+    "translations": [
+      "平衡",
+      "均衡",
+      "均势"
+    ],
+    "examples": [
+      {
+        "en": "The market reached an equilibrium between supply and demand.",
+        "cn": "市场在供需之间达到了平衡。"
+      },
+      {
+        "en": "It is difficult to maintain equilibrium on a moving bus.",
+        "cn": "在行驶的公交车上很难保持身体平衡。"
+      }
+    ]
+  },
+  {
+    "word": "menstrual",
+    "phonetic": "/ˈmenstruəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the monthly flow of blood from the uterus during a woman's reproductive years"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mens-",
+        "meaning": "month"
+      },
+      {
+        "part": "-al",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "月经的",
+      "每月的"
+    ],
+    "examples": [
+      {
+        "en": "She experiences severe menstrual cramps every month.",
+        "cn": "她每个月都有严重的月经痛。"
+      },
+      {
+        "en": "The menstrual cycle typically lasts about 28 days.",
+        "cn": "月经周期通常持续约28天。"
+      }
+    ]
+  },
+  {
+    "word": "primate",
+    "phonetic": "/ˈpraɪmeɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a mammal of the order that includes monkeys, apes, and humans; an archbishop of the highest rank"
+      }
+    ],
+    "roots": [
+      {
+        "part": "primat",
+        "meaning": "first, principal"
+      },
+      {
+        "part": "-e",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "灵长类动物",
+      "首席主教"
+    ],
+    "examples": [
+      {
+        "en": "Humans, chimpanzees, and gorillas are all primates.",
+        "cn": "人类、黑猩猩和大猩猩都是灵长类动物。"
+      },
+      {
+        "en": "The primate of the Anglican Church is the Archbishop of Canterbury.",
+        "cn": "英国国教的首席主教是坎特伯雷大主教。"
+      }
+    ]
+  },
+  {
+    "word": "chimpanzee",
+    "phonetic": "/ˌtʃɪmpænˈziː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an intelligent African ape with black hair, closely related to humans"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "黑猩猩"
+    ],
+    "examples": [
+      {
+        "en": "Chimpanzees use sticks to extract termites from mounds.",
+        "cn": "黑猩猩用树枝从白蚁丘中取出白蚁。"
+      },
+      {
+        "en": "The chimpanzee shared 98% of its DNA with humans.",
+        "cn": "黑猩猩与人类共享98%的DNA。"
+      }
+    ]
+  },
+  {
+    "word": "desirable",
+    "phonetic": "/dɪˈzaɪərəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "wished for as being attractive, useful, or necessary"
+      }
+    ],
+    "roots": [
+      {
+        "part": "desir",
+        "meaning": "wish, want"
+      },
+      {
+        "part": "-able",
+        "meaning": "worthy of"
+      }
+    ],
+    "translations": [
+      "理想的",
+      "可取的",
+      "值得拥有的",
+      "性感的"
+    ],
+    "examples": [
+      {
+        "en": "The apartment is in a very desirable neighborhood.",
+        "cn": "这套公寓位于一个非常理想的社区。"
+      },
+      {
+        "en": "It is desirable that you arrive at least 15 minutes early.",
+        "cn": "你最好至少提前15分钟到达。"
+      }
+    ]
+  },
+  {
+    "word": "court",
+    "phonetic": "/kɔːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a place where legal cases are heard; an area where sports like tennis or basketball are played"
+      },
+      {
+        "pos": "v.",
+        "translation": "to try to win the affection or favor of; to seek or attract"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "法院",
+      "法庭",
+      "球场",
+      "庭院",
+      "追求",
+      "招致"
+    ],
+    "examples": [
+      {
+        "en": "The defendant appeared in court today.",
+        "cn": "被告今天出庭了。"
+      },
+      {
+        "en": "He courted controversy with his remarks.",
+        "cn": "他的言论招致了争议。"
+      }
+    ]
+  },
+  {
+    "word": "pheromone",
+    "phonetic": "/ˈferəməʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a chemical substance produced and released by an animal that affects the behavior of others of the same species"
+      }
+    ],
+    "roots": [
+      {
+        "part": "phero-",
+        "meaning": "bear, carry"
+      },
+      {
+        "part": "-mone",
+        "meaning": "hormone"
+      }
+    ],
+    "translations": [
+      "信息素",
+      "外激素"
+    ],
+    "examples": [
+      {
+        "en": "Ants use pheromones to communicate and mark trails.",
+        "cn": "蚂蚁使用信息素进行交流和标记路径。"
+      },
+      {
+        "en": "Some perfumes claim to contain human pheromones.",
+        "cn": "一些香水声称含有人类信息素。"
+      }
+    ]
+  },
+  {
+    "word": "ovulation",
+    "phonetic": "/ˌɒvjuˈleɪʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the release of an egg from the ovary during the menstrual cycle"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ov-",
+        "meaning": "egg"
+      },
+      {
+        "part": "-ulation",
+        "meaning": "noun suffix indicating process"
+      }
+    ],
+    "translations": [
+      "排卵"
+    ],
+    "examples": [
+      {
+        "en": "Ovulation typically occurs around day 14 of a 28-day cycle.",
+        "cn": "排卵通常发生在28天周期的第14天左右。"
+      },
+      {
+        "en": "Many women track their ovulation to plan or prevent pregnancy.",
+        "cn": "许多女性追踪排卵来计划或避孕。"
+      }
+    ]
+  },
+  {
+    "word": "malaria",
+    "phonetic": "/məˈleəriə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a serious disease transmitted by the bite of infected mosquitoes, causing fever and chills"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mala",
+        "meaning": "bad"
+      },
+      {
+        "part": "-aria",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "疟疾"
+    ],
+    "examples": [
+      {
+        "en": "Malaria is a major health problem in tropical regions.",
+        "cn": "疟疾是热带地区的主要健康问题。"
+      },
+      {
+        "en": "Bed nets are effective in preventing malaria.",
+        "cn": "蚊帐能有效预防疟疾。"
+      }
+    ]
+  },
+  {
+    "word": "fart",
+    "phonetic": "/fɑːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an emission of gas from the anus"
+      },
+      {
+        "pos": "v.",
+        "translation": "to release gas from the anus"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "放屁",
+      "屁"
+    ],
+    "examples": [
+      {
+        "en": "He tried to hide a fart in the elevator.",
+        "cn": "他试图在电梯里偷偷放个屁。"
+      },
+      {
+        "en": "Beans can make you fart.",
+        "cn": "吃豆子会让你放屁。"
+      }
+    ]
+  },
+  {
+    "word": "asparagus",
+    "phonetic": "/əˈspærəɡəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a tall plant with edible young shoots, eaten as a vegetable"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "芦笋"
+    ],
+    "examples": [
+      {
+        "en": "Grilled asparagus is a delicious side dish.",
+        "cn": "烤芦笋是一道美味的配菜。"
+      },
+      {
+        "en": "Asparagus can make your urine smell strange.",
+        "cn": "芦笋会让你的尿液气味异常。"
+      }
+    ]
+  },
+  {
+    "word": "constipated",
+    "phonetic": "/ˈkɒnstɪpeɪtɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having difficulty emptying the bowels; suffering from constipation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "together"
+      },
+      {
+        "part": "stip",
+        "meaning": "pack, press"
+      },
+      {
+        "part": "-ate",
+        "meaning": "verb suffix"
+      },
+      {
+        "part": "-ed",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "便秘的"
+    ],
+    "examples": [
+      {
+        "en": "Eating more fiber can help if you are constipated.",
+        "cn": "如果你便秘，多吃纤维会有帮助。"
+      },
+      {
+        "en": "He felt constipated and uncomfortable.",
+        "cn": "他感到便秘而且不舒服。"
+      }
+    ]
+  },
+  {
+    "word": "moose",
+    "phonetic": "/muːs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large deer with broad antlers, found in northern forests of North America and Eurasia"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "驼鹿"
+    ],
+    "examples": [
+      {
+        "en": "A moose crossed the road in front of our car.",
+        "cn": "一头驼鹿在我们车前穿过了马路。"
+      },
+      {
+        "en": "Male moose shed their antlers every winter.",
+        "cn": "雄性驼鹿每年冬天都会脱落鹿角。"
+      }
+    ]
+  },
+  {
+    "word": "oxytocin",
+    "phonetic": "/ˌɒksɪˈtəʊsɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a hormone released during childbirth and lactation that promotes bonding and social behavior"
+      }
+    ],
+    "roots": [
+      {
+        "part": "oxy-",
+        "meaning": "sharp, quick"
+      },
+      {
+        "part": "toc",
+        "meaning": "birth"
+      },
+      {
+        "part": "-in",
+        "meaning": "chemical suffix"
+      }
+    ],
+    "translations": [
+      "催产素"
+    ],
+    "examples": [
+      {
+        "en": "Oxytocin is often called the 'love hormone'.",
+        "cn": "催产素常被称为'爱情激素'。"
+      },
+      {
+        "en": "Hugging releases oxytocin and reduces stress.",
+        "cn": "拥抱会释放催产素并减轻压力。"
+      }
+    ]
+  },
+  {
+    "word": "biochemical",
+    "phonetic": "/ˌbaɪəʊˈkemɪkl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the chemical processes that occur in living organisms"
+      }
+    ],
+    "roots": [
+      {
+        "part": "bio-",
+        "meaning": "life"
+      },
+      {
+        "part": "chem",
+        "meaning": "chemical"
+      },
+      {
+        "part": "-ical",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "生物化学的"
+    ],
+    "examples": [
+      {
+        "en": "Biochemical reactions are essential for life.",
+        "cn": "生物化学反应对生命至关重要。"
+      },
+      {
+        "en": "The researcher studies the biochemical basis of disease.",
+        "cn": "研究员研究疾病的生物化学基础。"
+      }
+    ]
+  },
+  {
+    "word": "lid",
+    "phonetic": "/lɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a removable or hinged cover for a container; an eyelid"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "盖子",
+      "眼睑"
+    ],
+    "examples": [
+      {
+        "en": "Please put the lid back on the jar.",
+        "cn": "请把盖子在罐子上盖好。"
+      },
+      {
+        "en": "His heavy lids drooped with exhaustion.",
+        "cn": "他疲惫得眼皮沉重下垂。"
+      }
+    ]
+  },
+  {
+    "word": "gladiator",
+    "phonetic": "/ˈɡlædieɪtə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a man trained to fight with weapons against other men or wild animals in ancient Roman arenas"
+      }
+    ],
+    "roots": [
+      {
+        "part": "gladi",
+        "meaning": "sword"
+      },
+      {
+        "part": "-ator",
+        "meaning": "one who does"
+      }
+    ],
+    "translations": [
+      "角斗士",
+      "斗剑士"
+    ],
+    "examples": [
+      {
+        "en": "Gladiators fought for the entertainment of Roman audiences.",
+        "cn": "角斗士为罗马观众的娱乐而战。"
+      },
+      {
+        "en": "The movie 'Gladiator' was a box office hit.",
+        "cn": "电影《角斗士》是一部票房大片。"
+      }
+    ]
+  },
+  {
+    "word": "stitch",
+    "phonetic": "/stɪtʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a loop of thread or yarn used in sewing, knitting, or surgery; a sudden pain in the side"
+      },
+      {
+        "pos": "v.",
+        "translation": "to join or repair with stitches"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "一针",
+      "缝线",
+      "针脚",
+      "缝纫",
+      "肋部剧痛"
+    ],
+    "examples": [
+      {
+        "en": "She removed the stitches from the wound.",
+        "cn": "她拆除了伤口的缝线。"
+      },
+      {
+        "en": "I got a stitch after running too fast.",
+        "cn": "跑得太快后我肋部剧痛。"
+      }
+    ]
+  },
+  {
+    "word": "defrost",
+    "phonetic": "/diːˈfrɒst/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to remove ice or frost from something; to thaw frozen food"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "reverse, remove"
+      },
+      {
+        "part": "frost",
+        "meaning": "ice"
+      }
+    ],
+    "translations": [
+      "除霜",
+      "解冻"
+    ],
+    "examples": [
+      {
+        "en": "I need to defrost the refrigerator.",
+        "cn": "我需要给冰箱除霜。"
+      },
+      {
+        "en": "Defrost the chicken in the microwave.",
+        "cn": "用微波炉解冻鸡肉。"
+      }
+    ]
+  },
+  {
+    "word": "thaw",
+    "phonetic": "/θɔː/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to become soft or liquid as a result of warming"
+      },
+      {
+        "pos": "n.",
+        "translation": "a period of warmer weather that melts ice and snow"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "解冻",
+      "融化",
+      "缓和",
+      "融雪期"
+    ],
+    "examples": [
+      {
+        "en": "Leave the frozen meat to thaw in the fridge overnight.",
+        "cn": "把冷冻肉放在冰箱里解冻过夜。"
+      },
+      {
+        "en": "Relations between the two countries began to thaw.",
+        "cn": "两国关系开始解冻。"
+      }
+    ]
+  },
+  {
+    "word": "mattress",
+    "phonetic": "/ˈmætrəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large, flat pad filled with soft material, used for sleeping on"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "床垫",
+      "褥子"
+    ],
+    "examples": [
+      {
+        "en": "We bought a new memory foam mattress.",
+        "cn": "我们买了一个新的记忆海绵床垫。"
+      },
+      {
+        "en": "The mattress is too soft for my back.",
+        "cn": "这个床垫对我的背来说太软了。"
+      }
+    ]
+  },
+  {
+    "word": "suture",
+    "phonetic": "/ˈsuːtʃə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a stitch or row of stitches used to close a wound; a seam or line where two parts join"
+      },
+      {
+        "pos": "v.",
+        "translation": "to stitch a wound closed"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sutur",
+        "meaning": "sew"
+      },
+      {
+        "part": "-e",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "缝线",
+      "缝术",
+      "缝合",
+      "骨缝"
+    ],
+    "examples": [
+      {
+        "en": "The doctor removed the sutures after ten days.",
+        "cn": "医生在十天后拆除了缝线。"
+      },
+      {
+        "en": "The surgeon sutured the incision carefully.",
+        "cn": "外科医生仔细缝合了切口。"
+      }
+    ]
+  },
+  {
+    "word": "timehonored",
+    "phonetic": "/ˈtaɪm ˈɒnəd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "respected or valued because it has been used or done for a long time"
+      }
+    ],
+    "roots": [
+      {
+        "part": "time",
+        "meaning": "time"
+      },
+      {
+        "part": "honor",
+        "meaning": "respect"
+      },
+      {
+        "part": "-ed",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "历史悠久的",
+      "由来已久的",
+      "因古老而受尊重的"
+    ],
+    "examples": [
+      {
+        "en": "They followed timehonored wedding traditions.",
+        "cn": "他们遵循了由来已久的婚礼传统。"
+      },
+      {
+        "en": "This is a timehonored method of preserving food.",
+        "cn": "这是一种历史悠久的食物保存方法。"
+      }
+    ]
+  },
+  {
+    "word": "masculinity",
+    "phonetic": "/ˌmæskjuˈlɪnəti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "qualities or attributes regarded as characteristic of men"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mascul",
+        "meaning": "male"
+      },
+      {
+        "part": "-in-",
+        "meaning": "relating to"
+      },
+      {
+        "part": "-ity",
+        "meaning": "state or quality"
+      }
+    ],
+    "translations": [
+      "男子气概",
+      "男性特质",
+      "阳刚之气"
+    ],
+    "examples": [
+      {
+        "en": "Traditional masculinity often discourages emotional expression.",
+        "cn": "传统男子气概常常不鼓励情感表达。"
+      },
+      {
+        "en": "The film explores different ideas of masculinity.",
+        "cn": "这部电影探讨了不同的男性特质观念。"
+      }
+    ]
+  },
+  {
+    "word": "aided",
+    "phonetic": "/ˈeɪdɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "provided with assistance or support"
+      },
+      {
+        "pos": "v.",
+        "translation": "past tense of aid: gave help or support"
+      }
+    ],
+    "roots": [
+      {
+        "part": "aid",
+        "meaning": "help"
+      },
+      {
+        "part": "-ed",
+        "meaning": "past tense or adjective suffix"
+      }
+    ],
+    "translations": [
+      "受帮助的",
+      "受援助的",
+      "协助了的"
+    ],
+    "examples": [
+      {
+        "en": "The computer-aided design software made the project easier.",
+        "cn": "计算机辅助设计软件使项目更容易。"
+      },
+      {
+        "en": "He aided the police in their investigation.",
+        "cn": "他协助了警方的调查。"
+      }
+    ]
+  },
+  {
+    "word": "vomit",
+    "phonetic": "/ˈvɒmɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to eject the contents of the stomach through the mouth"
+      },
+      {
+        "pos": "n.",
+        "translation": "the matter ejected from the stomach"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "呕吐",
+      "呕吐物"
+    ],
+    "examples": [
+      {
+        "en": "The patient began to vomit after taking the medication.",
+        "cn": "病人服药后开始呕吐。"
+      },
+      {
+        "en": "There was vomit on the floor.",
+        "cn": "地板上有呕吐物。"
+      }
+    ]
+  },
+  {
+    "word": "contraindicate",
+    "phonetic": "/ˌkɒntrəˈɪndɪkeɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to indicate that a particular treatment or procedure should not be used"
+      }
+    ],
+    "roots": [
+      {
+        "part": "contra-",
+        "meaning": "against"
+      },
+      {
+        "part": "indicat",
+        "meaning": "show, point out"
+      },
+      {
+        "part": "-e",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "禁忌",
+      "指征不宜"
+    ],
+    "examples": [
+      {
+        "en": "This drug is contraindicated in patients with liver disease.",
+        "cn": "这种药物对肝病患者禁忌。"
+      },
+      {
+        "en": "Pregnancy contraindicates the use of this medication.",
+        "cn": "怀孕禁忌使用这种药物。"
+      }
+    ]
+  },
+  {
+    "word": "bail",
+    "phonetic": "/beɪl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the temporary release of an accused person awaiting trial, often secured by a sum of money"
+      },
+      {
+        "pos": "v.",
+        "translation": "to release someone on bail; to remove water from a boat"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "保释",
+      "保释金",
+      "保释",
+      "舀水"
+    ],
+    "examples": [
+      {
+        "en": "The judge set bail at $10,000.",
+        "cn": "法官将保释金定为一万美元。"
+      },
+      {
+        "en": "They had to bail water out of the sinking boat.",
+        "cn": "他们不得不从下沉的船里往外舀水。"
+      }
+    ]
+  },
+  {
+    "word": "bait",
+    "phonetic": "/beɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "food used to entice fish or other animals; something used to lure or entice"
+      },
+      {
+        "pos": "v.",
+        "translation": "to place bait on a hook or trap; to deliberately make someone angry"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "诱饵",
+      "饵料",
+      "引诱物",
+      "下饵",
+      "激怒"
+    ],
+    "examples": [
+      {
+        "en": "He put a worm on the hook as bait.",
+        "cn": "他把虫子挂在钩上作诱饵。"
+      },
+      {
+        "en": "The children were baiting the dog through the fence.",
+        "cn": "孩子们隔着栅栏逗弄狗。"
+      }
+    ]
+  }
+]

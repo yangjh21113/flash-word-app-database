@@ -1,0 +1,1825 @@
+[
+  {
+    "word": "fella",
+    "phonetic": "/ˈfelə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a man or boy; a boyfriend or lover"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "家伙",
+      "小伙子",
+      "男朋友"
+    ],
+    "examples": [
+      {
+        "en": "He's a nice fella once you get to know him.",
+        "cn": "一旦你了解他，你会发现他是个不错的家伙。"
+      },
+      {
+        "en": "She introduced me to her new fella.",
+        "cn": "她把我介绍给了她的新男友。"
+      }
+    ]
+  },
+  {
+    "word": "mower",
+    "phonetic": "/ˈmoʊər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a machine used for cutting grass; a person who mows"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mow",
+        "meaning": "割草"
+      },
+      {
+        "part": "-er",
+        "meaning": "表示人或机器的后缀"
+      }
+    ],
+    "translations": [
+      "割草机",
+      "割草的人"
+    ],
+    "examples": [
+      {
+        "en": "I need to fix the lawn mower before summer.",
+        "cn": "我需要在夏天之前修好割草机。"
+      },
+      {
+        "en": "He worked as a mower on the golf course.",
+        "cn": "他在高尔夫球场当割草工。"
+      }
+    ]
+  },
+  {
+    "word": "trepidation",
+    "phonetic": "/ˌtrepɪˈdeɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a feeling of fear or anxiety about something that is going to happen"
+      }
+    ],
+    "roots": [
+      {
+        "part": "trepid",
+        "meaning": "害怕，颤抖"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "惊恐",
+      "不安",
+      "忧虑"
+    ],
+    "examples": [
+      {
+        "en": "He approached the exam with some trepidation.",
+        "cn": "他带着些许不安迎接考试。"
+      },
+      {
+        "en": "The sound of the gunfire filled them with trepidation.",
+        "cn": "枪声让他们充满恐惧。"
+      }
+    ]
+  },
+  {
+    "word": "invasive",
+    "phonetic": "/ɪnˈveɪsɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "tending to spread very quickly and undesirably; involving entry into the body via incision or needle"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "进入"
+      },
+      {
+        "part": "vas",
+        "meaning": "走"
+      },
+      {
+        "part": "-ive",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "入侵的",
+      "侵袭的",
+      "侵入性的"
+    ],
+    "examples": [
+      {
+        "en": "The doctor recommended a non-invasive procedure.",
+        "cn": "医生建议了一个非侵入性的程序。"
+      },
+      {
+        "en": "Invasive species are threatening the local ecosystem.",
+        "cn": "入侵物种正威胁着当地生态系统。"
+      }
+    ]
+  },
+  {
+    "word": "colonoscopy",
+    "phonetic": "/ˌkəʊləˈnɒskəpi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an examination of the colon using a flexible tube with a camera"
+      }
+    ],
+    "roots": [
+      {
+        "part": "colon",
+        "meaning": "结肠"
+      },
+      {
+        "part": "-scopy",
+        "meaning": "检查，观察"
+      }
+    ],
+    "translations": [
+      "结肠镜检查"
+    ],
+    "examples": [
+      {
+        "en": "He booked a colonoscopy as part of his routine health check.",
+        "cn": "他预约了结肠镜检查作为常规体检的一部分。"
+      }
+    ]
+  },
+  {
+    "word": "ponder",
+    "phonetic": "/ˈpɒndər/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to think about something carefully, especially before making a decision"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pond",
+        "meaning": "重量，思考"
+      },
+      {
+        "part": "-er",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "仔细思考",
+      "沉思",
+      "掂量"
+    ],
+    "examples": [
+      {
+        "en": "He pondered the meaning of life.",
+        "cn": "他思考着生命的意义。"
+      },
+      {
+        "en": "She pondered over the job offer for days.",
+        "cn": "她对这个工作机会考虑了数天。"
+      }
+    ]
+  },
+  {
+    "word": "ponderous",
+    "phonetic": "/ˈpɒndərəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "slow and clumsy because of great weight; dull and laborious"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pond",
+        "meaning": "重量"
+      },
+      {
+        "part": "-ous",
+        "meaning": "充满...的"
+      }
+    ],
+    "translations": [
+      "笨重的",
+      "冗长的",
+      "沉闷的"
+    ],
+    "examples": [
+      {
+        "en": "The elephant took ponderous steps.",
+        "cn": "大象迈着沉重的步伐。"
+      },
+      {
+        "en": "The lecture was so ponderous that many students fell asleep.",
+        "cn": "讲座如此沉闷，许多学生都睡着了。"
+      }
+    ]
+  },
+  {
+    "word": "resident",
+    "phonetic": "/ˈrezɪdənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who lives somewhere permanently or on a long-term basis"
+      },
+      {
+        "pos": "adj.",
+        "translation": "living somewhere on a long-term basis; located in a particular place"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sid",
+        "meaning": "坐，居住"
+      },
+      {
+        "part": "-ent",
+        "meaning": "表示人或形容词"
+      }
+    ],
+    "translations": [
+      "居民",
+      "住户",
+      "住院医生",
+      "常住的"
+    ],
+    "examples": [
+      {
+        "en": "Local residents are protesting the new development.",
+        "cn": "当地居民正在抗议新的开发项目。"
+      },
+      {
+        "en": "He is a resident physician at the hospital.",
+        "cn": "他是这家医院的住院医生。"
+      }
+    ]
+  },
+  {
+    "word": "residue",
+    "phonetic": "/ˈrezɪdjuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small amount of something that remains after the main part has gone or been taken"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "回，向后"
+      },
+      {
+        "part": "sid",
+        "meaning": "坐"
+      },
+      {
+        "part": "-ue",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "残留物",
+      "剩余物",
+      "残渣"
+    ],
+    "examples": [
+      {
+        "en": "There was a sticky residue on the floor.",
+        "cn": "地板上有粘性的残留物。"
+      },
+      {
+        "en": "The filter traps the residue from the oil.",
+        "cn": "过滤器截留了油中的残渣。"
+      }
+    ]
+  },
+  {
+    "word": "delusion",
+    "phonetic": "/dɪˈluːʒən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a false belief or opinion that is not based on reality, especially one held despite evidence"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "离开，否定"
+      },
+      {
+        "part": "lus",
+        "meaning": "玩弄，欺骗"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "错觉",
+      "妄想",
+      "欺骗"
+    ],
+    "examples": [
+      {
+        "en": "He is under the delusion that he will become famous overnight.",
+        "cn": "他有一种错觉，认为会一夜成名。"
+      },
+      {
+        "en": "Her delusions required medical attention.",
+        "cn": "她的妄想症需要医疗干预。"
+      }
+    ]
+  },
+  {
+    "word": "illusion",
+    "phonetic": "/ɪˈluːʒən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a false idea or belief, or something that seems to exist but does not"
+      }
+    ],
+    "roots": [
+      {
+        "part": "il-",
+        "meaning": "进入，使"
+      },
+      {
+        "part": "lus",
+        "meaning": "玩弄，欺骗"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "幻觉",
+      "错觉",
+      "假象"
+    ],
+    "examples": [
+      {
+        "en": "The mirror created an optical illusion.",
+        "cn": "镜子产生了一种光学错觉。"
+      },
+      {
+        "en": "He had no illusions about his chances of winning.",
+        "cn": "他对自己的获胜机会不抱幻想。"
+      }
+    ]
+  },
+  {
+    "word": "pleasantry",
+    "phonetic": "/ˈplezəntri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a polite or humorous remark, often made in social situations"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pleas",
+        "meaning": "高兴"
+      },
+      {
+        "part": "-ant",
+        "meaning": "形容词后缀"
+      },
+      {
+        "part": "-ry",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "幽默",
+      "打趣的话",
+      "客套话"
+    ],
+    "examples": [
+      {
+        "en": "We exchanged pleasantries before the meeting started.",
+        "cn": "会议开始前我们互相寒暄了几句。"
+      }
+    ]
+  },
+  {
+    "word": "enmesh",
+    "phonetic": "/ɪnˈmeʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to catch or involve someone in something unpleasant or complicated"
+      }
+    ],
+    "roots": [
+      {
+        "part": "en-",
+        "meaning": "使进入"
+      },
+      {
+        "part": "mesh",
+        "meaning": "网"
+      }
+    ],
+    "translations": [
+      "使陷入",
+      "使卷入"
+    ],
+    "examples": [
+      {
+        "en": "He became enmeshed in a web of lies.",
+        "cn": "他陷入了一张谎言之网。"
+      }
+    ]
+  },
+  {
+    "word": "phallic",
+    "phonetic": "/ˈfælɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or resembling a phallus or erect penis"
+      }
+    ],
+    "roots": [
+      {
+        "part": "phall",
+        "meaning": "阴茎"
+      },
+      {
+        "part": "-ic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "阴茎的",
+      "阳具形的"
+    ],
+    "examples": [
+      {
+        "en": "The statue had a phallic shape.",
+        "cn": "这座雕塑呈阳具形状。"
+      }
+    ]
+  },
+  {
+    "word": "outmoded",
+    "phonetic": "/aʊtˈməʊdɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "no longer fashionable or useful; outdated"
+      }
+    ],
+    "roots": [
+      {
+        "part": "out-",
+        "meaning": "超出"
+      },
+      {
+        "part": "mode",
+        "meaning": "时尚，方式"
+      },
+      {
+        "part": "-ed",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "过时的",
+      "陈旧的"
+    ],
+    "examples": [
+      {
+        "en": "These outmoded machines need to be replaced.",
+        "cn": "这些过时的机器需要更换。"
+      }
+    ]
+  },
+  {
+    "word": "psychiatrist",
+    "phonetic": "/saɪˈkaɪətrɪst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a medical doctor who specializes in the treatment of mental illness"
+      }
+    ],
+    "roots": [
+      {
+        "part": "psych",
+        "meaning": "精神，心理"
+      },
+      {
+        "part": "-iatrist",
+        "meaning": "治疗者，医生"
+      }
+    ],
+    "translations": [
+      "精神科医生",
+      "精神病学家"
+    ],
+    "examples": [
+      {
+        "en": "She decided to see a psychiatrist for her anxiety.",
+        "cn": "她决定去看精神科医生治疗焦虑。"
+      }
+    ]
+  },
+  {
+    "word": "locus",
+    "phonetic": "/ˈləʊkəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a particular position or place where something occurs or is situated"
+      }
+    ],
+    "roots": [
+      {
+        "part": "loc",
+        "meaning": "地点"
+      },
+      {
+        "part": "-us",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "地点",
+      "中心",
+      "位点"
+    ],
+    "examples": [
+      {
+        "en": "The locus of power shifted to the new capital.",
+        "cn": "权力中心转移到了新首都。"
+      }
+    ]
+  },
+  {
+    "word": "slugger",
+    "phonetic": "/ˈslʌɡər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a baseball player who hits the ball very hard"
+      }
+    ],
+    "roots": [
+      {
+        "part": "slug",
+        "meaning": "猛击"
+      },
+      {
+        "part": "-er",
+        "meaning": "表示人的后缀"
+      }
+    ],
+    "translations": [
+      "强力击球手",
+      "重击手"
+    ],
+    "examples": [
+      {
+        "en": "He is the team's best slugger.",
+        "cn": "他是队里最好的强击手。"
+      }
+    ]
+  },
+  {
+    "word": "cologne",
+    "phonetic": "/kəˈləʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a type of perfume or scented liquid, often for men"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "古龙水",
+      "科隆香水"
+    ],
+    "examples": [
+      {
+        "en": "He wore a subtle cologne.",
+        "cn": "他用了淡淡的古龙水。"
+      }
+    ]
+  },
+  {
+    "word": "oolong",
+    "phonetic": "/ˈuːlɒŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a traditional Chinese tea that is partially fermented"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "乌龙茶"
+    ],
+    "examples": [
+      {
+        "en": "Oolong tea has a unique floral aroma.",
+        "cn": "乌龙茶有一种独特的花香。"
+      }
+    ]
+  },
+  {
+    "word": "steep",
+    "phonetic": "/stiːp/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "rising or falling sharply; (of a price) high or excessive"
+      },
+      {
+        "pos": "v.",
+        "translation": "to soak in liquid to extract flavor or to soften"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "陡峭的",
+      "过高的",
+      "浸泡",
+      "沉浸"
+    ],
+    "examples": [
+      {
+        "en": "The hill is too steep to climb.",
+        "cn": "这个山坡太陡峭了，爬不上去。"
+      },
+      {
+        "en": "Let the tea steep for three minutes.",
+        "cn": "让茶浸泡三分钟。"
+      }
+    ]
+  },
+  {
+    "word": "forma",
+    "phonetic": "/ˈfɔːmə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a form or type; in biology, a taxonomic category below variety"
+      }
+    ],
+    "roots": [
+      {
+        "part": "form",
+        "meaning": "形状，形式"
+      },
+      {
+        "part": "-a",
+        "meaning": "拉丁语名词后缀"
+      }
+    ],
+    "translations": [
+      "形式",
+      "类型",
+      "变型"
+    ],
+    "examples": []
+  },
+  {
+    "word": "consummation",
+    "phonetic": "/ˌkɒnsəˈmeɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the act of making something complete or perfect; the completion of a marriage by sexual intercourse"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "一起，完全"
+      },
+      {
+        "part": "summ",
+        "meaning": "总合，最高"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "圆满成功",
+      "完成",
+      "圆房"
+    ],
+    "examples": [
+      {
+        "en": "The consummation of the deal took months.",
+        "cn": "这笔交易的完成花了数月时间。"
+      }
+    ]
+  },
+  {
+    "word": "menopausal",
+    "phonetic": "/ˌmenəˈpɔːzəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the menopause, the time when a woman stops menstruating"
+      }
+    ],
+    "roots": [
+      {
+        "part": "men",
+        "meaning": "月"
+      },
+      {
+        "part": "paus",
+        "meaning": "停止"
+      },
+      {
+        "part": "-al",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "绝经期的",
+      "更年期的"
+    ],
+    "examples": [
+      {
+        "en": "She is experiencing menopausal symptoms.",
+        "cn": "她正在经历更年期症状。"
+      }
+    ]
+  },
+  {
+    "word": "urinate",
+    "phonetic": "/ˈjʊərɪneɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to discharge urine from the body"
+      }
+    ],
+    "roots": [
+      {
+        "part": "urin",
+        "meaning": "尿"
+      },
+      {
+        "part": "-ate",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "排尿",
+      "小便"
+    ],
+    "examples": [
+      {
+        "en": "The patient was unable to urinate properly.",
+        "cn": "病人无法正常排尿。"
+      }
+    ]
+  },
+  {
+    "word": "urine",
+    "phonetic": "/ˈjʊərɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a liquid waste product filtered from the blood by the kidneys"
+      }
+    ],
+    "roots": [
+      {
+        "part": "urin",
+        "meaning": "尿"
+      }
+    ],
+    "translations": [
+      "尿液"
+    ],
+    "examples": [
+      {
+        "en": "The doctor tested his urine for infection.",
+        "cn": "医生化验了他的尿液是否有感染。"
+      }
+    ]
+  },
+  {
+    "word": "bible",
+    "phonetic": "/ˈbaɪbəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the Christian holy book; a book considered authoritative in a particular field"
+      }
+    ],
+    "roots": [
+      {
+        "part": "bibl",
+        "meaning": "书"
+      }
+    ],
+    "translations": [
+      "圣经",
+      "权威著作"
+    ],
+    "examples": [
+      {
+        "en": "The Bible is the most printed book in history.",
+        "cn": "《圣经》是历史上印刷量最大的书。"
+      }
+    ]
+  },
+  {
+    "word": "glue",
+    "phonetic": "/ɡluː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sticky substance used for joining things together"
+      },
+      {
+        "pos": "v.",
+        "translation": "to join something using glue"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "胶水",
+      "粘合"
+    ],
+    "examples": [
+      {
+        "en": "I need glue to fix this vase.",
+        "cn": "我需要胶水来修这个花瓶。"
+      }
+    ]
+  },
+  {
+    "word": "electrode",
+    "phonetic": "/ɪˈlektrəʊd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a conductor through which electricity enters or leaves a device"
+      }
+    ],
+    "roots": [
+      {
+        "part": "electr",
+        "meaning": "电"
+      },
+      {
+        "part": "ode",
+        "meaning": "路径"
+      }
+    ],
+    "translations": [
+      "电极"
+    ],
+    "examples": [
+      {
+        "en": "The electrode is connected to the battery.",
+        "cn": "电极连接到电池上。"
+      }
+    ]
+  },
+  {
+    "word": "potty",
+    "phonetic": "/ˈpɒti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small toilet for a young child"
+      },
+      {
+        "pos": "adj.",
+        "translation": "slightly crazy or silly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "便盆",
+      "愚蠢的",
+      "发疯的"
+    ],
+    "examples": [
+      {
+        "en": "He's driving me potty with his constant questions.",
+        "cn": "他不断提问快把我逼疯了。"
+      }
+    ]
+  },
+  {
+    "word": "tenured",
+    "phonetic": "/ˈtenjərd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having a permanent position, especially as a teacher or professor"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ten",
+        "meaning": "持有"
+      },
+      {
+        "part": "-ure",
+        "meaning": "名词后缀"
+      },
+      {
+        "part": "-ed",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "享有终身职位的",
+      "获得终身教职的"
+    ],
+    "examples": [
+      {
+        "en": "She is a tenured professor at the university.",
+        "cn": "她是大学里一名有终身教职的教授。"
+      }
+    ]
+  },
+  {
+    "word": "pancrea",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "plural or technical form of pancreas, a large gland behind the stomach"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pan",
+        "meaning": "全部"
+      },
+      {
+        "part": "crea",
+        "meaning": "肉"
+      }
+    ],
+    "translations": [
+      "胰腺"
+    ],
+    "examples": []
+  },
+  {
+    "word": "gibbon",
+    "phonetic": "/ˈɡɪbən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small, slender ape with long arms, native to Southeast Asia"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "长臂猿"
+    ],
+    "examples": [
+      {
+        "en": "Gibbons are known for their loud calls.",
+        "cn": "长臂猿以其响亮的叫声而闻名。"
+      }
+    ]
+  },
+  {
+    "word": "enaged",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "likely a misspelling of 'engaged', meaning occupied, busy, or promised in marriage"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "（应为engaged）忙碌的，已订婚的"
+    ],
+    "examples": []
+  },
+  {
+    "word": "mutism",
+    "phonetic": "/ˈmjuːtɪzəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the condition of being unable to speak"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mut",
+        "meaning": "改变"
+      },
+      {
+        "part": "-ism",
+        "meaning": "状态，主义"
+      }
+    ],
+    "translations": [
+      "缄默症",
+      "哑症"
+    ],
+    "examples": [
+      {
+        "en": "The child suffered from selective mutism.",
+        "cn": "这个孩子患有选择性缄默症。"
+      }
+    ]
+  },
+  {
+    "word": "bassinet",
+    "phonetic": "/ˌbæsɪˈnet/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small bed for a baby, often made of wicker or soft material"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "摇篮",
+      "婴儿提篮"
+    ],
+    "examples": [
+      {
+        "en": "The baby slept soundly in the bassinet.",
+        "cn": "婴儿在提篮里睡得很香。"
+      }
+    ]
+  },
+  {
+    "word": "pathological",
+    "phonetic": "/ˌpæθəˈlɒdʒɪkəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to pathology, the study of diseases; compulsive or extreme in a way that is not normal"
+      }
+    ],
+    "roots": [
+      {
+        "part": "path",
+        "meaning": "痛苦，病"
+      },
+      {
+        "part": "-logy",
+        "meaning": "学科"
+      },
+      {
+        "part": "-ical",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "病态的",
+      "病理学的",
+      "无法控制的"
+    ],
+    "examples": [
+      {
+        "en": "He is a pathological liar.",
+        "cn": "他是个病态说谎者。"
+      }
+    ]
+  },
+  {
+    "word": "ersatz",
+    "phonetic": "/ˈɜːzæts/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "artificial and inferior to the real thing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "代用的",
+      "人造的",
+      "劣质的"
+    ],
+    "examples": [
+      {
+        "en": "They served ersatz coffee made from chicory.",
+        "cn": "他们提供用菊苣制成的代咖啡。"
+      }
+    ]
+  },
+  {
+    "word": "laboratory",
+    "phonetic": "/ləˈbɒrətri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a room or building used for scientific research, experiments, or testing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "labor",
+        "meaning": "劳动"
+      },
+      {
+        "part": "-atory",
+        "meaning": "场所"
+      }
+    ],
+    "translations": [
+      "实验室",
+      "化验室"
+    ],
+    "examples": [
+      {
+        "en": "We conducted the experiment in the chemistry laboratory.",
+        "cn": "我们在化学实验室进行了实验。"
+      }
+    ]
+  },
+  {
+    "word": "unassailable",
+    "phonetic": "/ˌʌnəˈseɪləbəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "impossible to attack, criticize, or defeat"
+      }
+    ],
+    "roots": [
+      {
+        "part": "un-",
+        "meaning": "不"
+      },
+      {
+        "part": "assail",
+        "meaning": "攻击"
+      },
+      {
+        "part": "-able",
+        "meaning": "能...的"
+      }
+    ],
+    "translations": [
+      "攻不破的",
+      "无懈可击的",
+      "不容置疑的"
+    ],
+    "examples": [
+      {
+        "en": "Her logic was unassailable.",
+        "cn": "她的逻辑无懈可击。"
+      }
+    ]
+  },
+  {
+    "word": "sodium",
+    "phonetic": "/ˈsəʊdiəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft, silver-white metal that is a chemical element (Na)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sod",
+        "meaning": "苏打"
+      },
+      {
+        "part": "-ium",
+        "meaning": "金属元素后缀"
+      }
+    ],
+    "translations": [
+      "钠"
+    ],
+    "examples": [
+      {
+        "en": "High sodium intake can raise blood pressure.",
+        "cn": "高钠摄入会升高血压。"
+      }
+    ]
+  },
+  {
+    "word": "iodide",
+    "phonetic": "/ˈaɪədaɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a compound of iodine with another element or group"
+      }
+    ],
+    "roots": [
+      {
+        "part": "iod",
+        "meaning": "碘"
+      },
+      {
+        "part": "-ide",
+        "meaning": "化合物后缀"
+      }
+    ],
+    "translations": [
+      "碘化物"
+    ],
+    "examples": [
+      {
+        "en": "Potassium iodide is used in medicine.",
+        "cn": "碘化钾用于医药。"
+      }
+    ]
+  },
+  {
+    "word": "alcoholism",
+    "phonetic": "/ˈælkəhɒlɪzəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a chronic disease marked by uncontrolled drinking and dependence on alcohol"
+      }
+    ],
+    "roots": [
+      {
+        "part": "alcohol",
+        "meaning": "酒精"
+      },
+      {
+        "part": "-ism",
+        "meaning": "状态，滥用"
+      }
+    ],
+    "translations": [
+      "酒精中毒",
+      "酗酒"
+    ],
+    "examples": [
+      {
+        "en": "He is being treated for alcoholism.",
+        "cn": "他正在接受酒精中毒治疗。"
+      }
+    ]
+  },
+  {
+    "word": "antidepressant",
+    "phonetic": "/ˌæntidɪˈpresənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a drug used to alleviate depression"
+      },
+      {
+        "pos": "adj.",
+        "translation": "counteracting depression"
+      }
+    ],
+    "roots": [
+      {
+        "part": "anti-",
+        "meaning": "反对"
+      },
+      {
+        "part": "de-",
+        "meaning": "向下"
+      },
+      {
+        "part": "press",
+        "meaning": "压"
+      },
+      {
+        "part": "-ant",
+        "meaning": "...剂"
+      }
+    ],
+    "translations": [
+      "抗抑郁药",
+      "抗抑郁的"
+    ],
+    "examples": [
+      {
+        "en": "Her doctor prescribed an antidepressant.",
+        "cn": "她的医生开了抗抑郁药。"
+      }
+    ]
+  },
+  {
+    "word": "perky",
+    "phonetic": "/ˈpɜːki/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "cheerful and lively"
+      }
+    ],
+    "roots": [
+      {
+        "part": "perk",
+        "meaning": "振作"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "活泼的",
+      "兴高采烈的"
+    ],
+    "examples": [
+      {
+        "en": "She woke up feeling perky.",
+        "cn": "她醒来时精神饱满。"
+      }
+    ]
+  },
+  {
+    "word": "sensation",
+    "phonetic": "/senˈseɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a physical feeling or awareness; a widespread reaction of interest and excitement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sens",
+        "meaning": "感觉"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "感觉",
+      "轰动"
+    ],
+    "examples": [
+      {
+        "en": "He felt a burning sensation in his chest.",
+        "cn": "他感到胸部有烧灼感。"
+      },
+      {
+        "en": "The news caused a sensation.",
+        "cn": "这条新闻引起了轰动。"
+      }
+    ]
+  },
+  {
+    "word": "mannequin",
+    "phonetic": "/ˈmænɪkɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a life-sized model of a human used to display clothes; a fashion model"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "人体模型",
+      "时装模特"
+    ],
+    "examples": [
+      {
+        "en": "The mannequin was wearing a red dress.",
+        "cn": "模特穿着红裙子。"
+      }
+    ]
+  },
+  {
+    "word": "frontal",
+    "phonetic": "/ˈfrʌntəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the front; of the forehead or frontal bone"
+      }
+    ],
+    "roots": [
+      {
+        "part": "front",
+        "meaning": "前面"
+      },
+      {
+        "part": "-al",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "前面的",
+      "额部的"
+    ],
+    "examples": [
+      {
+        "en": "The frontal lobe is important for decision making.",
+        "cn": "额叶对决策很重要。"
+      }
+    ]
+  },
+  {
+    "word": "lobe",
+    "phonetic": "/ləʊb/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a rounded projection or division of an organ, especially the brain or lung"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "叶（脑叶，肺叶）"
+    ],
+    "examples": [
+      {
+        "en": "The temporal lobe is involved in memory.",
+        "cn": "颞叶与记忆有关。"
+      }
+    ]
+  },
+  {
+    "word": "tumor",
+    "phonetic": "/ˈtjuːmər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an abnormal mass of tissue that may be benign or malignant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tum",
+        "meaning": "肿胀"
+      },
+      {
+        "part": "-or",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "肿瘤",
+      "肿块"
+    ],
+    "examples": [
+      {
+        "en": "The tumor was removed successfully.",
+        "cn": "肿瘤被成功切除了。"
+      }
+    ]
+  },
+  {
+    "word": "empirical",
+    "phonetic": "/ɪmˈpɪrɪkəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "based on observation or experience rather than theory"
+      }
+    ],
+    "roots": [
+      {
+        "part": "empir",
+        "meaning": "经验"
+      },
+      {
+        "part": "-ical",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "以经验为依据的",
+      "经验主义的"
+    ],
+    "examples": [
+      {
+        "en": "We need empirical data to support this claim.",
+        "cn": "我们需要经验数据来支持这一说法。"
+      }
+    ]
+  },
+  {
+    "word": "flattery",
+    "phonetic": "/ˈflætəri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "excessive or insincere praise"
+      }
+    ],
+    "roots": [
+      {
+        "part": "flat",
+        "meaning": "吹捧"
+      },
+      {
+        "part": "-ery",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "奉承",
+      "恭维"
+    ],
+    "examples": [
+      {
+        "en": "She saw through his flattery.",
+        "cn": "她看穿了他的奉承。"
+      }
+    ]
+  },
+  {
+    "word": "flatter",
+    "phonetic": "/ˈflætər/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to praise insincerely; to make someone feel pleased by showing admiration"
+      }
+    ],
+    "roots": [
+      {
+        "part": "flat",
+        "meaning": "吹捧"
+      },
+      {
+        "part": "-er",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "奉承",
+      "使高兴"
+    ],
+    "examples": [
+      {
+        "en": "He flattered her on her cooking.",
+        "cn": "他称赞她的厨艺。"
+      }
+    ]
+  },
+  {
+    "word": "rhetorical",
+    "phonetic": "/rɪˈtɒrɪkəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to rhetoric, the art of persuasion; asked for effect rather than requiring an answer"
+      }
+    ],
+    "roots": [
+      {
+        "part": "rhetor",
+        "meaning": "修辞学家"
+      },
+      {
+        "part": "-ical",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "修辞的",
+      "反问的"
+    ],
+    "examples": [
+      {
+        "en": "It was a rhetorical question.",
+        "cn": "那是个反问句。"
+      }
+    ]
+  },
+  {
+    "word": "lime",
+    "phonetic": "/laɪm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small green citrus fruit; a white alkaline substance used in building"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "酸橙",
+      "石灰"
+    ],
+    "examples": [
+      {
+        "en": "Add a slice of lime to the drink.",
+        "cn": "在饮料中加入一片酸橙。"
+      }
+    ]
+  },
+  {
+    "word": "tempt",
+    "phonetic": "/tempt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to entice someone to do something, especially something wrong or unwise"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tempt",
+        "meaning": "尝试，引诱"
+      }
+    ],
+    "translations": [
+      "引诱",
+      "诱惑"
+    ],
+    "examples": [
+      {
+        "en": "The smell of fresh bread tempted me.",
+        "cn": "新鲜面包的香味诱惑着我。"
+      }
+    ]
+  },
+  {
+    "word": "hesitant",
+    "phonetic": "/ˈhezɪtənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "slow to act or speak because of uncertainty or unwillingness"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hesit",
+        "meaning": "犹豫"
+      },
+      {
+        "part": "-ant",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "犹豫的",
+      "踌躇的"
+    ],
+    "examples": [
+      {
+        "en": "She was hesitant to accept the job.",
+        "cn": "她犹豫是否接受这份工作。"
+      }
+    ]
+  },
+  {
+    "word": "endorphin",
+    "phonetic": "/enˈdɔːfɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a hormone produced by the body that reduces pain and causes a feeling of pleasure"
+      }
+    ],
+    "roots": [
+      {
+        "part": "endo-",
+        "meaning": "内部"
+      },
+      {
+        "part": "morph",
+        "meaning": "形状"
+      },
+      {
+        "part": "-in",
+        "meaning": "素"
+      }
+    ],
+    "translations": [
+      "内啡肽"
+    ],
+    "examples": [
+      {
+        "en": "Running releases endorphins that make you feel good.",
+        "cn": "跑步会释放让你感觉良好的内啡肽。"
+      }
+    ]
+  },
+  {
+    "word": "shush",
+    "phonetic": "/ʃʊʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to tell someone to be quiet"
+      },
+      {
+        "pos": "int.",
+        "translation": "used to tell someone to be quiet"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "嘘（让人安静）"
+    ],
+    "examples": [
+      {
+        "en": "She shushed the children in the library.",
+        "cn": "她在图书馆里让孩子们安静。"
+      }
+    ]
+  }
+]

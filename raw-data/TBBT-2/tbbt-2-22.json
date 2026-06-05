@@ -1,0 +1,2789 @@
+[
+  {
+    "word": "shutter",
+    "phonetic": "/ˈʃʌtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a mechanical device that opens and closes to control exposure in a camera; a hinged cover or screen for a window"
+      },
+      {
+        "pos": "v.",
+        "translation": "to close or furnish with shutters"
+      }
+    ],
+    "roots": [
+      {
+        "part": "shut",
+        "meaning": "关闭"
+      },
+      {
+        "part": "-er",
+        "meaning": "表示物或人"
+      }
+    ],
+    "translations": [
+      "快门",
+      "百叶窗",
+      "遮光器"
+    ],
+    "examples": [
+      {
+        "en": "He pressed the shutter button to take the photo.",
+        "cn": "他按下快门按钮拍照。"
+      },
+      {
+        "en": "The store has wooden shutters on the windows.",
+        "cn": "这家商店的窗户上装有木制百叶窗。"
+      }
+    ]
+  },
+  {
+    "word": "space shuttle",
+    "phonetic": "/speɪs ˈʃʌtl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a spacecraft that travels into space and back to Earth, used for transporting people or satellites"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "航天飞机"
+    ],
+    "examples": [
+      {
+        "en": "The space shuttle launched successfully yesterday.",
+        "cn": "航天飞机昨天成功发射。"
+      },
+      {
+        "en": "NASA retired its space shuttle program in 2011.",
+        "cn": "美国宇航局于2011年退役了其航天飞机项目。"
+      }
+    ]
+  },
+  {
+    "word": "dock",
+    "phonetic": "/dɒk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an enclosed area of water where ships are loaded, unloaded, or repaired; the place in a court where the accused person stands"
+      },
+      {
+        "pos": "v.",
+        "translation": "to bring a ship into a dock; to cut short or remove part of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "码头",
+      "船坞",
+      "被告席",
+      "剪短"
+    ],
+    "examples": [
+      {
+        "en": "The ship is scheduled to dock at 6 p.m.",
+        "cn": "船定于下午6点靠码头。"
+      },
+      {
+        "en": "The dog's tail was docked for breed standards.",
+        "cn": "为了符合品种标准，狗的尾巴被剪短了。"
+      }
+    ]
+  },
+  {
+    "word": "deck",
+    "phonetic": "/dek/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a floor or platform on a ship, bus, or building; a pack of playing cards"
+      },
+      {
+        "pos": "v.",
+        "translation": "to decorate or adorn; to knock someone to the ground"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "甲板",
+      "层面",
+      "一副纸牌",
+      "装饰",
+      "击倒"
+    ],
+    "examples": [
+      {
+        "en": "We sat on the top deck of the bus.",
+        "cn": "我们坐在巴士的上层。"
+      },
+      {
+        "en": "He was decked out in a fancy suit.",
+        "cn": "他穿了一身华丽的西装。"
+      }
+    ]
+  },
+  {
+    "word": "crew",
+    "phonetic": "/kruː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a group of people who work together, especially on a ship, aircraft, or in a film production"
+      },
+      {
+        "pos": "v.",
+        "translation": "to act as a member of a crew"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "全体工作人员",
+      "船员",
+      "机组人员",
+      "团队"
+    ],
+    "examples": [
+      {
+        "en": "The crew worked hard to keep the ship safe.",
+        "cn": "船员们努力工作以确保船舶安全。"
+      },
+      {
+        "en": "She joined the film crew as a sound technician.",
+        "cn": "她作为音响技师加入了电影摄制组。"
+      }
+    ]
+  },
+  {
+    "word": "astronaut",
+    "phonetic": "/ˈæstrənɔːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person trained to travel and work in a spacecraft"
+      }
+    ],
+    "roots": [
+      {
+        "part": "astro",
+        "meaning": "星星、太空"
+      },
+      {
+        "part": "naut",
+        "meaning": "航行"
+      }
+    ],
+    "translations": [
+      "宇航员"
+    ],
+    "examples": [
+      {
+        "en": "The astronaut floated in zero gravity.",
+        "cn": "宇航员在零重力中漂浮。"
+      },
+      {
+        "en": "Many children dream of becoming astronauts.",
+        "cn": "许多孩子梦想成为宇航员。"
+      }
+    ]
+  },
+  {
+    "word": "trek",
+    "phonetic": "/trek/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a long, hard journey, especially on foot"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make a long, difficult journey"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "长途跋涉",
+      "艰苦旅行"
+    ],
+    "examples": [
+      {
+        "en": "They went on a trek through the mountains.",
+        "cn": "他们进行了一次穿越山脉的长途跋涉。"
+      },
+      {
+        "en": "We trekked for hours in the snow.",
+        "cn": "我们在雪中跋涉了好几个小时。"
+      }
+    ]
+  },
+  {
+    "word": "plumb",
+    "phonetic": "/plʌm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a weight on a string used to find vertical depth or alignment"
+      },
+      {
+        "pos": "v.",
+        "translation": "to measure depth; to understand something completely"
+      },
+      {
+        "pos": "adv.",
+        "translation": "exactly; vertically"
+      },
+      {
+        "pos": "adj.",
+        "translation": "straight, vertical"
+      }
+    ],
+    "roots": [
+      {
+        "part": "plumb",
+        "meaning": "铅、垂直"
+      }
+    ],
+    "translations": [
+      "铅锤",
+      "探测",
+      "完全理解",
+      "垂直地",
+      "恰恰"
+    ],
+    "examples": [
+      {
+        "en": "He plumbed the depths of the ocean.",
+        "cn": "他探测了海洋的深度。"
+      },
+      {
+        "en": "The wall is plumb.",
+        "cn": "这面墙是垂直的。"
+      }
+    ]
+  },
+  {
+    "word": "cardinal",
+    "phonetic": "/ˈkɑːrdɪnəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "most important; primary; of deep red color"
+      },
+      {
+        "pos": "n.",
+        "translation": "a high-ranking official in the Catholic Church; a North American songbird; a cardinal number"
+      }
+    ],
+    "roots": [
+      {
+        "part": "card",
+        "meaning": "心、铰链、关键"
+      }
+    ],
+    "translations": [
+      "最主要的",
+      "基本的",
+      "枢机主教",
+      "红衣凤头鸟",
+      "基数"
+    ],
+    "examples": [
+      {
+        "en": "Honesty is a cardinal virtue.",
+        "cn": "诚实是最基本的品德。"
+      },
+      {
+        "en": "The cardinal flew to the feeder.",
+        "cn": "红衣凤头鸟飞到了喂食器上。"
+      }
+    ]
+  },
+  {
+    "word": "cordial",
+    "phonetic": "/ˈkɔːrdʒəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "warm and sincere; friendly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a sweet fruit-flavored drink; a stimulating medicine"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cord",
+        "meaning": "心"
+      },
+      {
+        "part": "-ial",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "热情的",
+      "诚恳的",
+      "甜果汁饮料",
+      "兴奋剂"
+    ],
+    "examples": [
+      {
+        "en": "The two leaders had a cordial meeting.",
+        "cn": "两位领导人进行了友好的会面。"
+      },
+      {
+        "en": "She offered us a glass of lime cordial.",
+        "cn": "她给了我们一杯青柠甜果汁饮料。"
+      }
+    ]
+  },
+  {
+    "word": "euphemism",
+    "phonetic": "/ˈjuːfəmɪzəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a mild or indirect word substituted for one that is too harsh or blunt"
+      }
+    ],
+    "roots": [
+      {
+        "part": "eu",
+        "meaning": "好"
+      },
+      {
+        "part": "phem",
+        "meaning": "说话"
+      },
+      {
+        "part": "-ism",
+        "meaning": "主义、行为"
+      }
+    ],
+    "translations": [
+      "委婉语",
+      "委婉说法"
+    ],
+    "examples": [
+      {
+        "en": "\"Pass away\" is a euphemism for \"die\".",
+        "cn": "'去世'是'死'的委婉说法。"
+      },
+      {
+        "en": "The report is full of bureaucratic euphemisms.",
+        "cn": "这份报告充满了官僚主义的委婉语。"
+      }
+    ]
+  },
+  {
+    "word": "bodily",
+    "phonetic": "/ˈbɒdɪli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the body"
+      },
+      {
+        "pos": "adv.",
+        "translation": "by taking hold of the body; as a whole"
+      }
+    ],
+    "roots": [
+      {
+        "part": "body",
+        "meaning": "身体"
+      },
+      {
+        "part": "-ly",
+        "meaning": "形容词/副词后缀"
+      }
+    ],
+    "translations": [
+      "身体的",
+      "肉体上的",
+      "整体地",
+      "用力地"
+    ],
+    "examples": [
+      {
+        "en": "He suffered bodily harm in the accident.",
+        "cn": "他在事故中身体受到了伤害。"
+      },
+      {
+        "en": "They lifted the table bodily onto the truck.",
+        "cn": "他们把整张桌子抬上了卡车。"
+      }
+    ]
+  },
+  {
+    "word": "grinch",
+    "phonetic": "/ɡrɪntʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who spoils the pleasure of others; a killjoy"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "扫兴的人",
+      "圣诞怪杰（出自儿童文学作品）"
+    ],
+    "examples": [
+      {
+        "en": "Don't be such a grinch about the party.",
+        "cn": "对聚会别这么扫兴。"
+      }
+    ]
+  },
+  {
+    "word": "suitor",
+    "phonetic": "/ˈsuːtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a man who wants to marry a particular woman; a company or person seeking to buy another business"
+      }
+    ],
+    "roots": [
+      {
+        "part": "suit",
+        "meaning": "追随、求取"
+      },
+      {
+        "part": "-or",
+        "meaning": "人"
+      }
+    ],
+    "translations": [
+      "求婚者",
+      "收购方"
+    ],
+    "examples": [
+      {
+        "en": "She had many suitors in her youth.",
+        "cn": "她年轻时有很多求婚者。"
+      },
+      {
+        "en": "The tech giant is a suitor for the startup.",
+        "cn": "这家科技巨头是初创公司的潜在收购方。"
+      }
+    ]
+  },
+  {
+    "word": "caption",
+    "phonetic": "/ˈkæpʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a title or brief explanation accompanying an illustration, cartoon, or photograph"
+      },
+      {
+        "pos": "v.",
+        "translation": "to provide a caption for something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "capt",
+        "meaning": "拿、抓住"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "标题",
+      "说明文字",
+      "字幕"
+    ],
+    "examples": [
+      {
+        "en": "The caption under the photo reads \"Sunset over the ocean\".",
+        "cn": "照片下方的说明文字写着'海洋上的日落'。"
+      },
+      {
+        "en": "Please caption this meme.",
+        "cn": "请给这个表情包配文字。"
+      }
+    ]
+  },
+  {
+    "word": "jeopardize",
+    "phonetic": "/ˈdʒepərdaɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to put something or someone in danger"
+      }
+    ],
+    "roots": [
+      {
+        "part": "jeopard",
+        "meaning": "危险"
+      },
+      {
+        "part": "-ize",
+        "meaning": "使成为"
+      }
+    ],
+    "translations": [
+      "危及",
+      "损害"
+    ],
+    "examples": [
+      {
+        "en": "His carelessness could jeopardize the whole project.",
+        "cn": "他的粗心可能会危及整个项目。"
+      },
+      {
+        "en": "Don't jeopardize your health by smoking.",
+        "cn": "不要吸烟损害你的健康。"
+      }
+    ]
+  },
+  {
+    "word": "hazardous",
+    "phonetic": "/ˈhæzərdəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "dangerous; involving risk"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hazard",
+        "meaning": "危险"
+      },
+      {
+        "part": "-ous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "危险的",
+      "有害的"
+    ],
+    "examples": [
+      {
+        "en": "This chemical is hazardous to the environment.",
+        "cn": "这种化学物质对环境有害。"
+      },
+      {
+        "en": "Climbing without a rope is hazardous.",
+        "cn": "不系绳索攀岩是危险的。"
+      }
+    ]
+  },
+  {
+    "word": "fondness",
+    "phonetic": "/ˈfɒndnəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "affection or liking for someone or something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "fond",
+        "meaning": "喜爱的"
+      },
+      {
+        "part": "-ness",
+        "meaning": "状态或性质"
+      }
+    ],
+    "translations": [
+      "喜爱",
+      "钟爱"
+    ],
+    "examples": [
+      {
+        "en": "She has a fondness for chocolate.",
+        "cn": "她喜欢巧克力。"
+      },
+      {
+        "en": "His fondness for his cat is obvious.",
+        "cn": "他对猫的喜爱显而易见。"
+      }
+    ]
+  },
+  {
+    "word": "fiction",
+    "phonetic": "/ˈfɪkʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "literature describing imaginary events and people; something invented or not true"
+      }
+    ],
+    "roots": [
+      {
+        "part": "fict",
+        "meaning": "塑造、假装"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "小说",
+      "虚构",
+      "捏造"
+    ],
+    "examples": [
+      {
+        "en": "She reads science fiction every night.",
+        "cn": "她每晚都读科幻小说。"
+      },
+      {
+        "en": "His story is pure fiction.",
+        "cn": "他的故事纯属虚构。"
+      }
+    ]
+  },
+  {
+    "word": "comic",
+    "phonetic": "/ˈkɒmɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "causing laughter; funny; relating to comedy"
+      },
+      {
+        "pos": "n.",
+        "translation": "a comedian; a comic book or strip"
+      }
+    ],
+    "roots": [
+      {
+        "part": "com",
+        "meaning": "欢乐、宴会"
+      },
+      {
+        "part": "-ic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "喜剧的",
+      "滑稽的",
+      "喜剧演员",
+      "连环漫画"
+    ],
+    "examples": [
+      {
+        "en": "The comic timing of the actor was perfect.",
+        "cn": "这位演员的喜剧节奏把握得恰到好处。"
+      },
+      {
+        "en": "He collects old comic books.",
+        "cn": "他收集旧的漫画书。"
+      }
+    ]
+  },
+  {
+    "word": "cosmic",
+    "phonetic": "/ˈkɒzmɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the universe or cosmos; extremely vast"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cosm",
+        "meaning": "宇宙、秩序"
+      },
+      {
+        "part": "-ic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "宇宙的",
+      "极大、极重要的"
+    ],
+    "examples": [
+      {
+        "en": "Cosmic rays bombard the Earth constantly.",
+        "cn": "宇宙射线不断轰击地球。"
+      },
+      {
+        "en": "The project is of cosmic importance.",
+        "cn": "这个项目极其重要。"
+      }
+    ]
+  },
+  {
+    "word": "cosmetic",
+    "phonetic": "/kɒzˈmetɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a substance used to enhance or alter appearance"
+      },
+      {
+        "pos": "adj.",
+        "translation": "relating to treatment of the appearance; superficial or minor"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cosm",
+        "meaning": "宇宙、秩序、装饰"
+      },
+      {
+        "part": "-etic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "化妆品",
+      "美容的",
+      "表面的",
+      "微不足道的"
+    ],
+    "examples": [
+      {
+        "en": "She spends a lot on cosmetics.",
+        "cn": "她在化妆品上花很多钱。"
+      },
+      {
+        "en": "The changes are purely cosmetic.",
+        "cn": "这些变化纯属表面功夫。"
+      }
+    ]
+  },
+  {
+    "word": "descend",
+    "phonetic": "/dɪˈsend/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to move downward; to come from a higher or previous level; to be inherited"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de",
+        "meaning": "向下"
+      },
+      {
+        "part": "scend",
+        "meaning": "爬、攀"
+      }
+    ],
+    "translations": [
+      "下降",
+      "下传",
+      "起源于"
+    ],
+    "examples": [
+      {
+        "en": "The plane began to descend.",
+        "cn": "飞机开始下降。"
+      },
+      {
+        "en": "He descends from a long line of musicians.",
+        "cn": "他出身于一个世代音乐家的家庭。"
+      }
+    ]
+  },
+  {
+    "word": "anarchy",
+    "phonetic": "/ˈænəki/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a state of disorder due to absence of authority or government"
+      }
+    ],
+    "roots": [
+      {
+        "part": "an",
+        "meaning": "无、不"
+      },
+      {
+        "part": "arch",
+        "meaning": "统治、首领"
+      },
+      {
+        "part": "-y",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "无政府状态",
+      "混乱",
+      "无秩序"
+    ],
+    "examples": [
+      {
+        "en": "The country fell into anarchy after the revolution.",
+        "cn": "革命后这个国家陷入了无政府状态。"
+      },
+      {
+        "en": "The classroom was in complete anarchy.",
+        "cn": "教室里一片混乱。"
+      }
+    ]
+  },
+  {
+    "word": "dew",
+    "phonetic": "/djuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "tiny drops of water that form on cool surfaces at night"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "露水"
+    ],
+    "examples": [
+      {
+        "en": "Morning dew sparkled on the grass.",
+        "cn": "晨露在草地上闪闪发光。"
+      }
+    ]
+  },
+  {
+    "word": "schematic",
+    "phonetic": "/skiːˈmætɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to a diagram or plan; simplified and systematic"
+      },
+      {
+        "pos": "n.",
+        "translation": "a diagram or plan, especially in electronics"
+      }
+    ],
+    "roots": [
+      {
+        "part": "schem",
+        "meaning": "形状、计划"
+      },
+      {
+        "part": "-atic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "图解的",
+      "纲要的",
+      "原理图",
+      "示意图"
+    ],
+    "examples": [
+      {
+        "en": "The engineer drew a schematic of the circuit.",
+        "cn": "工程师画了一张电路原理图。"
+      },
+      {
+        "en": "The explanation is very schematic.",
+        "cn": "这个解释非常概要。"
+      }
+    ]
+  },
+  {
+    "word": "diverter",
+    "phonetic": "/daɪˈvɜːrtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a device that redirects flow or direction"
+      }
+    ],
+    "roots": [
+      {
+        "part": "di",
+        "meaning": "分开、离开"
+      },
+      {
+        "part": "vert",
+        "meaning": "转向"
+      },
+      {
+        "part": "-er",
+        "meaning": "物"
+      }
+    ],
+    "translations": [
+      "分流器",
+      "转向装置"
+    ],
+    "examples": [
+      {
+        "en": "The diverter valve controls the water flow.",
+        "cn": "分流阀控制水流。"
+      }
+    ]
+  },
+  {
+    "word": "flush",
+    "phonetic": "/flʌʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to become red in the face; to wash out with water; to make even"
+      },
+      {
+        "pos": "n.",
+        "translation": "a reddening of the face; a rush of water; a hand of cards all of the same suit"
+      },
+      {
+        "pos": "adj.",
+        "translation": "having plenty of money; level or even with a surface"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "脸红",
+      "冲洗",
+      "齐平的",
+      "富裕的",
+      "同花顺（扑克）"
+    ],
+    "examples": [
+      {
+        "en": "He flushed with embarrassment.",
+        "cn": "他尴尬得脸红了。"
+      },
+      {
+        "en": "The door is flush with the wall.",
+        "cn": "门与墙齐平。"
+      }
+    ]
+  },
+  {
+    "word": "blush",
+    "phonetic": "/blʌʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to become red in the face from shyness or embarrassment"
+      },
+      {
+        "pos": "n.",
+        "translation": "a reddening of the face; a cosmetic for coloring cheeks"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "脸红",
+      "腮红"
+    ],
+    "examples": [
+      {
+        "en": "She blushed when he complimented her.",
+        "cn": "他称赞她时，她脸红了。"
+      },
+      {
+        "en": "She applied a little blush to her cheeks.",
+        "cn": "她在脸颊上涂了点腮红。"
+      }
+    ]
+  },
+  {
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a tool with bristles for painting, cleaning, or smoothing; a brief encounter; a bushy tail"
+      },
+      {
+        "pos": "v.",
+        "translation": "to clean or smooth with a brush; to lightly touch; to remove casually"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "刷子",
+      "画笔",
+      "刷",
+      "轻擦",
+      "草丛"
+    ],
+    "examples": [
+      {
+        "en": "She brushed her hair vigorously.",
+        "cn": "她用力梳头。"
+      },
+      {
+        "en": "He brushed past me without apologizing.",
+        "cn": "他没道歉就从我身边擦过。"
+      }
+    ]
+  },
+  {
+    "word": "mission",
+    "phonetic": "/ˈmɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a specific task or goal, especially for a military or space voyage; a calling or purpose"
+      }
+    ],
+    "roots": [
+      {
+        "part": "miss",
+        "meaning": "发送、派遣"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "任务",
+      "使命",
+      "代表团",
+      "布道所"
+    ],
+    "examples": [
+      {
+        "en": "The astronaut completed her mission.",
+        "cn": "宇航员完成了她的任务。"
+      },
+      {
+        "en": "His mission in life is to help the poor.",
+        "cn": "他的人生使命是帮助穷人。"
+      }
+    ]
+  },
+  {
+    "word": "puppet",
+    "phonetic": "/ˈpʌpɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a doll moved by strings or hands; a person controlled by others"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pupp",
+        "meaning": "玩偶、孩子"
+      },
+      {
+        "part": "-et",
+        "meaning": "小"
+      }
+    ],
+    "translations": [
+      "木偶",
+      "傀儡"
+    ],
+    "examples": [
+      {
+        "en": "The children watched a puppet show.",
+        "cn": "孩子们看了一场木偶戏。"
+      },
+      {
+        "en": "The president is just a puppet of the military.",
+        "cn": "总统只是军方的傀儡。"
+      }
+    ]
+  },
+  {
+    "word": "shiny",
+    "phonetic": "/ˈʃaɪni/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "reflecting light; glossy; bright"
+      }
+    ],
+    "roots": [
+      {
+        "part": "shine",
+        "meaning": "发光"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "发亮的",
+      "闪光的"
+    ],
+    "examples": [
+      {
+        "en": "Her hair is so shiny and healthy.",
+        "cn": "她的头发光洁又健康。"
+      },
+      {
+        "en": "He polished the car until it was shiny.",
+        "cn": "他把车擦得锃亮。"
+      }
+    ]
+  },
+  {
+    "word": "juxtaposition",
+    "phonetic": "/ˌdʒʌkstəpəˈzɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the act of placing two or more things side by side, especially for comparison or contrast"
+      }
+    ],
+    "roots": [
+      {
+        "part": "juxta",
+        "meaning": "靠近"
+      },
+      {
+        "part": "pos",
+        "meaning": "放置"
+      },
+      {
+        "part": "-ition",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "并列",
+      "并置"
+    ],
+    "examples": [
+      {
+        "en": "The painting shows the juxtaposition of light and dark.",
+        "cn": "这幅画展示了明暗的对比并置。"
+      }
+    ]
+  },
+  {
+    "word": "banality",
+    "phonetic": "/bəˈnæləti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the quality of being unoriginal, trite, or boring; a commonplace remark"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ban",
+        "meaning": "公开、宣布"
+      },
+      {
+        "part": "-ality",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "平庸",
+      "陈腐",
+      "陈词滥调"
+    ],
+    "examples": [
+      {
+        "en": "The speech was full of banalities.",
+        "cn": "这篇演讲充满了陈词滥调。"
+      }
+    ]
+  },
+  {
+    "word": "fodder",
+    "phonetic": "/ˈfɒdər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "food for cattle or other livestock; material considered useful for a specific purpose"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "饲料",
+      "素材"
+    ],
+    "examples": [
+      {
+        "en": "The farmer stored hay as winter fodder.",
+        "cn": "农民储存干草作为冬季饲料。"
+      },
+      {
+        "en": "The scandal provided fodder for the tabloids.",
+        "cn": "丑闻为小报提供了素材。"
+      }
+    ]
+  },
+  {
+    "word": "hilarious",
+    "phonetic": "/hɪˈleəriəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "extremely funny and amusing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hilari",
+        "meaning": "愉快"
+      },
+      {
+        "part": "-ous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "极其滑稽的",
+      "令人捧腹的"
+    ],
+    "examples": [
+      {
+        "en": "The comedian's jokes were hilarious.",
+        "cn": "那位喜剧演员的笑话令人捧腹。"
+      }
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "phonetic": "/rɪˈdɪkjələs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "deserving or inviting mockery; absurd"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ridic",
+        "meaning": "嘲笑"
+      },
+      {
+        "part": "-ulous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "可笑的",
+      "荒谬的"
+    ],
+    "examples": [
+      {
+        "en": "That hat looks ridiculous on him.",
+        "cn": "那顶帽子戴在他头上看起来很可笑。"
+      }
+    ]
+  },
+  {
+    "word": "ludicrous",
+    "phonetic": "/ˈluːdɪkrəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "so foolish or unreasonable as to be laughable"
+      }
+    ],
+    "roots": [
+      {
+        "part": "lud",
+        "meaning": "玩耍、游戏"
+      },
+      {
+        "part": "-icrous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "荒唐的",
+      "滑稽可笑的"
+    ],
+    "examples": [
+      {
+        "en": "The price was ludicrously high.",
+        "cn": "价格高得离谱。"
+      }
+    ]
+  },
+  {
+    "word": "turbine",
+    "phonetic": "/ˈtɜːrbaɪn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a machine with rotating blades that generates power from moving fluid (wind, water, steam)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "turb",
+        "meaning": "旋转、搅动"
+      },
+      {
+        "part": "-ine",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "涡轮机",
+      "透平"
+    ],
+    "examples": [
+      {
+        "en": "Wind turbines generate clean electricity.",
+        "cn": "风力涡轮机产生清洁电力。"
+      }
+    ]
+  },
+  {
+    "word": "comedic",
+    "phonetic": "/kəˈmiːdɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or characteristic of comedy"
+      }
+    ],
+    "roots": [
+      {
+        "part": "comed",
+        "meaning": "喜剧"
+      },
+      {
+        "part": "-ic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "喜剧的"
+    ],
+    "examples": [
+      {
+        "en": "The movie has a perfect comedic timing.",
+        "cn": "这部电影的喜剧节奏堪称完美。"
+      }
+    ]
+  },
+  {
+    "word": "glacial",
+    "phonetic": "/ˈɡleɪʃl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to glaciers or ice; extremely cold or slow"
+      }
+    ],
+    "roots": [
+      {
+        "part": "glaci",
+        "meaning": "冰"
+      },
+      {
+        "part": "-al",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "冰川的",
+      "冰河期的",
+      "冰冷的",
+      "极缓慢的"
+    ],
+    "examples": [
+      {
+        "en": "The pace of negotiations was glacial.",
+        "cn": "谈判的进展极为缓慢。"
+      }
+    ]
+  },
+  {
+    "word": "glacier",
+    "phonetic": "/ˈɡleɪʃər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a slow-moving mass of ice"
+      }
+    ],
+    "roots": [
+      {
+        "part": "glaci",
+        "meaning": "冰"
+      },
+      {
+        "part": "-er",
+        "meaning": "物"
+      }
+    ],
+    "translations": [
+      "冰川"
+    ],
+    "examples": [
+      {
+        "en": "The glacier retreated due to global warming.",
+        "cn": "由于全球变暖，冰川后退了。"
+      }
+    ]
+  },
+  {
+    "word": "detachment",
+    "phonetic": "/dɪˈtætʃmənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the state of being objective or aloof; a group of troops separated from the main body"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de",
+        "meaning": "分开"
+      },
+      {
+        "part": "tach",
+        "meaning": "接触、连接"
+      },
+      {
+        "part": "-ment",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "超然",
+      "冷漠",
+      "分遣队"
+    ],
+    "examples": [
+      {
+        "en": "She viewed the crisis with emotional detachment.",
+        "cn": "她以超然的情感态度看待这场危机。"
+      }
+    ]
+  },
+  {
+    "word": "wheelhouse",
+    "phonetic": "/ˈwiːlhaʊs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a structure enclosing a ship's steering wheel; an area of expertise or comfort"
+      }
+    ],
+    "roots": [
+      {
+        "part": "wheel",
+        "meaning": "轮子"
+      },
+      {
+        "part": "house",
+        "meaning": "房子"
+      }
+    ],
+    "translations": [
+      "驾驶室",
+      "专长领域"
+    ],
+    "examples": [
+      {
+        "en": "That topic is right in my wheelhouse.",
+        "cn": "那个话题正好在我的专业领域内。"
+      }
+    ]
+  },
+  {
+    "word": "crafty",
+    "phonetic": "/ˈkrɑːfti/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "clever at achieving one's aims by indirect or deceitful methods"
+      }
+    ],
+    "roots": [
+      {
+        "part": "craft",
+        "meaning": "技巧、狡诈"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "狡猾的",
+      "诡计多端的"
+    ],
+    "examples": [
+      {
+        "en": "He used a crafty trick to win the game.",
+        "cn": "他用了一个狡猾的计谋赢了比赛。"
+      }
+    ]
+  },
+  {
+    "word": "cunning",
+    "phonetic": "/ˈkʌnɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "skillful in achieving goals through deceit or evasion"
+      },
+      {
+        "pos": "n.",
+        "translation": "skill in deception"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cun",
+        "meaning": "知道、能"
+      },
+      {
+        "part": "-ing",
+        "meaning": "形容词/名词后缀"
+      }
+    ],
+    "translations": [
+      "狡猾的",
+      "狡诈",
+      "灵巧的"
+    ],
+    "examples": [
+      {
+        "en": "The fox is known for its cunning.",
+        "cn": "狐狸以狡猾闻名。"
+      }
+    ]
+  },
+  {
+    "word": "hearty",
+    "phonetic": "/ˈhɑːrti/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "vigorous and enthusiastic; strong and healthy; substantial (of food)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "heart",
+        "meaning": "心"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "热诚的",
+      "健壮的",
+      "丰盛的"
+    ],
+    "examples": [
+      {
+        "en": "He gave a hearty laugh.",
+        "cn": "他开怀大笑。"
+      },
+      {
+        "en": "We ate a hearty breakfast.",
+        "cn": "我们吃了一顿丰盛的早餐。"
+      }
+    ]
+  },
+  {
+    "word": "sabotage",
+    "phonetic": "/ˈsæbətɑːʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "deliberate damage or destruction of equipment or property"
+      },
+      {
+        "pos": "v.",
+        "translation": "to deliberately destroy or obstruct"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sabot",
+        "meaning": "木鞋"
+      },
+      {
+        "part": "-age",
+        "meaning": "动作或结果"
+      }
+    ],
+    "translations": [
+      "蓄意破坏",
+      "妨害"
+    ],
+    "examples": [
+      {
+        "en": "The enemy attempted to sabotage the bridge.",
+        "cn": "敌人企图炸毁桥梁。"
+      }
+    ]
+  },
+  {
+    "word": "karma",
+    "phonetic": "/ˈkɑːrmə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the sum of a person's actions, believed to determine future destiny (in Hinduism/Buddhism); good or bad luck from previous actions"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "因果报应",
+      "业力"
+    ],
+    "examples": [
+      {
+        "en": "He believes his bad karma is from past misdeeds.",
+        "cn": "他相信他现在的厄运源自过去的恶行。"
+      }
+    ]
+  },
+  {
+    "word": "superstition",
+    "phonetic": "/ˌsuːpərˈstɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "irrational belief in supernatural influences, especially leading to good or bad luck"
+      }
+    ],
+    "roots": [
+      {
+        "part": "super",
+        "meaning": "超过、在上"
+      },
+      {
+        "part": "stit",
+        "meaning": "站立"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "迷信"
+    ],
+    "examples": [
+      {
+        "en": "It's a common superstition that breaking a mirror brings seven years of bad luck.",
+        "cn": "打碎镜子会带来七年厄运是常见的迷信。"
+      }
+    ]
+  },
+  {
+    "word": "Newtonian",
+    "phonetic": "/nuːˈtoʊniən/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to Sir Isaac Newton or his theories (e.g., Newtonian physics)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "Newton",
+        "meaning": "牛顿"
+      },
+      {
+        "part": "-ian",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "牛顿的",
+      "牛顿学说的"
+    ],
+    "examples": [
+      {
+        "en": "Newtonian mechanics works well for everyday objects.",
+        "cn": "牛顿力学对日常物体很适用。"
+      }
+    ]
+  },
+  {
+    "word": "slug",
+    "phonetic": "/slʌɡ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small, slimy mollusk without a shell; a bullet; a hard hit; a measure of alcohol"
+      },
+      {
+        "pos": "v.",
+        "translation": "to hit hard; to move slowly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "蛞蝓",
+      "子弹",
+      "重击",
+      "一口酒",
+      "缓慢移动"
+    ],
+    "examples": [
+      {
+        "en": "He slugged the pitcher and ran to first base.",
+        "cn": "他猛击投手球后跑向一垒。"
+      }
+    ]
+  },
+  {
+    "word": "slag",
+    "phonetic": "/slæɡ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "waste material from metal smelting; derogatory term for a promiscuous woman (British slang)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "矿渣",
+      "炉渣",
+      "贱妇（俚语）"
+    ],
+    "examples": [
+      {
+        "en": "The factory dumped slag into the river.",
+        "cn": "工厂将矿渣倒入河中。"
+      }
+    ]
+  },
+  {
+    "word": "bypass",
+    "phonetic": "/ˈbaɪpæs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a road that avoids a congested area; a surgical alternative route for blood flow"
+      },
+      {
+        "pos": "v.",
+        "translation": "to go around or avoid"
+      }
+    ],
+    "roots": [
+      {
+        "part": "by",
+        "meaning": "旁边"
+      },
+      {
+        "part": "pass",
+        "meaning": "经过"
+      }
+    ],
+    "translations": [
+      "旁路",
+      "绕行道",
+      "搭桥手术",
+      "绕过"
+    ],
+    "examples": [
+      {
+        "en": "We took the bypass to avoid traffic.",
+        "cn": "我们走绕行道避开交通堵塞。"
+      },
+      {
+        "en": "He had a heart bypass operation.",
+        "cn": "他做了心脏搭桥手术。"
+      }
+    ]
+  },
+  {
+    "word": "diameter",
+    "phonetic": "/daɪˈæmɪtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a straight line passing from side to side through the center of a circle or sphere"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dia",
+        "meaning": "穿过"
+      },
+      {
+        "part": "meter",
+        "meaning": "测量"
+      }
+    ],
+    "translations": [
+      "直径"
+    ],
+    "examples": [
+      {
+        "en": "The circle has a diameter of 10 cm.",
+        "cn": "这个圆的直径是10厘米。"
+      }
+    ]
+  },
+  {
+    "word": "perimeter",
+    "phonetic": "/pəˈrɪmɪtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the continuous line forming the boundary of a closed geometric figure; the outer limits"
+      }
+    ],
+    "roots": [
+      {
+        "part": "peri",
+        "meaning": "周围"
+      },
+      {
+        "part": "meter",
+        "meaning": "测量"
+      }
+    ],
+    "translations": [
+      "周长",
+      "边缘"
+    ],
+    "examples": [
+      {
+        "en": "The perimeter of the square is 20 cm.",
+        "cn": "正方形的周长是20厘米。"
+      }
+    ]
+  },
+  {
+    "word": "semidiameter",
+    "phonetic": "/ˌsemiːdaɪˈæmɪtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "half of a diameter; radius"
+      }
+    ],
+    "roots": [
+      {
+        "part": "semi",
+        "meaning": "一半"
+      },
+      {
+        "part": "diameter",
+        "meaning": "直径"
+      }
+    ],
+    "translations": [
+      "半直径",
+      "半径"
+    ],
+    "examples": []
+  },
+  {
+    "word": "tank",
+    "phonetic": "/tæŋk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large container for liquid or gas; a heavily armored fighting vehicle"
+      },
+      {
+        "pos": "v.",
+        "translation": "to fail deliberately; to store in a tank"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "罐",
+      "坦克",
+      "失败"
+    ],
+    "examples": [
+      {
+        "en": "The fish tank needs cleaning.",
+        "cn": "鱼缸需要清理。"
+      },
+      {
+        "en": "The movie tanked at the box office.",
+        "cn": "这部电影票房惨败。"
+      }
+    ]
+  },
+  {
+    "word": "Israel",
+    "phonetic": "/ˈɪzreɪəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a country in the Middle East; the ancient Hebrew kingdom"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "以色列"
+    ],
+    "examples": [
+      {
+        "en": "Jerusalem is the capital of Israel.",
+        "cn": "耶路撒冷是以色列的首都。"
+      }
+    ]
+  },
+  {
+    "word": "pasta",
+    "phonetic": "/ˈpɑːstə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "Italian food made from dough of durum wheat and water, shaped into various forms"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "意大利面食"
+    ],
+    "examples": [
+      {
+        "en": "We had pasta for dinner.",
+        "cn": "我们晚餐吃了意大利面。"
+      }
+    ]
+  },
+  {
+    "word": "latte",
+    "phonetic": "/ˈlɑːteɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a coffee drink made with espresso and steamed milk"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "拿铁咖啡"
+    ],
+    "examples": [
+      {
+        "en": "I ordered a vanilla latte.",
+        "cn": "我点了一杯香草拿铁。"
+      }
+    ]
+  },
+  {
+    "word": "wedge",
+    "phonetic": "/wedʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a triangular-shaped tool; a piece of something in a triangular shape"
+      },
+      {
+        "pos": "v.",
+        "translation": "to force into a narrow space"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "楔子",
+      "三角形物",
+      "挤入"
+    ],
+    "examples": [
+      {
+        "en": "He wedged the door open with a book.",
+        "cn": "他用一本书把门楔开。"
+      }
+    ]
+  },
+  {
+    "word": "rod",
+    "phonetic": "/rɒd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a thin straight bar; a fishing rod; a unit of length (5.5 yards)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "杆",
+      "棒",
+      "钓竿"
+    ],
+    "examples": [
+      {
+        "en": "He caught a fish with his rod.",
+        "cn": "他用钓竿钓到一条鱼。"
+      }
+    ]
+  },
+  {
+    "word": "tensile",
+    "phonetic": "/ˈtensaɪl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to tension; capable of being stretched"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tens",
+        "meaning": "拉伸"
+      },
+      {
+        "part": "-ile",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "张力的",
+      "可拉伸的"
+    ],
+    "examples": [
+      {
+        "en": "Steel has high tensile strength.",
+        "cn": "钢具有很高的抗拉强度。"
+      }
+    ]
+  },
+  {
+    "word": "substructure",
+    "phonetic": "/ˈsʌbstrʌktʃər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the supporting structure beneath a building or object; an underlying basis"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sub",
+        "meaning": "下面"
+      },
+      {
+        "part": "struct",
+        "meaning": "建造"
+      },
+      {
+        "part": "-ure",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "下部结构",
+      "基础",
+      "底层结构"
+    ],
+    "examples": [
+      {
+        "en": "The bridge's substructure is made of concrete.",
+        "cn": "桥的下部结构由混凝土制成。"
+      }
+    ]
+  },
+  {
+    "word": "transverse",
+    "phonetic": "/trænzˈvɜːrs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lying or extending across something; crosswise"
+      }
+    ],
+    "roots": [
+      {
+        "part": "trans",
+        "meaning": "横穿"
+      },
+      {
+        "part": "verse",
+        "meaning": "转、朝向"
+      }
+    ],
+    "translations": [
+      "横向的",
+      "横断的"
+    ],
+    "examples": [
+      {
+        "en": "The transverse axis is horizontal.",
+        "cn": "横轴是水平的。"
+      }
+    ]
+  },
+  {
+    "word": "lid",
+    "phonetic": "/lɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a removable cover for a container; an eyelid"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "盖子",
+      "眼睑"
+    ],
+    "examples": [
+      {
+        "en": "Please put the lid back on the jar.",
+        "cn": "请把盖子盖回罐子上。"
+      }
+    ]
+  },
+  {
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft flat hat; a protective cover; a limit or upper ceiling"
+      },
+      {
+        "pos": "v.",
+        "translation": "to cover with a cap; to set a limit"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "帽子",
+      "盖子",
+      "上限",
+      "覆盖"
+    ],
+    "examples": [
+      {
+        "en": "The government placed a cap on spending.",
+        "cn": "政府设定了支出上限。"
+      }
+    ]
+  },
+  {
+    "word": "rampant",
+    "phonetic": "/ˈræmpənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "flourishing or spreading unchecked; (heraldry) rearing on hind legs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ramp",
+        "meaning": "爬、蔓延"
+      },
+      {
+        "part": "-ant",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "猖獗的",
+      "蔓延的",
+      "猛烈的"
+    ],
+    "examples": [
+      {
+        "en": "Corruption is rampant in the regime.",
+        "cn": "腐败在那个政权中猖獗横行。"
+      }
+    ]
+  },
+  {
+    "word": "poverty",
+    "phonetic": "/ˈpɑːvərti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the state of being extremely poor; scarcity or lack"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pover",
+        "meaning": "贫穷"
+      },
+      {
+        "part": "-ty",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "贫穷",
+      "缺乏"
+    ],
+    "examples": [
+      {
+        "en": "Millions live in poverty.",
+        "cn": "数百万人生活在贫困中。"
+      }
+    ]
+  },
+  {
+    "word": "periodic",
+    "phonetic": "/ˌpɪəriˈɒdɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "occurring at regular intervals"
+      }
+    ],
+    "roots": [
+      {
+        "part": "period",
+        "meaning": "周期"
+      },
+      {
+        "part": "-ic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "周期的",
+      "定期的"
+    ],
+    "examples": [
+      {
+        "en": "The equipment requires periodic maintenance.",
+        "cn": "这些设备需要定期维护。"
+      }
+    ]
+  },
+  {
+    "word": "cholera",
+    "phonetic": "/ˈkɒlərə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an infectious and often fatal disease causing severe diarrhea and dehydration"
+      }
+    ],
+    "roots": [
+      {
+        "part": "chol",
+        "meaning": "胆汁"
+      },
+      {
+        "part": "-era",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "霍乱"
+    ],
+    "examples": [
+      {
+        "en": "The cholera outbreak was contained quickly.",
+        "cn": "霍乱疫情很快得到控制。"
+      }
+    ]
+  },
+  {
+    "word": "cardboard",
+    "phonetic": "/ˈkɑːrdbɔːrd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "thick, stiff paper used for boxes and packaging"
+      },
+      {
+        "pos": "adj.",
+        "translation": "flimsy or artificial"
+      }
+    ],
+    "roots": [
+      {
+        "part": "card",
+        "meaning": "纸板"
+      },
+      {
+        "part": "board",
+        "meaning": "板"
+      }
+    ],
+    "translations": [
+      "硬纸板",
+      "卡纸"
+    ],
+    "examples": [
+      {
+        "en": "The package is made of recycled cardboard.",
+        "cn": "这个包装盒是用回收硬纸板做的。"
+      }
+    ]
+  },
+  {
+    "word": "biggie",
+    "phonetic": "/ˈbɪɡi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "something or someone very important or popular (informal)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "big",
+        "meaning": "大"
+      },
+      {
+        "part": "-ie",
+        "meaning": "昵称或小词后缀"
+      }
+    ],
+    "translations": [
+      "大人物",
+      "重要的事"
+    ],
+    "examples": [
+      {
+        "en": "That's no biggie, we can fix it.",
+        "cn": "那没什么大不了的，我们能修好。"
+      }
+    ]
+  },
+  {
+    "word": "ovary",
+    "phonetic": "/ˈəʊvəri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the female reproductive organ that produces eggs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ov",
+        "meaning": "卵"
+      },
+      {
+        "part": "-ary",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "卵巢"
+    ],
+    "examples": [
+      {
+        "en": "The ovaries release eggs during ovulation.",
+        "cn": "卵巢在排卵期释放卵子。"
+      }
+    ]
+  },
+  {
+    "word": "loaf",
+    "phonetic": "/ləʊf/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a shaped mass of bread; food shaped like a loaf"
+      },
+      {
+        "pos": "v.",
+        "translation": "to idle or lounge around"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "一条（面包）",
+      "游荡"
+    ],
+    "examples": [
+      {
+        "en": "He bought a loaf of bread.",
+        "cn": "他买了一条面包。"
+      },
+      {
+        "en": "Stop loafing and get back to work!",
+        "cn": "别闲逛了，回去工作！"
+      }
+    ]
+  },
+  {
+    "word": "entitle",
+    "phonetic": "/ɪnˈtaɪtl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to give someone the right to do or have something; to give a title to a book or work"
+      }
+    ],
+    "roots": [
+      {
+        "part": "en",
+        "meaning": "使成为"
+      },
+      {
+        "part": "title",
+        "meaning": "标题、权利"
+      }
+    ],
+    "translations": [
+      "使有权",
+      "给…命名"
+    ],
+    "examples": [
+      {
+        "en": "This ticket entitles you to a free drink.",
+        "cn": "这张票使你有权获得一杯免费饮料。"
+      },
+      {
+        "en": "The book is entitled 'War and Peace'.",
+        "cn": "这本书名为《战争与和平》。"
+      }
+    ]
+  },
+  {
+    "word": "subtile",
+    "phonetic": "/ˈsʌtl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "archaic spelling of 'subtle'; fine, delicate, or elusive"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sub",
+        "meaning": "下"
+      },
+      {
+        "part": "til",
+        "meaning": "织"
+      },
+      {
+        "part": "-e",
+        "meaning": "后缀"
+      }
+    ],
+    "translations": [
+      "微妙的（古体）",
+      "精细的"
+    ],
+    "examples": []
+  },
+  {
+    "word": "refund",
+    "phonetic": "/ˈriːfʌnd/ (n.), /rɪˈfʌnd/ (v.)",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a repayment of money"
+      },
+      {
+        "pos": "v.",
+        "translation": "to pay back money"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re",
+        "meaning": "向后、再次"
+      },
+      {
+        "part": "fund",
+        "meaning": "资金、基础"
+      }
+    ],
+    "translations": [
+      "退款",
+      "偿还"
+    ],
+    "examples": [
+      {
+        "en": "You can return the product for a full refund.",
+        "cn": "你可以退回产品并获得全额退款。"
+      }
+    ]
+  },
+  {
+    "word": "analog",
+    "phonetic": "/ˈænəlɒɡ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to a continuous physical variable (not digital); similar to something in function"
+      },
+      {
+        "pos": "n.",
+        "translation": "a person or thing seen as comparable to another"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ana",
+        "meaning": "按照、类似"
+      },
+      {
+        "part": "log",
+        "meaning": "比例、言语"
+      }
+    ],
+    "translations": [
+      "模拟的",
+      "类似物"
+    ],
+    "examples": [
+      {
+        "en": "The analog watch has hands and a face.",
+        "cn": "模拟手表有指针和表盘。"
+      }
+    ]
+  },
+  {
+    "word": "crumb",
+    "phonetic": "/krʌm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a small fragment of bread, cake, or other food"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "碎屑"
+    ],
+    "examples": [
+      {
+        "en": "She swept the crumbs off the table.",
+        "cn": "她把桌上的碎屑扫掉了。"
+      }
+    ]
+  },
+  {
+    "word": "crust",
+    "phonetic": "/krʌst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the tough outer layer of bread or earth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "面包皮",
+      "地壳"
+    ],
+    "examples": [
+      {
+        "en": "He doesn't eat the crust of his pizza.",
+        "cn": "他不吃披萨的饼边。"
+      }
+    ]
+  },
+  {
+    "word": "ceiling",
+    "phonetic": "/ˈsiːlɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the upper interior surface of a room; an upper limit"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ceil",
+        "meaning": "覆盖、天棚"
+      },
+      {
+        "part": "-ing",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "天花板",
+      "上限"
+    ],
+    "examples": [
+      {
+        "en": "The chandelier hangs from the ceiling.",
+        "cn": "吊灯悬挂在天花板上。"
+      },
+      {
+        "en": "The government set a price ceiling.",
+        "cn": "政府设定了价格上限。"
+      }
+    ]
+  },
+  {
+    "word": "classified",
+    "phonetic": "/ˈklæsɪfaɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "officially secret (of government documents); arranged in classes"
+      },
+      {
+        "pos": "n.",
+        "translation": "small advertisements in a newspaper"
+      }
+    ],
+    "roots": [
+      {
+        "part": "class",
+        "meaning": "类别"
+      },
+      {
+        "part": "-ify",
+        "meaning": "使成为"
+      },
+      {
+        "part": "-ed",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "机密的",
+      "分类的",
+      "分类广告"
+    ],
+    "examples": [
+      {
+        "en": "He has a security clearance to read classified files.",
+        "cn": "他有阅读机密文件的安全许可。"
+      },
+      {
+        "en": "She found her apartment in the classifieds.",
+        "cn": "她在分类广告中找到了她的公寓。"
+      }
+    ]
+  }
+]

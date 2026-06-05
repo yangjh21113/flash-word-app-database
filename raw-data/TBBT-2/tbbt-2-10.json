@@ -1,0 +1,1806 @@
+[
+  {
+    "word": "relentless",
+    "phonetic": "/rɪˈlent.ləs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "never stopping or getting less strong; continuing in a severe or determined way; harsh or inflexible"
+      }
+    ],
+    "roots": [
+      {
+        "part": "lent",
+        "meaning": "源自拉丁语 'lentus'，意为 '缓慢的' 或 '柔软的'"
+      },
+      {
+        "part": "re-",
+        "meaning": "表示 '向后、反复'"
+      },
+      {
+        "part": "-less",
+        "meaning": "形容词后缀，表示 '无、不'"
+      }
+    ],
+    "translations": [
+      "不懈的，不停的",
+      "无情的，冷酷的",
+      "持续强劲的，不减弱的"
+    ],
+    "examples": [
+      {
+        "en": "The relentless heat of the desert made the journey almost impossible.",
+        "cn": "沙漠持续的高温使旅程几乎无法进行。"
+      },
+      {
+        "en": "She is a relentless opponent of the new policy.",
+        "cn": "她是这项新政策的无情反对者。"
+      },
+      {
+        "en": "His relentless pursuit of excellence earned him great respect.",
+        "cn": "他对卓越的不懈追求为他赢得了极大的尊重。"
+      }
+    ]
+  },
+  {
+    "word": "drone",
+    "phonetic": "/droʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an unmanned aircraft; a continuous low humming sound; a male bee"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make a continuous low humming sound; to speak in a monotonous tone"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "无人机",
+      "嗡嗡声",
+      "雄蜂",
+      "低沉单调地说"
+    ],
+    "examples": [
+      {
+        "en": "The drone flew over the field taking aerial photos.",
+        "cn": "无人机飞过田野拍摄航拍照片。"
+      },
+      {
+        "en": "He droned on for hours about his boring trip.",
+        "cn": "他絮絮叨叨地讲了他那无聊的旅行好几个小时。"
+      }
+    ]
+  },
+  {
+    "word": "inflammation",
+    "phonetic": "/ˌɪnfləˈmeɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a localized reaction to injury or infection, marked by redness, swelling, heat, and pain"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "in, into"
+      },
+      {
+        "part": "flamm",
+        "meaning": "to set on fire"
+      },
+      {
+        "part": "-ation",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "炎症",
+      "发炎"
+    ],
+    "examples": [
+      {
+        "en": "Inflammation of the throat causes pain when swallowing.",
+        "cn": "咽喉炎导致吞咽时疼痛。"
+      },
+      {
+        "en": "Doctors prescribed medication to reduce the inflammation.",
+        "cn": "医生开了药来减轻炎症。"
+      }
+    ]
+  },
+  {
+    "word": "tumor",
+    "phonetic": "/ˈtuːmər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an abnormal mass of tissue that grows uncontrollably, which may be benign or malignant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tum-",
+        "meaning": "to swell"
+      },
+      {
+        "part": "-or",
+        "meaning": "thing that"
+      }
+    ],
+    "translations": [
+      "肿瘤",
+      "肿块"
+    ],
+    "examples": [
+      {
+        "en": "The doctors discovered a benign tumor during the scan.",
+        "cn": "医生在扫描中发现了一个良性肿瘤。"
+      },
+      {
+        "en": "Tumors can be treated with surgery, chemotherapy, or radiation.",
+        "cn": "肿瘤可以通过手术、化疗或放疗来治疗。"
+      }
+    ]
+  },
+  {
+    "word": "lingering",
+    "phonetic": "/ˈlɪŋɡərɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lasting for a long time; slow to end or disappear"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ling",
+        "meaning": "to delay, stay"
+      },
+      {
+        "part": "-er",
+        "meaning": "verb suffix"
+      },
+      {
+        "part": "-ing",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "缠绵的",
+      "拖延的",
+      "挥之不去的"
+    ],
+    "examples": [
+      {
+        "en": "She had a lingering cough for weeks after the flu.",
+        "cn": "她感冒后咳嗽持续了好几周。"
+      },
+      {
+        "en": "There was a lingering doubt in his mind.",
+        "cn": "他心里一直存有挥之不去的疑虑。"
+      }
+    ]
+  },
+  {
+    "word": "swirly",
+    "phonetic": "/ˈswɜːrli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having a swirling pattern or motion; twisting or spiraling"
+      }
+    ],
+    "roots": [
+      {
+        "part": "swirl",
+        "meaning": "to move in a twisting pattern"
+      },
+      {
+        "part": "-y",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "旋涡状的",
+      "打旋的"
+    ],
+    "examples": [
+      {
+        "en": "The ice cream had a swirly mix of chocolate and vanilla.",
+        "cn": "冰淇淋上有巧克力与香草的旋涡状混合。"
+      },
+      {
+        "en": "Her dress had a swirly pattern.",
+        "cn": "她的裙子上有旋涡状图案。"
+      }
+    ]
+  },
+  {
+    "word": "cootie",
+    "phonetic": "/ˈkuːti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a child's term for a germ or imaginary lice; a body louse (slang)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "（儿童用语）小虫",
+      "虱子"
+    ],
+    "examples": [
+      {
+        "en": "Cooties is a made-up disease that kids say you can catch from touching someone you like.",
+        "cn": "“小虫”是一种编造的病，孩子们说碰到自己喜欢的人会染上。"
+      }
+    ]
+  },
+  {
+    "word": "motion",
+    "phonetic": "/ˈmoʊʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the action or process of moving; a formal proposal in a meeting"
+      },
+      {
+        "pos": "v.",
+        "translation": "to direct or signal with a gesture"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mot-",
+        "meaning": "to move"
+      },
+      {
+        "part": "-ion",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "运动",
+      "动作",
+      "动议",
+      "打手势"
+    ],
+    "examples": [
+      {
+        "en": "The motion of the waves was calming.",
+        "cn": "波浪的运动让人平静。"
+      },
+      {
+        "en": "He motioned for me to sit down.",
+        "cn": "他打手势让我坐下。"
+      }
+    ]
+  },
+  {
+    "word": "cohabitation",
+    "phonetic": "/koʊˌhæbɪˈteɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the state of living together as a couple without being married"
+      }
+    ],
+    "roots": [
+      {
+        "part": "co-",
+        "meaning": "together"
+      },
+      {
+        "part": "habit",
+        "meaning": "to live, dwell"
+      },
+      {
+        "part": "-ation",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "同居",
+      "共居"
+    ],
+    "examples": [
+      {
+        "en": "Cohabitation before marriage is common in many countries.",
+        "cn": "在许多国家，婚前同居很普遍。"
+      },
+      {
+        "en": "Their cohabitation lasted for three years before they got married.",
+        "cn": "他们结婚前同居了三年。"
+      }
+    ]
+  },
+  {
+    "word": "rider",
+    "phonetic": "/ˈraɪdər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who rides a horse, bicycle, or motorcycle; an additional clause added to a document"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ride",
+        "meaning": "to sit on and control"
+      },
+      {
+        "part": "-er",
+        "meaning": "one who does"
+      }
+    ],
+    "translations": [
+      "骑手",
+      "附加条款"
+    ],
+    "examples": [
+      {
+        "en": "The rider fell off his horse.",
+        "cn": "骑手从马上摔了下来。"
+      },
+      {
+        "en": "A rider was added to the insurance policy.",
+        "cn": "保单上加了一条附加条款。"
+      }
+    ]
+  },
+  {
+    "word": "consecutive",
+    "phonetic": "/kənˈsekjətɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "following one another without interruption; successive"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "together"
+      },
+      {
+        "part": "secut",
+        "meaning": "to follow"
+      },
+      {
+        "part": "-ive",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "连续的",
+      "连贯的"
+    ],
+    "examples": [
+      {
+        "en": "She won the championship for three consecutive years.",
+        "cn": "她连续三年赢得了冠军。"
+      },
+      {
+        "en": "The team lost five consecutive games.",
+        "cn": "那支队伍连续输了五场比赛。"
+      }
+    ]
+  },
+  {
+    "word": "sidekick",
+    "phonetic": "/ˈsaɪdkɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a close friend or assistant who accompanies someone; a partner of a hero"
+      }
+    ],
+    "roots": [
+      {
+        "part": "side",
+        "meaning": "alongside"
+      },
+      {
+        "part": "kick",
+        "meaning": "foot strike (colloquial for companion)"
+      }
+    ],
+    "translations": [
+      "伙伴",
+      "跟班",
+      "搭档"
+    ],
+    "examples": [
+      {
+        "en": "Batman's sidekick is Robin.",
+        "cn": "蝙蝠侠的搭档是罗宾。"
+      },
+      {
+        "en": "He's been my sidekick since childhood.",
+        "cn": "他从小就一直是我的伙伴。"
+      }
+    ]
+  },
+  {
+    "word": "provison",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "misspelling of 'provision'; the act of supplying something; a condition in a legal document"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "拼写错误，正确形式为 provision"
+      }
+    ],
+    "translations": [
+      "（应为 provision）供应",
+      "条款"
+    ],
+    "examples": [
+      {
+        "en": "The correct spelling is 'provision' meaning a supply or a condition.",
+        "cn": "正确拼写是 'provision'，意为供应或条款。"
+      }
+    ]
+  },
+  {
+    "word": "communal",
+    "phonetic": "/kəˈmjuːnl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "shared by all members of a group; relating to a community"
+      }
+    ],
+    "roots": [
+      {
+        "part": "commun-",
+        "meaning": "common, shared"
+      },
+      {
+        "part": "-al",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "公共的",
+      "共用的",
+      "社区的"
+    ],
+    "examples": [
+      {
+        "en": "The apartment has a communal laundry room.",
+        "cn": "这间公寓有一个公共洗衣房。"
+      },
+      {
+        "en": "They lived in a communal farm where everyone shared the work.",
+        "cn": "他们住在一个集体农场，大家一起分担工作。"
+      }
+    ]
+  },
+  {
+    "word": "percussive",
+    "phonetic": "/pərˈkʌsɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or produced by striking or percussion"
+      }
+    ],
+    "roots": [
+      {
+        "part": "per-",
+        "meaning": "through"
+      },
+      {
+        "part": "cuss",
+        "meaning": "to strike"
+      },
+      {
+        "part": "-ive",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "敲击的",
+      "打击乐器的"
+    ],
+    "examples": [
+      {
+        "en": "Drums and cymbals are percussive instruments.",
+        "cn": "鼓和钹是打击乐器。"
+      },
+      {
+        "en": "The percussive rhythm made everyone want to dance.",
+        "cn": "那敲击的节奏让每个人都想跳舞。"
+      }
+    ]
+  },
+  {
+    "word": "brass",
+    "phonetic": "/bræs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a yellow alloy of copper and zinc; wind instruments made of brass; high-ranking military officers (the brass)"
+      },
+      {
+        "pos": "adj.",
+        "translation": "made of brass; impudent (informal)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "黄铜",
+      "铜管乐器",
+      "高级军官",
+      "厚脸皮的"
+    ],
+    "examples": [
+      {
+        "en": "The doorknob is made of polished brass.",
+        "cn": "门把手是抛光黄铜做的。"
+      },
+      {
+        "en": "The brass in the orchestra played loudly.",
+        "cn": "管弦乐队的铜管乐器奏出响亮的声音。"
+      }
+    ]
+  },
+  {
+    "word": "latex",
+    "phonetic": "/ˈleɪteks/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a milky fluid from rubber trees, used to make rubber, paint, and glue"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "乳胶",
+      "胶乳"
+    ],
+    "examples": [
+      {
+        "en": "Latex gloves are commonly used in medical settings.",
+        "cn": "乳胶手套常用于医疗环境中。"
+      },
+      {
+        "en": "Some people are allergic to latex.",
+        "cn": "有些人对乳胶过敏。"
+      }
+    ]
+  },
+  {
+    "word": "prostate",
+    "phonetic": "/ˈprɑːsteɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a gland in male mammals that surrounds the urethra and produces seminal fluid"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "前列腺"
+    ],
+    "examples": [
+      {
+        "en": "Prostate cancer is common in older men.",
+        "cn": "前列腺癌在老年男性中很常见。"
+      },
+      {
+        "en": "He went for a prostate exam.",
+        "cn": "他去做了前列腺检查。"
+      }
+    ]
+  },
+  {
+    "word": "mosey",
+    "phonetic": "/ˈmoʊzi/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to walk or move in a leisurely or unhurried manner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "闲逛",
+      "溜达"
+    ],
+    "examples": [
+      {
+        "en": "We moseyed along the beach, enjoying the sunset.",
+        "cn": "我们沿着海滩闲逛，欣赏日落。"
+      },
+      {
+        "en": "He moseyed over to the bar to order a drink.",
+        "cn": "他慢悠悠地走到吧台点了一杯饮料。"
+      }
+    ]
+  },
+  {
+    "word": "gall",
+    "phonetic": "/ɡɔːl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "bold and impudent behavior; bitterness of spirit; bile"
+      },
+      {
+        "pos": "v.",
+        "translation": "to irritate or annoy"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "厚颜无耻",
+      "怨恨",
+      "胆汁",
+      "使恼怒"
+    ],
+    "examples": [
+      {
+        "en": "He had the gall to blame me for his mistake.",
+        "cn": "他竟有脸把他的错误归咎于我。"
+      },
+      {
+        "en": "It galls me that she got promoted before me.",
+        "cn": "她比我晋升先，真叫人生气。"
+      }
+    ]
+  },
+  {
+    "word": "hippy",
+    "phonetic": "/ˈhɪpi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person (especially in the 1960s) who rejects conventional society and advocates peace and love"
+      },
+      {
+        "pos": "adj.",
+        "translation": "having wide hips (variant spelling of 'hippy')"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hip",
+        "meaning": "aware, trendy"
+      },
+      {
+        "part": "-y",
+        "meaning": "adjective/noun suffix"
+      }
+    ],
+    "translations": [
+      "嬉皮士",
+      "臀部大的"
+    ],
+    "examples": [
+      {
+        "en": "Hippies were known for their long hair and colorful clothing.",
+        "cn": "嬉皮士以长发和色彩鲜艳的服装闻名。"
+      }
+    ]
+  },
+  {
+    "word": "sencted",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "likely a misspelling of 'scented'; having a pleasant smell"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "拼写错误，正确形式为 scented"
+      }
+    ],
+    "translations": [
+      "（应为 scented）有香味的"
+    ],
+    "examples": [
+      {
+        "en": "The correct spelling is 'scented', meaning having a pleasant smell.",
+        "cn": "正确拼写是 'scented'，意为有香味的。"
+      }
+    ]
+  },
+  {
+    "word": "floral",
+    "phonetic": "/ˈflɔːrəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to flowers; decorated with flowers"
+      }
+    ],
+    "roots": [
+      {
+        "part": "flor-",
+        "meaning": "flower"
+      },
+      {
+        "part": "-al",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "花的",
+      "花卉的"
+    ],
+    "examples": [
+      {
+        "en": "She wore a floral print dress to the garden party.",
+        "cn": "她穿着碎花连衣裙去参加花园派对。"
+      },
+      {
+        "en": "The room was decorated with a floral arrangement.",
+        "cn": "房间里装饰着插花。"
+      }
+    ]
+  },
+  {
+    "word": "swinging",
+    "phonetic": "/ˈswɪŋɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "moving back and forth; lively and exciting (especially 1960s London)"
+      },
+      {
+        "pos": "n.",
+        "translation": "the act of moving back and forth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "swing",
+        "meaning": "to move back and forth"
+      },
+      {
+        "part": "-ing",
+        "meaning": "adjective/noun suffix"
+      }
+    ],
+    "translations": [
+      "摇摆的",
+      "活跃时髦的"
+    ],
+    "examples": [
+      {
+        "en": "The swinging pendulum marked the seconds.",
+        "cn": "摇摆的钟摆标记着秒数。"
+      },
+      {
+        "en": "London in the 1960s was often called 'Swinging London'.",
+        "cn": "20世纪60年代的伦敦常被称为“摇摆伦敦”。"
+      }
+    ]
+  },
+  {
+    "word": "cotton",
+    "phonetic": "/ˈkɑːtən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft white fiber from the cotton plant, used to make cloth; the plant itself"
+      },
+      {
+        "pos": "v.",
+        "translation": "to understand or come to appreciate (cotton to)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "棉花",
+      "棉布",
+      "领会"
+    ],
+    "examples": [
+      {
+        "en": "Cotton is a natural fiber used to make soft clothes.",
+        "cn": "棉花是一种天然纤维，用于制作柔软的衣物。"
+      },
+      {
+        "en": "I didn't cotton to his explanation at first.",
+        "cn": "起初我不太理解他的解释。"
+      }
+    ]
+  },
+  {
+    "word": "smorgasbord",
+    "phonetic": "/ˈsmɔːrɡəsbɔːrd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a buffet offering a wide variety of foods; a wide range of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（瑞典语借词）"
+      }
+    ],
+    "translations": [
+      "自助餐",
+      "丰盛的品种"
+    ],
+    "examples": [
+      {
+        "en": "The hotel's breakfast buffet was a smorgasbord of delicious options.",
+        "cn": "酒店的自助早餐有品种丰富的美味选择。"
+      },
+      {
+        "en": "The conference offered a smorgasbord of workshops.",
+        "cn": "大会提供了多种多样的研讨会。"
+      }
+    ]
+  },
+  {
+    "word": "veritable",
+    "phonetic": "/ˈverɪtəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "used for emphasis to mean 'truly' or 'genuine'; actual"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ver-",
+        "meaning": "true"
+      },
+      {
+        "part": "-itable",
+        "meaning": "able to be"
+      }
+    ],
+    "translations": [
+      "真正的",
+      "名副其实的"
+    ],
+    "examples": [
+      {
+        "en": "The new shopping mall is a veritable paradise for shopaholics.",
+        "cn": "新购物中心是购物狂名副其实的天堂。"
+      },
+      {
+        "en": "The child was a veritable encyclopedia of dinosaur facts.",
+        "cn": "这个孩子是恐龙知识的活百科全书。"
+      }
+    ]
+  },
+  {
+    "word": "versatile",
+    "phonetic": "/ˈvɜːrsətl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "able to adapt to many functions or activities; having many uses"
+      }
+    ],
+    "roots": [
+      {
+        "part": "vers-",
+        "meaning": "to turn"
+      },
+      {
+        "part": "-atile",
+        "meaning": "inclined to"
+      }
+    ],
+    "translations": [
+      "多才多艺的",
+      "多功能的"
+    ],
+    "examples": [
+      {
+        "en": "She is a versatile athlete who excels in several sports.",
+        "cn": "她是一位多才多艺的运动员，擅长好几种运动。"
+      },
+      {
+        "en": "A Swiss army knife is a versatile tool.",
+        "cn": "瑞士军刀是一种多功能工具。"
+      }
+    ]
+  },
+  {
+    "word": "stethoscope",
+    "phonetic": "/ˈsteθəskoʊp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a medical instrument for listening to sounds within the body, such as heartbeats"
+      }
+    ],
+    "roots": [
+      {
+        "part": "stetho-",
+        "meaning": "chest"
+      },
+      {
+        "part": "-scope",
+        "meaning": "instrument for viewing or listening"
+      }
+    ],
+    "translations": [
+      "听诊器"
+    ],
+    "examples": [
+      {
+        "en": "The doctor used a stethoscope to listen to my lungs.",
+        "cn": "医生用听诊器听我的肺部。"
+      },
+      {
+        "en": "Stethoscopes are essential tools for medical professionals.",
+        "cn": "听诊器是医护人员的必备工具。"
+      }
+    ]
+  },
+  {
+    "word": "cuff",
+    "phonetic": "/kʌf/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the end part of a sleeve; a band at the ankle of a pant leg; a blow with the open hand"
+      },
+      {
+        "pos": "v.",
+        "translation": "to strike with an open hand; to secure with handcuffs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "袖口",
+      "裤脚",
+      "轻拍",
+      "铐上手铐"
+    ],
+    "examples": [
+      {
+        "en": "The shirt's cuffs were frayed.",
+        "cn": "衬衫的袖口磨破了。"
+      },
+      {
+        "en": "The police cuffed the suspect.",
+        "cn": "警察给嫌疑人戴上了手铐。"
+      }
+    ]
+  },
+  {
+    "word": "cardiac",
+    "phonetic": "/ˈkɑːrdiæk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the heart"
+      }
+    ],
+    "roots": [
+      {
+        "part": "cardi-",
+        "meaning": "heart"
+      },
+      {
+        "part": "-ac",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "心脏的",
+      "心脏病的"
+    ],
+    "examples": [
+      {
+        "en": "The patient was admitted to the cardiac unit.",
+        "cn": "病人被送进了心脏科。"
+      },
+      {
+        "en": "Cardiac arrest is a life-threatening emergency.",
+        "cn": "心脏骤停是一种危及生命的紧急情况。"
+      }
+    ]
+  },
+  {
+    "word": "glucose",
+    "phonetic": "/ˈɡluːkoʊs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a simple sugar that is an important energy source in living organisms"
+      }
+    ],
+    "roots": [
+      {
+        "part": "gluc-",
+        "meaning": "sweet"
+      },
+      {
+        "part": "-ose",
+        "meaning": "sugar"
+      }
+    ],
+    "translations": [
+      "葡萄糖"
+    ],
+    "examples": [
+      {
+        "en": "Blood glucose levels rise after eating.",
+        "cn": "餐后血糖水平会升高。"
+      },
+      {
+        "en": "People with diabetes need to monitor their glucose.",
+        "cn": "糖尿病患者需要监测血糖。"
+      }
+    ]
+  },
+  {
+    "word": "exploratory",
+    "phonetic": "/ɪkˈsplɔːrətɔːri/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "done to investigate or discover something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "explor-",
+        "meaning": "to search out"
+      },
+      {
+        "part": "-atory",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "探索的",
+      "探测的",
+      "探查性的"
+    ],
+    "examples": [
+      {
+        "en": "They conducted an exploratory study to test the hypothesis.",
+        "cn": "他们进行了一项探索性研究来验证假设。"
+      },
+      {
+        "en": "Exploratory surgery is done to find the cause of a problem.",
+        "cn": "探查性手术是为了找到问题的原因。"
+      }
+    ]
+  },
+  {
+    "word": "laparoscopy",
+    "phonetic": "/ˌlæpəˈrɑːskəpi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a surgical procedure in which a fiber-optic instrument is inserted through a small incision to examine abdominal organs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "lapar-",
+        "meaning": "flank, abdomen"
+      },
+      {
+        "part": "-oscopy",
+        "meaning": "visual examination"
+      }
+    ],
+    "translations": [
+      "腹腔镜检查",
+      "腹腔镜手术"
+    ],
+    "examples": [
+      {
+        "en": "Laparoscopy is often used for gallbladder removal.",
+        "cn": "腹腔镜常用于胆囊切除手术。"
+      },
+      {
+        "en": "The surgeon performed a laparoscopy to diagnose the issue.",
+        "cn": "外科医生进行腹腔镜检查以诊断问题。"
+      }
+    ]
+  },
+  {
+    "word": "hiccup",
+    "phonetic": "/ˈhɪkʌp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sudden involuntary spasm of the diaphragm, producing a short sound; a minor problem or setback"
+      },
+      {
+        "pos": "v.",
+        "translation": "to have hiccups"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（拟声词）"
+      }
+    ],
+    "translations": [
+      "打嗝",
+      "小问题"
+    ],
+    "examples": [
+      {
+        "en": "He got the hiccups after drinking soda too fast.",
+        "cn": "他喝汽水太快打了嗝。"
+      },
+      {
+        "en": "There was a slight hiccup in our plans, but we fixed it.",
+        "cn": "我们的计划出了点小问题，但我们已经解决了。"
+      }
+    ]
+  },
+  {
+    "word": "diaphragm",
+    "phonetic": "/ˈdaɪəfræm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a dome-shaped muscle below the lungs; a thin sheet used in devices; a contraceptive device"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dia-",
+        "meaning": "through, across"
+      },
+      {
+        "part": "phragm",
+        "meaning": "fence, wall"
+      }
+    ],
+    "translations": [
+      "膈膜",
+      "隔膜",
+      "子宫帽"
+    ],
+    "examples": [
+      {
+        "en": "The diaphragm contracts to help you breathe in.",
+        "cn": "膈肌收缩帮助你吸气。"
+      },
+      {
+        "en": "The lens diaphragm controls the amount of light in a camera.",
+        "cn": "镜头光圈控制相机的进光量。"
+      }
+    ]
+  },
+  {
+    "word": "barium",
+    "phonetic": "/ˈberiəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft, silvery-white metallic element (Ba), used in medical imaging and fireworks"
+      }
+    ],
+    "roots": [
+      {
+        "part": "bar-",
+        "meaning": "heavy (Greek barys)"
+      },
+      {
+        "part": "-ium",
+        "meaning": "chemical element suffix"
+      }
+    ],
+    "translations": [
+      "钡"
+    ],
+    "examples": [
+      {
+        "en": "Barium sulfate is used in X-ray examinations of the digestive system.",
+        "cn": "硫酸钡用于消化系统的X射线检查。"
+      },
+      {
+        "en": "The patient drank a barium solution before the scan.",
+        "cn": "病人在扫描前喝下了钡溶液。"
+      }
+    ]
+  },
+  {
+    "word": "calcium",
+    "phonetic": "/ˈkælsiəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft gray alkaline earth metal (Ca), essential for bones, teeth, and cellular function"
+      }
+    ],
+    "roots": [
+      {
+        "part": "calc-",
+        "meaning": "lime, stone"
+      },
+      {
+        "part": "-ium",
+        "meaning": "chemical element suffix"
+      }
+    ],
+    "translations": [
+      "钙"
+    ],
+    "examples": [
+      {
+        "en": "Milk and cheese are rich in calcium.",
+        "cn": "牛奶和奶酪富含钙。"
+      },
+      {
+        "en": "Calcium is important for strong bones and teeth.",
+        "cn": "钙对强健骨骼和牙齿很重要。"
+      }
+    ]
+  },
+  {
+    "word": "sodium",
+    "phonetic": "/ˈsoʊdiəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft, highly reactive metal (Na), found in salt and essential for nerve function"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sod-",
+        "meaning": "soda"
+      },
+      {
+        "part": "-ium",
+        "meaning": "chemical element suffix"
+      }
+    ],
+    "translations": [
+      "钠"
+    ],
+    "examples": [
+      {
+        "en": "Table salt is sodium chloride.",
+        "cn": "食盐是氯化钠。"
+      },
+      {
+        "en": "High sodium intake can lead to high blood pressure.",
+        "cn": "高钠摄入会导致高血压。"
+      }
+    ]
+  },
+  {
+    "word": "crocodile",
+    "phonetic": "/ˈkrɑːkədaɪl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large, voracious aquatic reptile with a long snout and sharp teeth"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "鳄鱼"
+    ],
+    "examples": [
+      {
+        "en": "Crocodiles can be found in rivers and lakes in Africa, Asia, and Australia.",
+        "cn": "鳄鱼可见于非洲、亚洲和澳大利亚的河湖中。"
+      },
+      {
+        "en": "She cried crocodile tears after being caught lying.",
+        "cn": "她撒谎被抓后流下了鳄鱼的眼泪（假慈悲）。"
+      }
+    ]
+  },
+  {
+    "word": "grasp",
+    "phonetic": "/ɡræsp/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to take hold of firmly; to understand"
+      },
+      {
+        "pos": "n.",
+        "translation": "a firm hold; understanding"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "抓住",
+      "理解",
+      "领会"
+    ],
+    "examples": [
+      {
+        "en": "He grasped the rope tightly.",
+        "cn": "他紧紧抓住绳子。"
+      },
+      {
+        "en": "She has a good grasp of the subject.",
+        "cn": "她对这个主题有很好的理解。"
+      }
+    ]
+  },
+  {
+    "word": "larynx",
+    "phonetic": "/ˈlærɪŋks/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the voice box, a hollow organ in the throat that holds the vocal cords"
+      }
+    ],
+    "roots": [
+      {
+        "part": "laryng-",
+        "meaning": "throat, voice box"
+      }
+    ],
+    "translations": [
+      "喉",
+      "喉头"
+    ],
+    "examples": [
+      {
+        "en": "The larynx houses the vocal cords and produces sound.",
+        "cn": "喉包含声带并发出声音。"
+      },
+      {
+        "en": "Smoking can damage the larynx.",
+        "cn": "吸烟会损害喉部。"
+      }
+    ]
+  },
+  {
+    "word": "larva",
+    "phonetic": "/ˈlɑːrvə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the immature, active form of an insect that undergoes metamorphosis (e.g., caterpillar)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "幼虫"
+    ],
+    "examples": [
+      {
+        "en": "A butterfly starts as a larva (caterpillar).",
+        "cn": "蝴蝶一开始是幼虫（毛虫）。"
+      },
+      {
+        "en": "The larva feeds on leaves before pupating.",
+        "cn": "幼虫在化蛹前以叶子为食。"
+      }
+    ]
+  },
+  {
+    "word": "cramp",
+    "phonetic": "/kræmp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sudden, painful, involuntary muscle contraction"
+      },
+      {
+        "pos": "v.",
+        "translation": "to restrict or confine; to cause a cramp"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "抽筋",
+      "痉挛",
+      "限制"
+    ],
+    "examples": [
+      {
+        "en": "She got a cramp in her leg while swimming.",
+        "cn": "她在游泳时腿抽筋了。"
+      },
+      {
+        "en": "The tight schedule will cramp our style.",
+        "cn": "紧凑的日程会束缚我们的手脚。"
+      }
+    ]
+  },
+  {
+    "word": "tramp",
+    "phonetic": "/træmp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a homeless person who travels on foot; the sound of heavy footsteps; a promiscuous woman (offensive)"
+      },
+      {
+        "pos": "v.",
+        "translation": "to walk heavily or noisily; to travel on foot"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "流浪者",
+      "重步声",
+      "行走"
+    ],
+    "examples": [
+      {
+        "en": "We heard the tramp of boots on the stairs.",
+        "cn": "我们听到楼梯上靴子的沉重脚步声。"
+      },
+      {
+        "en": "He tramped through the woods all day.",
+        "cn": "他整日在树林里徒步。"
+      }
+    ]
+  },
+  {
+    "word": "ruffle",
+    "phonetic": "/ˈrʌfl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to disturb the smoothness of; to annoy or upset"
+      },
+      {
+        "pos": "n.",
+        "translation": "a frill or gathered strip of fabric"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "弄皱",
+      "激怒",
+      "褶边"
+    ],
+    "examples": [
+      {
+        "en": "The wind ruffled her hair.",
+        "cn": "风吹乱了她的头发。"
+      },
+      {
+        "en": "He is easily ruffled by criticism.",
+        "cn": "他很容易被批评惹恼。"
+      }
+    ]
+  },
+  {
+    "word": "fluff",
+    "phonetic": "/flʌf/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "soft, light, downy material; something trivial"
+      },
+      {
+        "pos": "v.",
+        "translation": "to make something soft or fluffy; to make a mistake (fluff one's lines)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "绒毛",
+      "柔毛",
+      "弄松",
+      "念错台词"
+    ],
+    "examples": [
+      {
+        "en": "The pillow was filled with fluff.",
+        "cn": "枕头里填充着绒毛。"
+      },
+      {
+        "en": "She fluffed her hair after drying it.",
+        "cn": "她把头发吹干后弄蓬松。"
+      }
+    ]
+  },
+  {
+    "word": "duvet",
+    "phonetic": "/duːˈveɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a soft quilt filled with down or synthetic fibers, used as a coverlet"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（法语借词）"
+      }
+    ],
+    "translations": [
+      "羽绒被",
+      "被套"
+    ],
+    "examples": [
+      {
+        "en": "The duvet kept me warm on the cold night.",
+        "cn": "在寒冷的夜晚，羽绒被让我很暖和。"
+      },
+      {
+        "en": "She bought a new duvet cover with a floral pattern.",
+        "cn": "她买了一个新的印花被套。"
+      }
+    ]
+  },
+  {
+    "word": "contemptible",
+    "phonetic": "/kənˈtemptəbl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "deserving scorn or contempt; despicable"
+      }
+    ],
+    "roots": [
+      {
+        "part": "contempt",
+        "meaning": "scorn"
+      },
+      {
+        "part": "-ible",
+        "meaning": "worthy of"
+      }
+    ],
+    "translations": [
+      "可鄙的",
+      "卑劣的"
+    ],
+    "examples": [
+      {
+        "en": "His contemptible behavior disgusted everyone.",
+        "cn": "他卑劣的行为让所有人反感。"
+      },
+      {
+        "en": "Lying to your friends is a contemptible act.",
+        "cn": "对朋友撒谎是一种可鄙的行为。"
+      }
+    ]
+  },
+  {
+    "word": "contemplate",
+    "phonetic": "/ˈkɑːntəmpleɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to think deeply about; to consider thoughtfully"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "with, together"
+      },
+      {
+        "part": "templ",
+        "meaning": "space for observation (from temple)"
+      },
+      {
+        "part": "-ate",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "沉思",
+      "凝视",
+      "打算"
+    ],
+    "examples": [
+      {
+        "en": "She sat on the bench and contemplated the meaning of life.",
+        "cn": "她坐在长椅上沉思生命的意义。"
+      },
+      {
+        "en": "He is contemplating a career change.",
+        "cn": "他正在考虑换职业。"
+      }
+    ]
+  },
+  {
+    "word": "contaminate",
+    "phonetic": "/kənˈtæmɪneɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to make impure by polluting or poisoning"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "together"
+      },
+      {
+        "part": "tamin",
+        "meaning": "to touch, pollute"
+      },
+      {
+        "part": "-ate",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "污染",
+      "弄脏"
+    ],
+    "examples": [
+      {
+        "en": "The water supply was contaminated by chemicals.",
+        "cn": "供水被化学品污染了。"
+      },
+      {
+        "en": "Wash your hands so you don't contaminate the food.",
+        "cn": "洗手，以免污染食物。"
+      }
+    ]
+  },
+  {
+    "word": "herbal",
+    "phonetic": "/ˈɜːrbəl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or made from herbs"
+      },
+      {
+        "pos": "n.",
+        "translation": "a book about herbs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "herb",
+        "meaning": "plant"
+      },
+      {
+        "part": "-al",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "草本的",
+      "药草的"
+    ],
+    "examples": [
+      {
+        "en": "She drinks herbal tea to relieve stress.",
+        "cn": "她喝花草茶缓解压力。"
+      },
+      {
+        "en": "Herbal remedies have been used for centuries.",
+        "cn": "草药疗法已经使用了数个世纪。"
+      }
+    ]
+  },
+  {
+    "word": "hiney",
+    "phonetic": "/ˈhaɪni/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "informal term for buttocks (variant of 'heinie')"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "屁股（非正式）"
+    ],
+    "examples": [
+      {
+        "en": "The toddler fell on his hiney.",
+        "cn": "那个幼儿一屁股摔倒了。"
+      },
+      {
+        "en": "She slipped and landed right on her hiney.",
+        "cn": "她滑倒了，正好屁股着地。"
+      }
+    ]
+  }
+]

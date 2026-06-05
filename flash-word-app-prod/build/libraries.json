@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "lib_tbbt",
+    "name": "生活大爆炸",
+    "desc": "美剧《生活大爆炸》场景词汇，在幽默中掌握日常口语表达",
+    "category": "tv",
+    "type": "series",
+    "total": 320,
+    "seasons": [
+      {
+        "_id": "s2",
+        "name": "第二季",
+        "total": 320,
+        "episodes": 1
+      }
+    ]
+  }
+]

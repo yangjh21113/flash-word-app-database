@@ -1,0 +1,19 @@
+{
+  "name": "flash-word-app-database",
+  "version": "1.0.0",
+  "description": "Flash Word App 词库数据源",
+  "scripts": {
+    "validate": "python3 tools/validate.py",
+    "fix": "python3 tools/validate.py --fix",
+    "check": "npm run validate",
+    "build": "cd flash-word-app-prod && python3 build.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangjh21113/flash-word-app-database.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
