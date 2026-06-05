@@ -14,13 +14,20 @@
         "meaning": "未做词根分析"
       }
     ],
-    "translations": ["酸奶", "酸乳酪"],
-    "examples": [
-      { "en": "I eat a cup of yogurt for breakfast every day.", "cn": "我每天早上吃一杯酸奶。" },
-      { "en": "Greek yogurt is thicker than regular yogurt.", "cn": "希腊酸奶比普通酸奶更浓稠。" }
+    "translations": [
+      "酸奶",
+      "酸乳酪"
     ],
-    "tags": ["S2", "E1"],
-    "sort": 1
+    "examples": [
+      {
+        "en": "I eat a cup of yogurt for breakfast every day.",
+        "cn": "我每天早上吃一杯酸奶。"
+      },
+      {
+        "en": "Greek yogurt is thicker than regular yogurt.",
+        "cn": "希腊酸奶比普通酸奶更浓稠。"
+      }
+    ]
   },
   {
     "word": "yoga",
@@ -37,25 +44,57 @@
         "meaning": "未做词根分析"
       }
     ],
-    "translations": ["瑜伽"],
-    "examples": [
-      { "en": "She does yoga every morning to stay flexible.", "cn": "她每天早上做瑜伽保持柔韧性。" },
-      { "en": "Yoga helps reduce stress and improve concentration.", "cn": "瑜伽有助于减压和提高专注力。" }
+    "translations": [
+      "瑜伽"
     ],
-    "tags": ["S2", "E1"],
-    "sort": 2
+    "examples": [
+      {
+        "en": "She does yoga every morning to stay flexible.",
+        "cn": "她每天早上做瑜伽保持柔韧性。"
+      },
+      {
+        "en": "Yoga helps reduce stress and improve concentration.",
+        "cn": "瑜伽有助于减压和提高专注力。"
+      }
+    ]
   },
   {
-    "word": "pivot",
-    "phonetic": "/ˈpɪvət/",
+    "word": "acidophilus",
+    "phonetic": "/ˌæsɪˈdɑfɪləs/",
     "partsOfSpeech": [
       {
         "pos": "n.",
-        "translation": "the central point on which a mechanism turns or oscillates"
+        "translation": "a bacterium (Lactobacillus acidophilus) that is added to milk or sold as a dietary supplement to promote intestinal health"
+      }
+    ],
+    "roots": [
+      {
+        "part": "acid",
+        "meaning": "酸"
       },
       {
-        "pos": "v.",
-        "translation": "turn on or as if on a pivot; change direction or focus"
+        "part": "philus",
+        "meaning": "喜爱"
+      }
+    ],
+    "translations": [
+      "嗜酸乳杆菌",
+      "酸菌"
+    ],
+    "examples": [
+      {
+        "en": "Acidophilus is often found in probiotic yogurts.",
+        "cn": "嗜酸乳杆菌常见于益生菌酸奶中。"
+      }
+    ]
+  },
+  {
+    "word": "carrageenan",
+    "phonetic": "/ˌkærəˈɡiːnən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a gelatinous substance extracted from red seaweeds, used as a gelling, thickening, and stabilizing agent in food"
       }
     ],
     "roots": [
@@ -64,130 +103,1495 @@
         "meaning": "未做词根分析"
       }
     ],
-    "translations": ["枢轴", "中心点", "以...为中心", "pivot（篮球）转身"],
-    "examples": [
-      { "en": "Ross is the pivot of the group.", "cn": "Ross 是团队的核心人物。" },
-      { "en": "The company pivoted from hardware to software.", "cn": "公司从硬件转向了软件。" }
+    "translations": [
+      "卡拉胶",
+      "角叉菜胶"
     ],
-    "tags": ["S2", "E1"],
-    "sort": 3
+    "examples": [
+      {
+        "en": "Carrageenan is commonly used to thicken ice cream and yogurt.",
+        "cn": "卡拉胶常用于增稠冰淇淋和酸奶。"
+      }
+    ]
   },
   {
-    "word": "sarcastic",
-    "phonetic_us": "/sɑːrˈkæstɪk/",
-    "phonetic_uk": "",
-    "pos": ["adj."],
-    "meaning": {
-      "zh": "adj. 讽刺的",
-      "en": "adj. mocking"
-    },
-    "roots": { "note": "基础词汇" },
-    "examples": [
-      { "en": "Chandler is always sarcastic.", "zh": "Chandler 总是很讽刺。" }
+    "word": "thickness",
+    "phonetic": "/ˈθɪknəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the distance through an object, as distinct from width or height; the state or quality of being thick"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 4
+    "roots": [
+      {
+        "part": "thick",
+        "meaning": "厚的"
+      },
+      {
+        "part": "-ness",
+        "meaning": "名词后缀，表状态"
+      }
+    ],
+    "translations": [
+      "厚度",
+      "浓稠度",
+      "粗"
+    ],
+    "examples": [
+      {
+        "en": "The thickness of the board is two centimeters.",
+        "cn": "这块板的厚度是两厘米。"
+      },
+      {
+        "en": "Check the thickness of the sauce by coating the back of a spoon.",
+        "cn": "在勺子背面涂抹酱汁来检查稠度。"
+      }
+    ]
   },
   {
-    "word": "obsessed",
-    "phonetic_us": "/əbˈsest/",
-    "phonetic_uk": "",
-    "pos": ["adj."],
-    "meaning": {
-      "zh": "adj. 着迷的",
-      "en": "adj. unable to stop thinking about"
-    },
-    "roots": { "note": "基础词汇" },
-    "examples": [
-      { "en": "Monica is obsessed with cleaning.", "zh": "Monica 对清洁很着迷。" }
+    "word": "draft",
+    "phonetic": "/dræft/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a preliminary version of a piece of writing; a plan, sketch, or drawing; a current of cool air in a room or other confined space; the selection of individuals for military service"
+      },
+      {
+        "pos": "v.",
+        "translation": "prepare a preliminary version of a document; select (a person or group) and bring them into a role"
+      },
+      {
+        "pos": "adj.",
+        "translation": "used for pulling heavy loads; (of beer) drawn from a cask or keg rather than from a bottle or can"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 5
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "草稿",
+      "草案",
+      "征兵",
+      "通风气流",
+      "起草",
+      "生啤"
+    ],
+    "examples": [
+      {
+        "en": "I need to write the first draft of my essay tonight.",
+        "cn": "我今晚需要写完论文的初稿。"
+      },
+      {
+        "en": "There's a cold draft coming from under the door.",
+        "cn": "门底下有冷风灌进来。"
+      }
+    ]
   },
   {
-    "word": "awkward",
-    "phonetic_us": "/ˈɔːkwərd/",
-    "phonetic_uk": "",
-    "pos": ["adj."],
-    "meaning": {
-      "zh": "adj. 尴尬的",
-      "en": "adj. causing difficulty"
-    },
-    "roots": { "note": "基础词汇" },
-    "examples": [
-      { "en": "That was an awkward silence.", "zh": "一段尴尬的沉默。" }
+    "word": "savor",
+    "phonetic": "/ˈseɪvər/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "taste (good food or drink) and enjoy it completely; enjoy or appreciate (something pleasant) to the full, especially by lingering over it"
+      },
+      {
+        "pos": "n.",
+        "translation": "a characteristic taste, flavor, or smell, especially a pleasant one"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 6
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "品味",
+      "尽情享受",
+      "滋味",
+      "风味"
+    ],
+    "examples": [
+      {
+        "en": "He savored every bite of the delicious steak.",
+        "cn": "他细细品味每一口美味的牛排。"
+      },
+      {
+        "en": "She wanted to savor the moment of her graduation.",
+        "cn": "她想尽情享受毕业的那一刻。"
+      }
+    ]
   },
   {
-    "word": "deliberately",
-    "phonetic_us": "/dˈlɪbərətli/",
-    "phonetic_uk": "",
-    "pos": ["adv."],
-    "meaning": {
-      "zh": "adv. 故意地",
-      "en": "adv. on purpose"
-    },
-    "roots": { "note": "基础词汇" },
-    "examples": [
-      { "en": "He deliberately ignored her.", "zh": "他故意无视她。" }
+    "word": "ventilate",
+    "phonetic": "/ˈventɪleɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "cause air to enter and circulate freely in (a room, building, etc.); discuss or examine (an opinion, issue, etc.) in public"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 7
+    "roots": [
+      {
+        "part": "vent",
+        "meaning": "风"
+      },
+      {
+        "part": "-ilate",
+        "meaning": "动词后缀"
+      }
+    ],
+    "translations": [
+      "使通风",
+      "公开讨论"
+    ],
+    "examples": [
+      {
+        "en": "Open the window to ventilate the room.",
+        "cn": "打开窗户给房间通风。"
+      },
+      {
+        "en": "The meeting was a chance to ventilate grievances.",
+        "cn": "这次会议是公开申诉不满的机会。"
+      }
+    ]
   },
   {
-    "word": "inevitable",
-    "phonetic_us": "/nˈevɪtəbl/",
-    "phonetic_uk": "",
-    "pos": ["adj."],
-    "meaning": {
-      "zh": "adj. 不可避免的",
-      "en": "adj. certain to happen"
-    },
-    "roots": {
-      "note": "in-: 不 · evitable: 避免的"
-    },
-    "examples": [
-      { "en": "Change is inevitable.", "zh": "改变是不可避免的。" }
+    "word": "stare",
+    "phonetic": "/ster/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "look fixedly or vacantly at someone or something with one's eyes wide open"
+      },
+      {
+        "pos": "n.",
+        "translation": "a long fixed or vacant look"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 8
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "凝视",
+      "盯着看",
+      "注视"
+    ],
+    "examples": [
+      {
+        "en": "It's rude to stare at people.",
+        "cn": "盯着人看不礼貌。"
+      },
+      {
+        "en": "She stared at the screen in disbelief.",
+        "cn": "她难以置信地盯着屏幕。"
+      }
+    ]
   },
   {
-    "word": "hypothesis",
-    "phonetic_us": "/haɪˈpɑθəsɪs/",
-    "phonetic_uk": "/haɪˈpɒθəss/",
-    "pos": ["n."],
-    "meaning": {
-      "zh": "n. 假设、假说",
-      "en": "n. a proposed explanation"
-    },
-    "roots": {
-      "note": "hypo-: 下面 · thesis: 论点"
-    },
-    "examples": [
-      { "en": "The big bang hypothesis.", "zh": "大爆炸假说。" }
+    "word": "impromptu",
+    "phonetic": "/ɪmˈprɑːmptuː/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "done without being planned, organized, or rehearsed"
+      },
+      {
+        "pos": "adv.",
+        "translation": "without being planned, organized, or rehearsed"
+      },
+      {
+        "pos": "n.",
+        "translation": "a short piece of instrumental music, especially a solo, that seems improvised"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 9
+    "roots": [
+      {
+        "part": "im-",
+        "meaning": "不"
+      },
+      {
+        "part": "promptu",
+        "meaning": "准备"
+      }
+    ],
+    "translations": [
+      "即兴的",
+      "无准备的",
+      "即兴曲"
+    ],
+    "examples": [
+      {
+        "en": "He gave an impromptu speech at the wedding.",
+        "cn": "他在婚礼上即兴讲了话。"
+      },
+      {
+        "en": "They played an impromptu game of soccer in the park.",
+        "cn": "他们在公园里临时踢了场足球。"
+      }
+    ]
   },
   {
-    "word": "quintessence",
-    "phonetic_us": "/kwɪnˈtesns/",
-    "phonetic_uk": "/kwɪnˈtesns/",
-    "pos": ["n."],
-    "meaning": {
-      "zh": "n. 精髓、典范",
-      "en": "n. the most perfect example"
-    },
-    "roots": {
-      "note": "quint-: 五 · essence: 本质"
-    },
-    "examples": [
-      { "en": "She is the quintessence of elegance.", "zh": "她是优雅的典范。" }
+    "word": "respiration",
+    "phonetic": "/ˌrespəˈreɪʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the action of breathing; a single breath; the process in living organisms involving the production of energy, typically with the intake of oxygen and the release of carbon dioxide"
+      }
     ],
-    "tags": ["S2", "E1"],
-    "sort": 10
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "反复"
+      },
+      {
+        "part": "spir",
+        "meaning": "呼吸"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "呼吸",
+      "一次呼吸",
+      "呼吸作用"
+    ],
+    "examples": [
+      {
+        "en": "His respiration slowed as he fell asleep.",
+        "cn": "他入睡时呼吸变慢了。"
+      },
+      {
+        "en": "Cellular respiration releases energy from glucose.",
+        "cn": "细胞呼吸从葡萄糖中释放能量。"
+      }
+    ]
+  },
+  {
+    "word": "pupil",
+    "phonetic": "/ˈpjuːpl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who is taught by another, especially a schoolchild or student; the dark circular opening in the center of the iris of the eye, which varies in size to regulate the amount of light reaching the retina"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "学生",
+      "瞳孔"
+    ],
+    "examples": [
+      {
+        "en": "The teacher praised her pupil for excellent work.",
+        "cn": "老师表扬了学生的优秀作业。"
+      },
+      {
+        "en": "Your pupils dilate in low light.",
+        "cn": "光线暗时瞳孔会放大。"
+      }
+    ]
+  },
+  {
+    "word": "clench",
+    "phonetic": "/klentʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "close (one's hand, fist, teeth, etc.) tightly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a contraction or tightening of part of the body"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "紧握",
+      "咬紧",
+      "捏紧"
+    ],
+    "examples": [
+      {
+        "en": "He clenched his fists in anger.",
+        "cn": "他愤怒地握紧拳头。"
+      },
+      {
+        "en": "She clenched her teeth to endure the pain.",
+        "cn": "她咬紧牙关忍受疼痛。"
+      }
+    ]
+  },
+  {
+    "word": "mat",
+    "phonetic": "/mæt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a piece of coarse fabric, usually of straw or hemp, used for wiping dirt from shoes or as a floor covering; a small piece of material placed on a surface to protect it or for decoration"
+      },
+      {
+        "pos": "v.",
+        "translation": "to become or make tangled into a thick mass"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "垫子",
+      "地垫",
+      "缠结"
+    ],
+    "examples": [
+      {
+        "en": "Wipe your shoes on the mat.",
+        "cn": "在垫子上擦擦鞋。"
+      },
+      {
+        "en": "Her hair matted after swimming in the sea.",
+        "cn": "她在海里游泳后头发缠结了。"
+      }
+    ]
+  },
+  {
+    "word": "mate",
+    "phonetic": "/meɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a friend, companion, or partner; one of a pair of animals or birds that breed together; an officer on a merchant ship"
+      },
+      {
+        "pos": "v.",
+        "translation": "(of animals or birds) come together for breeding; bring (animals) together for breeding"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "伙伴",
+      "配偶",
+      "交配",
+      "大副"
+    ],
+    "examples": [
+      {
+        "en": "He went to the pub with his mates.",
+        "cn": "他和伙伴们去了酒吧。"
+      },
+      {
+        "en": "Birds mate in the spring.",
+        "cn": "鸟类在春天交配。"
+      }
+    ]
+  },
+  {
+    "word": "dewlap",
+    "phonetic": "/ˈduːlæp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a fold of loose skin hanging from the neck of some animals, such as cattle, dogs, or lizards"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dew",
+        "meaning": "露水"
+      },
+      {
+        "part": "lap",
+        "meaning": "折叠；重叠"
+      }
+    ],
+    "translations": [
+      "垂肉",
+      "喉垂"
+    ],
+    "examples": [
+      {
+        "en": "The bloodhound has a prominent dewlap.",
+        "cn": "寻血猎犬有明显的垂肉。"
+      }
+    ]
+  },
+  {
+    "word": "warp",
+    "phonetic": "/wɔːrp/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "become or cause to become bent or twisted out of shape, typically as a result of the effects of heat or dampness; make or become distorted or abnormal"
+      },
+      {
+        "pos": "n.",
+        "translation": "a distortion or twist in shape; the threads that run lengthways in a woven fabric"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "弯曲",
+      "扭曲",
+      "翘曲",
+      "经线"
+    ],
+    "examples": [
+      {
+        "en": "The wooden floor has warped from moisture.",
+        "cn": "木地板因潮湿而翘曲了。"
+      },
+      {
+        "en": "His judgment was warped by prejudice.",
+        "cn": "偏见扭曲了他的判断。"
+      }
+    ]
+  },
+  {
+    "word": "inadequate",
+    "phonetic": "/ɪnˈædɪkwət/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lacking the quality or quantity required; insufficient for a purpose; (of a person) unable to deal with a situation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "不"
+      },
+      {
+        "part": "adequate",
+        "meaning": "充足的"
+      }
+    ],
+    "translations": [
+      "不充足的",
+      "不足的",
+      "不胜任的"
+    ],
+    "examples": [
+      {
+        "en": "The supplies were inadequate for the journey.",
+        "cn": "补给不够这次行程。"
+      },
+      {
+        "en": "He felt inadequate as a parent.",
+        "cn": "他觉得作为父母不胜任。"
+      }
+    ]
+  },
+  {
+    "word": "brainiac",
+    "phonetic": "/ˈbreɪniæk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a very intelligent person; a know-it-all"
+      }
+    ],
+    "roots": [
+      {
+        "part": "brain",
+        "meaning": "大脑"
+      },
+      {
+        "part": "-iac",
+        "meaning": "人"
+      }
+    ],
+    "translations": [
+      "聪明人",
+      "学霸"
+    ],
+    "examples": [
+      {
+        "en": "My brother is a real brainiac; he aced all his exams.",
+        "cn": "我哥哥真是个学霸，门门考试都得优。"
+      }
+    ]
+  },
+  {
+    "word": "tic",
+    "phonetic": "/tɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a habitual spasmodic contraction of the muscles, most often in the face; a frequent and often unconscious quirk of behavior or speech"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "抽搐",
+      "抽动",
+      "习惯性动作"
+    ],
+    "examples": [
+      {
+        "en": "He has a nervous tic of blinking repeatedly.",
+        "cn": "他有个神经性抽搐，会反复眨眼。"
+      }
+    ]
+  },
+  {
+    "word": "arachnid",
+    "phonetic": "/əˈræknɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an arthropod of the class Arachnida, such as a spider, scorpion, mite, or tick"
+      }
+    ],
+    "roots": [
+      {
+        "part": "arachn",
+        "meaning": "蜘蛛"
+      },
+      {
+        "part": "-id",
+        "meaning": "类"
+      }
+    ],
+    "translations": [
+      "蛛形纲动物"
+    ],
+    "examples": [
+      {
+        "en": "Spiders and scorpions are both arachnids.",
+        "cn": "蜘蛛和蝎子都是蛛形纲动物。"
+      }
+    ]
+  },
+  {
+    "word": "muscular",
+    "phonetic": "/ˈmʌskjələr/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or affecting the muscles; having well-developed muscles"
+      }
+    ],
+    "roots": [
+      {
+        "part": "muscul",
+        "meaning": "肌肉"
+      },
+      {
+        "part": "-ar",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "肌肉的",
+      "强壮的"
+    ],
+    "examples": [
+      {
+        "en": "He has a muscular build from working out.",
+        "cn": "他因为锻炼而有强壮的体格。"
+      },
+      {
+        "en": "Muscular dystrophy affects muscle strength.",
+        "cn": "肌肉萎缩症影响肌肉力量。"
+      }
+    ]
+  },
+  {
+    "word": "contraction",
+    "phonetic": "/kənˈtrækʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the process of becoming smaller or shorter; a shortening of the uterine muscles during childbirth; a shortened form of a word or group of words"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "一起"
+      },
+      {
+        "part": "tract",
+        "meaning": "拉"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "收缩",
+      "子宫收缩",
+      "缩约形式"
+    ],
+    "examples": [
+      {
+        "en": "Cold causes contraction of metal.",
+        "cn": "寒冷导致金属收缩。"
+      },
+      {
+        "en": "The contraction 'don't' stands for 'do not'.",
+        "cn": "缩约形式 don't 代表 do not。"
+      }
+    ]
+  },
+  {
+    "word": "adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "satisfactory or acceptable in quality or quantity; sufficient to meet a requirement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ad-",
+        "meaning": "向"
+      },
+      {
+        "part": "equ",
+        "meaning": "相等"
+      },
+      {
+        "part": "-ate",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "充足的",
+      "合格的",
+      "适当的"
+    ],
+    "examples": [
+      {
+        "en": "The room is adequate for two people.",
+        "cn": "这个房间够两个人住。"
+      },
+      {
+        "en": "His performance was adequate but not outstanding.",
+        "cn": "他的表现合格但不出众。"
+      }
+    ]
+  },
+  {
+    "word": "salmon",
+    "phonetic": "/ˈsæmən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a large silver-colored fish with pink flesh that lives in the sea but swims up rivers to lay eggs; the pinkish-orange flesh of this fish used as food"
+      },
+      {
+        "pos": "adj.",
+        "translation": "of a pinkish-orange color"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "鲑鱼",
+      "三文鱼",
+      "鲑鱼肉色"
+    ],
+    "examples": [
+      {
+        "en": "We had grilled salmon for dinner.",
+        "cn": "我们晚餐吃了烤三文鱼。"
+      },
+      {
+        "en": "The walls were painted a pale salmon color.",
+        "cn": "墙壁刷成了淡鲑肉色。"
+      }
+    ]
+  },
+  {
+    "word": "glaze",
+    "phonetic": "/ɡleɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "fit panes of glass into (a window or door) or cover with glass; overlay or cover (food, fabric, etc.) with a glossy, often sweet, coating; (of eyes) become dull and lose focus"
+      },
+      {
+        "pos": "n.",
+        "translation": "a thin, glossy coating applied to food, pottery, or other surfaces"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "给…装玻璃",
+      "浇上糖浆",
+      "变得呆滞",
+      "釉料",
+      "糖浆"
+    ],
+    "examples": [
+      {
+        "en": "Glaze the ham with honey before baking.",
+        "cn": "烤火腿前刷上蜂蜜糖浆。"
+      },
+      {
+        "en": "His eyes glazed over with boredom.",
+        "cn": "他因无聊而眼神呆滞。"
+      }
+    ]
+  },
+  {
+    "word": "teriyaki",
+    "phonetic": "/ˌterɪˈjɑːki/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a Japanese dish of fish or meat marinated in a sweet soy sauce and grilled or broiled"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "照烧",
+      "照烧酱"
+    ],
+    "examples": [
+      {
+        "en": "I ordered chicken teriyaki at the Japanese restaurant.",
+        "cn": "我在日料店点了照烧鸡肉。"
+      }
+    ]
+  },
+  {
+    "word": "prestigious",
+    "phonetic": "/preˈstɪdʒəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "respected and admired as very important or of very high quality"
+      }
+    ],
+    "roots": [
+      {
+        "part": "prestig-",
+        "meaning": "illusion, trick (from Latin praestigium, but evolved to mean 'influence, reputation')"
+      },
+      {
+        "part": "-ous",
+        "meaning": "full of, having the quality of"
+      }
+    ],
+    "translations": [
+      "有威望的",
+      "声誉高的",
+      " prestigious"
+    ],
+    "examples": [
+      {
+        "en": "She graduated from a prestigious university.",
+        "cn": "她毕业于一所名牌大学。"
+      },
+      {
+        "en": "The award is one of the most prestigious in the industry.",
+        "cn": "这个奖项是业内最有声望的之一。"
+      },
+      {
+        "en": "He was offered a prestigious position at the law firm.",
+        "cn": "他被律师事务所提供了一个声望很高的职位。"
+      }
+    ]
+  },
+  {
+    "word": "dizzily",
+    "phonetic": "/ˈdɪzɪli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "in a way that makes you feel dizzy or unsteady; in a confused or disoriented manner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "dizzy",
+        "meaning": "having a spinning sensation"
+      },
+      {
+        "part": "-ly",
+        "meaning": "adverb suffix"
+      }
+    ],
+    "translations": [
+      "头晕目眩地",
+      "令人眩晕地",
+      "混乱地"
+    ],
+    "examples": [
+      {
+        "en": "She spun around dizzily and fell to the ground.",
+        "cn": "她头晕目眩地转了一圈，摔倒在地上。"
+      },
+      {
+        "en": "The children ran dizzily in circles until they collapsed laughing.",
+        "cn": "孩子们令人眩晕地绕圈跑，直到笑着倒下。"
+      }
+    ]
+  },
+  {
+    "word": "prediction",
+    "phonetic": "/prɪˈdɪkʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a statement about what will happen or might happen in the future"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pre-",
+        "meaning": "预先"
+      },
+      {
+        "part": "dict",
+        "meaning": "说"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "预测",
+      "预言"
+    ],
+    "examples": [
+      {
+        "en": "Weather predictions are not always accurate.",
+        "cn": "天气预报不总是准确的。"
+      },
+      {
+        "en": "His prediction of the election result was correct.",
+        "cn": "他对选举结果的预测是正确的。"
+      }
+    ]
+  },
+  {
+    "word": "predicate",
+    "phonetic": "/ˈpredɪkət/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the part of a sentence or clause containing the verb and stating something about the subject"
+      },
+      {
+        "pos": "v.",
+        "translation": "state, affirm, or assert (something) about the subject of a sentence; found or base something on"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pre-",
+        "meaning": "预先"
+      },
+      {
+        "part": "dic",
+        "meaning": "说"
+      },
+      {
+        "part": "-ate",
+        "meaning": "动词/名词后缀"
+      }
+    ],
+    "translations": [
+      "谓语",
+      "断言",
+      "基于"
+    ],
+    "examples": [
+      {
+        "en": "In 'The dog barked', 'barked' is the predicate.",
+        "cn": "在 The dog barked 中，barked 是谓语。"
+      },
+      {
+        "en": "The theory predicates that the universe is expanding.",
+        "cn": "该理论断言宇宙在膨胀。"
+      }
+    ]
+  },
+  {
+    "word": "regression",
+    "phonetic": "/rɪˈɡreʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a return to a former or less developed state; a statistical measure of the relationship between variables"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "向后"
+      },
+      {
+        "part": "gress",
+        "meaning": "行走"
+      },
+      {
+        "part": "-ion",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "回归",
+      "倒退",
+      "回归分析"
+    ],
+    "examples": [
+      {
+        "en": "The patient showed regression to childlike behavior.",
+        "cn": "病人表现出退行到孩童般的行为。"
+      },
+      {
+        "en": "Linear regression is a common statistical tool.",
+        "cn": "线性回归是一种常见的统计工具。"
+      }
+    ]
+  },
+  {
+    "word": "axiomatic",
+    "phonetic": "/ˌæksiəˈmætɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "self-evident or unquestionable; relating to or containing axioms"
+      }
+    ],
+    "roots": [
+      {
+        "part": "axiom",
+        "meaning": "公理"
+      },
+      {
+        "part": "-atic",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "不言自明的",
+      "公理的"
+    ],
+    "examples": [
+      {
+        "en": "It is axiomatic that a whole is greater than any of its parts.",
+        "cn": "整体大于其任何一部分是不言自明的。"
+      }
+    ]
+  },
+  {
+    "word": "cadaver",
+    "phonetic": "/kəˈdævər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a dead human body, especially one used for dissection or medical study"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "尸体",
+      "遗体"
+    ],
+    "examples": [
+      {
+        "en": "Medical students dissect cadavers to learn anatomy.",
+        "cn": "医学生解剖尸体以学习解剖学。"
+      }
+    ]
+  },
+  {
+    "word": "necrophilia",
+    "phonetic": "/ˌnekrəˈfɪliə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "sexual attraction to or intercourse with dead bodies"
+      }
+    ],
+    "roots": [
+      {
+        "part": "necro",
+        "meaning": "死亡"
+      },
+      {
+        "part": "philia",
+        "meaning": "喜爱"
+      }
+    ],
+    "translations": [
+      "恋尸癖"
+    ],
+    "examples": [
+      {
+        "en": "Necrophilia is considered a psychiatric disorder.",
+        "cn": "恋尸癖被视为一种精神障碍。"
+      }
+    ]
+  },
+  {
+    "word": "ketchup",
+    "phonetic": "/ˈketʃəp/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a thick, cold, red sauce made from tomatoes, vinegar, sugar, and spices, eaten with food"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "番茄酱"
+    ],
+    "examples": [
+      {
+        "en": "I always put ketchup on my fries.",
+        "cn": "我吃薯条总是加番茄酱。"
+      }
+    ]
+  },
+  {
+    "word": "thermostat",
+    "phonetic": "/ˈθɜːrməstæt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a device that automatically regulates temperature, or that activates a device when the temperature reaches a certain point"
+      }
+    ],
+    "roots": [
+      {
+        "part": "thermo",
+        "meaning": "热"
+      },
+      {
+        "part": "stat",
+        "meaning": "静止；调节器"
+      }
+    ],
+    "translations": [
+      "恒温器",
+      "温控器"
+    ],
+    "examples": [
+      {
+        "en": "Set the thermostat to 22 degrees.",
+        "cn": "把恒温器设到22度。"
+      }
+    ]
+  },
+  {
+    "word": "cilantro",
+    "phonetic": "/sɪˈlæntroʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the leaves of the coriander plant, used as an herb in cooking"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "香菜",
+      "芫荽叶"
+    ],
+    "examples": [
+      {
+        "en": "Garnish the soup with fresh cilantro.",
+        "cn": "用新鲜香菜点缀汤。"
+      }
+    ]
+  },
+  {
+    "word": "evacuation",
+    "phonetic": "/ɪˌvækjuˈeɪʃn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the action of evacuating a place or people from a place; the discharge of waste matter from the body"
+      }
+    ],
+    "roots": [
+      {
+        "part": "e-",
+        "meaning": "出"
+      },
+      {
+        "part": "vacu",
+        "meaning": "空"
+      },
+      {
+        "part": "-ation",
+        "meaning": "名词后缀"
+      }
+    ],
+    "translations": [
+      "撤离",
+      "疏散",
+      "排泄"
+    ],
+    "examples": [
+      {
+        "en": "The evacuation of the building was orderly.",
+        "cn": "大楼疏散井然有序。"
+      },
+      {
+        "en": "Bowel evacuation is a normal bodily function.",
+        "cn": "排便是一种正常的身体功能。"
+      }
+    ]
+  },
+  {
+    "word": "luminous",
+    "phonetic": "/ˈluːmɪnəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "giving off light; bright or shining; very clear or enlightening"
+      }
+    ],
+    "roots": [
+      {
+        "part": "lumin",
+        "meaning": "光"
+      },
+      {
+        "part": "-ous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "发光的",
+      "明亮的",
+      "有启发性的"
+    ],
+    "examples": [
+      {
+        "en": "The luminous dial of the clock glowed in the dark.",
+        "cn": "钟的发光表盘在黑暗中发光。"
+      },
+      {
+        "en": "Her explanation was luminous and easy to understand.",
+        "cn": "她的解释清晰易懂。"
+      }
+    ]
+  },
+  {
+    "word": "subvert",
+    "phonetic": "/səbˈvɜːrt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "undermine the power and authority of (an established system or institution); overturn or overthrow"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sub-",
+        "meaning": "下面"
+      },
+      {
+        "part": "vert",
+        "meaning": "转"
+      }
+    ],
+    "translations": [
+      "颠覆",
+      "破坏"
+    ],
+    "examples": [
+      {
+        "en": "The rebels attempted to subvert the government.",
+        "cn": "叛乱者企图颠覆政府。"
+      },
+      {
+        "en": "He used satire to subvert social norms.",
+        "cn": "他用讽刺来颠覆社会规范。"
+      }
+    ]
+  },
+  {
+    "word": "leprous",
+    "phonetic": "/ˈleprəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to or affected with leprosy; resembling or characteristic of leprosy"
+      }
+    ],
+    "roots": [
+      {
+        "part": "lepr",
+        "meaning": "麻风"
+      },
+      {
+        "part": "-ous",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "麻风的",
+      "患麻风病的"
+    ],
+    "examples": [
+      {
+        "en": "The leprous man was isolated from the village.",
+        "cn": "那个麻风病人被隔离在村庄之外。"
+      }
+    ]
+  },
+  {
+    "word": "lumbar",
+    "phonetic": "/ˈlʌmbər/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the lower part of the back, specifically the area of the spine between the ribs and the pelvis"
+      }
+    ],
+    "roots": [
+      {
+        "part": "lumb",
+        "meaning": "腰"
+      },
+      {
+        "part": "-ar",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "腰的",
+      "腰椎的"
+    ],
+    "examples": [
+      {
+        "en": "He complained of lumbar pain after lifting heavy boxes.",
+        "cn": "他搬重箱子后抱怨腰痛。"
+      },
+      {
+        "en": "The lumbar spine supports much of the body's weight.",
+        "cn": "腰椎支撑身体大部分重量。"
+      }
+    ]
+  },
+  {
+    "word": "bouncy",
+    "phonetic": "/ˈbaʊnsi/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "able to bounce or spring back into shape; springy; (of a person) lively and confident"
+      }
+    ],
+    "roots": [
+      {
+        "part": "bounce",
+        "meaning": "弹跳"
+      },
+      {
+        "part": "-y",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "有弹性的",
+      "活泼的"
+    ],
+    "examples": [
+      {
+        "en": "The ball is very bouncy on this surface.",
+        "cn": "球在这个表面弹性很好。"
+      },
+      {
+        "en": "She has a bouncy, energetic personality.",
+        "cn": "她性格活泼有活力。"
+      }
+    ]
+  },
+  {
+    "word": "mutant",
+    "phonetic": "/ˈmjuːtənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a form or organism that results from mutation"
+      },
+      {
+        "pos": "adj.",
+        "translation": "resulting from or showing the effect of mutation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mut",
+        "meaning": "改变"
+      },
+      {
+        "part": "-ant",
+        "meaning": "人或物"
+      }
+    ],
+    "translations": [
+      "突变体",
+      "变异的",
+      "异形"
+    ],
+    "examples": [
+      {
+        "en": "The mutant gene caused a rare disease.",
+        "cn": "突变基因导致了一种罕见病。"
+      },
+      {
+        "en": "In the movie, a mutant has superpowers.",
+        "cn": "电影里一个变种人有超能力。"
+      }
+    ]
+  },
+  {
+    "word": "derivative",
+    "phonetic": "/dɪˈrɪvətɪv/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a thing derived from another; a word derived from another; a financial instrument whose value depends on an underlying asset; (in calculus) the rate of change of a function"
+      },
+      {
+        "pos": "adj.",
+        "translation": "imitative of the work of another artist, writer, etc.; derived from something else"
+      }
+    ],
+    "roots": [
+      {
+        "part": "de-",
+        "meaning": "向下"
+      },
+      {
+        "part": "riv",
+        "meaning": "河流"
+      },
+      {
+        "part": "-ative",
+        "meaning": "形容词/名词后缀"
+      }
+    ],
+    "translations": [
+      "派生物",
+      "衍生品",
+      "导数",
+      "缺乏独创性的"
+    ],
+    "examples": [
+      {
+        "en": "His art is derivative of Picasso's style.",
+        "cn": "他的艺术模仿毕加索的风格。"
+      },
+      {
+        "en": "The derivative of x^2 is 2x.",
+        "cn": "x^2 的导数是 2x。"
+      }
+    ]
+  },
+  {
+    "word": "paralegal",
+    "phonetic": "/ˌpærəˈliːɡl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person trained in legal matters but not fully qualified as a lawyer, who assists a lawyer"
+      },
+      {
+        "pos": "adj.",
+        "translation": "relating to or denoting such a person"
+      }
+    ],
+    "roots": [
+      {
+        "part": "para-",
+        "meaning": "辅助"
+      },
+      {
+        "part": "legal",
+        "meaning": "法律的"
+      }
+    ],
+    "translations": [
+      "律师助理",
+      "法律助理"
+    ],
+    "examples": [
+      {
+        "en": "The paralegal helped prepare the legal documents.",
+        "cn": "律师助理帮助准备了法律文件。"
+      }
+    ]
   }
 ]
