@@ -1,0 +1,33 @@
+{
+  "tbbt_s1": [
+    { "_id": "tbbt_s1e01", "name": "E01 试播集", "total": 14 },
+    { "_id": "tbbt_s1e02", "name": "E02 大鱼 hypothesis", "total": 15 },
+    { "_id": "tbbt_s1e03", "name": "E03 tangent 偏转", "total": 13 },
+    { "_id": "tbbt_s1e04", "name": "E04 luminous fish", "total": 16 }
+  ],
+  "tbbt_s2": [
+    { "_id": "tbbt_s2e01", "name": "E01 坏肉", "total": 15 },
+    { "_id": "tbbt_s2e02", "name": "E02 饼干与酷", "total": 14 },
+    { "_id": "tbbt_s2e03", "name": "E03 barbarian", "total": 13 },
+    { "_id": "tbbt_s2e04", "name": "E04 Griffin 等效", "total": 16 },
+    { "_id": "tbbt_s2e05", "name": "E05 欧几里得", "total": 12 },
+    { "_id": "tbbt_s2e06", "name": "E06 Cooper-Nowitzki", "total": 14 }
+  ],
+  "tbbt_s3": [
+    { "_id": "tbbt_s3e01", "name": "E01 电机器人", "total": 16 },
+    { "_id": "tbbt_s3e02", "name": "E02 嫉妒", "total": 15 },
+    { "_id": "tbbt_s3e03", "name": "E03 Goth 女孩", "total": 14 }
+  ],
+  "tbbt_s4": [
+    { "_id": "tbbt_s4e01", "name": "E01 机器人", "total": 16 },
+    { "_id": "tbbt_s4e02", "name": "E02 蟑螂", "total": 15 }
+  ],
+  "tbbt_s5": [
+    { "_id": "tbbt_s5e01", "name": "E01 Skank reflex", "total": 16 },
+    { "_id": "tbbt_s5e02", "name": "E02 清洁", "total": 15 }
+  ],
+  "tbbt_s6": [
+    { "_id": "tbbt_s6e01", "name": "E01 日期", "total": 16 },
+    { "_id": "tbbt_s6e02", "name": "E02 分解", "total": 15 }
+  ]
+}

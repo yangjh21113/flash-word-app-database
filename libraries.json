@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "lib_ielts",
+    "name": "雅思核心词汇",
+    "desc": "雅思考试高频核心词汇，覆盖听说读写四大场景",
+    "category": "exam",
+    "type": "category",
+    "total": 3200,
+    "seasons": [
+      { "_id": "ielts_s1", "name": "听力场景词汇", "total": 800 },
+      { "_id": "ielts_s2", "name": "阅读核心词汇", "total": 1200 },
+      { "_id": "ielts_s3", "name": "写作高频词汇", "total": 600 },
+      { "_id": "ielts_s4", "name": "口语话题词汇", "total": 600 }
+    ]
+  },
+  {
+    "_id": "lib_cet4",
+    "name": "大学英语四级词汇",
+    "desc": "CET-4 考试大纲词汇，按词频排序",
+    "category": "exam",
+    "type": "category",
+    "total": 4500,
+    "seasons": [
+      { "_id": "cet4_s1", "name": "高频词汇 1", "total": 500 },
+      { "_id": "cet4_s2", "name": "高频词汇 2", "total": 500 },
+      { "_id": "cet4_s3", "name": "中频词汇", "total": 1500 },
+      { "_id": "cet4_s4", "name": "低频词汇", "total": 2000 }
+    ]
+  },
+  {
+    "_id": "lib_tbbt",
+    "name": "生活大爆炸",
+    "desc": "美剧《生活大爆炸》场景词汇，在幽默中掌握日常口语表达",
+    "category": "tv",
+    "type": "series",
+    "total": 2400,
+    "seasons": [
+      { "_id": "tbbt_s1", "name": "第一季", "total": 240, "episodes": 17 },
+      { "_id": "tbbt_s2", "name": "第二季", "total": 320, "episodes": 23 },
+      { "_id": "tbbt_s3", "name": "第三季", "total": 360, "episodes": 23 },
+      { "_id": "tbbt_s4", "name": "第四季", "total": 380, "episodes": 24 },
+      { "_id": "tbbt_s5", "name": "第五季", "total": 400, "episodes": 24 },
+      { "_id": "tbbt_s6", "name": "第六季", "total": 420, "episodes": 24 }
+    ]
+  },
+  {
+    "_id": "lib_friends",
+    "name": "老友记",
+    "desc": "经典美剧《Friends》场景词汇，轻松掌握地道美式英语",
+    "category": "tv",
+    "type": "series",
+    "total": 3000,
+    "seasons": [
+      { "_id": "friends_s1", "name": "第一季", "total": 280, "episodes": 24 },
+      { "_id": "friends_s2", "name": "第二季", "total": 320, "episodes": 24 },
+      { "_id": "friends_s3", "name": "第三季", "total": 350, "episodes": 25 }
+    ]
+  },
+  {
+    "_id": "lib_breaking_bad",
+    "name": "绝命毒师",
+    "desc": "美剧《Breaking Bad》场景词汇，学习紧张刺激的对话表达",
+    "category": "tv",
+    "type": "series",
+    "total": 1800,
+    "seasons": [
+      { "_id": "bb_s1", "name": "第一季", "total": 200, "episodes": 7 },
+      { "_id": "bb_s2", "name": "第二季", "total": 300, "episodes": 13 }
+    ]
+  },
+  {
+    "_id": "lib_harry_potter",
+    "name": "哈利波特",
+    "desc": "《Harry Potter》系列小说词汇，在魔法世界中提升英语阅读能力",
+    "category": "interest",
+    "type": "series",
+    "total": 4800,
+    "seasons": [
+      { "_id": "hp_b1", "name": "魔法石", "total": 500, "episodes": 1 },
+      { "_id": "hp_b2", "name": "密室", "total": 600, "episodes": 1 },
+      { "_id": "hp_b3", "name": "阿兹卡班的囚徒", "total": 700, "episodes": 1 },
+      { "_id": "hp_b4", "name": "火焰杯", "total": 800, "episodes": 1 }
+    ]
+  },
+  {
+    "_id": "lib_economist",
+    "name": "经济学人精读",
+    "desc": "《The Economist》高频词汇与表达，提升商业英语阅读能力",
+    "category": "interest",
+    "type": "category",
+    "total": 2000,
+    "seasons": [
+      { "_id": "econ_s1", "name": "政治类文章", "total": 500 },
+      { "_id": "econ_s2", "name": "商业类文章", "total": 600 },
+      { "_id": "econ_s3", "name": "科技类文章", "total": 500 },
+      { "_id": "econ_s4", "name": "文化类文章", "total": 400 }
+    ]
+  },
+  {
+    "_id": "lib_daily",
+    "name": "日常口语高频词",
+    "desc": "日常生活中最常用的 1000 个英语高频词汇",
+    "category": "other",
+    "type": "category",
+    "total": 1000,
+    "seasons": [
+      { "_id": "daily_s1", "name": "基础词汇 Top250", "total": 250 },
+      { "_id": "daily_s2", "name": "进阶词汇 Top500", "total": 250 },
+      { "_id": "daily_s3", "name": "拓展词汇 Top750", "total": 250 },
+      { "_id": "daily_s4", "name": "挑战词汇 Top1000", "total": 250 }
+    ]
+  }
+]
