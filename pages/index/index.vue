@@ -166,7 +166,7 @@ const onRefresh = async () => {
 	librariesCache.value = {}
 	try {
 		await fetchLibraries(true)
-		uni.showToast({ title: '已更新', icon: 'success', duration: 1500 })
+		uni.showToast({ title: '已更新', icon: 'none', duration: 1500 })
 	} catch (e) {
 		uni.showToast({ title: '更新失败', icon: 'none' })
 	} finally {

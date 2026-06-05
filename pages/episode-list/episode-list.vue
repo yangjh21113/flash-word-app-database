@@ -1,45 +1,51 @@
 <template>
 	<view class="container">
-		<!-- 头部信息 -->
-		<view class="header" v-if="!loading">
-			<text class="header-title">{{ seasonName }}</text>
-			<text class="header-sub">{{ libraryName }} · 共 {{ episodeList.length }} 集</text>
-		</view>
+		<scroll-view class="scroll-view" scroll-y
+			refresher-enabled
+			:refresher-triggered="isRefreshing"
+			@refresherrefresh="onRefresh">
 
-		<!-- 加载中 -->
-		<view class="loading-wrap" v-if="loading">
-			<text class="loading-text">加载中...</text>
-		</view>
-
-		<!-- 剧集列表 -->
-		<view class="episode-list" v-if="!loading && episodeList.length > 0">
-			<view
-				v-for="ep in episodeList"
-				:key="ep._id"
-				class="episode-item"
-				:class="{ selected: ep._id === selectedId }"
-				@click="goWordView(ep)"
-			>
-				<text class="ep-name">{{ ep.name }}</text>
-				<text class="ep-meta">{{ ep.total }} 词</text>
-				<view class="ep-round" v-if="getEpRound(ep) > 0">
-					<text class="round-text">已背 {{ getEpRound(ep) }} 轮</text>
-				</view>
-				<i v-if="ep._id === selectedId" class="ri-check-line selected-icon"></i>
-				<i class="ri-arrow-right-s-line ep-arrow"></i>
+			<!-- 头部信息 -->
+			<view class="header" v-if="!loading">
+				<text class="header-title">{{ seasonName }}</text>
+				<text class="header-sub">{{ libraryName }} · 共 {{ episodeList.length }} 集</text>
 			</view>
-		</view>
 
-		<!-- 空状态 -->
-		<view class="empty-wrap" v-if="!loading && episodeList.length === 0">
-			<text class="empty-text">暂无剧集</text>
-		</view>
+			<!-- 加载中 -->
+			<view class="loading-wrap" v-if="loading">
+				<text class="loading-text">加载中...</text>
+			</view>
+
+			<!-- 剧集列表 -->
+			<view class="episode-list" v-if="!loading && episodeList.length > 0">
+				<view
+					v-for="ep in episodeList"
+					:key="ep._id"
+					class="episode-item"
+					:class="{ selected: ep._id === selectedId }"
+					@click="goWordView(ep)"
+				>
+					<text class="ep-name">{{ ep.name }}</text>
+					<text class="ep-meta">{{ ep.total }} 词</text>
+					<view class="ep-round" v-if="getEpRound(ep) > 0">
+						<text class="round-text">已背 {{ getEpRound(ep) }} 轮</text>
+					</view>
+					<i v-if="ep._id === selectedId" class="ri-check-line selected-icon"></i>
+					<i class="ri-arrow-right-s-line ep-arrow"></i>
+				</view>
+			</view>
+
+			<!-- 空状态 -->
+			<view class="empty-wrap" v-if="!loading && episodeList.length === 0">
+				<text class="empty-text">暂无剧集</text>
+			</view>
+		</scroll-view>
 	</view>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
-import { getEpisodes } from '@/utils/cloud.js'
+import { getEpisodes, clearGhCache } from '@/utils/cloud.js'
 import { getRoundInfo } from '@/utils/progress.js'
 
 const seasonName = ref('')
@@ -49,6 +55,7 @@ const seasonId = ref('')
 const episodeList = ref([])
 const loading = ref(true)
 const selectedId = ref('')
+const isRefreshing = ref(false)
 
 onMounted(() => {
 	const pages = getCurrentPages()
@@ -62,19 +69,32 @@ onMounted(() => {
 	fetchEpisodes()
 })
 
-const fetchEpisodes = async () => {
+const fetchEpisodes = async (force = false) => {
 	loading.value = true
 	if (!seasonId.value) {
 		loading.value = false
 		return
 	}
 	try {
-		const res = await getEpisodes(seasonId.value)
+		const res = await getEpisodes(seasonId.value, force)
 		episodeList.value = res.list || []
 	} catch (e) {
 		console.error('加载剧集失败', e)
 	} finally {
 		loading.value = false
+	}
+}
+
+const onRefresh = async () => {
+	isRefreshing.value = true
+	clearGhCache()
+	try {
+		await fetchEpisodes(true)
+		uni.showToast({ title: '已更新', icon: 'none', duration: 1500 })
+	} catch (e) {
+		uni.showToast({ title: '更新失败', icon: 'none' })
+	} finally {
+		isRefreshing.value = false
 	}
 }
 
@@ -94,6 +114,10 @@ const getEpRound = (ep) => {
 <style scoped>
 .container {
 	background-color: #fafafa;
+	min-height: 100vh;
+}
+
+.scroll-view {
 	min-height: 100vh;
 	padding: 0 32rpx 32rpx;
 }

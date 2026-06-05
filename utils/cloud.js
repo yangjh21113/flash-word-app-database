@@ -129,12 +129,12 @@ export function getLibraryList(category = 'all', force = false) {
 	})
 }
 
-export function getLibraryDetail(libraryId) {
+export function getLibraryDetail(libraryId, force = false) {
 	if (USE_MOCK) {
 		return getMockLibraryDetail(libraryId)
 	}
 	if (USE_GITHUB) {
-		return fetchJSON('libraries.json', USE_GITHUB_FORCE).then(list => {
+		return fetchJSON('libraries.json', USE_GITHUB_FORCE || force).then(list => {
 			const lib = list.find(l => l._id === libraryId)
 			return lib ? { data: lib } : Promise.reject(new Error('Library not found'))
 		})
@@ -150,13 +150,13 @@ export function getLibraryDetail(libraryId) {
 	})
 }
 
-export function getEpisodes(seasonId) {
+export function getEpisodes(seasonId, force = false) {
 	if (USE_MOCK) {
 		return getMockEpisodes(seasonId)
 	}
 	if (USE_GITHUB) {
 		// 先找 season 属于哪个词库
-		return fetchJSON('libraries.json', USE_GITHUB_FORCE).then(libs => {
+		return fetchJSON('libraries.json', USE_GITHUB_FORCE || force).then(libs => {
 			let libId = ''
 			for (const lib of libs) {
 				if (lib.seasons && lib.seasons.some(s => s._id === seasonId)) {
@@ -165,7 +165,7 @@ export function getEpisodes(seasonId) {
 				}
 			}
 			if (!libId) return { list: [], total: 0 }
-			return fetchJSON(`episodes/${libId}.json`, USE_GITHUB_FORCE).then(epMap => {
+			return fetchJSON(`episodes/${libId}.json`, USE_GITHUB_FORCE || force).then(epMap => {
 				// episodes 文件中 key 是 season id，值是剧集数组
 				const episodes = []
 				for (const key in epMap) {
