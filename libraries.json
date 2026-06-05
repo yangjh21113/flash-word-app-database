@@ -7,7 +7,7 @@
     "type": "series",
     "total": 2400,
     "seasons": [
-      { "_id": "tbbt_s2", "name": "第二季", "total": 320, "episodes": 23 },
+      { "_id": "tbbt_s2", "name": "第二季", "total": 320, "episodes": 23 }
     ]
   }
 ]
