@@ -1,48 +1,73 @@
 [
   {
     "word": "yogurt",
-    "phonetic_us": "/ˈjoʊɡərt/",
-    "phonetic_uk": "",
-    "pos": ["n."],
-    "meaning": {
-      "zh": "n. 酸奶、酸乳酪",
-      "en": "n. a semi-solid sourish food prepared from milk"
-    },
-    "roots": { "note": "基础词汇" },
+    "phonetic": "/ˈjoʊɡərt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a semi-solid sourish food prepared from milk fermented by added bacteria"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": ["酸奶", "酸乳酪"],
     "examples": [
-      { "en": "I eat a cup of yogurt for breakfast.", "zh": "我早餐吃一杯酸奶。" }
+      { "en": "I eat a cup of yogurt for breakfast every day.", "cn": "我每天早上吃一杯酸奶。" },
+      { "en": "Greek yogurt is thicker than regular yogurt.", "cn": "希腊酸奶比普通酸奶更浓稠。" }
     ],
     "tags": ["S2", "E1"],
     "sort": 1
   },
   {
     "word": "yoga",
-    "phonetic_us": "/ˈjoʊɡə/",
-    "phonetic_uk": "",
-    "pos": ["n."],
-    "meaning": {
-      "zh": "n. 瑜伽",
-      "en": "n. a spiritual and ascetic discipline"
-    },
-    "roots": { "note": "基础词汇" },
+    "phonetic": "/ˈjoʊɡə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": ["瑜伽"],
     "examples": [
-      { "en": "She does yoga every morning.", "zh": "她每天做瑜伽。" }
+      { "en": "She does yoga every morning to stay flexible.", "cn": "她每天早上做瑜伽保持柔韧性。" },
+      { "en": "Yoga helps reduce stress and improve concentration.", "cn": "瑜伽有助于减压和提高专注力。" }
     ],
     "tags": ["S2", "E1"],
     "sort": 2
   },
   {
     "word": "pivot",
-    "phonetic_us": "/ˈpɪvət/",
-    "phonetic_uk": "",
-    "pos": ["n.", "v."],
-    "meaning": {
-      "zh": "n. 枢轴 v. 以...为中心",
-      "en": "n. central point; v. turn on"
-    },
-    "roots": { "note": "基础词汇" },
+    "phonetic": "/ˈpɪvət/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the central point on which a mechanism turns or oscillates"
+      },
+      {
+        "pos": "v.",
+        "translation": "turn on or as if on a pivot; change direction or focus"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": ["枢轴", "中心点", "以...为中心", "pivot（篮球）转身"],
     "examples": [
-      { "en": "Ross is the pivot of the group.", "zh": "Ross 是核心人物。" }
+      { "en": "Ross is the pivot of the group.", "cn": "Ross 是团队的核心人物。" },
+      { "en": "The company pivoted from hardware to software.", "cn": "公司从硬件转向了软件。" }
     ],
     "tags": ["S2", "E1"],
     "sort": 3
