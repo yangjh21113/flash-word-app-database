@@ -27,7 +27,10 @@
 		</scroll-view>
 
 		<!-- 词库列表 -->
-		<scroll-view class="content" scroll-y :show-scrollbar="false">
+		<scroll-view class="content" scroll-y :show-scrollbar="false"
+			refresher-enabled
+			:refresher-triggered="isRefreshing"
+			@refresherrefresh="onRefresh">
 			<view v-if="!loading">
 				<block v-for="group in filteredLibraries" :key="group.category">
 					<view class="section-header" v-if="activeCategory === 'all' && showSectionHeader(group)">
@@ -66,7 +69,7 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
-import { getLibraryList, getCategories, getCoverColor, getCoverTextColor } from '@/utils/cloud.js'
+import { getLibraryList, getCategories, getCoverColor, getCoverTextColor, clearGhCache } from '@/utils/cloud.js'
 
 const categories = ref([])
 const activeCategory = ref('all')
@@ -74,6 +77,7 @@ const keyword = ref('')
 const libraries = ref([])
 const loading = ref(true)
 const librariesCache = ref({})
+const isRefreshing = ref(false)
 
 const categoryNameMap = {
 	exam: '考试词汇',
@@ -83,7 +87,7 @@ const categoryNameMap = {
 }
 
 onMounted(async () => {
-	categories.value = getCategories()
+	categories.value = await getCategories()
 	const saved = uni.getStorageSync('currentLibraryId')
 	await fetchLibraries()
 	librariesCache.value[activeCategory.value] = libraries.value
@@ -94,10 +98,10 @@ onMounted(async () => {
 	}
 })
 
-const fetchLibraries = async () => {
+const fetchLibraries = async (force = false) => {
 	loading.value = true
 	try {
-		const res = await getLibraryList(activeCategory.value)
+		const res = await getLibraryList(activeCategory.value, force)
 		libraries.value = res.list || []
 		librariesCache.value[activeCategory.value] = libraries.value
 	} catch (e) {
@@ -122,7 +126,7 @@ const onSearch = (e) => {
 }
 
 const filteredLibraries = computed(() => {
-	let libs = libraries.value
+	let libs = libraries.value || []
 	if (keyword.value.trim()) {
 		const kw = keyword.value.trim().toLowerCase()
 		libs = libs.filter(lib => lib.name.toLowerCase().includes(kw))
@@ -154,6 +158,20 @@ const goDetail = (lib) => {
 	uni.navigateTo({
 		url: `/pages/library-detail/library-detail?id=${lib._id}&name=${lib.name}&type=${lib.type}`
 	})
+}
+
+const onRefresh = async () => {
+	isRefreshing.value = true
+	clearGhCache()
+	librariesCache.value = {}
+	try {
+		await fetchLibraries(true)
+		uni.showToast({ title: '已更新', icon: 'success', duration: 1500 })
+	} catch (e) {
+		uni.showToast({ title: '更新失败', icon: 'none' })
+	} finally {
+		isRefreshing.value = false
+	}
 }
 </script>
 

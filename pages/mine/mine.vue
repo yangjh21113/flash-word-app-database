@@ -245,7 +245,7 @@ const handleProfile = () => {
 	flex: 1;
 	position: relative;
 	border: 1px solid #EEEEEE;
-	border-radius: 8px;
+	border-radius: 12px;
 	padding: 32rpx 24rpx;
 	display: flex;
 	flex-direction: column;
