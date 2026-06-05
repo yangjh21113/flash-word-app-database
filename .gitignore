@@ -1,6 +1,5 @@
-# HBuilderX
-.hbuilderx/
-unpackage/
+# 构建产物（自动生成，不提交）
+flash-word-app-prod/build/
 
 # OS
 .DS_Store
@@ -11,6 +10,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+.hbuilderx/
 
 # Node
 node_modules/
