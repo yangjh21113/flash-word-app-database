@@ -1,4 +1,5 @@
 [
   { "key": "all", "name": "全部" },
+  { "key": "exam", "name": "考试" },
   { "key": "tv", "name": "影视" }
 ]

@@ -1,0 +1,1874 @@
+[
+  {
+    "word": "unattended",
+    "phonetic": "/ˌʌnəˈtendɪd/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "not being watched, looked after, or taken care of; not accompanied or attended by someone; without people present to provide service, assistance, or supervision"
+      }
+    ],
+    "roots": [
+      {
+        "part": "un-",
+        "meaning": "否定前缀"
+      },
+      {
+        "part": "at-",
+        "meaning": "向、往（ad- 的变体）"
+      },
+      {
+        "part": "tend-",
+        "meaning": "伸展、照顾"
+      },
+      {
+        "part": "-ed",
+        "meaning": "形容词后缀"
+      }
+    ],
+    "translations": [
+      "无人看管的，无人照料的",
+      "无人陪伴的",
+      "未处理的，被忽视的"
+    ],
+    "examples": [
+      {
+        "en": "Never leave young children unattended near water.",
+        "cn": "切勿将年幼的孩子单独留在水边无人看管。"
+      },
+      {
+        "en": "The unattended baggage was removed by airport security.",
+        "cn": "机场安检人员移走了无人看管的行李。"
+      },
+      {
+        "en": "His request for help went unattended for hours.",
+        "cn": "他寻求帮助的请求数小时无人理睬。"
+      }
+    ]
+  },
+  {
+    "word": "caesar",
+    "phonetic": "/ˈsiːzər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a title of Roman emperors after Julius Caesar; a ruler or dictator with absolute power; an emperor or autocrat; (in ancient Rome) a surname of the Julian family, especially Gaius Julius Caesar"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "凯撒（罗马皇帝头衔）",
+      "独裁者，统治者"
+    ],
+    "examples": [
+      {
+        "en": "Julius Caesar was assassinated on the Ides of March in 44 BC.",
+        "cn": "尤利乌斯·凯撒于公元前44年3月15日遇刺身亡。"
+      },
+      {
+        "en": "In ancient Rome, the title 'caesar' later came to mean the heir to the throne.",
+        "cn": "在古罗马，'凯撒'这一头衔后来意为皇位继承人。"
+      },
+      {
+        "en": "He acted like a caesar, expecting everyone to obey his every command.",
+        "cn": "他行事像个独裁者，期望每个人都服从他的每一个命令。"
+      }
+    ]
+  },
+  {
+    "word": "thread",
+    "phonetic": "/θred/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a long, thin strand of cotton, nylon, or other fibers used in sewing or weaving; a continuous connection or theme linking ideas, events, or conversations; a helical ridge on a screw or bolt"
+      },
+      {
+        "pos": "v.",
+        "translation": "to pass a thread through the eye of a needle; to move carefully through a narrow or crowded space; to interweave or streak with something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "线",
+      "线索，脉络",
+      "螺纹",
+      "穿（针）",
+      "穿过（狭小空间）"
+    ],
+    "examples": [
+      {
+        "en": "She sewed the button back on with a needle and thread.",
+        "cn": "她用针线把扣子重新缝上。"
+      },
+      {
+        "en": "I lost the thread of the conversation and had no idea what they were talking about.",
+        "cn": "我跟不上谈话的脉络，完全不知道他们在说什么。"
+      },
+      {
+        "en": "He threaded his way through the crowded market.",
+        "cn": "他穿过了拥挤的市场。"
+      }
+    ]
+  },
+  {
+    "word": "warrior",
+    "phonetic": "/ˈwɔːriər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who fights in battles and is known for courage and skill"
+      }
+    ],
+    "roots": [
+      {
+        "part": "war",
+        "meaning": "to fight"
+      },
+      {
+        "part": "-ior",
+        "meaning": "one who does"
+      }
+    ],
+    "translations": [
+      "战士",
+      "武士",
+      "勇士"
+    ],
+    "examples": [
+      {
+        "en": "The warrior returned home after a long battle.",
+        "cn": "战士在漫长的战斗后回到了家。"
+      },
+      {
+        "en": "She is a warrior for social justice.",
+        "cn": "她是社会正义的斗士。"
+      }
+    ]
+  },
+  {
+    "word": "gorgeous",
+    "phonetic": "/ˈɡɔːrdʒəs/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "beautiful, very attractive, or pleasing"
+      }
+    ],
+    "roots": [
+      {
+        "part": "gorge",
+        "meaning": "throat (obsolescent meaning 'adorned')"
+      },
+      {
+        "part": "-ous",
+        "meaning": "full of"
+      }
+    ],
+    "translations": [
+      "华丽的",
+      "灿烂的",
+      "极好的"
+    ],
+    "examples": [
+      {
+        "en": "You look absolutely gorgeous tonight.",
+        "cn": "你今晚看起来美极了。"
+      },
+      {
+        "en": "The sunset was gorgeous.",
+        "cn": "日落景色绚丽。"
+      }
+    ]
+  },
+  {
+    "word": "proper noun",
+    "phonetic": "/ˈprɑːpər naʊn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a name used for an individual person, place, or organization, spelled with initial capital letters"
+      }
+    ],
+    "roots": [
+      {
+        "part": "proper",
+        "meaning": "own, specific"
+      },
+      {
+        "part": "noun",
+        "meaning": "naming word"
+      }
+    ],
+    "translations": [
+      "专有名词"
+    ],
+    "examples": [
+      {
+        "en": "'London' is a proper noun.",
+        "cn": "“伦敦”是一个专有名词。"
+      },
+      {
+        "en": "Proper nouns are always capitalized.",
+        "cn": "专有名词总是大写。"
+      }
+    ]
+  },
+  {
+    "word": "grunt",
+    "phonetic": "/ɡrʌnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to make a low, short guttural sound"
+      },
+      {
+        "pos": "n.",
+        "translation": "a low, short guttural sound; an infantry soldier (slang)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "咕哝",
+      "发哼声",
+      "步兵"
+    ],
+    "examples": [
+      {
+        "en": "He grunted in response to my question.",
+        "cn": "他用一声咕哝回答了我的问题。"
+      },
+      {
+        "en": "The grunts carried heavy packs up the hill.",
+        "cn": "步兵们背着沉重的背包上山。"
+      }
+    ]
+  },
+  {
+    "word": "aspiring",
+    "phonetic": "/əˈspaɪərɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "directing one's hopes or ambitions toward becoming a particular type of person"
+      }
+    ],
+    "roots": [
+      {
+        "part": "a-",
+        "meaning": "toward"
+      },
+      {
+        "part": "spir",
+        "meaning": "breathe"
+      },
+      {
+        "part": "-ing",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "有抱负的",
+      "有追求的"
+    ],
+    "examples": [
+      {
+        "en": "The acting class is full of aspiring young actors.",
+        "cn": "表演课上充满了有抱负的年轻演员。"
+      },
+      {
+        "en": "An aspiring musician practices for hours every day.",
+        "cn": "一个有抱负的音乐家每天练习数小时。"
+      }
+    ]
+  },
+  {
+    "word": "chlorine",
+    "phonetic": "/ˈklɔːriːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a greenish-yellow, poisonous gas (Cl), used for disinfecting water"
+      }
+    ],
+    "roots": [
+      {
+        "part": "chlor-",
+        "meaning": "green (Greek)"
+      },
+      {
+        "part": "-ine",
+        "meaning": "chemical suffix"
+      }
+    ],
+    "translations": [
+      "氯",
+      "氯气"
+    ],
+    "examples": [
+      {
+        "en": "Chlorine is added to swimming pools to kill bacteria.",
+        "cn": "游泳池中加入氯以杀死细菌。"
+      },
+      {
+        "en": "The smell of bleach comes from chlorine.",
+        "cn": "漂白水的味道来自氯。"
+      }
+    ]
+  },
+  {
+    "word": "relish",
+    "phonetic": "/ˈrelɪʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "great enjoyment; a condiment or sauce"
+      },
+      {
+        "pos": "v.",
+        "translation": "to enjoy greatly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "享受",
+      "滋味",
+      "调味酱",
+      "喜爱"
+    ],
+    "examples": [
+      {
+        "en": "He ate the hot dog with mustard and relish.",
+        "cn": "他吃着加了芥末和调味酱的热狗。"
+      },
+      {
+        "en": "I relish the challenge of learning a new language.",
+        "cn": "我享受学习一门新语言的挑战。"
+      }
+    ]
+  },
+  {
+    "word": "protest",
+    "phonetic": "/prəˈtest/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to express strong objection; to declare firmly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a statement or action expressing disapproval"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pro-",
+        "meaning": "forth, before"
+      },
+      {
+        "part": "test",
+        "meaning": "witness"
+      }
+    ],
+    "translations": [
+      "抗议",
+      "反对",
+      "申明"
+    ],
+    "examples": [
+      {
+        "en": "Students protested the tuition increase.",
+        "cn": "学生们抗议学费上涨。"
+      },
+      {
+        "en": "She signed a letter of protest.",
+        "cn": "她签署了一封抗议信。"
+      }
+    ]
+  },
+  {
+    "word": "vociferously",
+    "phonetic": "/voʊˈsɪfərəsli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "in a loud and vehement manner"
+      }
+    ],
+    "roots": [
+      {
+        "part": "vox/voc-",
+        "meaning": "voice"
+      },
+      {
+        "part": "fer",
+        "meaning": "to carry"
+      },
+      {
+        "part": "-ous",
+        "meaning": "full of"
+      },
+      {
+        "part": "-ly",
+        "meaning": "adverb suffix"
+      }
+    ],
+    "translations": [
+      "大叫大嚷地",
+      "喧闹地"
+    ],
+    "examples": [
+      {
+        "en": "The crowd protested vociferously against the decision.",
+        "cn": "人群大声抗议该决定。"
+      },
+      {
+        "en": "He vociferously denied the allegations.",
+        "cn": "他大声否认了指控。"
+      }
+    ]
+  },
+  {
+    "word": "pseudo reality",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a false or simulated reality; an artificial world"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pseudo-",
+        "meaning": "false"
+      },
+      {
+        "part": "reality",
+        "meaning": "real existence"
+      }
+    ],
+    "translations": [
+      "伪现实",
+      "虚假现实"
+    ],
+    "examples": [
+      {
+        "en": "Virtual reality can feel like a pseudo reality.",
+        "cn": "虚拟现实感觉像是一种伪现实。"
+      },
+      {
+        "en": "The film explores the concept of pseudo reality created by media.",
+        "cn": "这部电影探讨了媒体创造的伪现实概念。"
+      }
+    ]
+  },
+  {
+    "word": "parliamentary",
+    "phonetic": "/ˌpɑːrləˈmentəri/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to a parliament or its procedures"
+      }
+    ],
+    "roots": [
+      {
+        "part": "parliament",
+        "meaning": "legislative body"
+      },
+      {
+        "part": "-ary",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "议会的",
+      "国会的",
+      "议会程序的"
+    ],
+    "examples": [
+      {
+        "en": "Parliamentary elections are held every five years.",
+        "cn": "议会选举每五年举行一次。"
+      },
+      {
+        "en": "The debate followed strict parliamentary procedure.",
+        "cn": "辩论遵循严格的议会程序。"
+      }
+    ]
+  },
+  {
+    "word": "preliminary",
+    "phonetic": "/prɪˈlɪmɪneri/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "preceding or leading up to the main action or event"
+      },
+      {
+        "pos": "n.",
+        "translation": "a preliminary event or action"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pre-",
+        "meaning": "before"
+      },
+      {
+        "part": "limin",
+        "meaning": "threshold"
+      },
+      {
+        "part": "-ary",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "初步的",
+      "预备的",
+      "开端"
+    ],
+    "examples": [
+      {
+        "en": "The team won the preliminary round.",
+        "cn": "该队赢得了预选赛。"
+      },
+      {
+        "en": "Preliminary results show a clear winner.",
+        "cn": "初步结果显示明显的胜者。"
+      }
+    ]
+  },
+  {
+    "word": "banality",
+    "phonetic": "/bəˈnæləti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the quality of being unoriginal, trite, or dull; a commonplace remark"
+      }
+    ],
+    "roots": [
+      {
+        "part": "banal",
+        "meaning": "commonplace (from French)"
+      },
+      {
+        "part": "-ity",
+        "meaning": "state or quality"
+      }
+    ],
+    "translations": [
+      "平庸",
+      "陈腐",
+      "老生常谈"
+    ],
+    "examples": [
+      {
+        "en": "The conversation was filled with banality.",
+        "cn": "谈话中充满了陈词滥调。"
+      },
+      {
+        "en": "He was bored by the banality of everyday life.",
+        "cn": "他对日常生活的平庸感到厌倦。"
+      }
+    ]
+  },
+  {
+    "word": "lenient",
+    "phonetic": "/ˈliːniənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "permissive, merciful, or tolerant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "leni-",
+        "meaning": "soft, mild"
+      },
+      {
+        "part": "-ent",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "宽大的",
+      "仁慈的",
+      "宽容的"
+    ],
+    "examples": [
+      {
+        "en": "The judge gave a lenient sentence to the first-time offender.",
+        "cn": "法官对初犯者从轻判决。"
+      },
+      {
+        "en": "My parents were lenient about my curfew.",
+        "cn": "我父母对我的宵禁很宽容。"
+      }
+    ]
+  },
+  {
+    "word": "permanent",
+    "phonetic": "/ˈpɜːrmənənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "lasting or intended to last indefinitely without change"
+      }
+    ],
+    "roots": [
+      {
+        "part": "per-",
+        "meaning": "throughout"
+      },
+      {
+        "part": "man",
+        "meaning": "to remain, stay"
+      },
+      {
+        "part": "-ent",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "永久的",
+      "持久的",
+      "固定的"
+    ],
+    "examples": [
+      {
+        "en": "The accident left a permanent scar.",
+        "cn": "事故留下了一道永久的伤疤。"
+      },
+      {
+        "en": "She found a permanent job after graduation.",
+        "cn": "她毕业后找到了一份固定工作。"
+      }
+    ]
+  },
+  {
+    "word": "metaphorically",
+    "phonetic": "/ˌmetəˈfɔːrɪkli/",
+    "partsOfSpeech": [
+      {
+        "pos": "adv.",
+        "translation": "in a way that uses metaphor; symbolically rather than literally"
+      }
+    ],
+    "roots": [
+      {
+        "part": "meta-",
+        "meaning": "beyond, change"
+      },
+      {
+        "part": "phor",
+        "meaning": "to carry"
+      },
+      {
+        "part": "-ical",
+        "meaning": "adjective suffix"
+      },
+      {
+        "part": "-ly",
+        "meaning": "adverb suffix"
+      }
+    ],
+    "translations": [
+      "隐喻地",
+      "比喻地"
+    ],
+    "examples": [
+      {
+        "en": "Metaphorically speaking, he was drowning in debt.",
+        "cn": "打个比方，他当时债台高筑。"
+      },
+      {
+        "en": "She used the word metaphorically, not literally.",
+        "cn": "她比喻性地使用了这个词，并非字面意思。"
+      }
+    ]
+  },
+  {
+    "word": "banish",
+    "phonetic": "/ˈbænɪʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to send someone away from a place as a punishment; to get rid of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ban",
+        "meaning": "to proclaim, forbid"
+      },
+      {
+        "part": "-ish",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "放逐",
+      "驱逐",
+      "消除"
+    ],
+    "examples": [
+      {
+        "en": "The king banished the traitor from the kingdom.",
+        "cn": "国王将叛徒逐出王国。"
+      },
+      {
+        "en": "Try to banish negative thoughts from your mind.",
+        "cn": "试着消除头脑中的消极想法。"
+      }
+    ]
+  },
+  {
+    "word": "triangulation",
+    "phonetic": "/traɪˌæŋɡjʊˈleɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the process of determining location using triangles; the division into triangles"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tri-",
+        "meaning": "three"
+      },
+      {
+        "part": "angul",
+        "meaning": "angle"
+      },
+      {
+        "part": "-ation",
+        "meaning": "process"
+      }
+    ],
+    "translations": [
+      "三角测量",
+      "三角剖分"
+    ],
+    "examples": [
+      {
+        "en": "Triangulation is used in surveying to measure distances.",
+        "cn": "三角测量用于测绘中测量距离。"
+      },
+      {
+        "en": "GPS uses triangulation to determine your position.",
+        "cn": "GPS 使用三角测量来确定你的位置。"
+      }
+    ]
+  },
+  {
+    "word": "almond",
+    "phonetic": "/ˈɑːmənd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an edible nut from the almond tree"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "杏仁",
+      "扁桃仁"
+    ],
+    "examples": [
+      {
+        "en": "She added sliced almonds to the salad.",
+        "cn": "她将杏仁片加入沙拉中。"
+      },
+      {
+        "en": "Almond milk is a popular dairy alternative.",
+        "cn": "杏仁奶是一种流行的乳制品替代品。"
+      }
+    ]
+  },
+  {
+    "word": "kosher",
+    "phonetic": "/ˈkoʊʃər/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "prepared according to Jewish dietary laws; legitimate or correct (informal)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（希伯来语借词）"
+      }
+    ],
+    "translations": [
+      "符合犹太教规的",
+      "合法的",
+      "正当的"
+    ],
+    "examples": [
+      {
+        "en": "Orthodox Jews only eat kosher food.",
+        "cn": "正统犹太教徒只吃符合教规的食物。"
+      },
+      {
+        "en": "That deal doesn't sound kosher to me.",
+        "cn": "那笔交易对我来说听起来不太正当。"
+      }
+    ]
+  },
+  {
+    "word": "quesadilla",
+    "phonetic": "/ˌkeɪsəˈdiːjə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a Mexican dish of a tortilla filled with cheese and other ingredients, then grilled"
+      }
+    ],
+    "roots": [
+      {
+        "part": "queso",
+        "meaning": "cheese (Spanish)"
+      },
+      {
+        "part": "-adilla",
+        "meaning": "diminutive suffix"
+      }
+    ],
+    "translations": [
+      "墨西哥起司饼",
+      "墨西哥薄饼馅饼"
+    ],
+    "examples": [
+      {
+        "en": "We ordered chicken quesadillas with salsa.",
+        "cn": "我们点了配莎莎酱的鸡肉墨西哥脆饼。"
+      },
+      {
+        "en": "Quesadilla is a quick and tasty snack.",
+        "cn": "墨西哥薄饼是一种又快又美味的小吃。"
+      }
+    ]
+  },
+  {
+    "word": "wagon",
+    "phonetic": "/ˈwæɡən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a vehicle for carrying goods, often drawn by horses; a station wagon"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "马车",
+      "货车",
+      "旅行车"
+    ],
+    "examples": [
+      {
+        "en": "The pioneers crossed the prairie in covered wagons.",
+        "cn": "拓荒者乘坐有篷马车穿越草原。"
+      },
+      {
+        "en": "She drives a red station wagon.",
+        "cn": "她开一辆红色旅行车。"
+      }
+    ]
+  },
+  {
+    "word": "nutcase",
+    "phonetic": "/ˈnʌtkeɪs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a crazy or eccentric person (informal)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "nut",
+        "meaning": "crazy person (slang)"
+      },
+      {
+        "part": "case",
+        "meaning": "instance, person"
+      }
+    ],
+    "translations": [
+      "疯子",
+      "怪人"
+    ],
+    "examples": [
+      {
+        "en": "He drives like a complete nutcase.",
+        "cn": "他开车像个十足的疯子。"
+      },
+      {
+        "en": "Don't listen to him; he's a nutcase.",
+        "cn": "别听他的，他是个怪人。"
+      }
+    ]
+  },
+  {
+    "word": "insanity",
+    "phonetic": "/ɪnˈsænəti/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the state of being seriously mentally ill; extreme foolishness or irrationality"
+      }
+    ],
+    "roots": [
+      {
+        "part": "in-",
+        "meaning": "not"
+      },
+      {
+        "part": "san",
+        "meaning": "healthy"
+      },
+      {
+        "part": "-ity",
+        "meaning": "state"
+      }
+    ],
+    "translations": [
+      "精神错乱",
+      "疯狂",
+      "愚蠢"
+    ],
+    "examples": [
+      {
+        "en": "The defendant pleaded insanity.",
+        "cn": "被告以精神错乱为由申辩。"
+      },
+      {
+        "en": "Doing the same thing and expecting different results is insanity.",
+        "cn": "做同样的事情却期待不同的结果是疯狂的。"
+      }
+    ]
+  },
+  {
+    "word": "knucking",
+    "phonetic": "/ˈnʌkɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v. (gerund)",
+        "translation": "pressing or striking with the knuckles"
+      }
+    ],
+    "roots": [
+      {
+        "part": "knuckle",
+        "meaning": "finger joint"
+      },
+      {
+        "part": "-ing",
+        "meaning": "action"
+      }
+    ],
+    "translations": [
+      "用指关节敲击"
+    ],
+    "examples": [
+      {
+        "en": "He was knucking on the door impatiently.",
+        "cn": "他不耐烦地用指关节敲着门。"
+      }
+    ]
+  },
+  {
+    "word": "military",
+    "phonetic": "/ˈmɪlɪteri/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to armed forces or war"
+      },
+      {
+        "pos": "n.",
+        "translation": "the armed forces of a country"
+      }
+    ],
+    "roots": [
+      {
+        "part": "milit-",
+        "meaning": "soldier"
+      },
+      {
+        "part": "-ary",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "军事的",
+      "军队的",
+      "军方"
+    ],
+    "examples": [
+      {
+        "en": "He served in the military for twenty years.",
+        "cn": "他在军队服役了二十年。"
+      },
+      {
+        "en": "The country faces a military threat.",
+        "cn": "该国面临军事威胁。"
+      }
+    ]
+  },
+  {
+    "word": "aircraft",
+    "phonetic": "/ˈerkræft/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "any vehicle capable of flight, such as an airplane, helicopter, or drone"
+      }
+    ],
+    "roots": [
+      {
+        "part": "air",
+        "meaning": "sky"
+      },
+      {
+        "part": "craft",
+        "meaning": "vehicle, vessel"
+      }
+    ],
+    "translations": [
+      "飞机",
+      "航空器"
+    ],
+    "examples": [
+      {
+        "en": "The aircraft took off despite the storm.",
+        "cn": "尽管有暴风雨，飞机还是起飞了。"
+      },
+      {
+        "en": "Military aircraft patrolled the border.",
+        "cn": "军用飞机在边境巡逻。"
+      }
+    ]
+  },
+  {
+    "word": "parasitic",
+    "phonetic": "/ˌpærəˈsɪtɪk/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "living as a parasite; exploiting others"
+      }
+    ],
+    "roots": [
+      {
+        "part": "para-",
+        "meaning": "beside"
+      },
+      {
+        "part": "sit",
+        "meaning": "food"
+      },
+      {
+        "part": "-ic",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "寄生的",
+      "寄生虫的"
+    ],
+    "examples": [
+      {
+        "en": "Tapeworms are parasitic flatworms.",
+        "cn": "绦虫是寄生扁虫。"
+      },
+      {
+        "en": "He led a parasitic lifestyle, living off his parents.",
+        "cn": "他过着寄生生活，靠父母养活。"
+      }
+    ]
+  },
+  {
+    "word": "parasite",
+    "phonetic": "/ˈpærəsaɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an organism that lives on or in a host and benefits at the host's expense"
+      }
+    ],
+    "roots": [
+      {
+        "part": "para-",
+        "meaning": "beside"
+      },
+      {
+        "part": "site",
+        "meaning": "food, grain"
+      }
+    ],
+    "translations": [
+      "寄生虫",
+      "寄生生物"
+    ],
+    "examples": [
+      {
+        "en": "Fleas are parasites on dogs and cats.",
+        "cn": "跳蚤是狗和猫身上的寄生虫。"
+      },
+      {
+        "en": "The parasite weakened the host organism.",
+        "cn": "寄生虫削弱了宿主生物体。"
+      }
+    ]
+  },
+  {
+    "word": "piggy",
+    "phonetic": "/ˈpɪɡi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a child's term for a pig"
+      },
+      {
+        "pos": "adj.",
+        "translation": "resembling or relating to a pig"
+      }
+    ],
+    "roots": [
+      {
+        "part": "pig",
+        "meaning": "animal"
+      },
+      {
+        "part": "-y",
+        "meaning": "diminutive suffix"
+      }
+    ],
+    "translations": [
+      "小猪",
+      "猪猪"
+    ],
+    "examples": [
+      {
+        "en": "This little piggy went to market.",
+        "cn": "这只小猪去赶集。（童谣）"
+      },
+      {
+        "en": "The child refused to be a piggy for the play.",
+        "cn": "孩子拒绝在剧中扮演小猪。"
+      }
+    ]
+  },
+  {
+    "word": "remedy",
+    "phonetic": "/ˈremədi/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a medicine or treatment for a disease; a solution to a problem"
+      },
+      {
+        "pos": "v.",
+        "translation": "to cure or correct"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "again"
+      },
+      {
+        "part": "med",
+        "meaning": "heal"
+      },
+      {
+        "part": "-y",
+        "meaning": "noun suffix"
+      }
+    ],
+    "translations": [
+      "疗法",
+      "补救",
+      "纠正"
+    ],
+    "examples": [
+      {
+        "en": "Honey is a traditional remedy for sore throats.",
+        "cn": "蜂蜜是治疗喉咙痛的传统疗法。"
+      },
+      {
+        "en": "We must remedy this situation immediately.",
+        "cn": "我们必须立即纠正这种情况。"
+      }
+    ]
+  },
+  {
+    "word": "reiterate",
+    "phonetic": "/riːˈɪtəreɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to say something again for emphasis"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "again"
+      },
+      {
+        "part": "iterate",
+        "meaning": "to repeat"
+      }
+    ],
+    "translations": [
+      "重申",
+      "反复说"
+    ],
+    "examples": [
+      {
+        "en": "Let me reiterate the most important points.",
+        "cn": "让我重申最重要的几点。"
+      },
+      {
+        "en": "The coach reiterated the need for teamwork.",
+        "cn": "教练反复强调团队合作的必要性。"
+      }
+    ]
+  },
+  {
+    "word": "villain",
+    "phonetic": "/ˈvɪlən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a wicked person; a character in a story who opposes the hero"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "恶棍",
+      "反派",
+      "坏人"
+    ],
+    "examples": [
+      {
+        "en": "The villain was defeated in the final scene.",
+        "cn": "反派在最后一幕被击败了。"
+      },
+      {
+        "en": "He's not a villain; he just made a mistake.",
+        "cn": "他不是坏人，只是犯了个错误。"
+      }
+    ],
+    "starred": false
+  },
+  {
+    "word": "rodeo",
+    "phonetic": "/ˈroʊdioʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a competitive event showcasing riding and roping skills with livestock"
+      }
+    ],
+    "roots": [
+      {
+        "part": "rodear",
+        "meaning": "to surround (Spanish)"
+      }
+    ],
+    "translations": [
+      "牛仔竞技"
+    ],
+    "examples": [
+      {
+        "en": "The rodeo featured bull riding and barrel racing.",
+        "cn": "牛仔竞技包括骑公牛和绕桶赛。"
+      },
+      {
+        "en": "He won a prize at the local rodeo.",
+        "cn": "他在当地的牛仔竞技比赛中获奖。"
+      }
+    ]
+  },
+  {
+    "word": "hogtie",
+    "phonetic": "/ˈhɔːɡtaɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to tie all four legs of an animal together; to restrict or thwart"
+      }
+    ],
+    "roots": [
+      {
+        "part": "hog",
+        "meaning": "pig"
+      },
+      {
+        "part": "tie",
+        "meaning": "bind"
+      }
+    ],
+    "translations": [
+      "捆缚（四腿）",
+      "束缚"
+    ],
+    "examples": [
+      {
+        "en": "The cowboys hogtied the calf.",
+        "cn": "牛仔们把小牛的腿捆在一起。"
+      },
+      {
+        "en": "The new regulations hogtie small businesses.",
+        "cn": "新规定束缚了小企业。"
+      }
+    ]
+  },
+  {
+    "word": "castrate",
+    "phonetic": "/ˈkæstreɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to remove the testicles of a male animal or person"
+      }
+    ],
+    "roots": [
+      {
+        "part": "castr-",
+        "meaning": "to cut, remove"
+      },
+      {
+        "part": "-ate",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "阉割"
+    ],
+    "examples": [
+      {
+        "en": "Farmers often castrate male piglets to improve meat quality.",
+        "cn": "农民通常阉割雄性小猪以提高肉质。"
+      },
+      {
+        "en": "The law forbids castration without medical necessity.",
+        "cn": "法律禁止无医疗必要的阉割。"
+      }
+    ]
+  },
+  {
+    "word": "neuter",
+    "phonetic": "/ˈnuːtər/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "of neither male nor female gender; (grammar) not masculine or feminine"
+      },
+      {
+        "pos": "v.",
+        "translation": "to spay or castrate an animal"
+      }
+    ],
+    "roots": [
+      {
+        "part": "neuter",
+        "meaning": "neither (Latin)"
+      }
+    ],
+    "translations": [
+      "中性的",
+      "绝育"
+    ],
+    "examples": [
+      {
+        "en": "In German, 'Mädchen' (girl) is neuter.",
+        "cn": "在德语中，'Mädchen'（女孩）是中性词。"
+      },
+      {
+        "en": "We had our cat neutered.",
+        "cn": "我们给猫做了绝育手术。"
+      }
+    ]
+  },
+  {
+    "word": "puny",
+    "phonetic": "/ˈpjuːni/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "small and weak; inadequate"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "弱小的",
+      "微弱的"
+    ],
+    "examples": [
+      {
+        "en": "The kitten was puny compared to its siblings.",
+        "cn": "这只小猫与它的同胞相比显得弱小。"
+      },
+      {
+        "en": "He offered a puny excuse for being late.",
+        "cn": "他为迟到提供了一个微不足道的借口。"
+      }
+    ]
+  },
+  {
+    "word": "circumvent",
+    "phonetic": "/ˌsɜːrkəmˈvent/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to find a way around an obstacle or rule; to outwit"
+      }
+    ],
+    "roots": [
+      {
+        "part": "circum-",
+        "meaning": "around"
+      },
+      {
+        "part": "vent",
+        "meaning": "to come"
+      }
+    ],
+    "translations": [
+      "规避",
+      "绕过"
+    ],
+    "examples": [
+      {
+        "en": "They circumvented the security system.",
+        "cn": "他们绕过了安全系统。"
+      },
+      {
+        "en": "She tried to circumvent the rules without breaking them.",
+        "cn": "她试图在不违反规则的情况下规避它们。"
+      }
+    ]
+  },
+  {
+    "word": "excrement",
+    "phonetic": "/ˈekskrɪmənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "waste matter discharged from the bowels"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ex-",
+        "meaning": "out"
+      },
+      {
+        "part": "crement",
+        "meaning": "to separate, sift"
+      }
+    ],
+    "translations": [
+      "粪便",
+      "排泄物"
+    ],
+    "examples": [
+      {
+        "en": "Dog owners must clean up their pets' excrement.",
+        "cn": "狗主人必须清理宠物的粪便。"
+      },
+      {
+        "en": "The lab analyzes animal excrement for health studies.",
+        "cn": "实验室分析动物粪便用于健康研究。"
+      }
+    ]
+  },
+  {
+    "word": "anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to expect or foresee; to act in advance of"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ante-",
+        "meaning": "before"
+      },
+      {
+        "part": "cip",
+        "meaning": "take"
+      },
+      {
+        "part": "-ate",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "预期",
+      "期待",
+      "预见"
+    ],
+    "examples": [
+      {
+        "en": "We anticipate heavy traffic tomorrow.",
+        "cn": "我们预计明天交通会很拥堵。"
+      },
+      {
+        "en": "She anticipated his question and answered before he asked.",
+        "cn": "她预见到了他的问题，在他发问前就回答了。"
+      }
+    ]
+  },
+  {
+    "word": "participate",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to take part in an activity or event"
+      }
+    ],
+    "roots": [
+      {
+        "part": "part",
+        "meaning": "part, share"
+      },
+      {
+        "part": "cip",
+        "meaning": "take"
+      },
+      {
+        "part": "-ate",
+        "meaning": "verb suffix"
+      }
+    ],
+    "translations": [
+      "参加",
+      "参与"
+    ],
+    "examples": [
+      {
+        "en": "All students are encouraged to participate in sports.",
+        "cn": "鼓励所有学生参加体育运动。"
+      },
+      {
+        "en": "She actively participated in the discussion.",
+        "cn": "她积极参与了讨论。"
+      }
+    ]
+  },
+  {
+    "word": "unattend",
+    "phonetic": "/ˌʌnəˈtend/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to not attend or pay attention to"
+      }
+    ],
+    "roots": [
+      {
+        "part": "un-",
+        "meaning": "not"
+      },
+      {
+        "part": "attend",
+        "meaning": "to pay attention"
+      }
+    ],
+    "translations": [
+      "不参与",
+      "不注意"
+    ],
+    "examples": [
+      {
+        "en": "You must not unattend your duties.",
+        "cn": "你不能忽视你的职责。"
+      }
+    ]
+  },
+  {
+    "word": "undergarment",
+    "phonetic": "/ˈʌndərɡɑːrmənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an article of clothing worn beneath outer clothes"
+      }
+    ],
+    "roots": [
+      {
+        "part": "under",
+        "meaning": "beneath"
+      },
+      {
+        "part": "garment",
+        "meaning": "clothing"
+      }
+    ],
+    "translations": [
+      "内衣",
+      "贴身衣物"
+    ],
+    "examples": [
+      {
+        "en": "The store sells undergarments for men and women.",
+        "cn": "这家商店出售男女内衣。"
+      },
+      {
+        "en": "Silk undergarments are very comfortable.",
+        "cn": "丝绸内衣非常舒适。"
+      }
+    ]
+  },
+  {
+    "word": "gaze",
+    "phonetic": "/ɡeɪz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to look steadily and intently"
+      },
+      {
+        "pos": "n.",
+        "translation": "a steady, intent look"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "凝视",
+      "注视"
+    ],
+    "examples": [
+      {
+        "en": "She gazed out the window at the sunset.",
+        "cn": "她凝视着窗外的日落。"
+      },
+      {
+        "en": "He avoided her gaze.",
+        "cn": "他避开了她的注视。"
+      }
+    ]
+  },
+  {
+    "word": "brassiere",
+    "phonetic": "/brəˈzɪr/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a woman's undergarment that supports the breasts (bra)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "brassiere",
+        "meaning": "child's bodice (French)"
+      }
+    ],
+    "translations": [
+      "胸罩",
+      "文胸"
+    ],
+    "examples": [
+      {
+        "en": "She bought a new brassiere that fits perfectly.",
+        "cn": "她买了一件非常合身的新胸罩。"
+      },
+      {
+        "en": "Brassiere sizes vary by brand.",
+        "cn": "文胸尺码因品牌而异。"
+      }
+    ]
+  },
+  {
+    "word": "brass",
+    "phonetic": "/bræs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a yellow alloy of copper and zinc; top military officers (the brass)"
+      },
+      {
+        "pos": "adj.",
+        "translation": "made of brass"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "黄铜",
+      "铜管乐器",
+      "高级军官"
+    ],
+    "examples": [
+      {
+        "en": "The door handle is made of brass.",
+        "cn": "门把手是黄铜做的。"
+      },
+      {
+        "en": "The brass decided to change the strategy.",
+        "cn": "高层军官决定改变战略。"
+      }
+    ]
+  },
+  {
+    "word": "electrocute",
+    "phonetic": "/ɪˈlektrəkjuːt/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to injure or kill with electric shock"
+      }
+    ],
+    "roots": [
+      {
+        "part": "electro-",
+        "meaning": "electricity"
+      },
+      {
+        "part": "cute",
+        "meaning": "execute (from Latin)"
+      }
+    ],
+    "translations": [
+      "电死",
+      "电击致死"
+    ],
+    "examples": [
+      {
+        "en": "He was electrocuted while fixing a power line.",
+        "cn": "他在修理电线时触电身亡。"
+      },
+      {
+        "en": "Only a fool would touch that wire and risk being electrocuted.",
+        "cn": "只有傻瓜才会碰那根电线，冒着被电死的危险。"
+      }
+    ]
+  },
+  {
+    "word": "satellite",
+    "phonetic": "/ˈsætəlaɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an object that orbits a planet; a man-made device placed in orbit for communication or observation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "satellit-",
+        "meaning": "attendant, follower"
+      }
+    ],
+    "translations": [
+      "卫星",
+      "人造卫星"
+    ],
+    "examples": [
+      {
+        "en": "The moon is Earth's only natural satellite.",
+        "cn": "月球是地球唯一的天然卫星。"
+      },
+      {
+        "en": "Satellite TV provides many channels.",
+        "cn": "卫星电视提供许多频道。"
+      }
+    ]
+  },
+  {
+    "word": "rescind",
+    "phonetic": "/rɪˈsɪnd/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to revoke, cancel, or repeal a law, order, or agreement"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "back"
+      },
+      {
+        "part": "scind",
+        "meaning": "to cut"
+      }
+    ],
+    "translations": [
+      "废除",
+      "取消",
+      "撤销"
+    ],
+    "examples": [
+      {
+        "en": "The company rescinded the job offer.",
+        "cn": "公司撤回了工作录用通知。"
+      },
+      {
+        "en": "The government voted to rescind the unpopular law.",
+        "cn": "政府投票废除了这项不得人心的法律。"
+      }
+    ]
+  }
+]

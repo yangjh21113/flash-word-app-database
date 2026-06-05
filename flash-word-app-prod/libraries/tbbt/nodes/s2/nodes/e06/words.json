@@ -1,0 +1,1621 @@
+[
+  {
+    "word": "helium",
+    "phonetic": "/ˈhiːliəm/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a light, colorless, inert gas (He), used in balloons and as a coolant"
+      }
+    ],
+    "roots": [
+      {
+        "part": "heli-",
+        "meaning": "sun (from Greek helios)"
+      },
+      {
+        "part": "-ium",
+        "meaning": "chemical element suffix"
+      }
+    ],
+    "translations": [
+      "氦",
+      "氦气"
+    ],
+    "examples": [
+      {
+        "en": "Helium balloons float because the gas is lighter than air.",
+        "cn": "氦气球会飘浮，因为这种气体比空气轻。"
+      },
+      {
+        "en": "Liquid helium is used to cool superconducting magnets.",
+        "cn": "液氦用于冷却超导磁体。"
+      }
+    ]
+  },
+  {
+    "word": "thermo",
+    "phonetic": "/ˈθɜːrmoʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "thermostat; thermos (informal)"
+      },
+      {
+        "pos": "prefix",
+        "translation": "relating to heat"
+      }
+    ],
+    "roots": [
+      {
+        "part": "therm-",
+        "meaning": "heat (Greek)"
+      },
+      {
+        "part": "-o",
+        "meaning": "combining vowel"
+      }
+    ],
+    "translations": [
+      "恒温器",
+      "保温瓶",
+      "热"
+    ],
+    "examples": [
+      {
+        "en": "Turn up the thermo; it's cold in here.",
+        "cn": "把恒温器调高，这里太冷了。"
+      },
+      {
+        "en": "Thermo is a combining form meaning heat.",
+        "cn": "Thermo 是一个表示热的构词成分。"
+      }
+    ]
+  },
+  {
+    "word": "labradoodle",
+    "phonetic": "/ˈlæbrəduːdl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a crossbred dog with a Labrador Retriever and a Poodle parent"
+      }
+    ],
+    "roots": [
+      {
+        "part": "Labrador",
+        "meaning": "Labrador Retriever breed"
+      },
+      {
+        "part": "oodle",
+        "meaning": "from Poodle"
+      }
+    ],
+    "translations": [
+      "拉布拉多贵宾犬（拉布拉多与贵宾犬杂交品种）"
+    ],
+    "examples": [
+      {
+        "en": "The labradoodle is known for its hypoallergenic coat.",
+        "cn": "拉布拉多贵宾犬以其低致敏性的毛发而闻名。"
+      },
+      {
+        "en": "Our labradoodle is very friendly and smart.",
+        "cn": "我们的拉布拉多贵宾犬非常友好且聪明。"
+      }
+    ]
+  },
+  {
+    "word": "volcano",
+    "phonetic": "/vɑːlˈkeɪnoʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a mountain or hill with a vent through which lava, rock, and gas erupt"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "火山"
+    ],
+    "examples": [
+      {
+        "en": "The volcano erupted after being dormant for centuries.",
+        "cn": "这座火山在休眠了数世纪后喷发了。"
+      },
+      {
+        "en": "Volcanic ash can disrupt air travel.",
+        "cn": "火山灰会干扰航空旅行。"
+      }
+    ]
+  },
+  {
+    "word": "lava",
+    "phonetic": "/ˈlɑːvə/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "molten rock that flows from a volcano"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "熔岩"
+    ],
+    "examples": [
+      {
+        "en": "Lava flows destroyed several houses.",
+        "cn": "熔岩流摧毁了几座房屋。"
+      },
+      {
+        "en": "The lava cooled and formed new rock.",
+        "cn": "熔岩冷却后形成了新的岩石。"
+      }
+    ]
+  },
+  {
+    "word": "weep",
+    "phonetic": "/wiːp/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to cry tears; to exude liquid slowly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a fit of crying"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "哭泣",
+      "流泪",
+      "渗出"
+    ],
+    "examples": [
+      {
+        "en": "She wept with joy when she heard the news.",
+        "cn": "听到消息时她喜极而泣。"
+      },
+      {
+        "en": "The wound was weeping fluid.",
+        "cn": "伤口在渗出液体。"
+      }
+    ]
+  },
+  {
+    "word": "calzone",
+    "phonetic": "/kælˈzoʊneɪ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a folded Italian pizza filled with cheese, meat, or vegetables"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（意大利语借词）"
+      }
+    ],
+    "translations": [
+      "意大利饺形披萨",
+      "半月披萨"
+    ],
+    "examples": [
+      {
+        "en": "He ordered a calzone filled with ricotta and ham.",
+        "cn": "他点了一个装填里科塔奶酪和火腿的半月披萨。"
+      },
+      {
+        "en": "Calzone is like a folded pizza.",
+        "cn": "半月披萨就像是折叠起来的披萨。"
+      }
+    ]
+  },
+  {
+    "word": "secondrate",
+    "phonetic": "/ˌsekəndˈreɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "of mediocre or inferior quality"
+      }
+    ],
+    "roots": [
+      {
+        "part": "second",
+        "meaning": "next after first"
+      },
+      {
+        "part": "rate",
+        "meaning": "class, quality"
+      }
+    ],
+    "translations": [
+      "二流的",
+      "平庸的"
+    ],
+    "examples": [
+      {
+        "en": "The movie was a secondrate imitation of a classic.",
+        "cn": "那部电影是对经典的二流模仿。"
+      },
+      {
+        "en": "He refused to accept secondrate work from his team.",
+        "cn": "他拒绝接受团队做出的平庸工作。"
+      }
+    ]
+  },
+  {
+    "word": "unification",
+    "phonetic": "/ˌjuːnɪfɪˈkeɪʃən/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the process of bringing together separate parts into a single unit"
+      }
+    ],
+    "roots": [
+      {
+        "part": "uni-",
+        "meaning": "one"
+      },
+      {
+        "part": "-fication",
+        "meaning": "making"
+      }
+    ],
+    "translations": [
+      "统一",
+      "联合"
+    ],
+    "examples": [
+      {
+        "en": "The unification of Germany occurred in 1990.",
+        "cn": "德国统一发生于1990年。"
+      },
+      {
+        "en": "Unification of the two companies created a giant corporation.",
+        "cn": "两家公司的合并创造了一家巨头企业。"
+      }
+    ]
+  },
+  {
+    "word": "condensate",
+    "phonetic": "/kənˈdenseɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "liquid formed by condensation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "con-",
+        "meaning": "together"
+      },
+      {
+        "part": "dens",
+        "meaning": "thick"
+      },
+      {
+        "part": "-ate",
+        "meaning": "noun"
+      }
+    ],
+    "translations": [
+      "冷凝液",
+      "凝结物"
+    ],
+    "examples": [
+      {
+        "en": "Bose-Einstein condensate is a state of matter at near absolute zero.",
+        "cn": "玻色-爱因斯坦凝聚态是接近绝对零度时的一种物质状态。"
+      },
+      {
+        "en": "Water condensate dripped from the air conditioner.",
+        "cn": "冷凝水从空调滴下。"
+      }
+    ]
+  },
+  {
+    "word": "gauge",
+    "phonetic": "/ɡeɪdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an instrument for measuring; the thickness or diameter of something"
+      },
+      {
+        "pos": "v.",
+        "translation": "to estimate or measure"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "测量仪",
+      "规格",
+      "估计"
+    ],
+    "examples": [
+      {
+        "en": "The fuel gauge showed empty.",
+        "cn": "燃油表显示空了。"
+      },
+      {
+        "en": "It's hard to gauge his mood.",
+        "cn": "很难揣测他的情绪。"
+      }
+    ]
+  },
+  {
+    "word": "neutrino",
+    "phonetic": "/nuːˈtriːnoʊ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a subatomic particle with very little mass and no electric charge"
+      }
+    ],
+    "roots": [
+      {
+        "part": "neutr-",
+        "meaning": "neutral"
+      },
+      {
+        "part": "-ino",
+        "meaning": "small (Italian diminutive)"
+      }
+    ],
+    "translations": [
+      "中微子"
+    ],
+    "examples": [
+      {
+        "en": "Neutrinos pass through most matter without interacting.",
+        "cn": "中微子穿过大多数物质而不发生相互作用。"
+      },
+      {
+        "en": "Millions of neutrinos from the sun pass through your body every second.",
+        "cn": "每秒有数百万来自太阳的中微子穿过你的身体。"
+      }
+    ]
+  },
+  {
+    "word": "cutlery",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": " utensils for eating"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": ""
+      }
+    ],
+    "translations": [
+      "餐具"
+    ],
+    "examples": [
+      {
+        "en": "The correct spelling is cutlery, meaning knives, forks, and spoons.",
+        "cn": "意为刀叉勺等餐具。"
+      }
+    ]
+  },
+  {
+    "word": "cutlery",
+    "phonetic": "",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "cutlery ; utensils for eating"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": ""
+      }
+    ],
+    "translations": [
+      "餐具"
+    ],
+    "examples": [
+      {
+        "en": "The correct spelling is cutlery, meaning knives, forks, and spoons.",
+        "cn": "意为刀叉勺等餐具。"
+      }
+    ]
+  },
+  {
+    "word": "trident",
+    "phonetic": "/ˈtraɪdnt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a three-pronged spear, especially associated with the sea god Poseidon"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tri-",
+        "meaning": "three"
+      },
+      {
+        "part": "dent",
+        "meaning": "tooth"
+      }
+    ],
+    "translations": [
+      "三叉戟"
+    ],
+    "examples": [
+      {
+        "en": "Poseidon is often depicted holding a trident.",
+        "cn": "波塞冬常被描绘为手持三叉戟。"
+      },
+      {
+        "en": "The fisherman used a trident to spear fish.",
+        "cn": "渔夫用三叉戟叉鱼。"
+      }
+    ]
+  },
+  {
+    "word": "mantis",
+    "phonetic": "/ˈmæntɪs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a predatory insect with long forelegs folded as if in prayer (praying mantis)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mantis",
+        "meaning": "prophet, seer (Greek)"
+      }
+    ],
+    "translations": [
+      "螳螂"
+    ],
+    "examples": [
+      {
+        "en": "The praying mantis is known for its hunting skills.",
+        "cn": "螳螂以其捕猎技巧而闻名。"
+      },
+      {
+        "en": "The female mantis sometimes eats the male after mating.",
+        "cn": "雌性螳螂有时会在交配后吃掉雄性。"
+      }
+    ]
+  },
+  {
+    "word": "symmetry",
+    "phonetic": "/ˈsɪmətri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "balanced proportions; similarity of parts facing each other"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sym-",
+        "meaning": "together"
+      },
+      {
+        "part": "metry",
+        "meaning": "measure"
+      }
+    ],
+    "translations": [
+      "对称",
+      "匀称"
+    ],
+    "examples": [
+      {
+        "en": "Butterfly wings exhibit perfect symmetry.",
+        "cn": "蝴蝶翅膀呈现出完美的对称。"
+      },
+      {
+        "en": "The building's design has a pleasing symmetry.",
+        "cn": "这栋建筑的设计具有令人愉悦的对称性。"
+      }
+    ]
+  },
+  {
+    "word": "exhilarating",
+    "phonetic": "/ɪɡˈzɪləreɪtɪŋ/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "making one feel very happy, animated, or elated"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ex-",
+        "meaning": "out"
+      },
+      {
+        "part": "hilar",
+        "meaning": "cheerful"
+      },
+      {
+        "part": "-ating",
+        "meaning": "causing"
+      }
+    ],
+    "translations": [
+      "令人兴奋的",
+      "使人愉快的"
+    ],
+    "examples": [
+      {
+        "en": "The roller coaster ride was exhilarating.",
+        "cn": "过山车 ride 令人兴奋。"
+      },
+      {
+        "en": "We had an exhilarating hike to the mountain peak.",
+        "cn": "我们有一次令人振奋的徒步登顶经历。"
+      }
+    ]
+  },
+  {
+    "word": "mitosis",
+    "phonetic": "/maɪˈtoʊsɪs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "cell division that produces two identical daughter cells"
+      }
+    ],
+    "roots": [
+      {
+        "part": "mit-",
+        "meaning": "thread"
+      },
+      {
+        "part": "-osis",
+        "meaning": "process"
+      }
+    ],
+    "translations": [
+      "有丝分裂"
+    ],
+    "examples": [
+      {
+        "en": "Mitosis is essential for growth and repair in organisms.",
+        "cn": "有丝分裂对于生物体的生长和修复至关重要。"
+      },
+      {
+        "en": "During mitosis, chromosomes are duplicated and separated.",
+        "cn": "在有丝分裂过程中，染色体被复制并分离。"
+      }
+    ]
+  },
+  {
+    "word": "larval",
+    "phonetic": "/ˈlɑːrvl/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "relating to the immature stage of an insect or animal"
+      }
+    ],
+    "roots": [
+      {
+        "part": "larva",
+        "meaning": "immature form"
+      },
+      {
+        "part": "-al",
+        "meaning": "relating to"
+      }
+    ],
+    "translations": [
+      "幼虫的"
+    ],
+    "examples": [
+      {
+        "en": "The larval stage of a butterfly is a caterpillar.",
+        "cn": "蝴蝶的幼虫阶段是毛虫。"
+      },
+      {
+        "en": "Larval development occurs in water for many amphibians.",
+        "cn": "对许多两栖动物来说，幼虫发育在水中进行。"
+      }
+    ]
+  },
+  {
+    "word": "cocoon",
+    "phonetic": "/kəˈkuːn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a silky case spun by insect larvae for protection during pupation"
+      },
+      {
+        "pos": "v.",
+        "translation": "to wrap or protect something as if in a cocoon"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "茧",
+      "保护膜",
+      "包裹"
+    ],
+    "examples": [
+      {
+        "en": "The caterpillar built a cocoon around itself.",
+        "cn": "毛虫在自己周围造了一个茧。"
+      },
+      {
+        "en": "She cocooned herself in blankets.",
+        "cn": "她把自己裹在毯子里。"
+      }
+    ]
+  },
+  {
+    "word": "moth",
+    "phonetic": "/mɔːθ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an insect similar to a butterfly, usually active at night"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "飞蛾",
+      "蛾子"
+    ],
+    "examples": [
+      {
+        "en": "Moths are attracted to light.",
+        "cn": "飞蛾有趋光性。"
+      },
+      {
+        "en": "Clothes moths can damage woolen garments.",
+        "cn": "衣蛾会损坏羊毛衣物。"
+      }
+    ]
+  },
+  {
+    "word": "exoskeleton",
+    "phonetic": "/ˌeksoʊˈskelɪtn/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a rigid external covering for the body, as in insects and crustaceans"
+      }
+    ],
+    "roots": [
+      {
+        "part": "exo-",
+        "meaning": "outside"
+      },
+      {
+        "part": "skeleton",
+        "meaning": "framework"
+      }
+    ],
+    "translations": [
+      "外骨骼"
+    ],
+    "examples": [
+      {
+        "en": "Crabs have a hard exoskeleton that they must molt to grow.",
+        "cn": "螃蟹有坚硬的外骨骼，必须蜕皮才能生长。"
+      },
+      {
+        "en": "The insect's exoskeleton protects its internal organs.",
+        "cn": "昆虫的外骨骼保护其内部器官。"
+      }
+    ]
+  },
+  {
+    "word": "suppository",
+    "phonetic": "/səˈpɑːzɪtɔːri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a solid medical preparation inserted into the rectum or vagina to deliver medicine"
+      }
+    ],
+    "roots": [
+      {
+        "part": "suppos-",
+        "meaning": "to place under"
+      },
+      {
+        "part": "-itory",
+        "meaning": "place for"
+      }
+    ],
+    "translations": [
+      "栓剂"
+    ],
+    "examples": [
+      {
+        "en": "The doctor prescribed suppositories for the patient.",
+        "cn": "医生给病人开了栓剂。"
+      },
+      {
+        "en": "Suppositories melt at body temperature to release the drug.",
+        "cn": "栓剂在体温下融化以释放药物。"
+      }
+    ]
+  },
+  {
+    "word": "revere",
+    "phonetic": "/rɪˈvɪr/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to feel deep respect and admiration for someone"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "again"
+      },
+      {
+        "part": "ver",
+        "meaning": "to fear, respect"
+      }
+    ],
+    "translations": [
+      "尊敬",
+      "崇敬"
+    ],
+    "examples": [
+      {
+        "en": "Nelson Mandela is revered around the world.",
+        "cn": "纳尔逊·曼德拉受到全世界的尊敬。"
+      },
+      {
+        "en": "The ancient Romans revered their gods.",
+        "cn": "古罗马人崇敬他们的神。"
+      }
+    ]
+  },
+  {
+    "word": "spinach",
+    "phonetic": "/ˈspɪnɪtʃ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a leafy green vegetable with edible leaves"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "菠菜"
+    ],
+    "examples": [
+      {
+        "en": "Spinach is rich in iron and vitamins.",
+        "cn": "菠菜富含铁和维生素。"
+      },
+      {
+        "en": "Popeye eats spinach to become strong.",
+        "cn": "大力水手吃菠菜来变得强壮。"
+      }
+    ]
+  },
+  {
+    "word": "omelet",
+    "phonetic": "/ˈɑːmlət/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a dish of beaten eggs fried with fillings like cheese or vegetables"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "煎蛋卷",
+      "欧姆蛋"
+    ],
+    "examples": [
+      {
+        "en": "She made a cheese omelet for breakfast.",
+        "cn": "她做了奶酪煎蛋卷当早餐。"
+      },
+      {
+        "en": "You can't make an omelet without breaking eggs.",
+        "cn": "不打破鸡蛋就做不成煎蛋卷（有得必有失）。"
+      }
+    ]
+  },
+  {
+    "word": "vigilant",
+    "phonetic": "/ˈvɪdʒɪlənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "keeping careful watch for possible danger or difficulties"
+      }
+    ],
+    "roots": [
+      {
+        "part": "vigil",
+        "meaning": "wakefulness"
+      },
+      {
+        "part": "-ant",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "警惕的",
+      "警觉的"
+    ],
+    "examples": [
+      {
+        "en": "Security guards must be vigilant at all times.",
+        "cn": "保安必须时刻保持警惕。"
+      },
+      {
+        "en": "Be vigilant against online scams.",
+        "cn": "警惕网络诈骗。"
+      }
+    ]
+  },
+  {
+    "word": "fence",
+    "phonetic": "/fens/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a barrier enclosing an area; a receiver of stolen goods"
+      },
+      {
+        "pos": "v.",
+        "translation": "to fight with a sword; to sell stolen goods"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "栅栏",
+      "篱笆",
+      "击剑",
+      "销赃"
+    ],
+    "examples": [
+      {
+        "en": "The garden is surrounded by a wooden fence.",
+        "cn": "花园被木栅栏围着。"
+      },
+      {
+        "en": "He learned to fence at the academy.",
+        "cn": "他在学院学习击剑。"
+      }
+    ]
+  },
+  {
+    "word": "grad",
+    "phonetic": "/ɡræd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "short for graduate; a person who has completed a degree"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析（缩写）"
+      }
+    ],
+    "translations": [
+      "毕业生",
+      "研究生"
+    ],
+    "examples": [
+      {
+        "en": "She is a law school grad.",
+        "cn": "她是法学院毕业生。"
+      },
+      {
+        "en": "Grad school applications are due next month.",
+        "cn": "研究生院申请下个月截止。"
+      }
+    ]
+  },
+  {
+    "word": "verge",
+    "phonetic": "/vɜːrdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "an edge or border; the brink of something"
+      },
+      {
+        "pos": "v.",
+        "translation": "to be on the edge of something"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "边缘",
+      "边界",
+      "濒临"
+    ],
+    "examples": [
+      {
+        "en": "The country is on the verge of war.",
+        "cn": "该国濒临战争边缘。"
+      },
+      {
+        "en": "His anger verged on madness.",
+        "cn": "他的愤怒近乎疯狂。"
+      }
+    ]
+  },
+  {
+    "word": "ridge",
+    "phonetic": "/rɪdʒ/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a long narrow hilltop or mountain range; a raised line"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "山脊",
+      "脊",
+      "隆起"
+    ],
+    "examples": [
+      {
+        "en": "We hiked along the ridge for a better view.",
+        "cn": "我们沿着山脊徒步以获取更好的视野。"
+      },
+      {
+        "en": "The roof has a ridge at the peak.",
+        "cn": "屋顶最高处有条脊。"
+      }
+    ]
+  },
+  {
+    "word": "witty",
+    "phonetic": "/ˈwɪti/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "showing quick and inventive verbal humor"
+      }
+    ],
+    "roots": [
+      {
+        "part": "wit",
+        "meaning": "intelligence"
+      },
+      {
+        "part": "-y",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "机智的",
+      "诙谐的"
+    ],
+    "examples": [
+      {
+        "en": "Her witty remarks kept the audience laughing.",
+        "cn": "她机智的言论让观众笑声不断。"
+      },
+      {
+        "en": "Oscar Wilde was known for being witty.",
+        "cn": "奥斯卡·王尔德以诙谐闻名。"
+      }
+    ]
+  },
+  {
+    "word": "wit",
+    "phonetic": "/wɪt/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "the ability to think quickly and humorously; intelligence"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "机智",
+      "风趣",
+      "才智"
+    ],
+    "examples": [
+      {
+        "en": "He used his wit to defuse the argument.",
+        "cn": "他用机智化解了争论。"
+      },
+      {
+        "en": "She is a woman of great wit and charm.",
+        "cn": "她是一个机智而富有魅力的女人。"
+      }
+    ]
+  },
+  {
+    "word": "tickle",
+    "phonetic": "/ˈtɪkl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to touch lightly causing laughter or discomfort; to amuse"
+      },
+      {
+        "pos": "n.",
+        "translation": "a tickling sensation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "胳肢",
+      "使发痒",
+      "逗乐"
+    ],
+    "examples": [
+      {
+        "en": "Don't tickle me; I'm very ticklish!",
+        "cn": "别胳肢我，我怕痒！"
+      },
+      {
+        "en": "The joke tickled his funny bone.",
+        "cn": "那笑话把他逗乐了。"
+      }
+    ]
+  },
+  {
+    "word": "therapist",
+    "phonetic": "/ˈθerəpɪst/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person trained in a particular type of therapy"
+      }
+    ],
+    "roots": [
+      {
+        "part": "therap-",
+        "meaning": "heal, treat"
+      },
+      {
+        "part": "-ist",
+        "meaning": "person who"
+      }
+    ],
+    "translations": [
+      "治疗师",
+      "治疗专家"
+    ],
+    "examples": [
+      {
+        "en": "She sees a physical therapist for her back pain.",
+        "cn": "她因背痛去看物理治疗师。"
+      },
+      {
+        "en": "A speech therapist helped the child with stuttering.",
+        "cn": "一位言语治疗师帮助了那个口吃的孩子。"
+      }
+    ]
+  },
+  {
+    "word": "tootsies",
+    "phonetic": "/ˈtʊtsiz/",
+    "partsOfSpeech": [
+      {
+        "pos": "n. (informal pl.)",
+        "translation": "feet (childish or affectionate term)"
+      }
+    ],
+    "roots": [
+      {
+        "part": "tootsie",
+        "meaning": "affectionate term from 'tootsy' (foot)"
+      }
+    ],
+    "translations": [
+      "小脚丫"
+    ],
+    "examples": [
+      {
+        "en": "The baby's tootsies were cold.",
+        "cn": "宝宝的小脚丫很冷。"
+      },
+      {
+        "en": "Let's soak our tired tootsies in warm water.",
+        "cn": "让我们把疲倦的小脚丫泡在温水里。"
+      }
+    ]
+  },
+  {
+    "word": "fervent",
+    "phonetic": "/ˈfɜːrvənt/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "having or showing strong and sincere feelings or beliefs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "ferv-",
+        "meaning": "boil, glow"
+      },
+      {
+        "part": "-ent",
+        "meaning": "adjective suffix"
+      }
+    ],
+    "translations": [
+      "热烈的",
+      "热诚的"
+    ],
+    "examples": [
+      {
+        "en": "He made a fervent plea for peace.",
+        "cn": "他热切呼吁和平。"
+      },
+      {
+        "en": "She is a fervent supporter of animal rights.",
+        "cn": "她是一位热诚的动物权利支持者。"
+      }
+    ]
+  },
+  {
+    "word": "doze",
+    "phonetic": "/doʊz/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to sleep lightly or briefly"
+      },
+      {
+        "pos": "n.",
+        "translation": "a short light sleep"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "打瞌睡",
+      "小睡"
+    ],
+    "examples": [
+      {
+        "en": "He dozed off during the boring lecture.",
+        "cn": "他在枯燥的讲座上打瞌睡睡着了。"
+      },
+      {
+        "en": "A short doze can refresh you.",
+        "cn": "小睡片刻能使你恢复精力。"
+      }
+    ]
+  },
+  {
+    "word": "sanctuary",
+    "phonetic": "/ˈsæŋktʃueri/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a sacred or holy place, such as a church, temple, or mosque; a place of refuge or safety where people or animals are protected from danger, pursuit, or harm; the protection afforded by such a place, often in the context of political or religious asylum"
+      }
+    ],
+    "roots": [
+      {
+        "part": "sanct-",
+        "meaning": "神圣的"
+      },
+      {
+        "part": "-uary",
+        "meaning": "场所、地点"
+      }
+    ],
+    "translations": [
+      "圣所，圣地",
+      "避难所，庇护所",
+      "庇护，保护"
+    ],
+    "examples": [
+      {
+        "en": "The church offered sanctuary to refugees fleeing the war.",
+        "cn": "教堂为逃离战争的难民提供了庇护。"
+      },
+      {
+        "en": "The island is a wildlife sanctuary for endangered birds.",
+        "cn": "这座岛屿是濒危鸟类的野生动物保护区。"
+      },
+      {
+        "en": "They sought sanctuary in a nearby village after escaping from captivity.",
+        "cn": "他们逃脱囚禁后，在附近的一个村庄寻求庇护。"
+      }
+    ]
+  },
+  {
+    "word": "morse code",
+    "phonetic": "/ˈmɔːrs koʊd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a system of dots and dashes representing letters and numbers, used in telegraphy"
+      }
+    ],
+    "roots": [
+      {
+        "part": "Morse",
+        "meaning": "Samuel Morse, inventor"
+      },
+      {
+        "part": "code",
+        "meaning": "system of symbols"
+      }
+    ],
+    "translations": [
+      "摩斯电码"
+    ],
+    "examples": [
+      {
+        "en": "SOS in Morse code is three dots, three dashes, three dots.",
+        "cn": "摩斯电码中的 SOS 是三短、三长、三短。"
+      },
+      {
+        "en": "The ship sent a distress signal using Morse code.",
+        "cn": "那艘船用摩斯电码发送了求救信号。"
+      }
+    ]
+  },
+  {
+    "word": "snatcher",
+    "phonetic": "/ˈsnætʃər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a person who steals or seizes something quickly"
+      }
+    ],
+    "roots": [
+      {
+        "part": "snatch",
+        "meaning": "to grab quickly"
+      },
+      {
+        "part": "-er",
+        "meaning": "one who does"
+      }
+    ],
+    "translations": [
+      "抢夺者",
+      "绑架者"
+    ],
+    "examples": [
+      {
+        "en": "The bag snatcher was arrested by police.",
+        "cn": "抢包贼被警方逮捕了。"
+      },
+      {
+        "en": "Body snatchers illegally removed corpses from graves.",
+        "cn": "盗尸者从坟墓中非法移走尸体。"
+      }
+    ]
+  },
+  {
+    "word": "pod",
+    "phonetic": "/pɑːd/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a seed container in plants (e.g., pea pod); a group of marine mammals; a detachable compartment"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "豆荚",
+      "群落",
+      "吊舱"
+    ],
+    "examples": [
+      {
+        "en": "The peas are still in the pod.",
+        "cn": "豌豆还在豆荚里。"
+      },
+      {
+        "en": "A pod of whales swam past the boat.",
+        "cn": "一群鲸鱼游过船边。"
+      }
+    ]
+  },
+  {
+    "word": "optimum",
+    "phonetic": "/ˈɑːptɪməm/",
+    "partsOfSpeech": [
+      {
+        "pos": "adj.",
+        "translation": "most favorable or desirable"
+      },
+      {
+        "pos": "n.",
+        "translation": "the best possible condition"
+      }
+    ],
+    "roots": [
+      {
+        "part": "opt-",
+        "meaning": "best"
+      },
+      {
+        "part": "-imum",
+        "meaning": "superlative suffix"
+      }
+    ],
+    "translations": [
+      "最佳的",
+      "最适宜的",
+      "最佳状态"
+    ],
+    "examples": [
+      {
+        "en": "The optimum temperature for growth is 25°C.",
+        "cn": "生长的最佳温度是25摄氏度。"
+      },
+      {
+        "en": "We need to find the optimum balance between cost and quality.",
+        "cn": "我们需要在成本和质量之间找到最佳平衡。"
+      }
+    ]
+  },
+  {
+    "word": "reconcile",
+    "phonetic": "/ˈrekənsaɪl/",
+    "partsOfSpeech": [
+      {
+        "pos": "v.",
+        "translation": "to restore friendly relations; to make conflicting ideas compatible"
+      }
+    ],
+    "roots": [
+      {
+        "part": "re-",
+        "meaning": "again"
+      },
+      {
+        "part": "concile",
+        "meaning": "to bring together"
+      }
+    ],
+    "translations": [
+      "和解",
+      "调和",
+      "使一致"
+    ],
+    "examples": [
+      {
+        "en": "They reconciled after a long argument.",
+        "cn": "经过长久的争论后他们和解了。"
+      },
+      {
+        "en": "How can you reconcile your religious beliefs with evolution?",
+        "cn": "你如何调和你的宗教信仰与进化论？"
+      }
+    ]
+  },
+  {
+    "word": "council",
+    "phonetic": "/ˈkaʊnsl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a group of people chosen to make decisions or give advice"
+      }
+    ],
+    "roots": [
+      {
+        "part": "counc-",
+        "meaning": "to call together"
+      },
+      {
+        "part": "-il",
+        "meaning": "group"
+      }
+    ],
+    "translations": [
+      "委员会",
+      "议会",
+      "理事会"
+    ],
+    "examples": [
+      {
+        "en": "The city council voted to increase taxes.",
+        "cn": "市议会投票决定增税。"
+      },
+      {
+        "en": "She serves on the student council.",
+        "cn": "她在学生会任职。"
+      }
+    ]
+  },
+  {
+    "word": "counsel",
+    "phonetic": "/ˈkaʊnsl/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "advice or guidance; a lawyer"
+      },
+      {
+        "pos": "v.",
+        "translation": "to give advice"
+      }
+    ],
+    "roots": [
+      {
+        "part": "counsel",
+        "meaning": "advice, consultation"
+      }
+    ],
+    "translations": [
+      "忠告",
+      "法律顾问",
+      "建议"
+    ],
+    "examples": [
+      {
+        "en": "He sought counsel from his mentor.",
+        "cn": "他向导师寻求忠告。"
+      },
+      {
+        "en": "The defense counsel objected to the question.",
+        "cn": "辩护律师反对那个问题。"
+      }
+    ]
+  },
+  {
+    "word": "pumice",
+    "phonetic": "/ˈpʌmɪs/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a light, porous volcanic rock used for exfoliation"
+      }
+    ],
+    "roots": [
+      {
+        "part": "基础词汇",
+        "meaning": "未做词根分析"
+      }
+    ],
+    "translations": [
+      "浮石",
+      "浮岩"
+    ],
+    "examples": [
+      {
+        "en": "She uses a pumice stone to smooth rough skin on her feet.",
+        "cn": "她用浮石磨平脚上的粗糙皮肤。"
+      },
+      {
+        "en": "Pumice is so light that it floats on water.",
+        "cn": "浮石很轻，能浮在水面上。"
+      }
+    ]
+  },
+  {
+    "word": "inhaler",
+    "phonetic": "/ɪnˈheɪlər/",
+    "partsOfSpeech": [
+      {
+        "pos": "n.",
+        "translation": "a medical device used to deliver medication into the lungs"
+      }
+    ],
+    "roots": [
+      {
+        "part": "inhal-",
+        "meaning": "to breathe in"
+      },
+      {
+        "part": "-er",
+        "meaning": "device that does"
+      }
+    ],
+    "translations": [
+      "吸入器",
+      "雾化器"
+    ],
+    "examples": [
+      {
+        "en": "Asthma patients often carry a rescue inhaler.",
+        "cn": "哮喘患者常携带急救吸入器。"
+      },
+      {
+        "en": "He used his inhaler to stop the wheezing.",
+        "cn": "他使用吸入器来停止喘息。"
+      }
+    ]
+  }
+]

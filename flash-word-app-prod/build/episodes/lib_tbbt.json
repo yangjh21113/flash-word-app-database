@@ -2,8 +2,118 @@
   "s2": [
     {
       "_id": "s2e01",
-      "name": "E01 坏肉",
-      "total": 15
+      "name": "E01",
+      "total": 47
+    },
+    {
+      "_id": "s2e02",
+      "name": "E02",
+      "total": 67
+    },
+    {
+      "_id": "s2e03",
+      "name": "E03",
+      "total": 65
+    },
+    {
+      "_id": "s2e04",
+      "name": "E04",
+      "total": 64
+    },
+    {
+      "_id": "s2e05",
+      "name": "E05",
+      "total": 35
+    },
+    {
+      "_id": "s2e06",
+      "name": "E06",
+      "total": 49
+    },
+    {
+      "_id": "s2e07",
+      "name": "E07",
+      "total": 53
+    },
+    {
+      "_id": "s2e08",
+      "name": "E08",
+      "total": 46
+    },
+    {
+      "_id": "s2e09",
+      "name": "E09",
+      "total": 67
+    },
+    {
+      "_id": "s2e10",
+      "name": "E10",
+      "total": 53
+    },
+    {
+      "_id": "s2e11",
+      "name": "E11",
+      "total": 60
+    },
+    {
+      "_id": "s2e12",
+      "name": "E12",
+      "total": 57
+    },
+    {
+      "_id": "s2e13",
+      "name": "E13",
+      "total": 56
+    },
+    {
+      "_id": "s2e14",
+      "name": "E14",
+      "total": 47
+    },
+    {
+      "_id": "s2e15",
+      "name": "E15",
+      "total": 59
+    },
+    {
+      "_id": "s2e16",
+      "name": "E16",
+      "total": 46
+    },
+    {
+      "_id": "s2e17",
+      "name": "E17",
+      "total": 90
+    },
+    {
+      "_id": "s2e18",
+      "name": "E18",
+      "total": 77
+    },
+    {
+      "_id": "s2e19",
+      "name": "E19",
+      "total": 69
+    },
+    {
+      "_id": "s2e20",
+      "name": "E20",
+      "total": 79
+    },
+    {
+      "_id": "s2e21",
+      "name": "E21",
+      "total": 78
+    },
+    {
+      "_id": "s2e22",
+      "name": "E22",
+      "total": 85
+    },
+    {
+      "_id": "s2e23",
+      "name": "E23",
+      "total": 77
     }
   ]
 }

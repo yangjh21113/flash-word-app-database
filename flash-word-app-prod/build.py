@@ -142,6 +142,20 @@ def main():
             seasons.append(season)
         total = sum(s.get("total", 0) for s in seasons)
 
+        # 兼容无 season 的扁平结构（如 IELTS：词库 → 章节 → 单词）
+        # 叶子节点直接作为 pseudo-season，使 total 正确展示
+        if not seasons and episodes_map:
+            for ep_id, eps in episodes_map.items():
+                if eps:
+                    ep = eps[0]
+                    seasons.append({
+                        "_id": ep_id,
+                        "name": ep.get("name", ep_id),
+                        "total": ep.get("total", 0),
+                        "episodes": 1
+                    })
+            total = sum(s.get("total", 0) for s in seasons)
+
         # 构建旧格式 libraries.json 条目
         all_libs.append({
             "_id": lib_id,

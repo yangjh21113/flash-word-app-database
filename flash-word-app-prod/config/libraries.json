@@ -4,5 +4,11 @@
     "name": "生活大爆炸",
     "category": "tv",
     "type": "series"
+  },
+  {
+    "_id": "lib_ielts",
+    "name": "雅思词汇真经",
+    "category": "exam",
+    "type": "series"
   }
 ]
