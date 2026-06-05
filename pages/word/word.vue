@@ -27,6 +27,9 @@
 		<!-- 空状态 -->
 		<view class="card-wrap empty" v-else-if="wordList.length === 0">
 			<text class="empty-text">该词库暂无单词</text>
+			<button class="choose-lib-btn" @click="goChooseLib">
+				<text>选择其他词库</text>
+			</button>
 		</view>
 
 		<!-- 闪卡 -->
@@ -151,6 +154,10 @@ onMounted(() => {
 onShow(() => {
 	loadMode()
 	markStudyToday()
+	const libId = uni.getStorageSync('currentLibraryId')
+	if (libId === 'notebook') {
+		loadWords()
+	}
 })
 
 const loadMode = () => {
@@ -173,8 +180,13 @@ const loadWords = async () => {
 	}
 
 	try {
-		const res = await getWordList(libId, 1, 100)
-		wordList.value = res.list || []
+		if (libId === 'notebook') {
+			const cached = uni.getStorageSync('notebookWords')
+			wordList.value = cached ? JSON.parse(cached) : []
+		} else {
+			const res = await getWordList(libId, 1, 100)
+			wordList.value = res.list || []
+		}
 	} catch (e) {
 		console.error('加载单词失败', e)
 	} finally {
@@ -212,7 +224,7 @@ const markKnown = () => {
 const markUnknown = () => {
 	recordFlipped(uni.getStorageSync('currentLibraryId'), currentWord.value.word)
 	checkRoundComplete(uni.getStorageSync('currentLibraryId'), wordList.value.length)
-	addWordToNotebook(currentWord.value)
+	addWordToNotebook(currentWord.value, currentLibrary.value)
 	nextWord()
 }
 
@@ -250,6 +262,10 @@ const resetProgressAction = () => {
 	resetProgress(uni.getStorageSync('currentLibraryId'))
 	showResetDialog.value = false
 	uni.showToast({ title: '进度已重置', icon: 'success' })
+}
+
+const goChooseLib = () => {
+	uni.switchTab({ url: '/pages/index/index' })
 }
 </script>
 
@@ -363,6 +379,11 @@ const resetProgressAction = () => {
 	justify-content: center;
 }
 
+.card-wrap.empty {
+	flex-direction: column;
+	gap: 40rpx;
+}
+
 .card {
 	position: relative;
 	width: 100%;
@@ -454,6 +475,18 @@ const resetProgressAction = () => {
 .loading-text, .empty-text {
 	font-size: 28rpx;
 	color: #999999;
+}
+
+.choose-lib-btn {
+	margin-top: 40rpx;
+	padding: 20rpx 64rpx;
+	border-radius: 999px;
+	background-color: #6380e8;
+	color: #FFFFFF;
+	font-size: 28rpx;
+	border: none;
+	height: auto;
+	line-height: normal;
 }
 
 .actions {

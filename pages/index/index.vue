@@ -27,38 +27,40 @@
 		</scroll-view>
 
 		<!-- 词库列表 -->
-		<view class="content" v-if="!loading">
-			<block v-for="group in filteredLibraries" :key="group.category">
-				<view class="section-header" v-if="activeCategory === 'all' && showSectionHeader(group)">
-					<text class="section-title">{{ group.categoryName }}</text>
-				</view>
-				<view
-					v-for="lib in group.libs"
-					:key="lib._id"
-					class="lib-card"
-					@click="goDetail(lib)"
-				>
-					<view class="lib-cover" :style="{ backgroundColor: getCoverColor(lib._id) }">
-						<text class="cover-text" :style="{ color: getCoverTextColor(lib._id) }">{{ lib.name.charAt(0) }}</text>
+		<scroll-view class="content" scroll-y :show-scrollbar="false">
+			<view v-if="!loading">
+				<block v-for="group in filteredLibraries" :key="group.category">
+					<view class="section-header" v-if="activeCategory === 'all' && showSectionHeader(group)">
+						<text class="section-title">{{ group.categoryName }}</text>
 					</view>
-					<view class="lib-info">
-						<text class="lib-name">{{ lib.name }}</text>
-						<text class="lib-meta">{{ lib.total }} 词 · {{ lib.seasons.length }} 个{{ lib.type === 'series' ? '季' : '分类' }}</text>
+					<view
+						v-for="lib in group.libs"
+						:key="lib._id"
+						class="lib-card"
+						@click="goDetail(lib)"
+					>
+						<view class="lib-cover" :style="{ backgroundColor: getCoverColor(lib._id) }">
+							<text class="cover-text" :style="{ color: getCoverTextColor(lib._id) }">{{ lib.name.charAt(0) }}</text>
+						</view>
+						<view class="lib-info">
+							<text class="lib-name">{{ lib.name }}</text>
+							<text class="lib-meta">{{ lib.total }} 词 · {{ lib.seasons.length }} 个{{ lib.type === 'series' ? '季' : '分类' }}</text>
+						</view>
+						<i class="ri-arrow-right-s-line lib-arrow"></i>
 					</view>
-					<i class="ri-arrow-right-s-line lib-arrow"></i>
-				</view>
-			</block>
-		</view>
+				</block>
+			</view>
 
-		<!-- 空状态 -->
-		<view class="empty-wrap" v-else-if="!loading && filteredLibraries.length === 0">
-			<text class="empty-text">暂无词库</text>
-		</view>
+			<!-- 空状态 -->
+			<view class="empty-wrap" v-if="!loading && filteredLibraries.length === 0">
+				<text class="empty-text">暂无词库</text>
+			</view>
 
-		<!-- 加载中 -->
-		<view class="loading-wrap" v-if="loading">
-			<text class="loading-text">加载中...</text>
-		</view>
+			<!-- 加载中 -->
+			<view class="loading-wrap" v-if="loading">
+				<text class="loading-text">加载中...</text>
+			</view>
+		</scroll-view>
 	</view>
 </template>
 
@@ -71,6 +73,7 @@ const activeCategory = ref('all')
 const keyword = ref('')
 const libraries = ref([])
 const loading = ref(true)
+const librariesCache = ref({})
 
 const categoryNameMap = {
 	exam: '考试词汇',
@@ -83,6 +86,7 @@ onMounted(async () => {
 	categories.value = getCategories()
 	const saved = uni.getStorageSync('currentLibraryId')
 	await fetchLibraries()
+	librariesCache.value[activeCategory.value] = libraries.value
 	if (!saved && libraries.value.length > 0) {
 		const first = libraries.value[0]
 		uni.setStorageSync('currentLibraryId', first._id)
@@ -95,6 +99,7 @@ const fetchLibraries = async () => {
 	try {
 		const res = await getLibraryList(activeCategory.value)
 		libraries.value = res.list || []
+		librariesCache.value[activeCategory.value] = libraries.value
 	} catch (e) {
 		console.error('加载词库失败', e)
 	} finally {
@@ -104,6 +109,11 @@ const fetchLibraries = async () => {
 
 const switchCategory = (key) => {
 	activeCategory.value = key
+	const cached = librariesCache.value[key]
+	if (cached) {
+		libraries.value = cached
+		return
+	}
 	fetchLibraries()
 }
 
@@ -149,9 +159,12 @@ const goDetail = (lib) => {
 
 <style scoped>
 .container {
+	display: flex;
+	flex-direction: column;
 	background-color: #fafafa;
-	min-height: 100vh;
-	padding: 12rpx 32rpx 32rpx;
+	height: 100vh;
+	padding: 0 32rpx;
+	overflow: hidden;
 }
 
 .search-bar {
@@ -162,6 +175,25 @@ const goDetail = (lib) => {
 	padding: 16rpx 24rpx;
 	margin-top: 16rpx;
 	margin-bottom: 16rpx;
+	flex-shrink: 0;
+}
+
+.tab-scroll {
+	white-space: nowrap;
+	margin-bottom: 24rpx;
+	flex-shrink: 0;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	overflow: auto;
+	padding: 0 0 24rpx 0;
+}
+
+.content::-webkit-scrollbar {
+	display: none;
 }
 
 .search-icon {
@@ -179,11 +211,6 @@ const goDetail = (lib) => {
 
 .search-input::placeholder {
 	color: #C5C5C5;
-}
-
-.tab-scroll {
-	white-space: nowrap;
-	margin-bottom: 24rpx;
 }
 
 .tab-group {

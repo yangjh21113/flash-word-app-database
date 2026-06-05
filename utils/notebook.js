@@ -19,11 +19,12 @@ export function getNotebook() {
 /**
  * 添加单词到生词本
  * @param {object} word 单词数据
+ * @param {string} source 来源词库名称
  * @returns {boolean} 是否添加成功（false 表示已存在）
  */
-export function addWordToNotebook(word) {
+export function addWordToNotebook(word, source) {
 	const list = getNotebook()
-	// 判断是否已存在
+	// 判断是否已存在（同一词库+同一单词）
 	const exists = list.some(item => item.word === word.word && item.library_id === word.library_id)
 	if (exists) {
 		return false
@@ -35,6 +36,7 @@ export function addWordToNotebook(word) {
 		phonetic_us: word.phonetic_us || '',
 		meaning: word.meaning ? word.meaning.zh : '',
 		library_id: word.library_id || '',
+		source: source || '',
 		added_at: now,
 		review_count: 0,
 		last_reviewed: null
