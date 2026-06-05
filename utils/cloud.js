@@ -6,15 +6,49 @@
 
 const USE_MOCK = true
 
-import { getMockLibraryList, getMockWordList } from './mock.js'
+import {
+	getMockLibraryList,
+	getMockLibraryDetail,
+	getMockEpisodes,
+	getMockWordList,
+} from './mock.js'
 
-export function getLibraryList() {
+export function getLibraryList(category = 'all') {
 	if (USE_MOCK) {
-		return getMockLibraryList()
+		return getMockLibraryList(category)
 	}
-	// 以下保留云端调用
 	return new Promise((resolve, reject) => {
-		uniCloud.callFunction({ name: 'get-library-list', data: {} }).then(res => {
+		uniCloud.callFunction({ name: 'get-library-list', data: { category } }).then(res => {
+			if (res.result && res.result.code === 0) {
+				resolve(res.result.data)
+			} else {
+				reject(res.result)
+			}
+		}).catch(reject)
+	})
+}
+
+export function getLibraryDetail(libraryId) {
+	if (USE_MOCK) {
+		return getMockLibraryDetail(libraryId)
+	}
+	return new Promise((resolve, reject) => {
+		uniCloud.callFunction({ name: 'get-library-detail', data: { libraryId } }).then(res => {
+			if (res.result && res.result.code === 0) {
+				resolve(res.result.data)
+			} else {
+				reject(res.result)
+			}
+		}).catch(reject)
+	})
+}
+
+export function getEpisodes(seasonId) {
+	if (USE_MOCK) {
+		return getMockEpisodes(seasonId)
+	}
+	return new Promise((resolve, reject) => {
+		uniCloud.callFunction({ name: 'get-episodes', data: { seasonId } }).then(res => {
 			if (res.result && res.result.code === 0) {
 				resolve(res.result.data)
 			} else {
@@ -38,3 +72,5 @@ export function getWordList(libraryId) {
 		}).catch(reject)
 	})
 }
+
+export { getCategories, getCoverColor, getCoverTextColor } from './mock.js'

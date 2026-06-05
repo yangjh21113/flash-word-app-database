@@ -21,6 +21,18 @@
 		{
 			"path": "pages/library-detail/library-detail",
 			"style": {
+				"navigationBarTitleText": "词库详情"
+			}
+		},
+		{
+			"path": "pages/episode-list/episode-list",
+			"style": {
+				"navigationBarTitleText": "剧集列表"
+			}
+		},
+		{
+			"path": "pages/word-list/word-list",
+			"style": {
 				"navigationBarTitleText": "单词列表"
 			}
 		},

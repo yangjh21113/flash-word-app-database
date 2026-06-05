@@ -6,6 +6,8 @@
   font-display: swap;
 }
 
+.ri-search-line:before { content: "\f0d1"; }
+.ri-check-line:before { content: "\eb7b"; }
 .ri-arrow-down-s-line:before { content: "\ea61"; }
 .ri-arrow-right-s-line:before { content: "\ea6e"; }
 .ri-book-marked-line:before { content: "\ead9"; }
@@ -17,3 +19,4 @@
 .ri-movie-2-line:before { content: "\efb5"; }
 .ri-settings-3-line:before { content: "\f0e6"; }
 .ri-shuffle-line:before { content: "\f124"; }
+.ri-restart-line:before { content: "\f080"; }

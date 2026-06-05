@@ -1,161 +1,278 @@
 <template>
 	<view class="container">
-		<view class="list" v-if="!loading">
-			<view
-				v-for="(item, idx) in libraries"
-				:key="idx"
-				class="list-item"
-			>
-				<view class="item-main" @click="goDetail(item)">
-					<text class="item-name">{{ item.name }}</text>
-					<text class="item-count">{{ item.total }} 词</text>
-				</view>
-				<view class="item-action" @click.stop="selectLibrary(item)">
-					<text
-						class="select-btn"
-						:class="{ selected: item._id === currentLibId }"
-					>
-						{{ item._id === currentLibId ? '当前' : '设为当前' }}
-					</text>
+		<!-- 搜索栏 -->
+		<view class="search-bar">
+			<i class="search-icon ri-search-line"></i>
+			<input
+				class="search-input"
+				placeholder="搜索词库..."
+				:value="keyword"
+				@input="onSearch"
+			/>
+		</view>
+
+		<!-- 分类 Tab -->
+		<scroll-view class="tab-scroll" scroll-x>
+			<view class="tab-group">
+				<view
+					v-for="cat in categories"
+					:key="cat.key"
+					class="tab-item"
+					:class="{ active: activeCategory === cat.key }"
+					@click="switchCategory(cat.key)"
+				>
+					<text class="tab-text">{{ cat.name }}</text>
 				</view>
 			</view>
+		</scroll-view>
+
+		<!-- 词库列表 -->
+		<view class="content" v-if="!loading">
+			<block v-for="group in filteredLibraries" :key="group.category">
+				<view class="section-header" v-if="activeCategory === 'all' && showSectionHeader(group)">
+					<text class="section-title">{{ group.categoryName }}</text>
+				</view>
+				<view
+					v-for="lib in group.libs"
+					:key="lib._id"
+					class="lib-card"
+					@click="goDetail(lib)"
+				>
+					<view class="lib-cover" :style="{ backgroundColor: getCoverColor(lib._id) }">
+						<text class="cover-text" :style="{ color: getCoverTextColor(lib._id) }">{{ lib.name.charAt(0) }}</text>
+					</view>
+					<view class="lib-info">
+						<text class="lib-name">{{ lib.name }}</text>
+						<text class="lib-meta">{{ lib.total }} 词 · {{ lib.seasons.length }} 个{{ lib.type === 'series' ? '季' : '分类' }}</text>
+					</view>
+					<i class="ri-arrow-right-s-line lib-arrow"></i>
+				</view>
+			</block>
 		</view>
-		<view class="loading-wrap" v-else>
+
+		<!-- 空状态 -->
+		<view class="empty-wrap" v-else-if="!loading && filteredLibraries.length === 0">
+			<text class="empty-text">暂无词库</text>
+		</view>
+
+		<!-- 加载中 -->
+		<view class="loading-wrap" v-if="loading">
 			<text class="loading-text">加载中...</text>
 		</view>
 	</view>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
-import { getLibraryList } from '@/utils/cloud.js'
+import { ref, computed, onMounted } from 'vue'
+import { getLibraryList, getCategories, getCoverColor, getCoverTextColor } from '@/utils/cloud.js'
 
-const CACHE_KEY = 'libraryCache'
-const CACHE_EXPIRE = 60 * 60 * 1000 // 1 hour
-
-const currentLibId = ref('')
+const categories = ref([])
+const activeCategory = ref('all')
+const keyword = ref('')
 const libraries = ref([])
 const loading = ref(true)
 
-onMounted(() => {
+const categoryNameMap = {
+	exam: '考试词汇',
+	tv: '影视剧集',
+	interest: '兴趣爱好',
+	other: '其他',
+}
+
+onMounted(async () => {
+	categories.value = getCategories()
 	const saved = uni.getStorageSync('currentLibraryId')
-	if (saved) {
-		currentLibId.value = saved
+	await fetchLibraries()
+	if (!saved && libraries.value.length > 0) {
+		const first = libraries.value[0]
+		uni.setStorageSync('currentLibraryId', first._id)
+		uni.setStorageSync('currentLibrary', first.name)
 	}
-	fetchLibraries()
 })
 
 const fetchLibraries = async () => {
-	// 先读缓存
-	const cached = uni.getStorageSync(CACHE_KEY)
-	if (cached) {
-		const data = JSON.parse(cached)
-		if (Date.now() - data.time < CACHE_EXPIRE) {
-			libraries.value = data.list
-			loading.value = false
-			// default first if none selected
-			if (!currentLibId.value && libraries.value.length > 0) {
-				currentLibId.value = libraries.value[0]._id
-				uni.setStorageSync('currentLibraryId', currentLibId.value)
-			}
-			return
-		}
-	}
-
 	loading.value = true
 	try {
-		const res = await getLibraryList()
+		const res = await getLibraryList(activeCategory.value)
 		libraries.value = res.list || []
-		// 更新缓存
-		uni.setStorageSync(CACHE_KEY, JSON.stringify({
-			list: libraries.value,
-			time: Date.now()
-		}))
-		if (!currentLibId.value && libraries.value.length > 0) {
-			currentLibId.value = libraries.value[0]._id
-			uni.setStorageSync('currentLibraryId', currentLibId.value)
-		}
 	} catch (e) {
 		console.error('加载词库失败', e)
-		// 请求失败时用缓存兜底
-		const fallback = uni.getStorageSync(CACHE_KEY)
-		if (fallback) {
-			libraries.value = JSON.parse(fallback).list
-		}
 	} finally {
 		loading.value = false
 	}
 }
 
-const selectLibrary = (item) => {
-	currentLibId.value = item._id
-	uni.setStorageSync('currentLibraryId', item._id)
-	uni.setStorageSync('currentLibrary', item.name)
-	uni.showToast({ title: `已选择：${item.name}`, icon: 'none' })
-	// notify flash page
-	uni.$emit('libraryChanged')
+const switchCategory = (key) => {
+	activeCategory.value = key
+	fetchLibraries()
 }
 
-const goDetail = (item) => {
+const onSearch = (e) => {
+	keyword.value = e.detail.value
+}
+
+const filteredLibraries = computed(() => {
+	let libs = libraries.value
+	if (keyword.value.trim()) {
+		const kw = keyword.value.trim().toLowerCase()
+		libs = libs.filter(lib => lib.name.toLowerCase().includes(kw))
+	}
+
+	if (activeCategory.value !== 'all') {
+		return [{ category: activeCategory.value, categoryName: '', libs }]
+	}
+
+	const groups = {}
+	libs.forEach(lib => {
+		if (!groups[lib.category]) {
+			groups[lib.category] = []
+		}
+		groups[lib.category].push(lib)
+	})
+
+	const order = ['exam', 'tv', 'interest', 'other']
+	return order
+		.filter(cat => groups[cat] && groups[cat].length > 0)
+		.map(cat => ({ category: cat, categoryName: categoryNameMap[cat], libs: groups[cat] }))
+})
+
+const showSectionHeader = (group) => {
+	return activeCategory.value === 'all' && group.libs.length > 0
+}
+
+const goDetail = (lib) => {
 	uni.navigateTo({
-		url: `/pages/library-detail/library-detail?id=${item._id}&name=${item.name}`
+		url: `/pages/library-detail/library-detail?id=${lib._id}&name=${lib.name}&type=${lib.type}`
 	})
 }
 </script>
 
 <style scoped>
 .container {
-	padding: 0 32rpx;
 	background-color: #fafafa;
 	min-height: 100vh;
+	padding: 12rpx 32rpx 32rpx;
 }
 
-.list {
-	padding-top: 16rpx;
+.search-bar {
+	display: flex;
+	align-items: center;
+	background-color: #ffffff;
+	border-radius: 999px;
+	padding: 16rpx 24rpx;
+	margin-top: 16rpx;
+	margin-bottom: 16rpx;
 }
 
-.list-item {
+.search-icon {
+	font-family: "remixicon";
+	font-size: 32rpx;
+	color: #999999;
+	margin-right: 12rpx;
+}
+
+.search-input {
+	flex: 1;
+	font-size: 28rpx;
+	color: #333333;
+}
+
+.search-input::placeholder {
+	color: #C5C5C5;
+}
+
+.tab-scroll {
+	white-space: nowrap;
+	margin-bottom: 24rpx;
+}
+
+.tab-group {
+	display: inline-flex;
+	gap: 16rpx;
+}
+
+.tab-item {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 12rpx 28rpx;
+	border-radius: 999px;
+	background-color: transparent;
+	border: 1px solid #DDDDDD;
+	transition: all 0.2s;
+}
+
+.tab-item.active {
+	border-color: #6380e8;
+}
+
+.tab-text {
+	font-size: 26rpx;
+	color: #666666;
+}
+
+.tab-item.active .tab-text {
+	color: #6380e8;
+}
+
+.section-header {
+	margin-top: 24rpx;
+	margin-bottom: 16rpx;
+}
+
+.section-title {
+	font-size: 28rpx;
+	color: #333333;
+}
+
+.lib-card {
 	display: flex;
 	align-items: center;
 	background-color: #FFFFFF;
-	border-radius: 4px;
+	border-radius: 12px;
+	padding: 24rpx;
 	margin-bottom: 16rpx;
-	padding: 32rpx;
 }
 
-.item-main {
-	flex: 1;
+.lib-cover {
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 8px;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: center;
+	flex-shrink: 0;
 }
 
-.item-name {
-	font-size: 32rpx;
-	color: #333333;
+.cover-text {
+	font-size: 36rpx;
+	font-weight: 600;
+}
+
+.lib-info {
+	flex: 1;
+	margin-left: 24rpx;
+	display: flex;
+	flex-direction: column;
+}
+
+.lib-name {
+	font-size: 30rpx;
 	font-weight: 500;
+	color: #333333;
+	margin-bottom: 6rpx;
 }
 
-.item-count {
-	font-size: 24rpx;
+.lib-meta {
+	font-size: 22rpx;
 	color: #999999;
 }
 
-.item-action {
-	margin-left: 24rpx;
-}
-
-.select-btn {
-	font-size: 24rpx;
-	color: #6380e8;
-	padding: 8rpx 16rpx;
-	border-radius: 4px;
-	border: 1px solid #6380e8;
-}
-
-.select-btn.selected {
-	background-color: #6380e8;
-	color: #FFFFFF;
+.lib-arrow {
+	font-family: "remixicon";
+	font-size: 36rpx;
+	color: #CCCCCC;
+	flex-shrink: 0;
 }
 
 .loading-wrap {
@@ -167,5 +284,27 @@ const goDetail = (item) => {
 .loading-text {
 	font-size: 28rpx;
 	color: #999999;
+}
+
+.empty-wrap {
+	display: flex;
+	justify-content: center;
+	padding-top: 80rpx;
+}
+
+.empty-text {
+	font-size: 28rpx;
+	color: #999999;
+}
+</style>
+
+<style>
+.search-icon,
+.lib-arrow {
+	font-family: "remixicon";
+}
+
+.search-input::placeholder {
+	color: #C5C5C5;
 }
 </style>

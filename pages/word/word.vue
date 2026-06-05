@@ -9,9 +9,14 @@
 					<i class="mode-arrow ri-arrow-down-s-line"></i>
 				</view>
 			</view>
+		<view class="header-right">
 			<view class="shuffle-btn" @click="shuffleWords" v-if="wordList.length > 0">
 				<i class="shuffle-ico ri-shuffle-line"></i>
 			</view>
+			<view class="reset-btn" @click="showResetConfirm" v-if="wordList.length > 0">
+				<i class="reset-ico ri-restart-line"></i>
+			</view>
+		</view>
 		</view>
 
 		<!-- 加载中 -->
@@ -74,6 +79,24 @@
 				</view>
 			</view>
 		</view>
+
+		<!-- 重置进度确认弹框 -->
+		<view class="reset-dialog-mask" v-if="showResetDialog" @click="showResetDialog = false">
+			<view class="reset-dialog" @click.stop>
+				<view class="reset-dialog-title">
+					<text class="reset-title">重置学习进度</text>
+					<text class="reset-desc">「{{ currentLibrary }}」的翻转轮数将清空，生词本不受影响。</text>
+				</view>
+				<view class="reset-dialog-actions">
+					<view class="reset-action cancel" @click="showResetDialog = false">
+						<text>取消</text>
+					</view>
+					<view class="reset-action confirm" @click="resetProgressAction">
+						<text>确定重置</text>
+					</view>
+				</view>
+			</view>
+		</view>
 	</view>
 </template>
 
@@ -83,6 +106,7 @@ import { onShow } from '@dcloudio/uni-app'
 import { getWordList } from '@/utils/cloud.js'
 import { addWordToNotebook } from '@/utils/notebook.js'
 import { markStudyToday } from '@/utils/study.js'
+import { recordFlipped, checkRoundComplete, resetProgress } from '@/utils/progress.js'
 
 const isFlipped = ref(false)
 const currentIndex = ref(0)
@@ -91,6 +115,7 @@ const wordList = ref([])
 const loading = ref(true)
 const mode = ref('deep')
 const showPicker = ref(false)
+const showResetDialog = ref(false)
 
 const currentWord = computed(() => wordList.value[currentIndex.value] || {})
 
@@ -162,6 +187,8 @@ const onCardTap = () => {
 
 	if (!isFlipped.value) {
 		isFlipped.value = true
+		recordFlipped(uni.getStorageSync('currentLibraryId'), currentWord.value.word)
+		checkRoundComplete(uni.getStorageSync('currentLibraryId'), wordList.value.length)
 	} else {
 		nextWord()
 	}
@@ -177,10 +204,14 @@ const nextWord = () => {
 }
 
 const markKnown = () => {
+	recordFlipped(uni.getStorageSync('currentLibraryId'), currentWord.value.word)
+	checkRoundComplete(uni.getStorageSync('currentLibraryId'), wordList.value.length)
 	nextWord()
 }
 
 const markUnknown = () => {
+	recordFlipped(uni.getStorageSync('currentLibraryId'), currentWord.value.word)
+	checkRoundComplete(uni.getStorageSync('currentLibraryId'), wordList.value.length)
 	addWordToNotebook(currentWord.value)
 	nextWord()
 }
@@ -210,6 +241,16 @@ const selectMode = (m) => {
 	uni.$emit('modeChanged', m)
 	showPicker.value = false
 }
+
+const showResetConfirm = () => {
+	showResetDialog.value = true
+}
+
+const resetProgressAction = () => {
+	resetProgress(uni.getStorageSync('currentLibraryId'))
+	showResetDialog.value = false
+	uni.showToast({ title: '进度已重置', icon: 'success' })
+}
 </script>
 
 <style scoped>
@@ -231,6 +272,12 @@ const selectMode = (m) => {
 
 .header-left {
 	display: flex;
+	align-items: center;
+	gap: 12rpx;
+}
+
+.header-right {
+	display: flex;
 	gap: 12rpx;
 }
 
@@ -243,6 +290,25 @@ const selectMode = (m) => {
 	border: 1px solid #EEEEEE;
 	border-radius: 8px;
 	background-color: #FFFFFF;
+}
+
+.reset-btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 48rpx;
+	height: 48rpx;
+	border: 1px solid #EEEEEE;
+	border-radius: 8px;
+	background-color: #FFFFFF;
+}
+
+.reset-ico {
+	font-family: "remixicon";
+	font-size: 24rpx;
+	color: #999999;
+	display: inline-block;
+	line-height: 1;
 }
 
 .shuffle-ico {
@@ -501,13 +567,80 @@ const selectMode = (m) => {
 	font-size: 30rpx;
 	color: #999999;
 }
+
+/* 重置确认弹框 */
+.reset-dialog-mask {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.4);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 999;
+}
+
+.reset-dialog {
+	width: 560rpx;
+	background-color: #FFFFFF;
+	border-radius: 12px;
+	overflow: hidden;
+}
+
+.reset-dialog-title {
+	padding: 40rpx 40rpx 32rpx;
+}
+
+.reset-title {
+	display: block;
+	font-size: 30rpx;
+	font-weight: 600;
+	color: #333333;
+	text-align: center;
+	margin-bottom: 16rpx;
+}
+
+.reset-desc {
+	display: block;
+	font-size: 24rpx;
+	color: #999999;
+	text-align: center;
+	line-height: 1.5;
+}
+
+.reset-dialog-actions {
+	display: flex;
+	border-top: 1px solid #F5F5F5;
+}
+
+.reset-action {
+	flex: 1;
+	text-align: center;
+	padding: 28rpx 0;
+	font-size: 30rpx;
+}
+
+.reset-action.cancel text {
+	color: #999999;
+}
+
+.reset-action.confirm text {
+	color: #e84a4a;
+}
+
+.reset-action.cancel {
+	border-right: 1px solid #F5F5F5;
+}
 </style>
 
 <style>
 .shuffle-ico,
 .mode-arrow,
 .mode-tag .mode-arrow,
-.picker-icon {
+.picker-icon,
+.reset-ico {
 	font-family: "remixicon";
 }
 </style>
